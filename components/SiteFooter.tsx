@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { DraftsToggle } from "./DraftsProvider";
+import { DraftsToggle, DraftNote } from "./DraftsProvider";
 
 export function SiteFooter() {
   return (
@@ -25,11 +25,7 @@ export function SiteFooter() {
           </nav>
         </div>
         <div className="mt-8 flex flex-col gap-3 border-t border-line pt-6 sm:flex-row sm:items-center sm:justify-between">
-          <p className="max-w-md text-xs leading-relaxed text-muted">
-            Chapters marked <span className="font-semibold text-review">Draft — needs review</span>{" "}
-            are early drafts prepared from the King James Version, awaiting a
-            person&rsquo;s review. They are hidden by default.
-          </p>
+          <DraftNote />
           <DraftsToggle />
         </div>
       </div>

@@ -35,6 +35,18 @@ export function DraftsProvider({ children }: { children: React.ReactNode }) {
   return <Ctx.Provider value={{ showDrafts, setShowDrafts }}>{children}</Ctx.Provider>;
 }
 
+export function DraftNote() {
+  const { showDrafts } = useDrafts();
+  if (!showDrafts) return null;
+  return (
+    <p className="max-w-md text-xs leading-relaxed text-muted">
+      Chapters marked <span className="font-semibold text-review">Draft — needs review</span>{" "}
+      are early drafts prepared from the King James Version, awaiting a
+      person&rsquo;s review.
+    </p>
+  );
+}
+
 export function DraftsToggle() {
   const { showDrafts, setShowDrafts } = useDrafts();
   return (
