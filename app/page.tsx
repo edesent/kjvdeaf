@@ -1,4 +1,6 @@
 import Link from "next/link";
+import Image from "next/image";
+import logo from "@/public/logo.png";
 import { OT_BOOKS, NT_BOOKS, type BookMeta } from "@/lib/books";
 import { bookProgress, buildNavIndex, siteStats } from "@/lib/bible";
 import { BookPicker } from "@/components/BookPicker";
@@ -18,11 +20,16 @@ export default function Home() {
     <div>
       {/* Hero */}
       <section className="border-b border-line">
-        <div className="mx-auto max-w-3xl px-4 py-14 text-center sm:px-6 sm:py-20">
-          <p className="text-[12px] font-semibold uppercase tracking-[0.18em] text-accent">
-            The Holy Bible · Plain English
-          </p>
-          <h1 className="mx-auto mt-4 max-w-2xl font-serif text-[2.4rem] font-medium leading-[1.1] tracking-tight text-ink sm:text-6xl">
+        <div className="mx-auto max-w-3xl px-4 py-12 text-center sm:px-6 sm:py-16">
+          <Image
+            src={logo}
+            alt="KJV for the Deaf"
+            width={150}
+            height={150}
+            priority
+            className="mx-auto h-28 w-28 object-contain sm:h-32 sm:w-32"
+          />
+          <h1 className="mx-auto mt-6 max-w-2xl font-serif text-[2.4rem] font-medium leading-[1.1] tracking-tight text-ink sm:text-6xl">
             The Word of God, in clear and simple words.
           </h1>
           <p className="mx-auto mt-5 max-w-xl text-[17px] leading-relaxed text-ink-soft">
