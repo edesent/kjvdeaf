@@ -16,7 +16,7 @@ export function SiteHeader() {
             className="h-9 w-9 object-contain"
           />
           <span className="flex flex-col leading-none">
-            <span className="text-[15px] font-semibold tracking-tight text-ink">
+            <span className="text-[15px] font-bold uppercase tracking-[0.04em] text-ink">
               KJV for the Deaf
             </span>
             <span className="text-[10.5px] font-medium uppercase tracking-[0.14em] text-muted">
