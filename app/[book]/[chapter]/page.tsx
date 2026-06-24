@@ -9,7 +9,7 @@ import {
   adjacentChapters,
   buildNavIndex,
 } from "@/lib/bible";
-import { ChapterBody } from "@/components/ChapterBody";
+import { ChapterReader } from "@/components/ChapterReader";
 import { ReaderNav } from "@/components/ReaderNav";
 
 export const dynamicParams = false;
@@ -91,12 +91,13 @@ export default async function ChapterPage({
         </h1>
       </header>
 
-      {/* scripture — draft chapters are hidden until the reader enables drafts */}
-      <ChapterBody
-        status={status}
-        verses={rec?.verses ?? []}
+      {/* scripture — draft chapters hidden until enabled; editors can edit inline */}
+      <ChapterReader
         bookName={book.name}
+        bookSlug={book.slug}
         chapter={c}
+        initialStatus={status}
+        initialVerses={rec?.verses ?? []}
       />
 
       {/* bottom navigation */}
