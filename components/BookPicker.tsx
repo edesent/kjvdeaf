@@ -62,7 +62,7 @@ export function BookPicker({
             <circle cx="9" cy="9" r="6" stroke="currentColor" strokeWidth="1.7" />
             <path d="M13.5 13.5L17 17" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" />
           </svg>
-          Find a chapter
+          Find a verse
         </button>
       ) : (
         <button
@@ -72,7 +72,7 @@ export function BookPicker({
           <svg viewBox="0 0 20 20" width="16" height="16" fill="none" aria-hidden>
             <path d="M3 5h14M3 10h14M3 15h9" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
           </svg>
-          Find a chapter
+          Find a verse
         </button>
       )}
 
