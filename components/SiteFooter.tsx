@@ -19,6 +19,9 @@ export function SiteFooter() {
             <Link href="/about" className="text-ink-soft hover:text-accent">
               About this Bible
             </Link>
+            <Link href="/contact" className="text-ink-soft hover:text-accent">
+              Contact Us
+            </Link>
           </nav>
         </div>
         <div className="mt-8 flex flex-col gap-3 border-t border-line pt-6 sm:flex-row sm:items-center sm:justify-between">

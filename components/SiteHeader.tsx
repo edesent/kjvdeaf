@@ -37,6 +37,12 @@ export function SiteHeader() {
           >
             About
           </Link>
+          <Link
+            href="/contact"
+            className="tap rounded-md px-3 py-2 text-ink-soft transition-colors hover:bg-paper-2 hover:text-accent"
+          >
+            Contact
+          </Link>
         </nav>
       </div>
     </header>

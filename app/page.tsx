@@ -28,7 +28,11 @@ export default function Home() {
             priority
             className="mx-auto h-28 w-28 object-contain sm:h-32 sm:w-32"
           />
-          <h1 className="mx-auto mt-6 max-w-2xl font-serif text-[2.4rem] font-medium leading-[1.1] tracking-tight text-ink sm:text-6xl">
+          <p className="mx-auto mt-5 inline-flex items-center gap-2 rounded-full border border-review/25 bg-review-soft px-3.5 py-1.5 text-[12.5px] font-semibold text-review">
+            <span className="inline-block h-1.5 w-1.5 rounded-full bg-review" />
+            Still a work in progress — new chapters added often
+          </p>
+          <h1 className="mx-auto mt-5 max-w-2xl font-serif text-[2.4rem] font-medium leading-[1.1] tracking-tight text-ink sm:text-6xl">
             The Word of God, in clear and simple words.
           </h1>
           <p className="mx-auto mt-5 max-w-xl text-[17px] leading-relaxed text-ink-soft">
