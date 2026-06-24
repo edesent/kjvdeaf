@@ -12,12 +12,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const b of BOOKS) {
     entries.push({ url: `${BASE}/${b.slug}`, priority: 0.6 });
     for (let c = 1; c <= b.chapters; c++) {
-      // only list chapters that actually have text
-      if (chapterStatus(b.name, c) === "missing") continue;
-      entries.push({
-        url: `${BASE}/${b.slug}/${c}`,
-        priority: chapterStatus(b.name, c) === "published" ? 0.8 : 0.5,
-      });
+      // only list finished (published) chapters — drafts are hidden by default
+      if (chapterStatus(b.name, c) !== "published") continue;
+      entries.push({ url: `${BASE}/${b.slug}/${c}`, priority: 0.8 });
     }
   }
   return entries;

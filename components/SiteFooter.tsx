@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { DraftsToggle } from "./DraftsProvider";
 
 export function SiteFooter() {
   return (
@@ -8,8 +9,7 @@ export function SiteFooter() {
           <div className="max-w-sm">
             <p className="text-[15px] font-semibold text-ink">KJV for the Deaf</p>
             <p className="mt-2 text-sm leading-relaxed text-ink-soft">
-              The Word of God in plain, easy-to-read English — made for the Deaf,
-              and for anyone who wants Scripture in simple, clear language.
+              The Word of God, written in short, clear sentences, made for the Deaf.
             </p>
           </div>
           <nav className="flex flex-col gap-2 text-sm">
@@ -21,11 +21,14 @@ export function SiteFooter() {
             </Link>
           </nav>
         </div>
-        <p className="mt-8 text-xs leading-relaxed text-muted">
-          Chapters marked <span className="font-semibold text-review">Draft — needs review</span>{" "}
-          are early drafts prepared from the King James Version and are awaiting
-          a person&rsquo;s review before they are final.
-        </p>
+        <div className="mt-8 flex flex-col gap-3 border-t border-line pt-6 sm:flex-row sm:items-center sm:justify-between">
+          <p className="max-w-md text-xs leading-relaxed text-muted">
+            Chapters marked <span className="font-semibold text-review">Draft — needs review</span>{" "}
+            are early drafts prepared from the King James Version, awaiting a
+            person&rsquo;s review. They are hidden by default.
+          </p>
+          <DraftsToggle />
+        </div>
       </div>
     </footer>
   );

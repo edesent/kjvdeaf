@@ -125,20 +125,33 @@ export interface NavBook {
   name: string;
   testament: "OT" | "NT";
   total: number;
-  done: number;
-  status: number[]; // length = total, index 0 = chapter 1
+  done: number; // published + drafted
+  published: number;
+  drafted: number;
+  status: number[]; // length = total, index 0 = chapter 1. 2=published, 1=draft, 0=missing
 }
 
 export function buildNavIndex(): NavBook[] {
   return BOOKS.map((b) => {
     const status: number[] = [];
-    let done = 0;
+    let published = 0;
+    let drafted = 0;
     for (let c = 1; c <= b.chapters; c++) {
       const s = chapterStatus(b.name, c);
       const code = s === "published" ? 2 : s === "needs-review" ? 1 : 0;
-      if (code > 0) done++;
+      if (code === 2) published++;
+      else if (code === 1) drafted++;
       status.push(code);
     }
-    return { slug: b.slug, name: b.name, testament: b.testament, total: b.chapters, done, status };
+    return {
+      slug: b.slug,
+      name: b.name,
+      testament: b.testament,
+      total: b.chapters,
+      done: published + drafted,
+      published,
+      drafted,
+      status,
+    };
   });
 }

@@ -1,9 +1,9 @@
 import Link from "next/link";
 import Image from "next/image";
 import logo from "@/public/logo.png";
-import { OT_BOOKS, NT_BOOKS, type BookMeta } from "@/lib/books";
-import { bookProgress, buildNavIndex, siteStats } from "@/lib/bible";
+import { buildNavIndex } from "@/lib/bible";
 import { BookPicker } from "@/components/BookPicker";
+import { HomeBooks, ReadyStats } from "@/components/HomeBooks";
 
 const QUICK = [
   { label: "John 3", slug: "john", chapter: 3 },
@@ -14,7 +14,6 @@ const QUICK = [
 
 export default function Home() {
   const index = buildNavIndex();
-  const stats = siteStats();
 
   return (
     <div>
@@ -33,8 +32,7 @@ export default function Home() {
             The Word of God, in clear and simple words.
           </h1>
           <p className="mx-auto mt-5 max-w-xl text-[17px] leading-relaxed text-ink-soft">
-            Scripture rewritten in easy-to-read English — made for the Deaf, and for
-            anyone who wants the Bible in plain language they can understand.
+            Scripture written in short, clear sentences, made for the Deaf.
           </p>
 
           <div className="mt-8 flex flex-col items-center gap-4">
@@ -53,62 +51,14 @@ export default function Home() {
             </div>
           </div>
 
-          <p className="mt-9 text-[13px] text-muted">
-            {stats.publishedChapters.toLocaleString()} chapters ready
-            {stats.draftedChapters > 0 && (
-              <> · {stats.draftedChapters.toLocaleString()} in draft</>
-            )}{" "}
-            · {stats.totalChapters.toLocaleString()} in the whole Bible
-          </p>
+          <ReadyStats index={index} />
         </div>
       </section>
 
       {/* Books */}
       <section className="mx-auto max-w-3xl px-4 py-12 sm:px-6">
-        <BookColumn title="Old Testament" books={OT_BOOKS} />
-        <BookColumn title="New Testament" books={NT_BOOKS} className="mt-12" />
+        <HomeBooks index={index} />
       </section>
-    </div>
-  );
-}
-
-function BookColumn({
-  title,
-  books,
-  className = "",
-}: {
-  title: string;
-  books: BookMeta[];
-  className?: string;
-}) {
-  return (
-    <div className={className}>
-      <h2 className="mb-4 text-[12px] font-semibold uppercase tracking-[0.16em] text-muted">
-        {title}
-      </h2>
-      <div className="grid grid-cols-1 gap-1.5 sm:grid-cols-2">
-        {books.map((b) => {
-          const prog = bookProgress(b);
-          const has = prog.done > 0;
-          return (
-            <Link
-              key={b.slug}
-              href={has ? `/${b.slug}` : `/${b.slug}/1`}
-              className="tap group flex items-center justify-between rounded-lg px-3 py-2.5 transition-colors hover:bg-paper-2"
-            >
-              <span className={`text-[15px] ${has ? "font-medium text-ink" : "text-ink-soft"}`}>
-                {b.name}
-              </span>
-              <span className="ml-3 flex items-center gap-2 text-[12px] tabular-nums text-muted">
-                {prog.drafted > 0 && (
-                  <span className="h-1.5 w-1.5 rounded-full bg-review" title="Has drafts" />
-                )}
-                {prog.done}/{prog.total}
-              </span>
-            </Link>
-          );
-        })}
-      </div>
     </div>
   );
 }

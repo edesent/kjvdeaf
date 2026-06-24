@@ -3,6 +3,7 @@
 import { useState, useMemo, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import type { NavBook } from "@/lib/bible";
+import { useDrafts } from "./DraftsProvider";
 
 type Testament = "OT" | "NT";
 
@@ -16,6 +17,7 @@ export function BookPicker({
   trigger?: (open: () => void) => React.ReactNode;
   variant?: "default" | "hero";
 }) {
+  const { showDrafts } = useDrafts();
   const [open, setOpen] = useState(false);
   const [tab, setTab] = useState<Testament>("OT");
   const [active, setActive] = useState<NavBook | null>(null);
@@ -131,7 +133,7 @@ export function BookPicker({
                     >
                       <span className="text-[14px] font-medium text-ink">{b.name}</span>
                       <span className="ml-2 shrink-0 text-[11px] tabular-nums text-muted">
-                        {b.done}/{b.total}
+                        {showDrafts ? b.done : b.published}/{b.total}
                       </span>
                     </button>
                   ))}
@@ -142,18 +144,19 @@ export function BookPicker({
                 <div className="grid grid-cols-5 gap-2 sm:grid-cols-6">
                   {active.status.map((code, i) => {
                     const ch = i + 1;
-                    const cls =
-                      code === 2
-                        ? "border-line bg-paper text-ink hover:border-accent hover:text-accent"
-                        : code === 1
-                          ? "border-review/30 bg-review-soft text-review hover:border-review"
-                          : "border-line-soft bg-paper-2 text-muted hover:border-line";
+                    const draftShown = code === 1 && showDrafts;
+                    const ready = code === 2;
+                    const cls = ready
+                      ? "border-line bg-paper text-ink hover:border-accent hover:text-accent"
+                      : draftShown
+                        ? "border-review/30 bg-review-soft text-review hover:border-review"
+                        : "border-line-soft bg-paper-2 text-muted hover:border-line";
                     return (
                       <button
                         key={ch}
                         onClick={() => go(active.slug, ch)}
-                        className={`tap aspect-square rounded-lg border text-[14px] font-semibold tabular-nums transition-colors ${cls}`}
-                        title={code === 1 ? "Draft — needs review" : code === 0 ? "Not yet available" : undefined}
+                        className={`tap flex aspect-square items-center justify-center rounded-lg border text-[14px] font-semibold leading-none tabular-nums transition-colors ${cls}`}
+                        title={draftShown ? "Draft — needs review" : ready ? undefined : "Not yet available"}
                       >
                         {ch}
                       </button>
@@ -162,7 +165,7 @@ export function BookPicker({
                 </div>
                 <div className="mt-4 flex flex-wrap gap-x-4 gap-y-1.5 text-[11px] text-muted">
                   <Legend swatch="border-line bg-paper" label="Ready" />
-                  <Legend swatch="border-review/30 bg-review-soft" label="Draft" />
+                  {showDrafts && <Legend swatch="border-review/30 bg-review-soft" label="Draft" />}
                   <Legend swatch="border-line-soft bg-paper-2" label="Coming soon" />
                 </div>
               </div>

@@ -20,7 +20,7 @@ export function SiteHeader() {
               KJV for the Deaf
             </span>
             <span className="text-[10.5px] font-medium uppercase tracking-[0.14em] text-muted">
-              The Bible in clear English
+              The Word of God
             </span>
           </span>
         </Link>

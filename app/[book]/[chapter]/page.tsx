@@ -9,7 +9,7 @@ import {
   adjacentChapters,
   buildNavIndex,
 } from "@/lib/bible";
-import { StatusBanner } from "@/components/StatusBanner";
+import { ChapterBody } from "@/components/ChapterBody";
 import { ReaderNav } from "@/components/ReaderNav";
 
 export const dynamicParams = false;
@@ -91,33 +91,13 @@ export default async function ChapterPage({
         </h1>
       </header>
 
-      <StatusBanner status={status} />
-
-      {/* scripture */}
-      {rec && rec.verses.length > 0 ? (
-        <div className="scripture">
-          {rec.verses.map((v) => (
-            <p key={v.n} id={`v${v.n}`}>
-              <span className="v">{v.n}</span>
-              {v.text}
-            </p>
-          ))}
-        </div>
-      ) : (
-        <div className="rounded-xl border border-dashed border-line px-5 py-10 text-center">
-          <p className="text-sm text-muted">
-            No text for {book.name} {c} yet.
-          </p>
-        </div>
-      )}
-
-      {/* source note for drafts */}
-      {status === "needs-review" && (
-        <p className="mt-8 text-xs leading-relaxed text-muted">
-          Draft text generated from the public-domain King James Version, rewritten in
-          the simple-English style of this Bible. Awaiting human review.
-        </p>
-      )}
+      {/* scripture — draft chapters are hidden until the reader enables drafts */}
+      <ChapterBody
+        status={status}
+        verses={rec?.verses ?? []}
+        bookName={book.name}
+        chapter={c}
+      />
 
       {/* bottom navigation */}
       <div className="mt-10 border-t border-line pt-6">
