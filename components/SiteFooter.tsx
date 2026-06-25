@@ -22,6 +22,9 @@ export function SiteFooter() {
             <Link href="/contact" className="text-ink-soft hover:text-accent">
               Contact Us
             </Link>
+            <Link href="/login" className="text-muted hover:text-accent">
+              Editor sign-in
+            </Link>
           </nav>
         </div>
         <div className="mt-8 flex flex-col gap-3 border-t border-line pt-6 sm:flex-row sm:items-center sm:justify-between">
