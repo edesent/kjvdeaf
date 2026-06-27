@@ -7,8 +7,12 @@ export const dynamic = "force-dynamic";
 
 const REPO = process.env.GITHUB_REPO || "edesent/kjvdeaf";
 const BRANCH = process.env.GITHUB_BRANCH || "main";
-const FILE = "data/bible.json";
 const GH = "https://api.github.com";
+
+// Each book lives in its own file, e.g. data/books/john.json.
+function bookFile(slug: string) {
+  return `data/books/${slug}.json`;
+}
 
 function ghHeaders() {
   return {
@@ -19,25 +23,27 @@ function ghHeaders() {
   };
 }
 
-async function getFile() {
-  const res = await fetch(`${GH}/repos/${REPO}/contents/${FILE}?ref=${BRANCH}`, {
+async function getFile(file: string) {
+  const res = await fetch(`${GH}/repos/${REPO}/contents/${file}?ref=${BRANCH}`, {
     headers: ghHeaders(),
     cache: "no-store",
   });
+  // A brand-new book may not have a file yet — start from an empty object.
+  if (res.status === 404) return { sha: undefined as string | undefined, data: {} as Record<string, unknown> };
   if (!res.ok) throw new Error(`github get ${res.status}`);
   const j = await res.json();
   const json = JSON.parse(Buffer.from(j.content, "base64").toString("utf8"));
-  return { sha: j.sha as string, data: json as Record<string, Record<string, unknown>> };
+  return { sha: j.sha as string | undefined, data: json as Record<string, unknown> };
 }
 
-async function putFile(content: string, sha: string, message: string) {
-  return fetch(`${GH}/repos/${REPO}/contents/${FILE}`, {
+async function putFile(file: string, content: string, sha: string | undefined, message: string) {
+  return fetch(`${GH}/repos/${REPO}/contents/${file}`, {
     method: "PUT",
     headers: { ...ghHeaders(), "Content-Type": "application/json" },
     body: JSON.stringify({
       message,
       content: Buffer.from(content, "utf8").toString("base64"),
-      sha,
+      ...(sha ? { sha } : {}),
       branch: BRANCH,
     }),
   });
@@ -70,20 +76,20 @@ export async function POST(req: Request) {
     .sort((a, b) => a.n - b.n);
   if (!verses.length) return Response.json({ error: "Add at least one verse." }, { status: 400 });
 
+  const file = bookFile(book.slug);
   const message = `Edit ${book.name} ${chapter} (${status}) via inline editor — ${email}`;
 
   // write with one retry on sha conflict
   for (let attempt = 0; attempt < 2; attempt++) {
-    const { sha, data } = await getFile();
-    data[book.name] = data[book.name] || {};
-    const prev = (data[book.name][String(chapter)] as Record<string, unknown>) || {};
-    data[book.name][String(chapter)] = {
+    const { sha, data } = await getFile(file);
+    const prev = (data[String(chapter)] as Record<string, unknown>) || {};
+    data[String(chapter)] = {
       ...prev,
       status,
       verses,
       editedBy: email,
     };
-    const res = await putFile(JSON.stringify(data), sha, message);
+    const res = await putFile(file, JSON.stringify(data, null, 2) + "\n", sha, message);
     if (res.ok) return Response.json({ ok: true });
     if (res.status === 409 && attempt === 0) continue; // sha moved, retry
     const txt = await res.text();

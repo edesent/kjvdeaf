@@ -1,4 +1,8 @@
-import data from "@/data/bible.json";
+// Scripture text is NOT edited here. It lives one-file-per-book in data/books/
+// (e.g. data/books/john.json). `data` below is auto-assembled from those files by
+// data/bible-data.ts. To add/fix text or publish a draft, edit the book file —
+// see data/books/README.md.
+import data from "@/data/bible-data";
 import { BOOKS, BOOKS_BY_SLUG, type BookMeta } from "./books";
 
 export type ChapterStatus = "published" | "needs-review" | "empty" | "missing";
@@ -10,6 +14,8 @@ export interface Verse {
 export interface ChapterRecord {
   verses: Verse[];
   sourceUrl?: string;
+  // "published" = final, shows normally. "needs-review" = a DRAFT, shows an amber
+  // banner. To publish a draft, flip this field to "published" in the book file.
   status: "published" | "needs-review" | "empty";
   videos?: string[];
 }

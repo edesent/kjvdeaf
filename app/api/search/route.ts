@@ -1,4 +1,4 @@
-import data from "@/data/bible.json";
+import data from "@/data/bible-data";
 import { BOOKS, BOOKS_BY_SLUG } from "@/lib/books";
 
 export const runtime = "nodejs";
