@@ -78,8 +78,10 @@
         "text": "And in the past, those people had made a special promise to Tobiah. So they kept telling me how good Tobiah was. And they kept telling Tobiah what I was doing. Tobiah kept sending me letters to make me afraid."
       }
     ],
-    "sourceUrl": "https://kjvdeaf.com/nehemiah-chapter-1/",
+    "sourceUrl": "https://kjvdeaf.com/nehemiah-chapter-6/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. A merged-verse numbering bug (1/2) has been split apart, and the sourceUrl (which incorrectly pointed to chapter 1) has been corrected.",
     "videos": []
   }
 }
