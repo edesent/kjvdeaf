@@ -346,11 +346,33 @@
       },
       {
         "n": 17,
-        "text": "The women who lived there said: Naomi has a son. The women said his name would be Obed. He was the father of Jesse, and Jesse was the father of King David. Ruth 1:18 Here are the names of the family of Perez: Perez was the father of Hezron. Ruth 1:19 Hezron was the father of Ram, and Ram was the father of Amminadab. Ruth 1:20 Amminadab was the father of Nahshon, and Nahshon was the father of Salmon. Ruth 1:21 Salmon was the father of Boaz, and Boaz was the father of Obed. Ruth 1:22Obed was the father of Jesse, and Jesse was the father of David."
+        "text": "The women who lived there said: Naomi has a son. The women said his name would be Obed. Obed was the father of Jesse, and Jesse was the father of King David."
+      },
+      {
+        "n": 18,
+        "text": "Here are the names of the family of Perez: Perez was the father of Hezron."
+      },
+      {
+        "n": 19,
+        "text": "Hezron was the father of Ram, and Ram was the father of Amminadab."
+      },
+      {
+        "n": 20,
+        "text": "Amminadab was the father of Nahshon, and Nahshon was the father of Salmon."
+      },
+      {
+        "n": 21,
+        "text": "Salmon was the father of Boaz, and Boaz was the father of Obed."
+      },
+      {
+        "n": 22,
+        "text": "Obed was the father of Jesse, and Jesse was the father of David."
       }
     ],
     "sourceUrl": "https://kjvdeaf.com/ruth-chapter-4/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. Merged-verse numbering bugs (v2, v14, v17-22) have been fixed.",
     "videos": []
   }
 }
