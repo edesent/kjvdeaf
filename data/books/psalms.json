@@ -326,7 +326,7 @@
       },
       {
         "n": 5,
-        "text": "God has ascended with shouting, The LORD with the sound of a trumpet."
+        "text": "God has ascended with shouting, the Lord with the sound of a trumpet."
       },
       {
         "n": 6,
@@ -334,7 +334,7 @@
       },
       {
         "n": 7,
-        "text": "God is the King of all the earth. sing ye praises."
+        "text": "God is the King of all the earth. Sing praises with understanding."
       },
       {
         "n": 8,
@@ -347,6 +347,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/old-testament/psalms/psalms-chapter-47/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with vocabulary chosen to match natural ASL signs. Restored 'with understanding' in v7, which had been dropped.",
     "videos": []
   },
   "48": {
