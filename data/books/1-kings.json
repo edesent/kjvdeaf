@@ -1,17 +1,25 @@
 {
-  "1": {
+  "21": {
     "verses": [
+      {
+        "n": 1,
+        "text": "There was a man named Naboth from Jezreel. He had a vineyard near the palace of King Ahab of Samaria."
+      },
+      {
+        "n": 2,
+        "text": "Ahab said to Naboth: Give me your vineyard so that I can use it as a vegetable garden, because it is near my house. I will give you a better vineyard for it, or if you want, I will pay you what it is worth."
+      },
       {
         "n": 3,
         "text": "Naboth answered, The Lord told me I should not give you my land. This land belongs to my family."
       },
       {
         "n": 4,
-        "text": "When Ahab went home, he was sad and angry because Naboth of Jezreel had told him he would not give him his family’s land. So, Ahab went to bed, turned away from everyone, and refused to eat."
+        "text": "When Ahab went home, he was sad and angry because Naboth of Jezreel had told him he would not give him his family's land. So, Ahab went to bed, turned away from everyone, and refused to eat."
       },
       {
         "n": 5,
-        "text": "His wife Jezebel came to him and asked him: Why are you sad and why don’t you eat?"
+        "text": "His wife Jezebel came to him and asked him: Why are you sad and why don't you eat?"
       },
       {
         "n": 6,
@@ -19,11 +27,11 @@
       },
       {
         "n": 7,
-        "text": "Ahab’s wife Jezebel said to him: You are the king of Israel. Get up and eat and be happy. I will get you the vineyard of Naboth of Jezreel."
+        "text": "Ahab's wife Jezebel said to him: You are the king of Israel. Get up and eat and be happy. I will get you the vineyard of Naboth of Jezreel."
       },
       {
         "n": 8,
-        "text": "Then Jezebel wrote some letters. She signed Ahab’s name to them and used his seal to seal the letters. Then she sent them to the elders and important men who lived in the same town as Naboth."
+        "text": "Then Jezebel wrote some letters. She signed Ahab's name to them and used his seal to seal the letters. Then she sent them to the elders and important men who lived in the same town as Naboth."
       },
       {
         "n": 9,
@@ -51,7 +59,7 @@
       },
       {
         "n": 15,
-        "text": "Then Jezebel heard that Naboth was stoned to death, she said to Ahab, Naboth is dead. Now you can go and take the vineyard that Naboth did not want to sell to you."
+        "text": "When Jezebel heard that Naboth was stoned to death, she said to Ahab: Naboth is dead. Now you can go and take the vineyard that Naboth did not want to sell to you."
       },
       {
         "n": 16,
@@ -71,7 +79,7 @@
       },
       {
         "n": 20,
-        "text": "So Elijah went to Ahab. When Ahab saw him, he said, my enemy has found me again! Elijah answered: ‘Yes, I have found you because you have again sold yourself out to do what the Lord says is evil"
+        "text": "So Elijah went to Ahab. When Ahab saw him, he said, my enemy has found me again! Elijah answered: 'Yes, I have found you because you have again sold yourself out to do what the Lord says is evil"
       },
       {
         "n": 21,
@@ -83,12 +91,37 @@
       },
       {
         "n": 23,
-        "text": "The Lord also talked about Jezebel. He said: The dogs will eat Jezebel at the wall of Jezreel. 1 Kings 21:24 If someone of Ahab’s family dies in a town, the dogs will eat him, and if one of Ahab’s family dies in the field, the birds will eat him. 1 Kings 21:25 So Ahab sold himself out to do what the Lord says is evil. There is no one who did as much evil as Ahab. His wife Jezebel caused him to do these things. 1 Kings 21:26 Ahab committed terrible sin of worshiping those filthy idols, just as the Amorites did. And that is why the Lord took the land from them and gave it to the Israelites. 1 Kings 21:27 When Ahab heard what Elijah said, he tore his clothes (to show how sad he was). Then he put on sackcloth and refused to eat. He even slept in these clothes. He was very sad and upset and he did not speak to anyone. 1 Kings 21:28 The Lord said to Elijah from Tishbe: 1 Kings 21:29 “Look, Ahab has humbled himself before me. I will not make all those bad things happen while he is"
+        "text": "The Lord also talked about Jezebel. He said: The dogs will eat Jezebel at the wall of Jezreel."
+      },
+      {
+        "n": 24,
+        "text": "If someone of Ahab's family dies in a town, the dogs will eat him, and if one of Ahab's family dies in the field, the birds will eat him."
+      },
+      {
+        "n": 25,
+        "text": "So Ahab sold himself out to do what the Lord says is evil. There is no one who did as much evil as Ahab. His wife Jezebel caused him to do these things."
+      },
+      {
+        "n": 26,
+        "text": "Ahab committed a terrible sin of worshiping those filthy idols, just as the Amorites did. And that is why the Lord took the land from them and gave it to the Israelites."
+      },
+      {
+        "n": 27,
+        "text": "When Ahab heard what Elijah said, he tore his clothes (to show how sad he was). Then he put on sackcloth and refused to eat. He even slept in these clothes. He was very sad and upset and he did not speak to anyone."
+      },
+      {
+        "n": 28,
+        "text": "The Lord said to Elijah from Tishbe:"
+      },
+      {
+        "n": 29,
+        "text": "See how Ahab has humbled himself before me. Because he has humbled himself, I will not bring this disaster during his lifetime, but I will bring it on his family in the days of his son."
       }
     ],
     "sourceUrl": "https://kjvdeaf.com/1-kings-chapter-21/",
     "status": "published",
-    "videos": []
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. This chapter had been mislabeled and stored under key '1' in error, and was missing its opening verses (1-2, restored here) and had verses 23-29 merged together (now split apart)."
   },
   "6": {
     "verses": [],
