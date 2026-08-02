@@ -2366,11 +2366,15 @@
       },
       {
         "n": 5,
-        "text": "Simeon and Levi are brothers. their swords are weapons of violence. Genesis 49.6 I will not join Simeon and Levi secret meetings. I will not take part in their evil plans. They have killed people out of anger and crippled animals for fun."
+        "text": "Simeon and Levi are brothers. Their swords are weapons of violence."
+      },
+      {
+        "n": 6,
+        "text": "I will not join the secret meetings of Simeon and Levi. I will not take part in their evil plans. They have killed people out of anger and crippled animals for fun."
       },
       {
         "n": 7,
-        "text": "A curse on Simeon and Levi anger, for it is strong; a curse on their wrath, for it is cruel. Simeon and Levi will not have their own land in Israel. They will live among other people in the land."
+        "text": "A curse on Simeon and Levi's anger, for it is strong; a curse on their wrath, for it is cruel. Simeon and Levi will not have their own land in Israel. They will live among other people in the land."
       },
       {
         "n": 8,
@@ -2378,7 +2382,7 @@
       },
       {
         "n": 9,
-        "text": "My son, Judah, you are like a young lion standing over the animal it killed. My son, Judah, Like a lion that has lied down to rest, no one is brave enough to disturb him"
+        "text": "My son Judah, you are like a young lion standing over the animal it killed — like a lion that has lain down to rest. No one is brave enough to disturb Judah."
       },
       {
         "n": 10,
@@ -2386,15 +2390,15 @@
       },
       {
         "n": 11,
-        "text": "The true King, Jesus will tie his donkeys to the best grapevines. The true King, Jesus washes his clothes in the best wine."
+        "text": "The true King, Jesus, will tie his donkey to the best grapevine and wash his clothes in the best wine."
       },
       {
         "n": 12,
-        "text": "The true King, Jesus eyes will be dark as red wine, and his teeth whiter than milk."
+        "text": "The true King Jesus's eyes will be dark as red wine, and his teeth whiter than milk."
       },
       {
         "n": 13,
-        "text": "Zebulun will live near the sea. Zebulun seacoast will be a safe place for ships. Zebulun land will continue as far as the city of Sidon."
+        "text": "Zebulun will live near the sea. Zebulun's seacoast will be a safe place for ships. Zebulun's land will continue as far as the city of Sidon."
       },
       {
         "n": 14,
@@ -2434,7 +2438,7 @@
       },
       {
         "n": 23,
-        "text": "People attacked him and made his life hard for him. Men with arrows became his enemies."
+        "text": "People attacked Joseph and made life hard for Joseph. Men with arrows became Joseph's enemies."
       },
       {
         "n": 24,
@@ -2454,7 +2458,7 @@
       },
       {
         "n": 28,
-        "text": "These are the 12 tribes of Israel, and this is what their father, Jacob said to them. Jocob blessed his children and gave each tribe its own blessing."
+        "text": "These are the 12 tribes of Israel, and this is what their father, Jacob, said to them. Jacob blessed his children and gave each tribe its own blessing."
       },
       {
         "n": 29,
@@ -2462,7 +2466,11 @@
       },
       {
         "n": 30,
-        "text": "The cave in the field of Machpelah, near Mamre in Canaan. That is the land that Abraham bought from Ephron, the Hittite, to have as a grave Genesis 49: 31 Abraham’s family buried Abraham there with his wife Sarah, and Isaac and his wives Rebekah and Leah."
+        "text": "The cave in the field of Machpelah, near Mamre in Canaan. That is the land that Abraham bought from Ephron, the Hittite, to have as a burial place."
+      },
+      {
+        "n": 31,
+        "text": "There Abraham's family buried Abraham and Abraham's wife Sarah. There they buried Isaac and Isaac's wife Rebekah. And there Jacob's family buried Jacob's wife Leah."
       },
       {
         "n": 32,
@@ -2475,6 +2483,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/genesis-chapter-49/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. A factual error in v31 (which had described Leah as a wife of Isaac rather than Jacob) has been corrected, and merged verses 5/6 and 30/31 have been split apart.",
     "videos": []
   }
 }
