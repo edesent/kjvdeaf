@@ -988,7 +988,11 @@
       },
       {
         "n": 8,
-        "text": "Let them be like snail that melt and disappear on the road when they move. Let them be like a child who dies before he is born, who never sees the sun. Psalm 58: 9 The Lord will make them disappear faster than thorn bushes that burn under a pot of water, where even the green branches burn out quickly."
+        "text": "Let them be like snails that melt and disappear on the road when they move. Let them be like a child who dies before he is born, who never sees the sun."
+      },
+      {
+        "n": 9,
+        "text": "The Lord will make them disappear faster than thorn bushes that burn under a pot of water, where even the green branches burn out quickly."
       },
       {
         "n": 10,
@@ -1001,6 +1005,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/psalms-chapter-58/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with vocabulary chosen to match natural ASL signs. A merged-verse numbering bug (8/9) has been split apart.",
     "videos": []
   },
   "59": {
