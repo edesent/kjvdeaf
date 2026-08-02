@@ -675,7 +675,7 @@
     "verses": [
       {
         "n": 1,
-        "text": "God blessed Noah and his sons. God said to them Have many children. Fill the earth again with your people."
+        "text": "God blessed Noah and his sons. God said to them: Have many children. Fill the earth again with your people."
       },
       {
         "n": 2,
@@ -691,11 +691,11 @@
       },
       {
         "n": 5,
-        "text": "People must not kill other people, and animals must not kill people. If an animal kills a man, you must kill that animal. If a man kills another man, you must kill that man."
+        "text": "I will require the blood of your lives. I will require it from every animal, and I will require the life of a human from every other human, from the hand of one's own brother."
       },
       {
         "n": 6,
-        "text": "I have made people to be like Me, like God. If a person kills someone, he must also die."
+        "text": "Whoever sheds human blood, that person's blood will be shed by other humans, because God made humans in God's own image."
       },
       {
         "n": 7,
@@ -727,23 +727,27 @@
       },
       {
         "n": 14,
-        "text": "When I bring clouds over the earth, you will see the rainbow in the clouds. Genesis 9: 15 When I see this rainbow, I will remember the promise between me and you and every living thing on the earth. This rainbow says that a flood will never again destroy all life on the earth."
+        "text": "When I bring clouds over the earth, you will see the rainbow in the clouds."
+      },
+      {
+        "n": 15,
+        "text": "When I see this rainbow, I will remember the promise between me and you and every living thing on the earth. This rainbow says that a flood will never again destroy all life on the earth."
       },
       {
         "n": 16,
-        "text": "When I look and see the rainbow in the clouds, I will remember the promise that will continues forever. I will remember the agreement between me and every living thing on the earth."
+        "text": "When I look and see the rainbow in the clouds, I will remember the promise that will continue forever. I will remember the agreement between me and every living thing on the earth."
       },
       {
         "n": 17,
-        "text": "So God said to Noah, This rainbow is proof of the Promise that I made with all living things on earth."
+        "text": "So God said to Noah, This rainbow is proof of the promise that I made with all living things on earth."
       },
       {
         "n": 18,
-        "text": "Noah’s sons came out of the boat with him. Their names were Shem, Ham, and Japheth. (Ham was the father of Canaan.)"
+        "text": "Noah's sons came out of the boat with Noah. Their names were Shem, Ham, and Japheth. (Ham was the father of Canaan.)"
       },
       {
         "n": 19,
-        "text": "These three men were Noah’s sons. And all the people on earth came from these three sons."
+        "text": "These three men were Noah's sons. And all the people on earth came from these three sons."
       },
       {
         "n": 20,
@@ -751,7 +755,7 @@
       },
       {
         "n": 21,
-        "text": "One day he drank too much of the wine that he had made, and he became drunk. He lay in his tent and started to sleep. He was also naked"
+        "text": "One day Noah drank too much wine and became drunk. Noah lay uncovered inside his tent."
       },
       {
         "n": 22,
@@ -767,15 +771,15 @@
       },
       {
         "n": 25,
-        "text": "Noah said, May there be a curse on Canaan May he be a servant to his brothers."
+        "text": "Noah said, May there be a curse on Canaan. May Canaan be a servant to his brothers."
       },
       {
         "n": 26,
-        "text": "Noah also said, Praise the Lord, the God of Shem. Canaan will be Shem’s servant."
+        "text": "Noah also said, Praise the Lord, the God of Shem. Canaan will be Shem's servant."
       },
       {
         "n": 27,
-        "text": "I pray that God will give Japheth more and more fields and land. Japheth will live in Shem’s tents. Canaan will be Japheth’s servant."
+        "text": "I pray that God will give Japheth more and more fields and land. Japheth will live in Shem's tents. Canaan will be Japheth's servant."
       },
       {
         "n": 28,
@@ -783,11 +787,13 @@
       },
       {
         "n": 29,
-        "text": "Noah lived a total of 950 years; then he died."
+        "text": "Noah lived a total of 950 years, and Noah died."
       }
     ],
     "sourceUrl": "https://kjvdeaf.com/genesis-chapter-9/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
     "videos": []
   },
   "10": {
