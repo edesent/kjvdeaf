@@ -123,6 +123,13 @@
     "generated": true,
     "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. This chapter had been mislabeled and stored under key '1' in error, and was missing its opening verses (1-2, restored here) and had verses 23-29 merged together (now split apart)."
   },
+  "1": {
+    "verses": [],
+    "sourceUrl": "https://kjvdeaf.com/1-kings-chapter-1/",
+    "status": "empty",
+    "videos": [],
+    "note": "This slot previously contained 1 Kings 21 content, mislabeled under key '1'. That content has been moved to its correct location, chapter 21. The real text of 1 Kings 1 has not yet been drafted."
+  },
   "6": {
     "verses": [],
     "sourceUrl": "https://kjvdeaf.com/1-kings-chapter-6/",
