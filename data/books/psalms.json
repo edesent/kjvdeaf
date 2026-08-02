@@ -235,6 +235,10 @@
         "text": "Clothed in beauty, she is led to the king, followed by her bridesmaids."
       },
       {
+        "n": 15,
+        "text": "They will be brought with joy and gladness. They will enter the king's palace."
+      },
+      {
         "n": 16,
         "text": "Your sons will become kings like their father. You will make them rulers over many lands."
       },
@@ -245,6 +249,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/old-testament/psalms/psalms-chapter-45/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with vocabulary chosen to match natural ASL signs. Restored the messianic phrase 'Thy throne, O God' in v6 (quoted in Hebrews 1:8), and restored verses 12 and 15, which were missing entirely from this chapter.",
     "videos": []
   },
   "46": {
