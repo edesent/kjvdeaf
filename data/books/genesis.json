@@ -1721,11 +1721,11 @@
       },
       {
         "n": 4,
-        "text": "After Joseph’s brethren had left the city, Joseph said to his manager of his house, Go and follow the men. Stop them and say to them, we were good to you! So why have you been bad to us? Why did you steal my master’s silver cup?"
+        "text": "After Joseph's brothers had left the city, Joseph said to the manager of his house, Go and follow the men. Stop them and say to them, we were good to you! So why have you been bad to us? Why did you steal my master's silver cup?"
       },
       {
         "n": 5,
-        "text": "My master drinks from that cup, and he uses it to learn secret things. What you did was wrong!’”"
+        "text": "My master drinks from that cup, and he uses it to learn secret things. What you did was wrong!"
       },
       {
         "n": 6,
@@ -1733,11 +1733,11 @@
       },
       {
         "n": 7,
-        "text": "Joseph’s Brethren asked the master of the house: Why does the governor say these things? We would never do a bad thing like that."
+        "text": "The brothers asked the manager of the house: Why does the governor say these things? We would never do a bad thing like that."
       },
       {
         "n": 8,
-        "text": "Joseph’s Brethren said we brought back the money that we found in our bags before. We would never steal silver or gold from your master’s house."
+        "text": "The brothers said: We brought back the money that we found in our bags before. We would never steal silver or gold from your master's house."
       },
       {
         "n": 9,
@@ -1753,7 +1753,7 @@
       },
       {
         "n": 12,
-        "text": "The manager looked into the bags. He started looking in the bag of the oldest brother and stopped at the youngest brother, and then he found the cup in Benjamin’s bag"
+        "text": "The manager looked into the bags. The manager started looking in the bag of the oldest brother and stopped at the youngest brother, and then the manager found the cup in Benjamin's bag"
       },
       {
         "n": 13,
@@ -1761,15 +1761,15 @@
       },
       {
         "n": 14,
-        "text": "When Judah and his brothers came to Joseph’s house, Joseph was still there. Judah and his brethren lay before Joseph with their faces to the ground."
+        "text": "When Judah and his brothers came to Joseph's house, Joseph was still there. Judah and his brothers lay before Joseph with their faces to the ground."
       },
       {
         "n": 15,
-        "text": "Joseph asked his brethren: What have you done? You must know that a man like me can tell what will happen in the future."
+        "text": "Joseph asked the brothers: What have you done? You must know that a man like me can tell what will happen in the future."
       },
       {
         "n": 16,
-        "text": "Judah said to Joesph: Sir, what can we say to you? What can we say and how can we prove that we are innocent? God has shown that we are guilty. Sir, here we are now. We are your slaves, all of us, and the one who had your cup."
+        "text": "Judah said to Joseph: Sir, what can we say to you? What can we say and how can we prove that we are innocent? God has shown that we are guilty. Sir, here we are now. We are your slaves, all of us, and the one who had your cup."
       },
       {
         "n": 17,
@@ -1777,7 +1777,7 @@
       },
       {
         "n": 18,
-        "text": "Judah came to Joseph and told him: Please, sir, may I talk to you alone? Do not get angry with me. You are like Pharaoh."
+        "text": "Judah came to Joseph and said to Joseph: Please, sir, may I talk to you alone? Do not get angry with me. You are like Pharaoh."
       },
       {
         "n": 19,
@@ -1785,15 +1785,15 @@
       },
       {
         "n": 20,
-        "text": "And we answered you, we have a father—he is an old man. And we have a younger brother. Our father loves him because he was born while our father was old. This youngest son’s brother is dead, so he is the only son who is left from that mother. Our father loves him very much"
+        "text": "And we answered you, we have a father—he is an old man. And we have a younger brother. Our father loves him because he was born while our father was old. This youngest son's full brother is dead, so this youngest son is the only son left from that mother. Our father loves him very much"
       },
       {
         "n": 21,
-        "text": "Sir, you told us to bring youngest brethren to you because you wanted to see him."
+        "text": "Sir, you told us to bring our youngest brother to you because you wanted to see him."
       },
       {
         "n": 22,
-        "text": "Sir, we told you That young boy cannot come. He cannot leave his father. If his father loses him, his father will be so sad that he will die"
+        "text": "Sir, we told you: That young boy cannot come. He cannot leave his father. If his father loses him, his father will be so sad that he will die"
       },
       {
         "n": 23,
@@ -1808,12 +1808,16 @@
         "text": "One day our father told us that we would have to go and buy food,"
       },
       {
+        "n": 26,
+        "text": "But we said: We cannot go down unless our youngest brother is with us. We are not allowed to see the man's face unless our youngest brother is with us."
+      },
+      {
         "n": 27,
         "text": "Our father told us: You know that I had only 2 children with this wife."
       },
       {
         "n": 28,
-        "text": "I let one son go away, and he was killed by a wild animal. And I haven’t seen him since."
+        "text": "I let one son go away, and he was killed by a wild animal. And I haven't seen him since."
       },
       {
         "n": 29,
@@ -1821,7 +1825,7 @@
       },
       {
         "n": 30,
-        "text": "Now, imagine what will happen when we go home to the father without our youngest brother—he is the most important thing in our father’s life!"
+        "text": "Now, imagine what will happen when we go home to the father without our youngest brother—he is the most important thing in our father's life!"
       },
       {
         "n": 31,
@@ -1833,7 +1837,7 @@
       },
       {
         "n": 33,
-        "text": "Sir, please let me stay here in my brother’s place. Sir, I will be your slave, but please let the boy go back with his brothers."
+        "text": "Sir, please let me stay here in my brother's place. Sir, I will be your slave, but please let the boy go back with his brothers."
       },
       {
         "n": 34,
@@ -1842,6 +1846,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/genises-chapter-44/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. Verse 26, previously missing from this chapter, has been restored.",
     "videos": []
   },
   "45": {
