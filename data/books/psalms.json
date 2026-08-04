@@ -3632,11 +3632,17 @@
       },
       {
         "n": 16,
-        "text": "Let your servants see the wonderful things you can do for them. And let their children see your glory. Psalms 90;17 Lord, our God, please be good to us. Bless us and make us succeed in everything that we do. Let your blessings be with us."
+        "text": "Let your servants see the wonderful things you can do for them. And let their children see your glory."
+      },
+      {
+        "n": 17,
+        "text": "Lord, our God, please be good to us. Bless us and make us succeed in everything that we do. Let your blessings be with us."
       }
     ],
     "sourceUrl": "https://kjvdeaf.com/psalms-chapter-90/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by nouns and vocabulary chosen to match natural ASL signs. Merged-verse numbering bugs (13/14, 16/17) have been split apart.",
     "videos": []
   },
   "91": {
