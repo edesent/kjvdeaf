@@ -1739,11 +1739,11 @@
       },
       {
         "n": 32,
-        "text": "When the humble people see this, they will be happy. Those who seek God with all their heart live."
+        "text": "When the humble people see this, they will be happy. Let the hearts of those who seek God live!"
       },
       {
         "n": 33,
-        "text": "The Lord listens when poor people pray to Him. His people who are prisoners do not reject."
+        "text": "The Lord listens when poor people pray to Him. The Lord does not reject his people who are prisoners."
       },
       {
         "n": 34,
@@ -1760,6 +1760,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/psalms-chapter-69/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with vocabulary chosen to match natural ASL signs. Fixed garbled text in vv3, 32, and 33.",
     "videos": []
   },
   "70": {
