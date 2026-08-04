@@ -4618,6 +4618,8 @@
   "106": {
     "status": "published",
     "sourceUrl": "https://kjvdeaf.com/old-testament/psalms/psalms-chapter-106/",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter already had thorough pronoun-to-noun substitution throughout and no other issues were found.",
     "videos": [],
     "verses": [
       { "n": 1, "text": "Praise the LORD! Give thanks to the LORD — because the LORD is good! The LORD's faithful loyal love lasts forever!" },
