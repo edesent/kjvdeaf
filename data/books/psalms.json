@@ -4231,7 +4231,7 @@
       },
       {
         "n": 6,
-        "text": "I will look throughout the land for those who can be trusted. Only such people can live with me. Only those who walks blamelessly is the one who will minister to and serve me."
+        "text": "I will look throughout the land for those who can be trusted. Only such people can live with me. Only those who walk blamelessly will minister to and serve me."
       },
       {
         "n": 7,
@@ -4244,6 +4244,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/psalms-chapter-101/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by nouns and vocabulary chosen to match natural ASL signs. Modernized archaic leftover phrasing in v1.",
     "videos": []
   },
   "102": {
