@@ -4675,6 +4675,8 @@
   "107": {
     "status": "published",
     "sourceUrl": "https://kjvdeaf.com/old-testament/psalms/psalms-chapter-107/",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy. Verses 17-20 reflect specific wording provided directly by the pastor.",
     "videos": [],
     "verses": [
       { "n": 1, "text": "Give thanks to the LORD — because the LORD is good! The LORD's faithful never ending love lasts forever!" },
