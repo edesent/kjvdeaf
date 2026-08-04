@@ -2883,7 +2883,7 @@
       },
       {
         "n": 10,
-        "text": "I, the Lord, am your God. I, The Lord brought you out of Egypt. Israel, open your mouth, and I, the Lord will feed you."
+        "text": "I, the Lord, am your God. I, the Lord, brought you out of Egypt. Israel, open your mouth, and I, the Lord, will feed you."
       },
       {
         "n": 11,
@@ -2907,11 +2907,13 @@
       },
       {
         "n": 16,
-        "text": "Our enemies have cut it down and burned it up the vineyard. Show them how angry you are and destroy them."
+        "text": "But I would feed you the finest wheat. I would satisfy you with honey from the rock."
       }
     ],
     "sourceUrl": "https://kjvdeaf.com/psalms-chapter-81/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with vocabulary chosen to match natural ASL signs. Verse 16 had been wrongly copied from Psalm 80:16 and has been corrected to its actual content, and awkward repeated 'I, The Lord' punctuation was cleaned up throughout.",
     "videos": []
   },
   "82": {
