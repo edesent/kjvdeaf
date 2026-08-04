@@ -537,11 +537,13 @@
       },
       {
         "n": 54,
-        "text": "This was the 2nd miracle that Jesus did in the town of Cana after He went from Judea to Galilee"
+        "text": "This was the 2nd miracle that Jesus did in the town of Cana after Jesus went from Judea to Galilee"
       }
     ],
     "sourceUrl": "https://kjvdeaf.com/john-chapter-4/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by nouns and vocabulary chosen to match natural ASL signs. Merged-verse numbering bugs (5/6, 16/17) have been split apart.",
     "videos": []
   },
   "5": {
