@@ -2684,7 +2684,7 @@
       },
       {
         "n": 71,
-        "text": "God took David from tending the mother sheeps with the nursing young. God gave David the job of caring for the descendants of Jacob—Israel, his chosen people."
+        "text": "God took David from tending the mother sheep with the nursing young. God gave David the job of caring for the descendants of Jacob—Israel, his chosen people."
       },
       {
         "n": 72,
@@ -2693,6 +2693,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/psalms-chapter-78/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with vocabulary chosen to match natural ASL signs. Two large merged-verse numbering bugs (23-28 combined into one entry, and 41/42 combined) have been split apart, and several missing possessive apostrophes and grammar issues fixed throughout.",
     "videos": []
   },
   "79": {
