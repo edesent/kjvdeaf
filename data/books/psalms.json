@@ -3543,7 +3543,7 @@
       },
       {
         "n": 48,
-        "text": "Is there anyone alive who will never die? Will anyone escape the grave? Paulse and Think"
+        "text": "Is there anyone alive who will never die? Will anyone escape the grave? Pause and Think"
       },
       {
         "n": 49,
@@ -3564,6 +3564,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/psalms-chapter-89/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by nouns and vocabulary chosen to match natural ASL signs. Fixed several garbled/duplicated verses (v18, v24, v27, v38) and replaced ambiguous 'him/his' with 'the king' in vv40-45.",
     "videos": []
   },
   "90": {
