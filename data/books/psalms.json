@@ -4194,11 +4194,17 @@
       },
       {
         "n": 4,
-        "text": "Come through the gates to his Temple giving thanks to him. Enter his courtyards with songs of praise Honor him and bless his name. Psalms 105:5 The Lord is good! There is no end to his mercy. The Lord faithful to all people, and to all generations."
+        "text": "Come through the gates to the Lord's Temple giving thanks to the Lord. Enter the Lord's courtyards with songs of praise. Honor the Lord and bless the Lord's name."
+      },
+      {
+        "n": 5,
+        "text": "The Lord is good! There is no end to the Lord's mercy. The Lord is faithful to all people, and to all generations."
       }
     ],
     "sourceUrl": "https://kjvdeaf.com/psalms-chapter-100/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by nouns and vocabulary chosen to match natural ASL signs. A merged-verse numbering bug (4/5, mislabeled as Psalm 105) has been split apart.",
     "videos": []
   },
   "101": {
