@@ -3791,7 +3791,7 @@
     "verses": [
       {
         "n": 1,
-        "text": "Lord is King, The Lord wears majesty and strength like clothes. Yes, The Lord established the world; it shall never be moved."
+        "text": "The Lord is King, The Lord wears majesty and strength like clothes. Yes, The Lord established the world; it shall never be moved."
       },
       {
         "n": 2,
@@ -3799,7 +3799,7 @@
       },
       {
         "n": 3,
-        "text": "The flood water have lifted up, O LORD, The floods waves are make loud noises. The flood waters are loud as the waves crash on the shore."
+        "text": "The flood waters have lifted up, O LORD. The flood waters make loud noises. The flood waters are loud as the waves crash on the shore."
       },
       {
         "n": 4,
@@ -3812,6 +3812,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/psalms-chapter-93/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by nouns and vocabulary chosen to match natural ASL signs.",
     "videos": []
   },
   "94": {
