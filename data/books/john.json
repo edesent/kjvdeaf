@@ -2,6 +2,8 @@
   "1": {
     "status": "published",
     "sourceUrl": "https://kjvdeaf.com/john-chapter-1/",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter already had thorough pronoun-to-noun substitution throughout and no errors were found.",
     "videos": [],
     "verses": [
       { "n": 1, "text": "Before anything existed — the Word was already there. The Word was with God. And the Word was God." },
