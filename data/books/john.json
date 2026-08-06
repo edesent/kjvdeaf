@@ -1638,19 +1638,19 @@
       },
       {
         "n": 35,
-        "text": "They told Jesus that the Jewish leaders had said the man who had been blind could never go into the synagogue again. Jesus found him and asked him, Do you believe in the Son of God?"
+        "text": "They told Jesus that the Jewish leaders had said the man who had been blind could never go into the synagogue again. Jesus found the once blind man and asked him, Do you believe in the Son of God?"
       },
       {
         "n": 36,
-        "text": "The once blind man said: ‘Sir, please tell me who the Son of God is, so that I can believe in Him."
+        "text": "The once blind man said: 'Sir, please tell me who the Son of God is, so that I can believe in Him."
       },
       {
         "n": 37,
-        "text": "Jesus said to once blind man, You have already seen him. The Son of God is the one talking with you now."
+        "text": "Jesus said to the once blind man, You have already seen the Son of God. The Son of God is the one talking with you now."
       },
       {
         "n": 38,
-        "text": "The once blind man said: I believe, Lord. And he worshipped Jesus. The once blind man answered, Yes, I believe, Lord! Then he bowed and worshiped Jesus."
+        "text": "The once blind man said: Lord, I believe! Then the man bowed down and worshiped Jesus."
       },
       {
         "n": 39,
@@ -1663,6 +1663,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/john-chapter-9/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by nouns for clarity given the multiple parties in this narrative. A large merged-verse numbering bug (10/11/12) has been split apart, along with a garbled verse (v8) and a duplicated verse (v38).",
     "videos": []
   },
   "10": {
