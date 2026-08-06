@@ -32,6 +32,12 @@ export function SiteHeader() {
             Books
           </Link>
           <Link
+            href="/why-kjv-deaf"
+            className="tap hidden rounded-md px-3 py-2 text-ink-soft transition-colors hover:bg-paper-2 hover:text-accent sm:block"
+          >
+            Why KJV Deaf
+          </Link>
+          <Link
             href="/about"
             className="tap hidden rounded-md px-3 py-2 text-ink-soft transition-colors hover:bg-paper-2 hover:text-accent sm:block"
           >
