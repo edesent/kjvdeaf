@@ -14,9 +14,9 @@ export function ContactForm() {
     setError("");
     const fd = new FormData(e.currentTarget);
     const payload = {
-      firstName: fd.get("firstName"),
-      lastName: fd.get("lastName"),
+      name: fd.get("name"),
       email: fd.get("email"),
+      phone: fd.get("phone"),
       message: fd.get("message"),
       company: fd.get("company"), // honeypot
     };
@@ -56,25 +56,25 @@ export function ContactForm() {
 
   return (
     <form onSubmit={onSubmit} className="space-y-5">
+      <div>
+        <label htmlFor="name" className={label}>
+          Your name
+        </label>
+        <input id="name" name="name" required autoComplete="name" className={field} />
+      </div>
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2">
         <div>
-          <label htmlFor="firstName" className={label}>
-            First name
+          <label htmlFor="email" className={label}>
+            Email
           </label>
-          <input id="firstName" name="firstName" required autoComplete="given-name" className={field} />
+          <input id="email" name="email" type="email" required autoComplete="email" className={field} />
         </div>
         <div>
-          <label htmlFor="lastName" className={label}>
-            Last name
+          <label htmlFor="phone" className={label}>
+            Phone <span className="font-normal text-muted">(optional)</span>
           </label>
-          <input id="lastName" name="lastName" autoComplete="family-name" className={field} />
+          <input id="phone" name="phone" type="tel" autoComplete="tel" className={field} />
         </div>
-      </div>
-      <div>
-        <label htmlFor="email" className={label}>
-          Email
-        </label>
-        <input id="email" name="email" type="email" required autoComplete="email" className={field} />
       </div>
       <div>
         <label htmlFor="message" className={label}>

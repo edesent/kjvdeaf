@@ -4,8 +4,7 @@ export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
 const TO = process.env.CONTACT_TO || "biblebaptistnb@gmail.com";
-// Until a sending domain is verified in Resend, onboarding@resend.dev is used.
-const FROM = process.env.CONTACT_FROM || "KJV for the Deaf <onboarding@resend.dev>";
+const FROM = process.env.CONTACT_FROM || "KJV for the Deaf <contact@elijahdesent.com>";
 
 function clean(v: unknown, max = 5000): string {
   return typeof v === "string" ? v.trim().slice(0, max) : "";
@@ -19,14 +18,14 @@ export async function POST(req: Request) {
     return Response.json({ error: "Invalid request." }, { status: 400 });
   }
 
-  const firstName = clean(body.firstName, 100);
-  const lastName = clean(body.lastName, 100);
+  const name = clean(body.name, 120);
   const email = clean(body.email, 200);
+  const phone = clean(body.phone, 40);
   const message = clean(body.message, 5000);
   const honeypot = clean(body.company, 200); // spam trap — real users leave this empty
 
   if (honeypot) return Response.json({ ok: true }); // silently drop bots
-  if (!firstName || !message) {
+  if (!name || !message) {
     return Response.json({ error: "Please add your name and a message." }, { status: 400 });
   }
   if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
@@ -38,15 +37,14 @@ export async function POST(req: Request) {
     return Response.json({ error: "Email is not set up yet. Please try again later." }, { status: 503 });
   }
 
-  const name = `${firstName} ${lastName}`.trim();
   const resend = new Resend(apiKey);
   const { error } = await resend.emails.send({
     from: FROM,
     to: [TO],
     replyTo: email,
     subject: `New message from ${name} — KJV for the Deaf`,
-    text: `Name: ${name}\nEmail: ${email}\n\n${message}`,
-    html: `<p><strong>Name:</strong> ${escapeHtml(name)}<br><strong>Email:</strong> ${escapeHtml(email)}</p><p style="white-space:pre-wrap">${escapeHtml(message)}</p>`,
+    text: `Name: ${name}\nEmail: ${email}\nPhone: ${phone || "(not given)"}\n\n${message}`,
+    html: `<p><strong>Name:</strong> ${escapeHtml(name)}<br><strong>Email:</strong> ${escapeHtml(email)}<br><strong>Phone:</strong> ${escapeHtml(phone || "(not given)")}</p><p style="white-space:pre-wrap">${escapeHtml(message)}</p>`,
   });
 
   if (error) {

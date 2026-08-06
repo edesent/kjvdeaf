@@ -194,13 +194,13 @@ export default function WhyKjvDeafPage() {
             Have a suggestion, a correction, or a question? Want to help?
           </strong>
           <br />
-          Email us at{" "}
-          <a
-            href="mailto:kjvdeaf@kjvdeaf.com"
+          Use our{" "}
+          <Link
+            href="/contact"
             className="text-accent underline underline-offset-2"
           >
-            kjvdeaf@kjvdeaf.com
-          </a>{" "}
+            contact form
+          </Link>{" "}
           &mdash; we read every message.
         </p>
       </div>
