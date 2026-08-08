@@ -799,7 +799,11 @@
       },
       {
         "n": 16,
-        "text": "You can identify them by the way they act. Can you pick grapes from thornbushes, or figs from thistles? Matthew 7: 17 A good tree always has good fruit and a bad tree always has bad fruit."
+        "text": "You can identify them by the way they act. Can you pick grapes from thornbushes, or figs from thistles?"
+      },
+      {
+        "n": 17,
+        "text": "A good tree always has good fruit and a bad tree always has bad fruit."
       },
       {
         "n": 18,
@@ -815,7 +819,7 @@
       },
       {
         "n": 21,
-        "text": "Not everyone who calls me Lord will enter God’s kingdom. The only people who will enter are those who do what my Father in heaven wants."
+        "text": "Not everyone who calls me Lord will enter God's kingdom. The only people who will enter are those who do what my Father in heaven wants."
       },
       {
         "n": 22,
@@ -852,6 +856,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/matthew-chapter-7/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Verse 1, the famous 'Judge not, that ye be not judged,' was previously missing from this chapter and has been restored, and a merged-verse numbering bug (16/17) has been split apart.",
     "videos": []
   },
   "8": {
