@@ -390,11 +390,15 @@
       },
       {
         "n": 27,
-        "text": "She oversees the care of her house. She is never lazy. Proverbs 31: 28Her children respect and praise her, and her husband says she is a good wife. He says:"
+        "text": "She oversees the care of her house. She is never lazy."
+      },
+      {
+        "n": 28,
+        "text": "Her children respect and praise her, and her husband says she is a good wife. He says:"
       },
       {
         "n": 29,
-        "text": "‘There are a lot of good women, but you are better than all of them.’"
+        "text": "'There are a lot of good women, but you are better than all of them.'"
       },
       {
         "n": 30,
@@ -407,6 +411,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/proverbs-chapter-31/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy. Merged-verse numbering bugs (16/17/18, 27/28) have been split apart, and archaic leftover phrasing modernized.",
     "videos": []
   }
 }
