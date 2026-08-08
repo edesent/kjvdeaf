@@ -376,7 +376,7 @@
       },
       {
         "n": 23,
-        "text": "Jesus went all over the land of Galilee, teaching people in the synagogues and preaching. Jesus told them the Good News that God in heaven rules over everyone. Jesus also shealed people who were sick."
+        "text": "Jesus went all over the land of Galilee, teaching people in the synagogues and preaching. Jesus told them the Good News that God in heaven rules over everyone. Jesus also healed people who were sick."
       },
       {
         "n": 24,
@@ -389,6 +389,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/matthew-chapter-4/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a missing phrase in v6 (Satan's temptation to jump from the temple), plus a couple of typos.",
     "videos": []
   },
   "5": {
