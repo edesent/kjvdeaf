@@ -167,7 +167,7 @@
       },
       {
         "n": 42,
-        "text": "The next morning Jesus went away to desert place. Many people were looking for Him. When they saw Him, they did not want Him to go away from them."
+        "text": "The next morning Jesus went away to a desert place. Many people were looking for Him. When they saw Him, they did not want Him to go away from them."
       },
       {
         "n": 43,
@@ -180,6 +180,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/luke-chapter-4/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed several typos and grammar issues.",
     "videos": []
   },
   "10": {
