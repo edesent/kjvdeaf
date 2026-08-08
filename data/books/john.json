@@ -3415,11 +3415,13 @@
       },
       {
         "n": 31,
-        "text": "The miracles that you read about in this book are written so that you can believe in Jesus hrist, the Son of God. If you believe in Him, you will have eternal life because you belong to Him."
+        "text": "The miracles that you read about in this book are written so that you can believe in Jesus Christ, the Son of God. If you believe in Him, you will have eternal life because you belong to Him."
       }
     ],
     "sourceUrl": "https://kjvdeaf.com/john-chapter-20/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed three merged-verse numbering bugs (8/9, 15/16, 20/21) and several typos, including 'jLord' and 'Jesus hrist' in the closing verses.",
     "videos": []
   },
   "21": {
