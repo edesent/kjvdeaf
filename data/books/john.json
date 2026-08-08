@@ -3529,6 +3529,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/john-chapter-21/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Verse 13, previously missing entirely, has been restored, and v12's garbled text repaired. Fixed mismatched bracket types in v15 and a couple of other grammar issues.",
     "videos": []
   }
 }
