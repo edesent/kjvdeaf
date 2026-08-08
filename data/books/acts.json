@@ -63,7 +63,11 @@
       },
       {
         "n": 16,
-        "text": "‘Friends, long ago the Holy Spirit told King David to write about Judas in the Old Testament and that is what has happened now. Judas went to the Jewish leaders, and he told them how they could catch Jesus. Acts 1: 17 Judas was one of us and he worked with us,"
+        "text": "'Friends, long ago the Holy Spirit told King David to write about Judas in the Old Testament and that is what has happened now. Judas went to the Jewish leaders, and he told them how they could catch Jesus."
+      },
+      {
+        "n": 17,
+        "text": "Judas was one of us and he worked with us,"
       },
       {
         "n": 18,
@@ -80,6 +84,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/new-testament/acts/acts-chapter-1/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. A merged-verse numbering bug (16/17) has been split apart, and a fragment sentence in v2 fixed.",
     "videos": []
   },
   "16": {
