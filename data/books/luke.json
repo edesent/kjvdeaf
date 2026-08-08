@@ -627,6 +627,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/luke-chapter-16/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a merged-verse numbering bug (8/9), a mislabeled verse number (121 -> 12), and several grammar/word-choice issues.",
     "videos": []
   },
   "20": {
