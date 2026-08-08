@@ -649,6 +649,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/old-testament/daniel/daniel-chapter-6/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Aramaic text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a garbled verse (v3) and a merged-verse numbering bug (17/18).",
     "videos": []
   }
 }
