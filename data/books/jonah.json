@@ -39,11 +39,13 @@
       },
       {
         "n": 10,
-        "text": "0 God saw what the people did. He saw that they stopped doing evil. So, God changed his mind and did not do what he planned. He did not punish the people."
+        "text": "God saw what the people did. God saw that they stopped doing evil. So, God changed God's mind and did not do what God had planned. God did not punish the people."
       }
     ],
     "sourceUrl": "https://kjvdeaf.com/jonah-chapter-3/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by nouns. Fixed a typo ('0 God') and a garbled verse (v1).",
     "videos": []
   }
 }
