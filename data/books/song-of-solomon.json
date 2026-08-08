@@ -59,11 +59,11 @@
       },
       {
         "n": 15,
-        "text": "He says love, you are so beautiful! Oh, you are beautiful! Your eyes are like doves."
+        "text": "He says: My love, you are so beautiful! Oh, you are beautiful! Your eyes are like doves."
       },
       {
         "n": 16,
-        "text": "She says: You are so handsome, my lover! also our bed is green."
+        "text": "She says: You are so handsome, my lover! Also our bed is green."
       },
       {
         "n": 17,
@@ -72,6 +72,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/song-of-solomon-chapter-1/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a grammar issue in v15.",
     "videos": []
   },
   "2": {
