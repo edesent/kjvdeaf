@@ -942,7 +942,11 @@
       },
       {
         "n": 37,
-        "text": "No, in all these things we have complete victory through Jesus who loved us. Romans 8 38 For I am certain that nothing can separate us from his love: neither death nor life, neither angels nor other heavenly rulers or powers, neither the present nor the future,"
+        "text": "No, in all these things we have complete victory through Jesus who loved us."
+      },
+      {
+        "n": 38,
+        "text": "For I am certain that nothing can separate us from his love: neither death nor life, neither angels nor other heavenly rulers or powers, neither the present nor the future,"
       },
       {
         "n": 39,
@@ -951,6 +955,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/romans-chapter-8/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. A merged-verse numbering bug (37/38) has been split apart, and several grammar issues fixed.",
     "videos": []
   },
   "9": {
