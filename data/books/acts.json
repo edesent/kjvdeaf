@@ -220,7 +220,7 @@
       },
       {
         "n": 33,
-        "text": "The guard took them the same hour and he washed their wounds and sores. Then Paul baptised the guard and all the people in his family."
+        "text": "The guard took them the same hour and he washed their wounds and sores. Then Paul baptized the guard and all the people in his family."
       },
       {
         "n": 34,
@@ -248,11 +248,13 @@
       },
       {
         "n": 40,
-        "text": "Paul and Silas walked away from the jail and they went to Lydia’s house. There they saw the believers and they encouraged them. Then Paul and Silas went away from the town of Philippi."
+        "text": "Paul and Silas walked away from the jail and they went to Lydia's house. There they saw the believers and they encouraged them. Then Paul and Silas went away from the town of Philippi."
       }
     ],
     "sourceUrl": "https://kjvdeaf.com/acts-chapter-16/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. A merged/mislabeled verse (9/10, originally tagged as Acts 10:10) has been split apart. Verses 10-18 previously repeated 'Paul and those traveling with him' 3-4 times per sentence; this has been streamlined to match the Greek text's own shift to first-person 'we' in this passage (one of the 'we-passages' in Acts, where the author Luke narrates as a member of the traveling group), returning to third person 'Paul and Silas' from v19 onward to match the Greek's own shift back once the narrative narrows to just the two of them.",
     "videos": []
   },
   "18": {
