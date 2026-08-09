@@ -148,27 +148,29 @@
       },
       {
         "n": 25,
-        "text": "And this is what the Jesus has promised us, eternal life. 1John"
+        "text": "And this is what Jesus has promised us: eternal life."
       },
       {
         "n": 26,
-        "text": "I am writing this letter about those who are trying to lead you into the wrong way. 1John"
+        "text": "I am writing this letter about those who are trying to lead you into the wrong way."
       },
       {
         "n": 27,
-        "text": "Remember that Jesus has anointed you with the Holy Spirit and the Holy Spirit is in you. That is why you do not need other people to teach you. Jesus has anointed you with the Holy Spirit and the Holy Spirit teaches you everything that you must know. He speaks the truth, and He does not lie. He teaches you to live with Jesus and you must do that. 1John"
+        "text": "Remember that Jesus has anointed you with the Holy Spirit and the Holy Spirit is in you. That is why you do not need other people to teach you. Jesus has anointed you with the Holy Spirit and the Holy Spirit teaches you everything that you must know. The Holy Spirit speaks the truth, and the Holy Spirit does not lie. The Holy Spirit teaches you to live with Jesus and you must do that."
       },
       {
         "n": 28,
-        "text": "Yes, my dear children, live in him. If we do this, we can be without fear on the day when Christ comes again. We will not need to hide and be ashamed when he comes. 1John"
+        "text": "Yes, my dear children, live in him. If we do this, we can be without fear on the day when Christ comes again. We will not need to hide and be ashamed when he comes."
       },
       {
         "n": 29,
-        "text": "You know that Christ always did what was right. So you know that all those who do what is right are God’s children."
+        "text": "You know that Christ always did what was right. So you know that all those who do what is right are God's children."
       }
     ],
     "sourceUrl": "https://kjvdeaf.com/1st-john-chapter-2/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Stray '1John' tags removed throughout. A merged-verse bug (6/7) has been split apart, and a much larger bug in v13-14 (a famous KJV doublet -- present tense 'I write' followed by past tense 'I have written,' addressed to fathers/young people/children) had been tangled into a single garbled entry with no separate v14; both verses have been restored to their correct, distinct form.",
     "videos": []
   },
   "3": {
