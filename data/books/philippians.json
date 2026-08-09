@@ -441,6 +441,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/philippians-chapter-4/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Modernized an archaic leftover verse (v13) and split a merged-verse numbering bug (15/16).",
     "videos": []
   }
 }
