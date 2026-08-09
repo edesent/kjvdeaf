@@ -193,6 +193,8 @@
     ],
     "sourceUrl": "https://kjvdeaf.com/ephesians-chapter-2/",
     "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed word-order/grammar issues in v1 and v6. Verse 20's ending had been accidentally overwritten with chapter 3's verse 21 content, and the chapter's actual verse 21 (about the building growing into a holy temple) was missing entirely; both have now been restored correctly.",
     "videos": []
   },
   "3": {
