@@ -1,8 +1,35 @@
 {
   "1": {
-    "verses": [],
+    "verses": [
+      {
+        "n": 1,
+        "text": "Blessed is the person who does not walk in the advice of the wicked, does not stand in the path of sinners, and does not sit in the company of mockers."
+      },
+      {
+        "n": 2,
+        "text": "But that person's delight is in the law of the LORD, and on that law that person thinks day and night."
+      },
+      {
+        "n": 3,
+        "text": "That person will be like a tree planted by streams of water, that produces fruit in its season, whose leaves do not wither. Whatever that person does will prosper."
+      },
+      {
+        "n": 4,
+        "text": "The wicked are not like that; they are like chaff that the wind blows away."
+      },
+      {
+        "n": 5,
+        "text": "So the wicked will not stand up in the judgment, and sinners will not stand in the assembly of the righteous."
+      },
+      {
+        "n": 6,
+        "text": "Because the LORD watches over the way of the righteous, but the way of the wicked will perish."
+      }
+    ],
     "sourceUrl": "https://kjvdeaf.com/old-testament/psalms/psalms-chapter-01/",
-    "status": "empty",
+    "status": "published",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with every pronoun's referent named explicitly (Deaf-first clarity standard) and each verse capitalized. This chapter was previously an empty placeholder.",
     "videos": []
   },
   "23": {
