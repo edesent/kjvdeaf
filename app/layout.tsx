@@ -56,6 +56,7 @@ export default function RootLayout({
       className={`${ui.variable} ${scripture.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col bg-paper text-ink">
+        <ServiceWorkerRegister />
         <DraftsProvider>
           <SiteHeader />
           <main className="flex-1">{children}</main>
