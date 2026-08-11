@@ -4,6 +4,7 @@ import "./globals.css";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { DraftsProvider } from "@/components/DraftsProvider";
+import { ServiceWorkerRegister } from "@/components/ServiceWorkerRegister";
 
 const ui = Inter({
   variable: "--font-ui",
