@@ -2452,9 +2452,9 @@
     "videos": []
   },
   "14": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with every pronoun's referent named explicitly (Deaf-first clarity standard) -- especially the Holy Spirit, whom the KJV's repeated 'he/him' can blur into an unclear reference across verses 16-17 and 26.",
     "verses": [
       {
         "n": 1,
@@ -2474,11 +2474,11 @@
       },
       {
         "n": 5,
-        "text": "Thomas said to him: Lord, we don't know where you are going, so how can we know the way?"
+        "text": "Thomas said to Jesus: Lord, we don't know where you are going, so how can we know the way?"
       },
       {
         "n": 6,
-        "text": "Jesus said to him: I am the way, and the truth, and the life. No one comes to the Father except through me."
+        "text": "Jesus said to Thomas: I am the way, and the truth, and the life. No one comes to the Father except through me."
       },
       {
         "n": 7,
@@ -2486,15 +2486,15 @@
       },
       {
         "n": 8,
-        "text": "Philip said to him: Lord, show us the Father. That is all we need."
+        "text": "Philip said to Jesus: Lord, show us the Father. That is all we need."
       },
       {
         "n": 9,
-        "text": "Jesus said to him: Philip, I have been with you such a long time. Don't you know me yet? Anyone who has seen me has seen the Father. So how can you say, Show us the Father?"
+        "text": "Jesus said to Philip: Philip, I have been with you such a long time. Don't you know me yet? Anyone who has seen me has seen the Father. So how can you say, Show us the Father?"
       },
       {
         "n": 10,
-        "text": "Don't you believe that I am in the Father, and the Father is in me? The words I say to you do not come from me alone. The Father, who lives in me, is doing his work through me."
+        "text": "Don't you believe that I am in the Father, and the Father is in me? The words I say to you do not come from me alone. The Father, who lives in me, is doing the Father's work through me."
       },
       {
         "n": 11,
@@ -2502,7 +2502,7 @@
       },
       {
         "n": 12,
-        "text": "I tell you the truth: anyone who believes in me will do the same works I do. He will do even greater works than these, because I am going to the Father."
+        "text": "I tell you the truth: anyone who believes in me will do the same works I do. That person will do even greater works than these, because I am going to the Father."
       },
       {
         "n": 13,
@@ -2518,11 +2518,11 @@
       },
       {
         "n": 16,
-        "text": "And I will ask the Father, and he will give you another Helper to be with you forever."
+        "text": "And I will ask the Father, and the Father will give you another Helper to be with you forever."
       },
       {
         "n": 17,
-        "text": "He is the Spirit of truth. The world cannot accept him, because it does not see him or know him. But you know him, because he lives with you and will be in you."
+        "text": "This is the Spirit of truth. The world cannot accept the Spirit, because the world does not see the Spirit or know the Spirit. But you know the Spirit, because the Spirit lives with you and will be in you."
       },
       {
         "n": 18,
@@ -2538,7 +2538,7 @@
       },
       {
         "n": 21,
-        "text": "Whoever has my commands and obeys them is the one who loves me. My Father will love the one who loves me, and I will love him and show myself to him."
+        "text": "Whoever has my commands and obeys them is the one who loves me. My Father will love the one who loves me, and I will love that person and show myself to that person."
       },
       {
         "n": 22,
@@ -2546,7 +2546,7 @@
       },
       {
         "n": 23,
-        "text": "Jesus answered: If anyone loves me, he will obey my word. My Father will love him, and we will come to him and make our home with him."
+        "text": "Jesus answered: If anyone loves me, that person will obey my word. My Father will love that person, and we will come to that person and make our home with that person."
       },
       {
         "n": 24,
@@ -2558,7 +2558,7 @@
       },
       {
         "n": 26,
-        "text": "But the Helper, the Holy Spirit, whom the Father will send in my name, will teach you all things. He will remind you of everything I have told you."
+        "text": "But the Helper, the Holy Spirit, whom the Father will send in my name, will teach you all things. The Holy Spirit will remind you of everything I have told you."
       },
       {
         "n": 27,
@@ -2574,7 +2574,7 @@
       },
       {
         "n": 30,
-        "text": "I will not talk with you much longer, because the ruler of this world is coming. He has no power over me."
+        "text": "I will not talk with you much longer, because the ruler of this world is coming. That ruler has no power over me."
       },
       {
         "n": 31,
