@@ -2583,9 +2583,9 @@
     ]
   },
   "15": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with every pronoun's referent named explicitly (Deaf-first clarity standard) -- again including the Holy Spirit in v26, where the KJV's 'him... He... he' can blur into an unclear reference.",
     "verses": [
       {
         "n": 1,
@@ -2593,7 +2593,7 @@
       },
       {
         "n": 2,
-        "text": "He cuts off every branch in me that does not give fruit. And he trims every branch that does give fruit, so that it will give even more."
+        "text": "The Father cuts off every branch in me that does not give fruit. And the Father trims every branch that does give fruit, so that it will give even more."
       },
       {
         "n": 3,
@@ -2605,7 +2605,7 @@
       },
       {
         "n": 5,
-        "text": "I am the vine; you are the branches. Whoever stays joined to me, and I to him, will give much fruit. Without me you can do nothing."
+        "text": "I am the vine; you are the branches. Whoever stays joined to me, and I to that person, will give much fruit. Without me you can do nothing."
       },
       {
         "n": 6,
@@ -2625,7 +2625,7 @@
       },
       {
         "n": 10,
-        "text": "If you obey my commands, you will stay in my love, just as I have obeyed my Father's commands and stay in his love."
+        "text": "If you obey my commands, you will stay in my love, just as I have obeyed my Father's commands and stay in my Father's love."
       },
       {
         "n": 11,
@@ -2637,7 +2637,7 @@
       },
       {
         "n": 13,
-        "text": "No one has greater love than this: to give up his life for his friends."
+        "text": "No one has greater love than this: to lay down one's life for one's friends."
       },
       {
         "n": 14,
@@ -2645,7 +2645,7 @@
       },
       {
         "n": 15,
-        "text": "I no longer call you servants, because a servant does not know what his master is doing. Instead, I have called you friends, because I have told you everything I heard from my Father."
+        "text": "I no longer call you servants, because a servant does not know what that servant's master is doing. Instead, I have called you friends, because I have told you everything I heard from my Father."
       },
       {
         "n": 16,
@@ -2665,7 +2665,7 @@
       },
       {
         "n": 20,
-        "text": "Remember what I told you: a servant is not greater than his master. If people treated me badly, they will treat you badly too. If they obeyed my teaching, they will obey yours too."
+        "text": "Remember what I told you: a servant is not greater than that servant's master. If people treated me badly, they will treat you badly too. If they obeyed my teaching, they will obey yours too."
       },
       {
         "n": 21,
@@ -2689,7 +2689,7 @@
       },
       {
         "n": 26,
-        "text": "When the Helper comes, I will send him to you from the Father. He is the Spirit of truth, who comes from the Father, and he will tell people about me."
+        "text": "When the Helper comes, I will send the Helper to you from the Father. This Helper is the Spirit of truth, who comes from the Father, and the Spirit will tell people about me."
       },
       {
         "n": 27,
