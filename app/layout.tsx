@@ -34,6 +34,11 @@ export const metadata: Metadata = {
     type: "website",
   },
   robots: { index: true, follow: true },
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "default",
+    title: "KJV Deaf",
+  },
 };
 
 export const viewport: Viewport = {
