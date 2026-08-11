@@ -2837,17 +2837,17 @@
     ]
   },
   "17": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter (the High Priestly Prayer) was already largely clear in its pronoun use -- consistent second-person address to the Father throughout, and a single consistent group ('they/them') for the disciples with no competing referent -- so only v1-2 needed Jesus named explicitly at the prayer's opening.",
     "verses": [
       {
         "n": 1,
-        "text": "After Jesus said this, he looked up to heaven and prayed: Father, the time has come. Honor your Son, so that your Son may honor you."
+        "text": "After Jesus said this, Jesus looked up to heaven and prayed: Father, the time has come. Honor your Son, so that your Son may honor you."
       },
       {
         "n": 2,
-        "text": "You gave him power over all people, so that he could give eternal life to all those you have given him."
+        "text": "You gave your Son power over all people, so the Son could give eternal life to all those you have given the Son."
       },
       {
         "n": 3,
@@ -2923,7 +2923,7 @@
       },
       {
         "n": 21,
-        "text": "so that they may all be one. Father, just as you are in me and I am in you, may they also be one in us, so that the world may believe that you sent me."
+        "text": "So that they may all be one. Father, just as you are in me and I am in you, may they also be one in us, so that the world may believe that you sent me."
       },
       {
         "n": 22,
