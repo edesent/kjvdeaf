@@ -1,8 +1,8 @@
 {
   "1": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. V9 disambiguated Michael from the devil (both present in the same sentence, both candidates for 'he/him'). V14-15 disambiguated Enoch (the speaker) from the Lord (who Enoch's prophecy is about) -- the KJV's 'He' shifts from one to the other without warning.",
     "verses": [
       {
         "n": 1,
@@ -38,7 +38,7 @@
       },
       {
         "n": 9,
-        "text": "Even the angel Michael did not do this. When he argued with the devil about the body of Moses, he did not dare to insult him. He only said: The Lord will correct you."
+        "text": "Even the angel Michael did not do this. When Michael argued with the devil about the body of Moses, Michael did not dare to insult the devil. Michael only said: The Lord will correct you."
       },
       {
         "n": 10,
@@ -58,11 +58,11 @@
       },
       {
         "n": 14,
-        "text": "Enoch, who lived seven generations after Adam, spoke about these people long ago. He said: Look, the Lord is coming with thousands and thousands of his holy ones."
+        "text": "Enoch, who lived seven generations after Adam, spoke about these people long ago. Enoch said: Look, the Lord is coming with thousands and thousands of his holy ones."
       },
       {
         "n": 15,
-        "text": "He is coming to judge everyone. He will show all the sinful people the truth about the sinful things they have done, and about all the harsh words that sinful people have spoken against him."
+        "text": "The Lord is coming to judge everyone. The Lord will show all the sinful people the truth about the sinful things they have done, and about all the harsh words that sinful people have spoken against the Lord."
       },
       {
         "n": 16,
