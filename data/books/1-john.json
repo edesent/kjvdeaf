@@ -174,13 +174,13 @@
     "videos": []
   },
   "3": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his/him' (describing 'whoever' or 'anyone') rendered gender-neutral wherever it could cause confusion.",
     "verses": [
       {
         "n": 1,
-        "text": "Look at how great the Father's love is! He loves us so much that we are called God's children — and that is what we are! The world does not understand us, because it did not know God."
+        "text": "Look at how great the Father's love is! The Father loves us so much that we are called God's children — and that is what we are! The world does not understand us, because it did not know God."
       },
       {
         "n": 2,
@@ -188,7 +188,7 @@
       },
       {
         "n": 3,
-        "text": "Everyone who has this hope keeps himself pure, just as Christ is pure."
+        "text": "Everyone who has this hope keeps themselves pure, just as Christ is pure."
       },
       {
         "n": 4,
@@ -212,11 +212,11 @@
       },
       {
         "n": 9,
-        "text": "No one who is a child of God keeps on sinning, because God's life stays in him. He cannot keep on sinning, because he is born of God."
+        "text": "No one who is a child of God keeps on sinning, because God's life stays in that person. That person cannot keep on sinning, because that person is born of God."
       },
       {
         "n": 10,
-        "text": "This is how you can tell God's children from the devil's children: anyone who does not do what is right is not from God, and neither is anyone who does not love his brother or sister."
+        "text": "This is how you can tell God's children from the devil's children: anyone who does not do what is right is not from God, and neither is anyone who does not love their brother or sister."
       },
       {
         "n": 11,
@@ -236,7 +236,7 @@
       },
       {
         "n": 15,
-        "text": "Anyone who hates a brother or sister is a murderer, and you know that no murderer has eternal life in him."
+        "text": "Anyone who hates a brother or sister is a murderer, and you know that no murderer has eternal life in them."
       },
       {
         "n": 16,
@@ -256,7 +256,7 @@
       },
       {
         "n": 20,
-        "text": "even if our hearts make us feel guilty, God is greater than our hearts, and he knows everything."
+        "text": "Even if our hearts make us feel guilty, God is greater than our hearts, and God knows everything."
       },
       {
         "n": 21,
@@ -264,15 +264,15 @@
       },
       {
         "n": 22,
-        "text": "And we receive from God whatever we ask, because we obey his commands and do what pleases him."
+        "text": "And we receive from God whatever we ask, because we obey God's commands and do what pleases God."
       },
       {
         "n": 23,
-        "text": "And this is his command: to believe in the name of his Son, Jesus Christ, and to love one another, just as he commanded us."
+        "text": "And this is God's command: to believe in the name of his Son, Jesus Christ, and to love one another, just as God commanded us."
       },
       {
         "n": 24,
-        "text": "Those who obey his commands live in God, and God lives in them. This is how we know that God lives in us: by the Spirit he gave us."
+        "text": "Those who obey God's commands live in God, and God lives in them. This is how we know that God lives in us: by the Spirit God gave us."
       }
     ]
   },
