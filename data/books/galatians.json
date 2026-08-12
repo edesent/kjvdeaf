@@ -559,9 +559,9 @@
     ]
   },
   "6": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his/himself' rendered gender-neutral in v3-5 and v8.",
     "verses": [
       {
         "n": 1,
@@ -573,15 +573,15 @@
       },
       {
         "n": 3,
-        "text": "If anyone thinks he is something when he is nothing, he is only fooling himself."
+        "text": "If anyone thinks they are something when they are nothing, that person is only fooling themselves."
       },
       {
         "n": 4,
-        "text": "Each person should look closely at his own work. Then he can be proud of what he himself has done, without comparing himself to anyone else."
+        "text": "Each person should look closely at their own work. Then they can be proud of what they themselves have done, without comparing themselves to anyone else."
       },
       {
         "n": 5,
-        "text": "For each person must carry his own load."
+        "text": "For each person must carry their own load."
       },
       {
         "n": 6,
@@ -593,7 +593,7 @@
       },
       {
         "n": 8,
-        "text": "Whoever plants to please his sinful self will harvest ruin from that self. But whoever plants to please the Spirit will harvest eternal life from the Spirit."
+        "text": "Whoever plants to please their sinful self will harvest ruin from that self. But whoever plants to please the Spirit will harvest eternal life from the Spirit."
       },
       {
         "n": 9,
