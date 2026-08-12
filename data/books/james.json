@@ -178,9 +178,9 @@
     "videos": []
   },
   "3": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his' rendered gender-neutral where needed.",
     "verses": [
       {
         "n": 1,
@@ -188,7 +188,7 @@
       },
       {
         "n": 2,
-        "text": "We all make many mistakes. If anyone never says anything wrong, that person is mature and able to control his whole body."
+        "text": "We all make many mistakes. If anyone never says anything wrong, that person is mature and able to control their whole body."
       },
       {
         "n": 3,
@@ -240,7 +240,7 @@
       },
       {
         "n": 15,
-        "text": "That kind of “wisdom” does not come from heaven. It is earthly, unspiritual, and from the devil."
+        "text": "That kind of \"wisdom\" does not come from heaven. It is earthly, unspiritual, and from the devil."
       },
       {
         "n": 16,
