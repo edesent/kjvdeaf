@@ -311,7 +311,7 @@
   "4": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. V2 fixed a genuine ambiguity -- v1 mentions both 'Christ' and 'whoever has suffered,' so the bare 'he' in v2 could misread as referring to Christ rather than the intended generic subject. V11's generic 'he' rendered gender-neutral.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. V2 fixed a genuine ambiguity -- v1 mentions both 'Christ' and 'whoever has suffered,' so the bare 'he' in v2 could misread as referring to Christ rather than the intended generic subject -- and smoothed to 'that believer' to avoid repeating 'that person.' V11's generic 'he' rendered gender-neutral. V12 restored the Greek's 'fiery trial' (pyrosis, a refining furnace), which had been lost as generic 'painful trials.'",
     "verses": [
       {
         "n": 1,
