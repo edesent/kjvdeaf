@@ -392,9 +392,9 @@
     ]
   },
   "5": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with God named explicitly in v6-7. V9-11's flowing pronouns for the devil and God kept as-is, since each is named clearly at the start of its own short run with no competing referent.",
     "verses": [
       {
         "n": 1,
@@ -418,11 +418,11 @@
       },
       {
         "n": 6,
-        "text": "So make yourselves low under God's mighty hand, and at the right time he will lift you up."
+        "text": "So make yourselves low under God's mighty hand, and at the right time God will lift you up."
       },
       {
         "n": 7,
-        "text": "Give all your worries to him, because he cares for you."
+        "text": "Give all your worries to God, because God cares for you."
       },
       {
         "n": 8,
