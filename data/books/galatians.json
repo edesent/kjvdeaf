@@ -317,17 +317,17 @@
     ]
   },
   "4": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his' rendered gender-neutral in v1-2.",
     "verses": [
       {
         "n": 1,
-        "text": "Here is what I mean. As long as an heir is a child, he is no different from a servant, even though he owns everything."
+        "text": "Here is what I mean. As long as an heir is a child, that heir is no different from a servant, even though the heir owns everything."
       },
       {
         "n": 2,
-        "text": "He is under guardians and managers until the time his father has set."
+        "text": "The heir is under guardians and managers until the time the father has set."
       },
       {
         "n": 3,
