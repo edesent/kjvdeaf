@@ -1,8 +1,8 @@
 {
   "1": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his/him' (describing 'anyone') rendered gender-neutral in v10-11.",
     "verses": [
       {
         "n": 1,
@@ -10,7 +10,7 @@
       },
       {
         "n": 2,
-        "text": "because of the truth that lives in us and will be with us forever."
+        "text": "Because of the truth that lives in us and will be with us forever."
       },
       {
         "n": 3,
@@ -42,11 +42,11 @@
       },
       {
         "n": 10,
-        "text": "If anyone comes to you and does not bring this teaching, do not welcome him into your house or even greet him."
+        "text": "If anyone comes to you and does not bring this teaching, do not welcome that person into your house or even greet that person."
       },
       {
         "n": 11,
-        "text": "Anyone who greets him shares in his evil work."
+        "text": "Anyone who greets that person shares in that person's evil work."
       },
       {
         "n": 12,
