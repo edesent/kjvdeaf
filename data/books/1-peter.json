@@ -107,9 +107,9 @@
     ]
   },
   "2": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with every pronoun's referent named explicitly (Deaf-first clarity standard) wherever more than one candidate exists. V21-24's flowing 'he/his' for Christ was left as-is, since Christ is named clearly at the start of that run (v21) and no other person is present to compete for the reference.",
     "verses": [
       {
         "n": 1,
@@ -121,11 +121,11 @@
       },
       {
         "n": 3,
-        "text": "now that you have tasted that the Lord is good."
+        "text": "Now that you have tasted that the Lord is good."
       },
       {
         "n": 4,
-        "text": "Come to Christ, the living stone. People rejected him, but God chose him and treasures him."
+        "text": "Come to Christ, the living stone. People rejected Christ, but God chose Christ and treasures Christ."
       },
       {
         "n": 5,
@@ -133,7 +133,7 @@
       },
       {
         "n": 6,
-        "text": "For the Scripture says: Look, I am laying a stone in Zion, a chosen and precious cornerstone. The one who trusts in him will never be put to shame."
+        "text": "For the Scripture says: Look, I am laying a stone in Zion, a chosen and precious cornerstone. The one who trusts in Christ will never be put to shame."
       },
       {
         "n": 7,
@@ -141,11 +141,11 @@
       },
       {
         "n": 8,
-        "text": "and: A stone that makes people trip, a rock that makes them fall. They trip because they do not obey the message — which is what was bound to happen to them."
+        "text": "And: A stone that makes people trip, a rock that makes them fall. They trip because they do not obey the message — which is what was bound to happen to them."
       },
       {
         "n": 9,
-        "text": "But you are a chosen people, a royal group of priests, a holy nation, a people who belong to God. He chose you so that you could tell others about the wonderful things he has done — the One who called you out of darkness into his marvelous light."
+        "text": "But you are a chosen people, a royal group of priests, a holy nation, a people who belong to God. God chose you so that you could tell others about the wonderful things God has done — the One who called you out of darkness into God's marvelous light."
       },
       {
         "n": 10,
@@ -165,7 +165,7 @@
       },
       {
         "n": 14,
-        "text": "or the governors, who are sent by him to punish those who do wrong and to praise those who do right."
+        "text": "Or the governors, who are sent by the king to punish those who do wrong and to praise those who do right."
       },
       {
         "n": 15,
@@ -185,7 +185,7 @@
       },
       {
         "n": 19,
-        "text": "For it deserves praise when someone, because of his awareness of God, puts up with the pain of suffering unfairly."
+        "text": "For it deserves praise when someone, because of that person's awareness of God, puts up with the pain of suffering unfairly."
       },
       {
         "n": 20,
