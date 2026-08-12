@@ -91,9 +91,9 @@
     ]
   },
   "2": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with every pronoun's referent named explicitly (Deaf-first clarity standard) wherever more than one candidate exists.",
     "verses": [
       {
         "n": 1,
@@ -109,15 +109,15 @@
       },
       {
         "n": 4,
-        "text": "God did not spare the angels when they sinned. He threw them down to hell and kept them in chains of darkness, to wait for judgment."
+        "text": "God did not spare the angels when they sinned. God threw them down to hell and kept them in chains of darkness, to wait for judgment."
       },
       {
         "n": 5,
-        "text": "And God did not spare the ancient world. But he saved Noah, who preached what is right, along with seven others, when he brought the flood on the world of sinful people."
+        "text": "And God did not spare the ancient world. But God saved Noah, who preached what is right, along with seven others, when God brought the flood on the world of sinful people."
       },
       {
         "n": 6,
-        "text": "God turned the cities of Sodom and Gomorrah into ashes. He condemned them, and made them an example of what will happen to sinful people."
+        "text": "God turned the cities of Sodom and Gomorrah into ashes. God condemned them, and made them an example of what will happen to sinful people."
       },
       {
         "n": 7,
@@ -169,7 +169,7 @@
       },
       {
         "n": 19,
-        "text": "They promise these people freedom, while they themselves are slaves to what is rotten. For a person is a slave to whatever controls him."
+        "text": "They promise these people freedom, while they themselves are slaves to what is rotten. For a person is a slave to whatever controls that person."
       },
       {
         "n": 20,
