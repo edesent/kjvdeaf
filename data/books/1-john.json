@@ -370,9 +370,9 @@
     "videos": []
   },
   "5": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. V10 disambiguated -- the original had 'his heart' and 'his Son' close together, which could misread as both referring to the same person.",
     "verses": [
       {
         "n": 1,
@@ -388,7 +388,7 @@
       },
       {
         "n": 4,
-        "text": "because everyone who is a child of God wins against the world. The victory that wins against the world is our faith."
+        "text": "Because everyone who is a child of God wins against the world. The victory that wins against the world is our faith."
       },
       {
         "n": 5,
@@ -412,7 +412,7 @@
       },
       {
         "n": 10,
-        "text": "Whoever believes in the Son of God has this truth in his heart. Whoever does not believe God has called God a liar, because he has not believed what God said about his Son."
+        "text": "Whoever believes in the Son of God has this truth in that person's own heart. Whoever does not believe God has called God a liar, because that person has not believed what God said about God's Son."
       },
       {
         "n": 11,
