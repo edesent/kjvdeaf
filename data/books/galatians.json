@@ -2,7 +2,7 @@
   "1": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No pronoun ambiguity found.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. V16 disambiguated 'him' (which could momentarily misread as God rather than 'his Son,' since both are referred to as 'he/his' in the same sentence) to 'the Son.' The doubled 'let that person be cursed' in v8-9 is a deliberate rhetorical repetition in the Greek and was left as-is.",
     "verses": [
       {
         "n": 1,
