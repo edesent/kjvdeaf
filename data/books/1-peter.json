@@ -214,9 +214,9 @@
     ]
   },
   "3": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his' (v10-11, describing 'whoever') rendered gender-neutral. V18-22's flowing 'he/his' for Christ kept as-is, since Christ is named clearly at v18 with no competing referent.",
     "verses": [
       {
         "n": 1,
@@ -224,7 +224,7 @@
       },
       {
         "n": 2,
-        "text": "when they see your pure lives lived with respect."
+        "text": "When they see your pure lives lived with respect."
       },
       {
         "n": 3,
@@ -256,11 +256,11 @@
       },
       {
         "n": 10,
-        "text": "For the Scripture says: Whoever wants to love life and see good days must keep his tongue from evil and his lips from telling lies."
+        "text": "For the Scripture says: Whoever wants to love life and see good days must keep that person's tongue from evil and that person's lips from telling lies."
       },
       {
         "n": 11,
-        "text": "He must turn away from evil and do good. He must look for peace and go after it."
+        "text": "That person must turn away from evil and do good. That person must look for peace and go after it."
       },
       {
         "n": 12,
@@ -280,7 +280,7 @@
       },
       {
         "n": 16,
-        "text": "keeping a clear conscience, so that those who speak evil of your good life in Christ will be ashamed of their lies."
+        "text": "Keeping a clear conscience, so that those who speak evil of your good life in Christ will be ashamed of their lies."
       },
       {
         "n": 17,
@@ -296,7 +296,7 @@
       },
       {
         "n": 20,
-        "text": "who had disobeyed long ago, when God waited patiently in the days of Noah while the ark was being built. In the ark only a few people — eight in all — were saved through water."
+        "text": "Who had disobeyed long ago, when God waited patiently in the days of Noah while the ark was being built. In the ark only a few people — eight in all — were saved through water."
       },
       {
         "n": 21,
@@ -304,7 +304,7 @@
       },
       {
         "n": 22,
-        "text": "who has gone into heaven and is at God's right hand, with angels, authorities, and powers under his control."
+        "text": "Who has gone into heaven and is at God's right hand, with angels, authorities, and powers under his control."
       }
     ]
   },
