@@ -448,9 +448,9 @@
     ]
   },
   "5": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he' rendered gender-neutral in v10.",
     "verses": [
       {
         "n": 1,
@@ -490,7 +490,7 @@
       },
       {
         "n": 10,
-        "text": "But because of the Lord, I am sure that you will not think any other way. And the one who is confusing you will be judged, whoever he is."
+        "text": "But because of the Lord, I am sure that you will not think any other way. And whoever is confusing you will be judged, no matter who that person is."
       },
       {
         "n": 11,
