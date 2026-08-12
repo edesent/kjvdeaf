@@ -366,7 +366,7 @@
     "sourceUrl": "https://kjvdeaf.com/1-john-chapter-4/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a garbled sentence in v4.",
+    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a garbled sentence in v4. V1-3 restructured to match the Greek's actual grammatical subject ('the spirit that confesses,' not 'people who say'), which also resolved a five-fold 'people/they/them' repetition. V5's 'people of this world' cut from three repetitions to one. V15 anchored with 'that person' instead of a loose 'them/they.'",
     "videos": []
   },
   "5": {
