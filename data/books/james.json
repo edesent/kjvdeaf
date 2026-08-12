@@ -332,9 +332,9 @@
     ]
   },
   "5": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his/him' rendered gender-neutral where needed (v13-15, v19-20).",
     "verses": [
       {
         "n": 1,
@@ -382,19 +382,19 @@
       },
       {
         "n": 12,
-        "text": "Above all, my brothers and sisters, do not make oaths — not by heaven, not by earth, not by anything else. Just let your “Yes” be yes and your “No” be no, or you will be judged."
+        "text": "Above all, my brothers and sisters, do not make oaths — not by heaven, not by earth, not by anything else. Just let your \"Yes\" be yes and your \"No\" be no, or you will be judged."
       },
       {
         "n": 13,
-        "text": "Is anyone among you suffering? Let him pray. Is anyone happy? Let him sing songs of praise."
+        "text": "Is anyone among you suffering? Let that person pray. Is anyone happy? Let that person sing songs of praise."
       },
       {
         "n": 14,
-        "text": "Is anyone among you sick? Let him call for the elders of the church to pray over him and to put oil on him in the name of the Lord."
+        "text": "Is anyone among you sick? That person should call for the elders of the church, who will pray over the sick person and put oil on them in the name of the Lord."
       },
       {
         "n": 15,
-        "text": "And the prayer offered in faith will make the sick person well; the Lord will raise him up. And if he has sinned, he will be forgiven."
+        "text": "And the prayer offered in faith will make the sick person well; the Lord will raise that person up. And if that person has sinned, that person will be forgiven."
       },
       {
         "n": 16,
@@ -410,11 +410,11 @@
       },
       {
         "n": 19,
-        "text": "My brothers and sisters, if one of you wanders away from the truth, and someone brings him back,"
+        "text": "My brothers and sisters, if one of you wanders away from the truth, and someone brings that person back,"
       },
       {
         "n": 20,
-        "text": "remember this: whoever turns a sinner back from his wrong way will save that person from death and cover over many sins."
+        "text": "Remember this: whoever turns a sinner back from their wrong way will save that person from death and cover over many sins."
       }
     ]
   }
