@@ -257,9 +257,9 @@
     ]
   },
   "4": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his/himself' rendered gender-neutral where needed.",
     "verses": [
       {
         "n": 1,
@@ -275,7 +275,7 @@
       },
       {
         "n": 4,
-        "text": "You unfaithful people! Do you not know that loving the world means hating God? Anyone who chooses to be a friend of the world makes himself an enemy of God."
+        "text": "You unfaithful people! Do you not know that loving the world means hating God? Anyone who chooses to be a friend of the world makes themselves an enemy of God."
       },
       {
         "n": 5,
@@ -327,7 +327,7 @@
       },
       {
         "n": 17,
-        "text": "So anyone who knows the good he ought to do, but does not do it, is sinning."
+        "text": "So anyone who knows the good they ought to do, but does not do it, is sinning."
       }
     ]
   },
