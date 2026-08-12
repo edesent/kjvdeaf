@@ -186,9 +186,9 @@
     ]
   },
   "3": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with every pronoun's referent named explicitly (Deaf-first clarity standard) wherever more than one candidate exists.",
     "verses": [
       {
         "n": 1,
@@ -208,7 +208,7 @@
       },
       {
         "n": 5,
-        "text": "But they choose to forget that long ago God made the heavens by his word, and made the earth out of water and through water."
+        "text": "But they choose to forget that long ago God made the heavens by God's word, and made the earth out of water and through water."
       },
       {
         "n": 6,
@@ -224,7 +224,7 @@
       },
       {
         "n": 9,
-        "text": "The Lord is not slow to keep his promise, as some people think of slowness. Instead, he is patient with you. He does not want anyone to be lost, but wants everyone to turn away from sin."
+        "text": "The Lord is not slow to keep his promise, as some people think of slowness. Instead, the Lord is patient with you. The Lord does not want anyone to be lost, but wants everyone to turn away from sin."
       },
       {
         "n": 10,
@@ -236,7 +236,7 @@
       },
       {
         "n": 12,
-        "text": "as you wait for the day of God and look forward to it. On that day the heavens will be set on fire and destroyed, and everything will melt in the heat."
+        "text": "As you wait for the day of God and look forward to it. On that day the heavens will be set on fire and destroyed, and everything will melt in the heat."
       },
       {
         "n": 13,
@@ -252,7 +252,7 @@
       },
       {
         "n": 16,
-        "text": "He writes the same way in all his letters when he speaks about these things. Some of the things in his letters are hard to understand. People who do not know better, and who are not firm in faith, twist his words — and they twist the other Scriptures too — and so they destroy themselves."
+        "text": "Paul writes the same way in all his letters when he speaks about these things. Some of the things in his letters are hard to understand. People who do not know better, and who are not firm in faith, twist his words — and they twist the other Scriptures too — and so they destroy themselves."
       },
       {
         "n": 17,
