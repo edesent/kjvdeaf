@@ -222,9 +222,9 @@
     ]
   },
   "3": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he' rendered gender-neutral in v25.",
     "verses": [
       {
         "n": 1,
@@ -264,7 +264,7 @@
       },
       {
         "n": 10,
-        "text": "and you have put on a new self. This new self keeps being made fresh, to know God and to become like the God who made it."
+        "text": "And you have put on a new self. This new self keeps being made fresh, to know God and to become like the God who made it."
       },
       {
         "n": 11,
@@ -324,7 +324,7 @@
       },
       {
         "n": 25,
-        "text": "Anyone who does wrong will be paid back for the wrong he did, and God treats everyone the same."
+        "text": "Anyone who does wrong will be paid back for the wrong they did, and God treats everyone the same."
       }
     ]
   },
