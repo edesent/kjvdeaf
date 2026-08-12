@@ -309,9 +309,9 @@
     ]
   },
   "4": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. V2 fixed a genuine ambiguity -- v1 mentions both 'Christ' and 'whoever has suffered,' so the bare 'he' in v2 could misread as referring to Christ rather than the intended generic subject. V11's generic 'he' rendered gender-neutral.",
     "verses": [
       {
         "n": 1,
@@ -319,7 +319,7 @@
       },
       {
         "n": 2,
-        "text": "As a result, he does not live the rest of his life chasing human desires, but doing what God wants."
+        "text": "As a result, that person does not live the rest of that person's life chasing human desires, but doing what God wants."
       },
       {
         "n": 3,
@@ -355,7 +355,7 @@
       },
       {
         "n": 11,
-        "text": "If anyone speaks, he should speak as one giving the very words of God. If anyone serves, he should serve with the strength God gives. Then in everything God will be praised through Jesus Christ. To him be glory and power forever and ever. Amen."
+        "text": "If anyone speaks, that person should speak as one giving the very words of God. If anyone serves, that person should serve with the strength God gives. Then in everything God will be praised through Jesus Christ. To Christ be glory and power forever and ever. Amen."
       },
       {
         "n": 12,
