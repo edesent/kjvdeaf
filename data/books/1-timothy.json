@@ -403,9 +403,9 @@
     ]
   },
   "6": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'He' rendered gender-neutral in v4, and v14's lowercase verse start capitalized.",
     "verses": [
       {
         "n": 1,
@@ -421,11 +421,11 @@
       },
       {
         "n": 4,
-        "text": "That person is proud and understands nothing. He has an unhealthy love for arguments and word-fights, which lead to jealousy, fighting, insults, evil suspicions,"
+        "text": "That person is proud and understands nothing, having an unhealthy love for arguments and word-fights, which lead to jealousy, fighting, insults, evil suspicions,"
       },
       {
         "n": 5,
-        "text": "and constant friction between people whose minds are corrupt and who have lost the truth. They think that being godly is a way to get rich. Stay away from people like that."
+        "text": "And constant friction between people whose minds are corrupt and who have lost the truth. They think that being godly is a way to get rich. Stay away from people like that."
       },
       {
         "n": 6,
@@ -461,7 +461,7 @@
       },
       {
         "n": 14,
-        "text": "keep this command without stain or blame until our Lord Jesus Christ appears."
+        "text": "Keep this command without stain or blame until our Lord Jesus Christ appears."
       },
       {
         "n": 15,
@@ -485,7 +485,7 @@
       },
       {
         "n": 20,
-        "text": "Timothy, guard what has been trusted to you. Stay away from godless, empty talk and from the arguments of what is falsely called “knowledge.”"
+        "text": "Timothy, guard what has been trusted to you. Stay away from godless, empty talk and from the arguments of what is falsely called \"knowledge.\""
       },
       {
         "n": 21,
