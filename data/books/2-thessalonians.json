@@ -130,9 +130,9 @@
     ]
   },
   "3": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/him' rendered gender-neutral in v14-15.",
     "verses": [
       {
         "n": 1,
@@ -188,11 +188,11 @@
       },
       {
         "n": 14,
-        "text": "If anyone will not obey what we say in this letter, take note of that person and do not spend time with him, so that he will feel ashamed."
+        "text": "If anyone will not obey what we say in this letter, take note of that person and do not spend time with them, so that they will feel ashamed."
       },
       {
         "n": 15,
-        "text": "But do not treat him as an enemy. Warn him as a brother."
+        "text": "But do not treat that person as an enemy. Warn them as a brother or sister."
       },
       {
         "n": 16,
