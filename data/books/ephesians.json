@@ -565,9 +565,9 @@
     ]
   },
   "6": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he' rendered gender-neutral in v8.",
     "verses": [
       {
         "n": 1,
@@ -579,7 +579,7 @@
       },
       {
         "n": 3,
-        "text": "so that things will go well with you, and you will live a long time on the earth."
+        "text": "So that things will go well with you, and you will live a long time on the earth."
       },
       {
         "n": 4,
@@ -599,7 +599,7 @@
       },
       {
         "n": 8,
-        "text": "Remember that the Lord will reward each person for the good he does, whether he is a slave or free."
+        "text": "Remember that the Lord will reward each person for the good that person does, whether that person is a slave or free."
       },
       {
         "n": 9,
