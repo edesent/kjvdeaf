@@ -296,9 +296,9 @@
     ]
   },
   "5": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'his' rendered gender-neutral in v8.",
     "verses": [
       {
         "n": 1,
@@ -306,7 +306,7 @@
       },
       {
         "n": 2,
-        "text": "older women as mothers, and younger women as sisters, with complete purity."
+        "text": "Older women as mothers, and younger women as sisters, with complete purity."
       },
       {
         "n": 3,
@@ -330,7 +330,7 @@
       },
       {
         "n": 8,
-        "text": "Anyone who does not provide for his own relatives, and especially for his own family, has turned away from the faith and is worse than someone who does not believe at all."
+        "text": "Anyone who does not provide for their own relatives, and especially for their own family, has turned away from the faith and is worse than someone who does not believe at all."
       },
       {
         "n": 9,
