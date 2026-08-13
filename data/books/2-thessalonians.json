@@ -55,9 +55,9 @@
     ]
   },
   "2": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No pronoun ambiguity found -- 'this man' (the man of sin) is established once and flows naturally, and subject/object roles keep v8's two 'his' references clear.",
     "verses": [
       {
         "n": 1,
