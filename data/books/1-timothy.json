@@ -154,9 +154,9 @@
     ]
   },
   "3": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. The 'he/his' throughout v2-7 (overseer qualifications) is kept as-is rather than gender-neutralized, since the Greek text is specifically gendered ('a one-woman man,' i.e. husband of one wife), not a generic 'anyone' construction.",
     "verses": [
       {
         "n": 1,
