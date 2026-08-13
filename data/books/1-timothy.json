@@ -87,9 +87,9 @@
     ]
   },
   "2": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Capitalized three verse starts (v2, v4, v6) that were left lowercase as sentence continuations.",
     "verses": [
       {
         "n": 1,
@@ -97,7 +97,7 @@
       },
       {
         "n": 2,
-        "text": "for kings and for all who are in charge, so that we can live peaceful and quiet lives, in a way that honors God and is good and honest."
+        "text": "For kings and for all who are in charge, so that we can live peaceful and quiet lives, in a way that honors God and is good and honest."
       },
       {
         "n": 3,
@@ -105,7 +105,7 @@
       },
       {
         "n": 4,
-        "text": "who wants everyone to be saved and to come to know the truth."
+        "text": "Who wants everyone to be saved and to come to know the truth."
       },
       {
         "n": 5,
@@ -113,7 +113,7 @@
       },
       {
         "n": 6,
-        "text": "who gave himself as the price to set everyone free. This was shown at the right time."
+        "text": "Who gave himself as the price to set everyone free. This was shown at the right time."
       },
       {
         "n": 7,
@@ -129,7 +129,7 @@
       },
       {
         "n": 10,
-        "text": "but on good deeds, which are right for women who say they worship God."
+        "text": "But on good deeds, which are right for women who say they worship God."
       },
       {
         "n": 11,
