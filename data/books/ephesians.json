@@ -426,9 +426,9 @@
     ]
   },
   "5": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. The household code (v22-33) is kept gendered as-is, since it is specifically addressed to wives and husbands, not a generic construction.",
     "verses": [
       {
         "n": 1,
