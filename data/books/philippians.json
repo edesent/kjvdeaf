@@ -254,9 +254,9 @@
     ]
   },
   "3": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he' rendered gender-neutral in v4.",
     "verses": [
       {
         "n": 1,
@@ -264,7 +264,7 @@
       },
       {
         "n": 2,
-        "text": "Watch out for those “dogs,” those people who do evil, those who cut the body."
+        "text": "Watch out for those \"dogs,\" those people who do evil, those who cut the body."
       },
       {
         "n": 3,
@@ -272,7 +272,7 @@
       },
       {
         "n": 4,
-        "text": "Yet I myself could trust in such things. If anyone thinks he has reason to trust in human effort, I have more:"
+        "text": "Yet I myself could trust in such things. If anyone thinks they have reason to trust in human effort, I have more:"
       },
       {
         "n": 5,
@@ -292,7 +292,7 @@
       },
       {
         "n": 9,
-        "text": "and be found in him. I do not have a rightness of my own that comes from the law. Instead, I have the rightness that comes through faith in Christ — the rightness that comes from God and is based on faith."
+        "text": "And be found in him. I do not have a rightness of my own that comes from the law. Instead, I have the rightness that comes through faith in Christ — the rightness that comes from God and is based on faith."
       },
       {
         "n": 10,
@@ -300,7 +300,7 @@
       },
       {
         "n": 11,
-        "text": "so that somehow I may rise from death myself."
+        "text": "So that somehow I may rise from death myself."
       },
       {
         "n": 12,
