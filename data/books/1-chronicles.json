@@ -846,5 +846,37 @@
     "status": "published",
     "generated": true,
     "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter covers the genealogy of the Transjordan tribes -- Reuben, Gad, and half the tribe of Manasseh -- and their eventual exile."
+  },
+  "3": {
+    "verses": [
+      { "n": 1, "text": "Now these were the sons born to David in Hebron. David's firstborn son was Amnon, whose mother was Ahinoam of Jezreel. David's second son was Daniel, whose mother was Abigail of Carmel." },
+      { "n": 2, "text": "David's third son was Absalom, whose mother was Maachah daughter of Talmai king of Geshur. David's fourth son was Adonijah, whose mother was Haggith." },
+      { "n": 3, "text": "David's fifth son was Shephatiah, whose mother was Abital. David's sixth son was Ithream, whose mother was Eglah, another of David's wives." },
+      { "n": 4, "text": "These six sons were born to David in Hebron, where David ruled seven years and six months. Then David ruled in Jerusalem thirty-three years." },
+      { "n": 5, "text": "These sons were born to David in Jerusalem: Shimea, Shobab, Nathan, and Solomon — four sons, whose mother was Bathshua daughter of Ammiel." },
+      { "n": 6, "text": "David was also the father of Ibhar, Elishama, and Eliphelet," },
+      { "n": 7, "text": "Nogah, Nepheg, and Japhia," },
+      { "n": 8, "text": "Elishama, Eliada, and Eliphelet — nine sons in all." },
+      { "n": 9, "text": "These were all the sons of David, besides the sons of David's concubines. Tamar was their sister." },
+      { "n": 10, "text": "Solomon was the father of Rehoboam. Rehoboam was the father of Abia. Abia was the father of Asa. Asa was the father of Jehoshaphat." },
+      { "n": 11, "text": "Jehoshaphat was the father of Joram. Joram was the father of Ahaziah. Ahaziah was the father of Joash." },
+      { "n": 12, "text": "Joash was the father of Amaziah. Amaziah was the father of Azariah. Azariah was the father of Jotham." },
+      { "n": 13, "text": "Jotham was the father of Ahaz. Ahaz was the father of Hezekiah. Hezekiah was the father of Manasseh." },
+      { "n": 14, "text": "Manasseh was the father of Amon. Amon was the father of Josiah." },
+      { "n": 15, "text": "Josiah's sons were Johanan the firstborn, Jehoiakim the second son, Zedekiah the third son, and Shallum the fourth son." },
+      { "n": 16, "text": "Jehoiakim was the father of Jeconiah, and Jeconiah was the father of another son also named Zedekiah (not the King Zedekiah who ruled Judah after Jeconiah — that Zedekiah was Jehoiakim's brother)." },
+      { "n": 17, "text": "Now these were the sons of Jeconiah, who was taken captive to Babylon. Jeconiah's first son was Salathiel," },
+      { "n": 18, "text": "Malchiram, Pedaiah, Shenazar, Jecamiah, Hoshama, and Nedabiah." },
+      { "n": 19, "text": "Pedaiah's sons were Zerubbabel and Shimei. Zerubbabel's sons were Meshullam and Hananiah, and their sister was Shelomith." },
+      { "n": 20, "text": "Zerubbabel was also the father of Hashubah, Ohel, Berechiah, Hasadiah, and Jushabhesed — five more sons." },
+      { "n": 21, "text": "Hananiah's sons were Pelatiah and Jesaiah. Also named were the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, and the sons of Shechaniah." },
+      { "n": 22, "text": "Shechaniah's son was Shemaiah. Shemaiah's sons were Hattush, Igeal, Bariah, Neariah, and Shaphat — six in all." },
+      { "n": 23, "text": "Neariah's sons were Elioenai, Hezekiah, and Azrikam — three sons." },
+      { "n": 24, "text": "Elioenai's sons were Hodaiah, Eliashib, Pelaiah, Akkub, Johanan, Dalaiah, and Anani — seven sons." }
+    ],
+    "sourceUrl": "https://www.blueletterbible.org/kjv/1ch/3/1/t_conc_347001",
+    "status": "needs-review",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter traces David's royal line to the Babylonian exile. Two verses involve genuine scholarly cruxes worth a human review pass before publishing: v16's second Zedekiah is (per most commentators, e.g. Keil-Delitzsch) a lesser-known son of Jeconiah, distinct from the last king of Judah; v17's 'Assir' is widely read as a description of Jeconiah ('the captive') rather than a separate son's name, following Ellicott and most modern translations, with Salathiel as the actual first-named son."
   }
 }
