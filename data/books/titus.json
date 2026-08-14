@@ -1,8 +1,8 @@
 {
   "1": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. The 'he/his' in v6-9 (church leader qualifications) is kept as-is rather than gender-neutralized, since the Greek text is specifically gendered ('husband of one wife'), matching the same treatment given to 1 Timothy 3.",
     "verses": [
       {
         "n": 1,
