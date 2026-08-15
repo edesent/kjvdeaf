@@ -1555,9 +1555,9 @@
     ]
   },
   "10": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No pronoun ambiguity found -- v11-12 already addresses both husband and wife explicitly, and other generic statements use 'whoever' without needing gendered follow-up pronouns.",
     "verses": [
       {
         "n": 1,
