@@ -624,9 +624,9 @@
     ]
   },
   "5": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No pronoun ambiguity found -- this chapter is entirely narrative about specific individuals (the demon-possessed man, Jairus, the bleeding woman, Jairus' daughter), not generic statements.",
     "verses": [
       {
         "n": 1,
