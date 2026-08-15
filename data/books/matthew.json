@@ -1676,9 +1676,9 @@
     ]
   },
   "13": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his' rendered gender-neutral in v21, v23, v57. Parable characters (e.g. 'a man' who plants seed or finds treasure) keep their 'his' as a single, unambiguous fictional referent within each story.",
     "verses": [
       {
         "n": 1,
