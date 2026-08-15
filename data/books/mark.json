@@ -803,9 +803,9 @@
     ]
   },
   "6": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. V4's generic 'his' made gender-neutral, matching the same fix applied to the parallel passage in Matthew 13:57. V43 restores 'small hand-baskets' (kophinoi), matching the same word established in Matthew 14:20 for this feeding, distinguishing it from the 'large provision hampers' (spyrides) used in the feeding of the 4,000 in Mark 8.",
     "verses": [
       {
         "n": 1,
