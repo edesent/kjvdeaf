@@ -1872,7 +1872,7 @@
       },
       {
         "n": 25,
-        "text": "And when you stand praying, if you have anything against anyone, forgive him, so that your Father in heaven will also forgive your sins."
+        "text": "And when you stand praying, if you have anything against anyone, forgive them, so that your Father in heaven will also forgive your sins."
       },
       {
         "n": 26,
@@ -1906,12 +1906,11 @@
         "n": 33,
         "text": "So they answered Jesus: We do not know. Then Jesus said: Then I will not tell you by what right I do these things."
       }
-    ]
-  },
-  "12": {
-    "status": "needs-review",
+    ],
+    "sourceUrl": "https://kjvdeaf.com/mark-chapter-11/",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his/him' rendered gender-neutral in v3, v23, v25."
     "verses": [
       {
         "n": 1,
