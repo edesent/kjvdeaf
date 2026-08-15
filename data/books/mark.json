@@ -1348,9 +1348,9 @@
     ]
   },
   "9": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his' rendered gender-neutral in v35, v42. V42's 'huge millstone' matches the same fix applied to the parallel passage in Matthew 18:6. 'Hell' in v43-48 correctly refers to Gehenna (fire imagery), so kept as-is per the site's standard.",
     "verses": [
       {
         "n": 1,
