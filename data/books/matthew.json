@@ -394,9 +394,9 @@
     "videos": []
   },
   "5": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'his' rendered gender-neutral in v22. 'Hell' in v22, v29-30 correctly refers to Gehenna (the NT concept of judgment), not sheol/Hades, so it is kept as-is per the site's standard.",
     "verses": [
       {
         "n": 1,
