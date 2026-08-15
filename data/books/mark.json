@@ -1034,9 +1034,9 @@
     ]
   },
   "7": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his/him' rendered gender-neutral throughout v10-12 and v15-23, matching the same fixes already applied to the parallel Corban and 'unclean' passages in Matthew 15.",
     "verses": [
       {
         "n": 1,
