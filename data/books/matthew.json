@@ -1469,9 +1469,9 @@
     ]
   },
   "12": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/him' rendered gender-neutral in v29, v35.",
     "verses": [
       {
         "n": 1,
