@@ -453,9 +453,9 @@
     ]
   },
   "4": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No pronoun ambiguity found -- parable characters (e.g. the farmer in v26-29) keep their 'he' as a single, unambiguous referent within each story.",
     "verses": [
       {
         "n": 1,
