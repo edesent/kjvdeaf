@@ -2251,9 +2251,9 @@
     ]
   },
   "14": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with additional bare pronouns replaced with explicit names (Jesus in v40, Judas in v45) per the site's editorial guidelines. No capitalization issues found.",
     "verses": [
       {
         "n": 1,
