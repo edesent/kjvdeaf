@@ -1770,9 +1770,10 @@
     ]
   },
   "11": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his/him' rendered gender-neutral in v3, v23, v25.",
+    "sourceUrl": "https://kjvdeaf.com/mark-chapter-11/",
     "verses": [
       {
         "n": 1,
