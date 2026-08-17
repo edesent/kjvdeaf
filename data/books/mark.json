@@ -2096,9 +2096,9 @@
     ]
   },
   "13": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'his' rendered gender-neutral in v15-16, and 'the Lord'/'the Son of Man' named explicitly in v20, v27 in place of bare pronouns. The parable of the watchful owner (v34-36) keeps its pronouns as a single, unambiguous character within the story.",
     "verses": [
       {
         "n": 1,
