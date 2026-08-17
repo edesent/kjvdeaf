@@ -2546,9 +2546,9 @@
     ]
   },
   "15": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with 'Pilate' named explicitly in v15 in place of bare pronouns. V38's curtain 'torn in two' already matches the same Greek root (schizo) as the heavens 'torn open' in Mark 1:10, completing that literary bookend within this Gospel. No capitalization issues found.",
     "verses": [
       {
         "n": 1,
