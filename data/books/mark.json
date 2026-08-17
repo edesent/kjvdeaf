@@ -2741,9 +2741,9 @@
     ]
   },
   "16": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with 'the young man' named explicitly in v6 instead of a bare pronoun (the figure is described as 'a young man dressed in a white robe' in v5). No capitalization issues found. This chapter completes the whole Gospel of Mark.",
     "verses": [
       {
         "n": 1,
