@@ -23,6 +23,11 @@ This is a reversal of an earlier standard used in parts of this project (which c
 
 Do NOT capitalize pronouns referring to ordinary people (Peter, Pilate, Herod, "a man," etc.) -- this rule applies only to references to Deity.
 
+## LORD / Lord / lord
+- **LORD** (all caps): the divine name YHWH, almost exclusively in Old Testament quotations (e.g. "The LORD said to my Lord," Psalm 110:1, quoted in Matthew 22:44).
+- **Lord** (capital L only): a title for God or Jesus (Greek *Kyrios*). This is the normal NT usage -- "the Lord Jesus," "Lord, have mercy on me," etc.
+- **lord** (lowercase): an ordinary human master or authority -- a servant's master in a parable, or addressing a king/ruler as "my lord." Not a divine reference.
+
 ## Gender-neutral language
 Convert generic "he/his/him" (referring to "anyone," "whoever," "a person," "a prophet," etc.) to gender-neutral phrasing ("that person," "they/their," or restructuring). Exception: gendered passages that are textually specific (e.g. husband/wife qualifications, "husband of one wife," household codes) stay gendered.
 
