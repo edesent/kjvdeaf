@@ -16,7 +16,13 @@ Exceptions where pronouns are fine as-is:
 
 Also watch for **over-repetition** in the other direction: if a name is repeated many times in quick succession with no ambiguity risk, smooth some instances back to a pronoun (e.g. "Mary Magdalene and the other Mary" repeated 6x in Matthew 28 was trimmed to "they/them" after first establishing both women).
 
-## Gender-neutral language
+## Divine pronoun capitalization (REVERENTIAL CAPITALIZATION -- updated standard)
+Capitalize all pronouns referring to God the Father, Jesus Christ, and the Holy Spirit: **He, Him, His, Himself, You, Your, Yours, Thy, Thine** (when directly addressing God/Jesus in prayer or speech). This matches the convention used in NKJV and NASB.
+
+This is a reversal of an earlier standard used in parts of this project (which called for lowercase divine pronouns to match modern translations like NIV). As of this update, capitalization is the correct standard going forward, and a retroactive fix is in progress across books where the old lowercase standard was applied (Matthew, Mark, Luke, John chapters 2-6, 1 John 4). Check a book/chapter's status before assuming which standard was applied -- if in doubt, check for consistency within the chapter itself and fix to capitalized.
+
+Do NOT capitalize pronouns referring to ordinary people (Peter, Pilate, Herod, "a man," etc.) -- this rule applies only to references to Deity.
+
 Convert generic "he/his/him" (referring to "anyone," "whoever," "a person," "a prophet," etc.) to gender-neutral phrasing ("that person," "they/their," or restructuring). Exception: gendered passages that are textually specific (e.g. husband/wife qualifications, "husband of one wife," household codes) stay gendered.
 
 ## Capitalization
