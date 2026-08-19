@@ -23,6 +23,7 @@ This is a reversal of an earlier standard used in parts of this project (which c
 
 Do NOT capitalize pronouns referring to ordinary people (Peter, Pilate, Herod, "a man," etc.) -- this rule applies only to references to Deity.
 
+## Gender-neutral language
 Convert generic "he/his/him" (referring to "anyone," "whoever," "a person," "a prophet," etc.) to gender-neutral phrasing ("that person," "they/their," or restructuring). Exception: gendered passages that are textually specific (e.g. husband/wife qualifications, "husband of one wife," household codes) stay gendered.
 
 ## Capitalization
