@@ -1434,9 +1434,9 @@
     "videos": []
   },
   "13": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Covers Paul's instruction on submitting to governing authorities, love as the fulfillment of the law, and the call to wake up and live rightly since the day of salvation is nearer. Pronouns referring to human rulers in v3-4 correctly stay lowercase per this site's standard, since they do not refer to God.",
     "verses": [
       {
         "n": 1,
