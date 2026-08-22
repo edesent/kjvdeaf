@@ -195,9 +195,9 @@
     "videos": []
   },
   "4": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, and reviewed for English-ASL clarity. Covers instructions on holy living, and Paul's teaching on the return of Christ and the resurrection of believers who have died. All pronouns referring to God, Jesus, and the Holy Spirit are capitalized per this site's standard.",
     "verses": [
       {
         "n": 1,
