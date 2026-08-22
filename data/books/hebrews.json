@@ -63,9 +63,9 @@
     ]
   },
   "2": {
-    "status": "needs-review",
+    "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, and reviewed for English-ASL clarity. Rewritten for active voice and short (8-15 word) sentences per this site's 5th-grade readability standard. Covers the warning against drifting from the message, and Jesus's identification with humanity in suffering, death, and temptation so He could become a merciful high priest. All pronouns referring to God and Jesus are capitalized per this site's standard; v6-8's quotation of Psalm 8 stays lowercase as originally about humanity in general, with the explicit shift to Jesus specifically beginning at v9.",
     "verses": [
       {
         "n": 1,
