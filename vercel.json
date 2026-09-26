@@ -2,5 +2,6 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "github": {
     "autoJobCancelation": true
-  }
+  },
+  "ignoreCommand": "node scripts/skip-superseded-build.mjs"
 }
