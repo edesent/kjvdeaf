@@ -125,5 +125,36 @@
     "status": "published",
     "generated": true,
     "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible). Notes: v2 Hebrew damiti can mean 'I have compared' or 'I will destroy'; kept the KJV reading. v9 salsillot means vine branches, not baskets; the command is left unnamed as in the Hebrew. v10 the idiom 'uncircumcised ear' is given as its meaning, refusing to listen. v11 follows the Hebrew imperative 'pour out' (shefokh), with the LORD commanding Jeremiah. v18 the Hebrew phrase is difficult; rendered as an address to the gathered nations. v27 bahon (tester of metal) and mivtsar (fortress) are both kept. 'LORD of hosts' is rendered 'the LORD of all armies'."
+  },
+  "8": {
+    "verses": [
+      { "n": 1, "text": "The LORD says: At that time, enemies will dig up the bones of the kings of Judah. They will dig up the bones of the leaders, the priests, the prophets and all the people of Jerusalem from their graves." },
+      { "n": 2, "text": "They will spread the bones out under the sun, the moon and all the stars of the sky. The people loved those things, served them, followed them, asked them for help and worshiped them. No one will gather the bones or bury them. They will lie on the ground like dung." },
+      { "n": 3, "text": "The LORD of all armies says: Some of these evil people will be left alive in the places where I have driven them. They will choose death instead of life." },
+      { "n": 4, "text": "The LORD said to Jeremiah: Tell the people: The LORD says: When people fall down, do they not get up again? When people turn away, do they not come back?" },
+      { "n": 5, "text": "Then why do the people of Jerusalem keep turning away from Me? They hold on to lies. They refuse to come back." },
+      { "n": 6, "text": "I listened carefully, but they did not speak what is right. No one is sorry for doing evil. No one asks: What have I done? Everyone runs their own way like a horse rushing into battle." },
+      { "n": 7, "text": "Even the stork in the sky knows when to come back. The dove, the swallow and the crane know when to return. But My people do not know what the LORD requires of them." },
+      { "n": 8, "text": "How can you say: We are wise. We have the law of the LORD. Look, the lying pen of the teachers of the law has turned the law into lies." },
+      { "n": 9, "text": "The wise people will be ashamed. They will be terrified and caught. They have rejected the word of the LORD. So what wisdom do they have?" },
+      { "n": 10, "text": "So I will give their wives to other men. I will give their fields to new owners. Everyone from the least important to the most important is greedy for money. From the prophet to the priest, everyone lies and cheats." },
+      { "n": 11, "text": "They treat the deep wound of My people like a small cut. They say: Peace, peace. But there is no peace." },
+      { "n": 12, "text": "Were they ashamed when they did hateful things? No, they were not ashamed at all. They did not even know how to blush. So they will fall with the others who fall. When I punish them, they will be thrown down, says the LORD." },
+      { "n": 13, "text": "The LORD says: I will completely destroy them. There will be no grapes on the vine and no figs on the fig tree. The leaves will dry up. What I gave them will be taken away." },
+      { "n": 14, "text": "The people say: Why are we sitting here? Let us gather together. Let us go into the strong cities and die there. The LORD our God has decided that we will die. He has given us bitter poisoned water to drink, because we sinned against the LORD." },
+      { "n": 15, "text": "We hoped for peace, but nothing good came. We hoped for a time of healing, but only terror came." },
+      { "n": 16, "text": "The snorting of the enemy horses is heard from the town of Dan. The whole land shakes at the sound of their strong horses neighing. The enemy comes and eats up the land and everything in it. They eat up the city and the people who live there." },
+      { "n": 17, "text": "The LORD says: Look, I am sending poisonous snakes among you. No one can charm them. They will bite you." },
+      { "n": 18, "text": "Jeremiah says: I try to comfort myself, but my sorrow is too heavy. My heart is weak inside me." },
+      { "n": 19, "text": "I hear the cry of my people from a faraway land. They ask: Is the LORD not in Zion? Is Zion's King not there? The LORD answers: Why did they make Me angry with their carved idols and their worthless foreign gods?" },
+      { "n": 20, "text": "The people say: The harvest is over. The summer is gone. We are not saved." },
+      { "n": 21, "text": "Jeremiah says: My people are hurt, so I am hurt. I am full of sorrow. Terror has taken hold of me." },
+      { "n": 22, "text": "Is there no healing ointment in Gilead? Is there no doctor there? Then why are my people not healed?" }
+    ],
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. Speakers are not marked in the KJV: verses 1-17 are the LORD (with the people speaking in verses 14-15), verses 18-22 are Jeremiah (the LORD answers in verse 19). Verses 8 (the scribes' pen), 13 (end of verse), 14 ('put us to silence' and 'water of gall'), 18 and 21 ('I am black' means deep mourning) use hard Hebrew wording and need careful review. Verses 10-12 match Jeremiah 6:12-15 and use the same wording.",
+    "sourceUrl": "https://kjvdeaf.com/old-testament/jeremiah/jeremiah-chapter-8/",
+    "status": "needs-review",
+    "videos": []
   }
 }
