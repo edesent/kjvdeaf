@@ -176,5 +176,37 @@
     "generated": true,
     "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
     "videos": []
+  },
+  "16": {
+    "verses": [
+      { "n": 1, "text": "The LORD said to Samuel: How long will you grieve for Saul? I have rejected Saul as king over Israel. Fill your horn with oil and go. I am sending you to Jesse in Bethlehem. I have chosen one of his sons to be king." },
+      { "n": 2, "text": "Samuel said: How can I go? Saul will hear about it and kill me. The LORD said: Take a young cow with you. Say: I have come to offer a sacrifice to the LORD." },
+      { "n": 3, "text": "Invite Jesse to the sacrifice. I will show you what to do. You will anoint the one I name to you." },
+      { "n": 4, "text": "Samuel did what the LORD said and went to Bethlehem. The leaders of the town came to meet Samuel. They were shaking with fear. They asked: Do you come in peace?" },
+      { "n": 5, "text": "Samuel said: Yes, in peace. I have come to offer a sacrifice to the LORD. Make yourselves clean and come with me to the sacrifice. Samuel also made Jesse and his sons clean and invited them to the sacrifice." },
+      { "n": 6, "text": "When they came, Samuel saw Eliab. Samuel thought: The one the LORD has chosen must be standing here." },
+      { "n": 7, "text": "But the LORD said to Samuel: Do not look at his face or how tall he is. I have rejected him. The LORD does not see the way people see. People look at the outside. The LORD looks at the heart." },
+      { "n": 8, "text": "Jesse called Abinadab and had him walk past Samuel. Samuel said: The LORD has not chosen this one either." },
+      { "n": 9, "text": "Jesse had Shammah walk past Samuel. Samuel said: The LORD has not chosen this one either." },
+      { "n": 10, "text": "Jesse had 7 of his sons walk past Samuel. Samuel said to Jesse: The LORD has not chosen any of these." },
+      { "n": 11, "text": "Samuel asked Jesse: Are these all your sons? Jesse said: The youngest is still out with the sheep. Samuel said to Jesse: Send for him. We will not sit down to eat until he comes here." },
+      { "n": 12, "text": "Jesse sent for his youngest son and brought him in. David was healthy, with bright eyes and a handsome face. The LORD said to Samuel: Get up and anoint him. He is the one." },
+      { "n": 13, "text": "Samuel took the horn of oil and anointed David in front of his brothers. From that day on, the Spirit of the LORD came on David with power. Then Samuel went back to Ramah." },
+      { "n": 14, "text": "The Spirit of the LORD left Saul. The LORD sent an evil spirit that frightened and upset Saul." },
+      { "n": 15, "text": "Saul's servants said to him: An evil spirit from God is upsetting you." },
+      { "n": 16, "text": "Our king, tell us to find a man who plays the harp well. When the evil spirit from God comes on you, that man will play. Then you will feel better." },
+      { "n": 17, "text": "Saul said to his servants: Find me a man who plays well and bring him to me." },
+      { "n": 18, "text": "One servant said: I have seen a son of Jesse in Bethlehem who plays well. He is a brave man and a fighter. He speaks wisely, and he is handsome. The LORD is with him." },
+      { "n": 19, "text": "Saul sent messengers to Jesse with this message: Send me your son David, who is with the sheep." },
+      { "n": 20, "text": "Jesse took a donkey loaded with bread, a bottle of wine and a young goat. Jesse sent them to Saul with his son David." },
+      { "n": 21, "text": "David came to Saul and stood before him. Saul loved David very much. David became the man who carried Saul's armor." },
+      { "n": 22, "text": "Saul sent word to Jesse: Let David stay and serve me. I am pleased with him." },
+      { "n": 23, "text": "Whenever the evil spirit from God came on Saul, David took his harp and played. Then Saul felt better and was well again. The evil spirit left Saul." }
+    ],
+    "sourceUrl": "https://kjvdeaf.com/old-testament/1st-samuel/1st-samuel-chapter-16/",
+    "status": "needs-review",
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. Check: 'anoint' (verses 3, 12, 13) is kept as a Bible word; 'evil spirit from the LORD/God' (verses 14-16, 23) follows the Hebrew; 'ruddy' in verse 12 is rendered 'healthy, with bright eyes'; 'armourbearer' in verse 21 is rendered 'the man who carried Saul's armor'.",
+    "videos": []
   }
 }
