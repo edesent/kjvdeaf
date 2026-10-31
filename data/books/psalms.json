@@ -1414,6 +1414,26 @@
     "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with vocabulary chosen to match natural ASL signs. Restored 'valley of the shadow of death' and 'rod and staff' imagery in v4, which had been narrowed to a paraphrase about literal dying.",
     "videos": []
   },
+  "32": {
+    "verses": [
+      { "n": 1, "text": "Blessed is the person whose wrongs are forgiven. Blessed is the person whose sin is covered." },
+      { "n": 2, "text": "Blessed is the person the LORD does not hold guilty. Blessed is the person who has no lies in their spirit." },
+      { "n": 3, "text": "When I kept silent about my sin, my bones grew weak. I groaned all day long." },
+      { "n": 4, "text": "Day and night Your hand was heavy on me. My strength dried up like a field in summer heat." },
+      { "n": 5, "text": "Then I told You my sin. I did not hide my wrong. I said: I will tell the LORD my sins. And You forgave the guilt of my sin." },
+      { "n": 6, "text": "So everyone who is faithful to You should pray to You while You can be found. When the great floods rise, the water will not reach that person." },
+      { "n": 7, "text": "You are my hiding place. You keep me safe from trouble. You surround me with songs of rescue." },
+      { "n": 8, "text": "I will teach you and show you the way you should go. I will guide you with My eye." },
+      { "n": 9, "text": "Do not be like a horse or a mule that has no understanding. They must be controlled with a bit and bridle, or they will not come near you." },
+      { "n": 10, "text": "The wicked have many sorrows. But those who trust in the LORD are surrounded by His mercy." },
+      { "n": 11, "text": "Be glad in the LORD and rejoice, you who do what is right. Shout for joy, all you who are honest in heart." }
+    ],
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. The word Selah (verses 4, 5 and 7) is left out. Verses 8 and 9 appear to be God speaking, but the KJV does not say so; verses 6 and 9 use obscure Hebrew wording. All need careful review.",
+    "sourceUrl": "https://kjvdeaf.com/old-testament/psalms/psalms-32/",
+    "status": "needs-review",
+    "videos": []
+  },
   "39": {
     "verses": [
       {
