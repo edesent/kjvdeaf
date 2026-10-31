@@ -701,9 +701,34 @@
     ]
   },
   "8": {
-    "verses": [],
+    "verses": [
+      { "n": 1, "text": "God remembered Noah and all the wild animals and farm animals with him in the ark. God sent a wind over the earth, and the water began to go down." },
+      { "n": 2, "text": "The underground waters and the windows of the sky were closed. The rain stopped falling from the sky." },
+      { "n": 3, "text": "The water went down from the earth little by little. After 150 days, the water was much lower." },
+      { "n": 4, "text": "On the 17th day of the seventh month, the ark came to rest on the mountains of Ararat." },
+      { "n": 5, "text": "The water kept going down until the tenth month. On the first day of the tenth month, the tops of the mountains could be seen." },
+      { "n": 6, "text": "After 40 more days, Noah opened the window he had made in the ark." },
+      { "n": 7, "text": "Noah sent out a raven. The raven flew back and forth until the water dried up from the earth." },
+      { "n": 8, "text": "Then Noah sent out a dove, to see if the water had gone down from the ground." },
+      { "n": 9, "text": "The dove found no place to land, because water covered all the earth. The dove came back to Noah in the ark. Noah put out his hand, took the dove, and brought it back into the ark." },
+      { "n": 10, "text": "Noah waited seven more days. Then Noah sent the dove out of the ark again." },
+      { "n": 11, "text": "In the evening the dove came back to Noah. The dove had a fresh olive leaf in its mouth. So Noah knew that the water had gone down from the earth." },
+      { "n": 12, "text": "Noah waited seven more days. Then Noah sent the dove out again. This time the dove did not come back." },
+      { "n": 13, "text": "In Noah's 601st year, on the first day of the first month, the water had dried up from the earth. Noah removed the cover of the ark and looked. The ground was dry." },
+      { "n": 14, "text": "By the 27th day of the second month, the earth was completely dry." },
+      { "n": 15, "text": "Then God said to Noah:" },
+      { "n": 16, "text": "Go out of the ark, you and your wife, your sons, and your sons' wives." },
+      { "n": 17, "text": "Bring out every living thing that is with you: the birds, the animals, and everything that crawls on the ground. Let them have many young ones on the earth. Let them grow in number and fill the earth." },
+      { "n": 18, "text": "So Noah went out of the ark with his sons, his wife, and his sons' wives." },
+      { "n": 19, "text": "Every animal, every creature that crawls, and every bird went out of the ark, each kind with its own kind." },
+      { "n": 20, "text": "Then Noah built an altar for the LORD. Noah took some of every clean animal and every clean bird. Noah offered them as burnt offerings on the altar." },
+      { "n": 21, "text": "The LORD smelled the sweet smell. The LORD said in His heart: I will never again curse the ground because of humans, even though the thoughts of humans are evil from the time they are young. I will never again destroy every living thing, as I have done." },
+      { "n": 22, "text": "As long as the earth lasts, there will always be a time to plant and a time to harvest. There will always be cold and heat, summer and winter, day and night." }
+    ],
+    "generated": true,
+    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
     "sourceUrl": "https://kjvdeaf.com/old-testament/genesis/genesis-chapter-08/",
-    "status": "empty",
+    "status": "needs-review",
     "videos": []
   },
   "9": {
