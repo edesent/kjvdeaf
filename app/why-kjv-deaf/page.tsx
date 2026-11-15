@@ -93,8 +93,8 @@ export default function WhyKjvDeafPage() {
           Fixing places where the English hides the original meaning
         </h2>
         <p>
-          Some KJV words were the right word in 1611 but mislead a reader
-          today. A few examples, verified against the Hebrew:
+          Some KJV words were the right word in 1611 but mislead readers
+          today, especially Deaf readers. A few examples, verified against the Hebrew:
         </p>
         <ul className="ml-5 list-disc space-y-2.5">
           <li>
