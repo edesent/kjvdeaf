@@ -2,8 +2,18 @@
 
 Standing rules applied throughout this project. Keep this file updated as new standards are established.
 
+## Stay faithful to the KJV (TOP RULE -- overrides every other rule)
+The KJV is the standard. Simplifying can change the words, but never what the verse says.
+- **Same subject.** Who does the action stays the same. "By Him were all things created" (Colossians 1:16) means the Son created -- not "God made everything through the Son."
+- **Same action.** What happens stays the same. "Took on Him the seed of Abraham" (Hebrews 2:16) means Jesus became human -- not "Jesus helps."
+- **Same condition.** Every "if," "unless," and command stays. "If ye keep in memory" (1 Corinthians 15:2) stays a condition.
+- **No added explanation.** Do not add meaning the KJV does not have (e.g. "without complete commitment").
+- **Follow the KJV's Greek text (Received Text), not modern Bibles.** "The prophets" in Mark 1:2; "God was manifest in the flesh" in 1 Timothy 3:16.
+- **The KJV wins.** Hebrew/Greek is used to understand KJV words, not to replace them. If a modern reading of the Hebrew or Greek seems to differ from the KJV, keep the KJV (e.g. Proverbs 25:23 "the north wind drives away rain"; Psalm 139:16 "all my body parts").
+- **Do not copy other Bibles.** No wording taken from the Easy-to-Read Version, Amplified Bible, NIV, or similar.
+
 ## Core approach
-- **KJV base text**, checked verse-by-verse against Hebrew/Greek (Strong's Concordance / Blue Letter Bible)
+- **KJV base text**; Hebrew/Greek (Strong's Concordance / Blue Letter Bible) used only to understand the KJV's words
 - Plain, direct, everyday English — avoid elevated/Latinate vocabulary (e.g. "transfigured," "customs duties," "exempt," "luminous") even when it would be more "literary." Sharpen concrete/visual details when they carry real meaning (e.g. "torn open" vs "open," "dug through" vs "made a hole"), but don't add exposition the original text doesn't have.
 
 ## Pronoun clarity — PREFER EXPLICIT NOUNS OVER PRONOUNS
