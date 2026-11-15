@@ -26,18 +26,13 @@ export default function AboutPage() {
         </h2>
         <p>
           The <strong>King James Version is the base</strong>, because I believe it
-          is the closest to the original. Then I compare it with other trusted
-          resources to find the clearest way to say each verse:
+          is the closest to the original. Each verse is then brought down to the
+          easiest, clearest words.
         </p>
-        <ul className="ml-5 list-disc space-y-1.5">
-          <li>the Africa Deaf Bible</li>
-          <li>the Easy-to-Read Version</li>
-          <li>the Amplified Bible</li>
-          <li>Blue Letter Bible</li>
-        </ul>
         <p>
-          Working between them, each verse is brought down to the easiest, clearest
-          words. I also take out most of the pronouns — words like{" "}
+          Where the ASL meaning and the English word do not agree, we go back to
+          the original Hebrew or Greek to find what the verse really says. I also
+          take out most of the pronouns — words like{" "}
           <em>he, she, it,</em> and <em>they</em> — that can be confusing, and put
           back the name of the person or thing instead. The goal is always the same:
           that anyone can open a chapter and understand it right away.
