@@ -1,670 +1,205 @@
 {
   "1": {
     "verses": [
-      {
-        "n": 1,
-        "text": "I am Paul. God chose me to be an apostle of Christ Jesus. I am writing this letter to the believers who live in the city of Ephesus and who are faithful followers of Christ Jesus."
-      },
-      {
-        "n": 2,
-        "text": "I, Paul, pray that God our Father and the Lord Jesus Christ will give you grace and peace."
-      },
-      {
-        "n": 3,
-        "text": "We praise God the Father of our Lord Jesus Christ, because He is very good to us. We belong to Christ and the Holy Spirit has given us all the good things in heaven."
-      },
-      {
-        "n": 4,
-        "text": "Before God made the world, He had chosen us to be part of His family through Christ. He chose us to be holy and full of love and without fault when He looks at us."
-      },
-      {
-        "n": 5,
-        "text": "And before the world was made, God decided to make us His own children through Jesus Christ. This was what God wanted, and it pleased Him to do it."
-      },
-      {
-        "n": 6,
-        "text": "So we praise God for the wonderful grace that He has given us because we belong to His Son, whom He loves very much."
-      },
-      {
-        "n": 7,
-        "text": "Christ gave His blood and His life. Christ died for us and that is how God has forgiven our sins and made us free. This is how God has shown us how wonderful His grace is."
-      },
-      {
-        "n": 8,
-        "text": "God gave us this grace overflowing with wisdom and understanding."
-      },
-      {
-        "n": 9,
-        "text": "God let us know His secret plan. This was what God wanted, and God planned on doing it through Christ."
-      },
-      {
-        "n": 10,
-        "text": "When the right time came, God's plan was to bring all things together in Christ. This includes both the things in heaven and the things on earth, joined together with Christ as the head."
-      },
-      {
-        "n": 11,
-        "text": "In Christ we have received an inheritance. God had already planned for us to be His people, through faith in Christ, because that is what God wanted."
-      },
-      {
-        "n": 12,
-        "text": "We who were the first to hope in Christ, who first put our trust in Jesus as our Lord and Savior, live to bring praise to His glory."
-      },
-      {
-        "n": 13,
-        "text": "You in Ephesus also belong to Christ, because someone has told you the true Good News that God wants to save you, and you believe it. When you believed, God sealed you with the Holy Spirit, marking you as God's own, just as God promised."
-      },
-      {
-        "n": 14,
-        "text": "The Holy Spirit is the first payment that guarantees our inheritance, until God's saved people all get to heaven. The goal for all God's children is the praise of God in all His glory."
-      },
-      {
-        "n": 15,
-        "text": "Someone has told me that you believe in the Jesus and that you love everyone who belongs to God."
-      },
-      {
-        "n": 16,
-        "text": "That is why, when I pray, I always thank God for you and think of you in my prayers."
-      },
-      {
-        "n": 17,
-        "text": "I also ask the God of our Lord Jesus Christ, the Father of glory, to give you spiritual wisdom and show you how you can get to know Him better."
-      },
-      {
-        "n": 18,
-        "text": "I pray that God will open your minds to see His truth. Then you will know the hope that He has chosen us to have. You will know that the blessings God has promised His holy people are rich and glorious."
-      },
-      {
-        "n": 19,
-        "text": "I pray that you will know how strong God's power is in the lives of those of us who believe in Him. It is the same as the mighty power of God."
-      },
-      {
-        "n": 20,
-        "text": "This is the same power that God used when He made Christ live again and let Jesus sit on God's right side in heaven."
-      },
-      {
-        "n": 21,
-        "text": "Christ is more important than everyone and everything that wants to rule over this world. He is more important than anyone we can think of, now and in the time to come."
-      },
-      {
-        "n": 22,
-        "text": "God put everything under Christ's power and made Him head over everything for the church."
-      },
-      {
-        "n": 23,
-        "text": "The church is Christ's body. Christ makes the church live and gives true life to the church and to all."
-      }
+      { "n": 1, "text": "Paul, an apostle of Jesus Christ because God wanted it. To the saints (holy people) at Ephesus, and to the faithful in Christ Jesus:" },
+      { "n": 2, "text": "May God our Father and the Lord Jesus Christ give you grace and peace." },
+      { "n": 3, "text": "Blessed be the God and Father of our Lord Jesus Christ. God has blessed us with every spiritual blessing in heavenly places in Christ." },
+      { "n": 4, "text": "God chose us in Christ before the world was made. God chose us to be holy and without blame before Him in love." },
+      { "n": 5, "text": "We were predestinated (chosen ahead of time) to be adopted as God's children by Jesus Christ. God did this because it pleased Him and He wanted it." },
+      { "n": 6, "text": "This is to the praise of the glory of God's grace. By His grace God has made us accepted in the Beloved (His dear Son)." },
+      { "n": 7, "text": "In the Son we have redemption (being bought back and set free) through His blood. Our sins are forgiven, because God's grace is so rich." },
+      { "n": 8, "text": "God has poured out this grace on us richly, in all wisdom and understanding." },
+      { "n": 9, "text": "God has made known to us the mystery (secret) of what He wants. This was His own good plan, which He decided on in Himself." },
+      { "n": 10, "text": "God's plan is this: when the time is full, God will gather together all things in Christ. God will gather things in heaven and things on earth, all in Christ." },
+      { "n": 11, "text": "In Christ we also have received an inheritance. We were predestinated (chosen ahead of time) by God's plan. God works out everything the way He wants." },
+      { "n": 12, "text": "God did this so that we, who first trusted in Christ, would bring praise to His glory." },
+      { "n": 13, "text": "You also trusted in Christ after you heard the word of truth, the good news of your salvation. After you believed, you were sealed (marked as God's own) with the Holy Spirit of promise." },
+      { "n": 14, "text": "The Holy Spirit is the earnest (first payment) of our inheritance. The Spirit is our promise until the redemption (being bought back and set free) of those God has bought as His own. All this is to the praise of His glory." },
+      { "n": 15, "text": "For this reason, I also heard about your faith in the Lord Jesus and your love for all the saints (holy people)." },
+      { "n": 16, "text": "So I never stop thanking God for you. I remember you in my prayers." },
+      { "n": 17, "text": "I pray that the God of our Lord Jesus Christ, the Father of glory, will give you the spirit of wisdom and revelation (showing). Then you will know God better." },
+      { "n": 18, "text": "I pray that the eyes of your understanding will be filled with light. Then you will know the hope of God's calling. You will know the riches of the glory of God's inheritance in the saints (holy people)." },
+      { "n": 19, "text": "And you will know how very great God's power is toward us who believe. It is the working of God's mighty power." },
+      { "n": 20, "text": "God used this power in Christ when God raised Christ from the dead. God set Christ at His own right hand in the heavenly places." },
+      { "n": 21, "text": "Christ is far above every ruler, power, might, and lord. Christ is above every name that is named, not only in this world, but also in the world to come." },
+      { "n": 22, "text": "God has put all things under Christ's feet. God gave Christ to be head over all things for the church." },
+      { "n": 23, "text": "The church is Christ's body. The church is the fulness of Christ, who fills all things everywhere." }
     ],
     "sourceUrl": "https://kjvdeaf.com/ephesians-chapter-1/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Verse 8, previously missing entirely, has been restored, and several garbled/grammar issues fixed (v10, v14, v20). V13 restored the missing 'sealed' imagery (Greek espragisthete, a royal wax-seal stamp marking ownership), which had been dropped -- only the separate 'down payment/guarantee' concept (v14) had survived.",
+    "source": "Rewritten 2026-11-15 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "2": {
     "verses": [
-      {
-        "n": 1,
-        "text": "God made you alive, because you were spiritually dead because of your sins and the things you did against God."
-      },
-      {
-        "n": 2,
-        "text": "You lived like the sinful people of this world, and you did what the devil wanted you to do. The devil is the leader of the evil spirits. The devil wants to rule the people of the world. He is the one who works in the hearts of the people who do not want to listen to God."
-      },
-      {
-        "n": 3,
-        "text": "In the past all of us lived like that, trying to please our sinful selves. We did all the things our bodies and minds wanted. Like everyone else in the world, we deserved to suffer God's anger just because of the way we were."
-      },
-      {
-        "n": 4,
-        "text": "But God has a lot of mercy that He wants to give. God loves us and He has shown it to us."
-      },
-      {
-        "n": 5,
-        "text": "We were spiritually dead because of all we had done against God. But God gave us new life together with Christ. You have been saved by God's grace."
-      },
-      {
-        "n": 6,
-        "text": "We belong to Christ Jesus and just like God made Christ live again, God will raise us from death and seat us together with Him in the heavenly places."
-      },
-      {
-        "n": 7,
-        "text": "God did this so that His kindness to us who belong to Christ Jesus would show the amazing richness of His grace. This will be clear for all time to come."
-      },
-      {
-        "n": 8,
-        "text": "You were saved by grace because you believed. You did not save yourselves; it was a gift from God."
-      },
-      {
-        "n": 9,
-        "text": "God has saved you, but God did not do it because you have done good things. This is why no one may boast and say that they are good."
-      },
-      {
-        "n": 10,
-        "text": "God has made us what we are. In Christ Jesus, God made us new people so that we would spend our lives doing the good things He had already planned for us to do."
-      },
-      {
-        "n": 11,
-        "text": "You must remember that you were non-Jewish people. The Jews said you were not circumcised. It is true that the Jews are circumcised, but it is only their bodies that have changed."
-      },
-      {
-        "n": 12,
-        "text": "Remember that you did not belong to Christ before. The people of Israel were the people of God, not you. God made agreements with the people of Israel, not with you. God promised a lot of things to the people of Israel, not to you. You had no hope, and you did not know God."
-      },
-      {
-        "n": 13,
-        "text": "You were far away from God, but now you have come near to Him through Jesus Christ. You are brought near to God through the blood sacrifice of Christ."
-      },
-      {
-        "n": 14,
-        "text": "Christ is our peace. Christ made us Jews and you who are not Jews into one people. We were separated by a wall of hate that stood between us, but Christ broke down that wall by giving His own body."
-      },
-      {
-        "n": 15,
-        "text": "Christ's death on the cross ended the hatred, and the law with its many commands and rules. Christ's purpose was to make the two groups become one in Him. By doing this, He made peace."
-      },
-      {
-        "n": 16,
-        "text": "Through the cross Christ ended the hate between the two groups. And after they became one body, He wanted to bring them both back to God. Christ did this with His death on the cross."
-      },
-      {
-        "n": 17,
-        "text": "Christ came and brought the message of peace to you non-Jewish people who were far away from God. And Christ also brought that message of peace to those who were near to God."
-      },
-      {
-        "n": 18,
-        "text": "Through Christ we all have the right to come to God the Father in one Spirit."
-      },
-      {
-        "n": 19,
-        "text": "Now you non-Jewish people are not visitors or strangers, but you are citizens together with God's holy people. You belong to God's family."
-      },
-      {
-        "n": 20,
-        "text": "You are the church. You are like a building. The foundation of this building is the apostles and prophets, and Christ Jesus Himself is the most important stone in the building."
-      },
-      {
-        "n": 21,
-        "text": "In Christ, the whole building is joined together and grows into a holy temple that belongs to the Lord."
-      },
-      {
-        "n": 22,
-        "text": "And in Christ you are being built together with His other people. You are being made into a place where God lives through the Spirit."
-      }
+      { "n": 1, "text": "And God made you alive. You were dead in trespasses (wrongs) and sins." },
+      { "n": 2, "text": "In the past you lived the way this world lives. You followed the prince of the power of the air (the devil). The devil is the spirit who now works in the children of disobedience (people who disobey God)." },
+      { "n": 3, "text": "All of us also lived among them in the past. We lived by the lusts (wrong desires) of our flesh. We did what our flesh and our minds wanted. By nature we were children of wrath (God's anger), just like everyone else." },
+      { "n": 4, "text": "But God is rich in mercy. God loved us with a great love." },
+      { "n": 5, "text": "Even when we were dead in sins, God made us alive together with Christ. By grace you are saved." },
+      { "n": 6, "text": "And God has raised us up together, and made us sit together in heavenly places in Christ Jesus." },
+      { "n": 7, "text": "God did this so that in the ages to come, God might show the great riches of His grace. God shows it by His kindness toward us through Christ Jesus." },
+      { "n": 8, "text": "For by grace you are saved through faith. It is not from yourselves. It is the gift of God." },
+      { "n": 9, "text": "It is not from works (the good things we do), so that no one can boast (brag)." },
+      { "n": 10, "text": "For we are God's workmanship (what God has made). We are created in Christ Jesus to do good works. God planned these good works ahead of time, so that we would live in them." },
+      { "n": 11, "text": "So remember what you were in the past. You were Gentiles (people who are not Jews) by birth. The Jews called you the Uncircumcision. The Jews called themselves the Circumcision, because of what was done to their bodies by human hands." },
+      { "n": 12, "text": "At that time you were without Christ. You were outsiders, not part of the nation of Israel. You were strangers to the agreements of promise. You had no hope, and you were without God in the world." },
+      { "n": 13, "text": "But now in Christ Jesus, you who were once far away are brought near by the blood of Christ." },
+      { "n": 14, "text": "For Christ is our peace. Christ has made both groups one. Christ has broken down the wall in the middle that separated us." },
+      { "n": 15, "text": "In His flesh, Christ ended the enmity (hate) between us. That enmity (hate) was the law of commands and rules. Christ did this to make the two groups into one new man in Himself. In this way Christ made peace." },
+      { "n": 16, "text": "Christ did this to reconcile (bring back to God) both groups in one body by the cross. By the cross Christ killed the enmity (hate)." },
+      { "n": 17, "text": "Christ came and preached peace to you who were far away, and to those who were near." },
+      { "n": 18, "text": "For through Christ we both can come to the Father by one Spirit." },
+      { "n": 19, "text": "So now you are no longer strangers and foreigners. You are fellow citizens with the saints (holy people), and part of the household (family) of God." },
+      { "n": 20, "text": "You are built on the foundation of the apostles and prophets. Jesus Christ Himself is the chief corner stone (the most important stone)." },
+      { "n": 21, "text": "In Christ the whole building is joined together. It grows into a holy temple in the Lord." },
+      { "n": 22, "text": "In Christ you also are built together into a place where God lives through the Spirit." }
     ],
     "sourceUrl": "https://kjvdeaf.com/ephesians-chapter-2/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed word-order/grammar issues in v1 and v6. Verse 20's ending had been accidentally overwritten with chapter 3's verse 21 content, and the chapter's actual verse 21 (about the building growing into a holy temple) was missing entirely; both have now been restored correctly. V15 fixed two missing possessive apostrophes ('Christ death' / 'Christ purpose').",
+    "source": "Rewritten 2026-11-15 fresh from the public-domain King James Version (the earlier text was a loose paraphrase and put v6 in the future tense), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "3": {
     "verses": [
-      {
-        "n": 1,
-        "text": "So I, Paul, am a prisoner because I serve Christ Jesus for you who are not Jews."
-      },
-      {
-        "n": 2,
-        "text": "Surely you know that God gave me this work through His grace to help you."
-      },
-      {
-        "n": 3,
-        "text": "God let me know His secret plan by showing it to me. I have already written a little about this."
-      },
-      {
-        "n": 4,
-        "text": "When you read what I have written, you can understand the secret truth about Christ."
-      },
-      {
-        "n": 5,
-        "text": "People who lived in other generations were not told that secret truth. But now, through the Spirit, God has made it known to His holy apostles and prophets."
-      },
-      {
-        "n": 6,
-        "text": "And this is the secret truth: that by hearing the Good News, those who are not Jews share with the Jews as co-heirs of God's promise. They are joint members of the same body, and they are co-partakers in the promise God made through Christ Jesus."
-      },
-      {
-        "n": 7,
-        "text": "By God's gift of grace, I became a servant to tell that Good News. God gave me that grace by using His power."
-      },
-      {
-        "n": 8,
-        "text": "I am the least important of all God's people. But He gave me this gift to tell the non-Jewish people the Good News about the riches Christ has. These riches are too great to understand fully."
-      },
-      {
-        "n": 9,
-        "text": "And God gave me the work of telling all people about the plan for His secret truth. That secret truth has been hidden in Him since the beginning of time. God is the one who created everything."
-      },
-      {
-        "n": 10,
-        "text": "God's purpose was that all the rulers and powers in the heavenly places will now know the many different ways He shows His wisdom. They will know this because of the church."
-      },
-      {
-        "n": 11,
-        "text": "This agrees with the plan God had since the beginning of time. God did what He planned, and He did it through Christ Jesus our Lord."
-      },
-      {
-        "n": 12,
-        "text": "In Christ we come before God with freedom and without fear. We can do this because of our faith in Christ."
-      },
-      {
-        "n": 13,
-        "text": "So I ask you not to be discouraged because of what is happening to me. My sufferings are for your benefit and for your honor and glory."
-      },
-      {
-        "n": 14,
-        "text": "That is why I kneel down and pray to the Father of our Lord Jesus Christ."
-      },
-      {
-        "n": 15,
-        "text": "Every family in heaven and on earth gets its true name from our Lord Jesus Christ."
-      },
-      {
-        "n": 16,
-        "text": "I ask the Father with His great glory to give you the power to be strong in your spirits. God will give you that strength through His Spirit."
-      },
-      {
-        "n": 17,
-        "text": "I pray that Christ will live in your hearts because of your faith. I pray that your life will be strong in love and be built on love."
-      },
-      {
-        "n": 18,
-        "text": "And I pray that you and all God's holy people will have the power to understand the greatness of Christ's love. Understand how wide, how long, how high, and how deep that love is."
-      },
-      {
-        "n": 19,
-        "text": "Christ's love is greater than anyone can ever know, but I pray that you will be able to know that love. Then you can be filled with everything God has for you."
-      },
-      {
-        "n": 20,
-        "text": "With God's power working in us, He can do much, much more than anything we can ask or think of."
-      },
-      {
-        "n": 21,
-        "text": "To Him be glory in the church and in Christ Jesus for all time, forever and ever. Amen."
-      }
+      { "n": 1, "text": "For this reason I, Paul, am the prisoner of Jesus Christ for you Gentiles (people who are not Jews)." },
+      { "n": 2, "text": "You have surely heard about the dispensation (work) of God's grace. God gave it to me for you." },
+      { "n": 3, "text": "By revelation (showing) God made known to me the mystery (secret). I wrote a little about this before." },
+      { "n": 4, "text": "When you read it, you can understand my knowledge of the mystery (secret) of Christ." },
+      { "n": 5, "text": "In other ages this was not made known to people. But now it is revealed (shown) to God's holy apostles and prophets by the Spirit." },
+      { "n": 6, "text": "This is the mystery (secret): the Gentiles (people who are not Jews) are fellow heirs. They are part of the same body. They share in God's promise in Christ by the good news." },
+      { "n": 7, "text": "I was made a minister (servant) of this good news. It was the gift of God's grace given to me by the working of His power." },
+      { "n": 8, "text": "I am less than the least of all saints (holy people). Yet God gave this grace to me. God gave it so that I would preach among the Gentiles (people who are not Jews) the unsearchable (too great to measure) riches of Christ." },
+      { "n": 9, "text": "God also gave this grace so that I would make everyone see the fellowship (sharing) of the mystery (secret). From the beginning of the world this mystery (secret) was hidden in God, who created all things by Jesus Christ." },
+      { "n": 10, "text": "God wants the rulers and powers in heavenly places to know now the many sides of God's wisdom. They will know it by the church." },
+      { "n": 11, "text": "This was God's eternal plan, which God planned in Christ Jesus our Lord." },
+      { "n": 12, "text": "In Christ we have boldness. We can come to God with confidence by faith in Christ." },
+      { "n": 13, "text": "So I ask you not to faint (lose heart) because of my troubles for you. My troubles are your glory." },
+      { "n": 14, "text": "For this reason I bow my knees to the Father of our Lord Jesus Christ." },
+      { "n": 15, "text": "The whole family in heaven and on earth is named after the Father." },
+      { "n": 16, "text": "I pray that the Father will give you strength from the riches of His glory. I pray that you will be made strong with might by His Spirit in the inner man (your inner self)." },
+      { "n": 17, "text": "I pray that Christ will live in your hearts by faith. I pray that you will be rooted and grounded (built firmly) in love." },
+      { "n": 18, "text": "Then you will be able to understand, with all the saints (holy people), how wide, how long, how deep, and how high Christ's love is." },
+      { "n": 19, "text": "I pray that you will know the love of Christ, which is greater than knowledge. Then you will be filled with all the fulness of God." },
+      { "n": 20, "text": "Now God is able to do far more than all we ask or think, by the power that works in us." },
+      { "n": 21, "text": "To God be glory in the church by Christ Jesus through all ages, forever and ever. Amen." }
     ],
     "sourceUrl": "https://kjvdeaf.com/ephesians-chapter-3/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a missing possessive apostrophe in v10. V6 restored the three distinct 'co-' concepts (co-heirs, joint body, co-partakers) that had been compressed together. 'I, Paul' smoothed from ten repetitions down to a single establishing use in v1, since first-person 'I' in written text has no competing referent and does not need repeated re-identification.",
+    "source": "Rewritten 2026-11-15 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences): v9 restores 'who created all things by Jesus Christ,' v15 names the Father, v21 reads 'by Christ Jesus.' Simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "4": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his' rendered gender-neutral in v28.",
+    "source": "Drafted from the public-domain King James Version. Revised 2026-11-15 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level. Generic 'he/his' rendered gender-neutral in v28.",
     "verses": [
-      {
-        "n": 1,
-        "text": "So I, a prisoner because I serve the Lord, beg you to live in a way that matches the calling God gave you."
-      },
-      {
-        "n": 2,
-        "text": "Be completely humble and gentle. Be patient, putting up with one another in love."
-      },
-      {
-        "n": 3,
-        "text": "Work hard to keep the unity that the Spirit gives, by living together in peace."
-      },
-      {
-        "n": 4,
-        "text": "There is one body and one Spirit, just as you were called to one hope."
-      },
-      {
-        "n": 5,
-        "text": "There is one Lord, one faith, one baptism;"
-      },
-      {
-        "n": 6,
-        "text": "One God and Father of all, who is over all, works through all, and is in all."
-      },
-      {
-        "n": 7,
-        "text": "But to each one of us Christ has given grace, in the amount He decided to give."
-      },
-      {
-        "n": 8,
-        "text": "That is why the Scripture says: When He went up to heaven, He led the prisoners away, and He gave gifts to people."
-      },
-      {
-        "n": 9,
-        "text": "(Now what does He went up mean, except that He also came down to the lower parts, the earth?"
-      },
-      {
-        "n": 10,
-        "text": "The one who came down is the same one who went up far above all the heavens, so that He might fill everything.)"
-      },
-      {
-        "n": 11,
-        "text": "And Christ gave gifts: some to be apostles, some prophets, some who tell the good news, and some pastors and teachers."
-      },
-      {
-        "n": 12,
-        "text": "He gave these gifts to prepare God's people for service, so that the body of Christ would be built up,"
-      },
-      {
-        "n": 13,
-        "text": "Until we all reach unity in the faith and in knowing the Son of God, and become mature, growing up to the full measure of Christ."
-      },
-      {
-        "n": 14,
-        "text": "Then we will no longer be babies, thrown around and blown here and there by every new teaching. We will not be fooled by clever and tricky people who lie in wait to lead others the wrong way."
-      },
-      {
-        "n": 15,
-        "text": "Instead, speaking the truth in love, we will grow up in every way into Christ, who is the head."
-      },
-      {
-        "n": 16,
-        "text": "From Christ the whole body is joined and held together, each part doing its work. As each part does its share, the body grows and builds itself up in love."
-      },
-      {
-        "n": 17,
-        "text": "So I tell you this, and I say it strongly in the Lord. Do not keep living like people who do not know God, whose thinking leads nowhere."
-      },
-      {
-        "n": 18,
-        "text": "Their minds are in the dark. They are cut off from the life God gives, because they refuse to understand and their hearts are hard."
-      },
-      {
-        "n": 19,
-        "text": "They have lost all shame and have given themselves over to doing anything dirty, always wanting more."
-      },
-      {
-        "n": 20,
-        "text": "But that is not the way you learned Christ."
-      },
-      {
-        "n": 21,
-        "text": "Surely you heard about Him and were taught the truth that is in Jesus."
-      },
-      {
-        "n": 22,
-        "text": "You were taught to take off your old self, the way you used to live, which is being ruined by its deceiving desires."
-      },
-      {
-        "n": 23,
-        "text": "You were taught to let your minds be made new,"
-      },
-      {
-        "n": 24,
-        "text": "And to put on the new self, created to be like God, truly right and holy."
-      },
-      {
-        "n": 25,
-        "text": "So stop lying. Each of you must speak the truth to your neighbor, because we all belong to one body."
-      },
-      {
-        "n": 26,
-        "text": "When you are angry, do not sin. Do not let the sun go down while you are still angry,"
-      },
-      {
-        "n": 27,
-        "text": "And do not give the devil a chance."
-      },
-      {
-        "n": 28,
-        "text": "Anyone who has been stealing must steal no more. Instead, that person must work, doing something useful with their own hands, so that they have something to share with people in need."
-      },
-      {
-        "n": 29,
-        "text": "Do not let any rotten talk come out of your mouth. Say only what is helpful for building others up, so that it does good to those who hear."
-      },
-      {
-        "n": 30,
-        "text": "And do not make the Holy Spirit of God sad. The Spirit is the mark that you belong to God, kept safe for the day He sets you free."
-      },
-      {
-        "n": 31,
-        "text": "Get rid of all bitterness, bad temper, anger, shouting, and insults, along with every kind of hate."
-      },
-      {
-        "n": 32,
-        "text": "Be kind and tender to one another, forgiving each other, just as God forgave you because of Christ."
-      }
+      { "n": 1, "text": "So I, a prisoner because I serve the Lord, beg you to live in a way that matches the calling God gave you." },
+      { "n": 2, "text": "Be completely humble and gentle. Be patient, putting up with one another in love." },
+      { "n": 3, "text": "Work hard to keep the unity that the Spirit gives, by living together in peace." },
+      { "n": 4, "text": "There is one body and one Spirit, just as you were called to one hope." },
+      { "n": 5, "text": "There is one Lord, one faith, one baptism;" },
+      { "n": 6, "text": "One God and Father of all, who is over all, works through all, and is in you all." },
+      { "n": 7, "text": "But to each one of us Christ has given grace, in the amount He decided to give." },
+      { "n": 8, "text": "That is why the Scripture says: When He went up to heaven, He led the prisoners away, and He gave gifts to people." },
+      { "n": 9, "text": "(Now what does He went up mean, except that He first came down into the lower parts of the earth?" },
+      { "n": 10, "text": "The One who came down is the same One who went up far above all the heavens, so that He might fill everything.)" },
+      { "n": 11, "text": "And Christ gave gifts: some to be apostles, some prophets, some evangelists (those who tell the good news), and some pastors and teachers." },
+      { "n": 12, "text": "He gave these gifts to make the saints (holy people) complete, for the work of serving, so that the body of Christ would be built up," },
+      { "n": 13, "text": "Until we all reach unity in the faith and in knowing the Son of God, and become mature, growing up to the full measure of Christ." },
+      { "n": 14, "text": "Then we will no longer be babies, thrown around and blown here and there by every new teaching. We will not be fooled by clever and tricky people who lie in wait to lead others the wrong way." },
+      { "n": 15, "text": "Instead, speaking the truth in love, we will grow up in every way into Christ, who is the head." },
+      { "n": 16, "text": "From Christ the whole body is joined and held together, each part doing its work. As each part does its share, the body grows and builds itself up in love." },
+      { "n": 17, "text": "So I tell you this, and I say it strongly in the Lord. Do not keep living as other Gentiles (people who are not Jews) live, whose thinking leads nowhere." },
+      { "n": 18, "text": "Their minds are in the dark. They are cut off from the life God gives, because of the ignorance in them and the blindness of their hearts." },
+      { "n": 19, "text": "They have lost all shame and have given themselves over to doing anything dirty, always wanting more." },
+      { "n": 20, "text": "But that is not the way you learned Christ." },
+      { "n": 21, "text": "Surely you heard about Him and were taught the truth that is in Jesus." },
+      { "n": 22, "text": "You were taught to take off your old self, the way you used to live, which is being ruined by its deceiving desires." },
+      { "n": 23, "text": "You were taught to let your minds be made new," },
+      { "n": 24, "text": "And to put on the new self, which God created in righteousness (being right with God) and true holiness." },
+      { "n": 25, "text": "So stop lying. Each of you must speak the truth to your neighbor, because we all belong to one body." },
+      { "n": 26, "text": "When you are angry, do not sin. Do not let the sun go down while you are still angry," },
+      { "n": 27, "text": "And do not give the devil a chance." },
+      { "n": 28, "text": "Anyone who has been stealing must steal no more. Instead, that person must work, doing something useful with their own hands, so that they have something to share with people in need." },
+      { "n": 29, "text": "Do not let any rotten talk come out of your mouth. Say only what is helpful for building others up, so that it gives grace to those who hear." },
+      { "n": 30, "text": "And do not make the Holy Spirit of God sad. By the Spirit you are sealed (marked as God's own) for the day of redemption (being bought back and set free)." },
+      { "n": 31, "text": "Get rid of all bitterness, bad temper, anger, shouting, and insults, along with every kind of hate." },
+      { "n": 32, "text": "Be kind and tender to one another, forgiving each other, just as God forgave you because of Christ." }
     ]
   },
   "5": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. The household code (v22-33) is kept gendered as-is, since it is specifically addressed to wives and husbands, not a generic construction.",
+    "source": "Drafted from the public-domain King James Version. Revised 2026-11-15 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level. V30 restores 'of His flesh, and of His bones.' The household code (v22-33) stays gendered, as in the KJV.",
     "verses": [
-      {
-        "n": 1,
-        "text": "So follow God's example, as His dear children."
-      },
-      {
-        "n": 2,
-        "text": "Live a life of love, just as Christ loved us and gave Himself for us, as a sweet-smelling offering and sacrifice to God."
-      },
-      {
-        "n": 3,
-        "text": "Among you there must not be even a hint of sexual sin, or any kind of impurity, or greed, because these are not right for God's holy people."
-      },
-      {
-        "n": 4,
-        "text": "There must be no dirty talk, foolish talk, or rude joking, which are out of place. Instead, give thanks."
-      },
-      {
-        "n": 5,
-        "text": "You can be sure of this: no one who sins sexually, or is impure, or is greedy has any place in the kingdom of Christ and of God. Greed is the same as worshiping idols."
-      },
-      {
-        "n": 6,
-        "text": "Do not let anyone fool you with empty words. It is because of these things that God's anger comes on those who disobey Him."
-      },
-      {
-        "n": 7,
-        "text": "So do not have anything to do with them."
-      },
-      {
-        "n": 8,
-        "text": "You once were darkness, but now you are light in the Lord. So live as children of light."
-      },
-      {
-        "n": 9,
-        "text": "The light produces every kind of goodness, right living, and truth."
-      },
-      {
-        "n": 10,
-        "text": "Find out what pleases the Lord."
-      },
-      {
-        "n": 11,
-        "text": "Have nothing to do with the useless things that people do in the dark. Instead, show how wrong they are."
-      },
-      {
-        "n": 12,
-        "text": "It is shameful even to talk about the things such people do in secret."
-      },
-      {
-        "n": 13,
-        "text": "But when the light shines on these things, they are seen for what they are,"
-      },
-      {
-        "n": 14,
-        "text": "because light makes everything clear. That is why it is said: Wake up, sleeper. Rise from death, and Christ will shine on you."
-      },
-      {
-        "n": 15,
-        "text": "So be very careful how you live. Do not live like fools, but like wise people."
-      },
-      {
-        "n": 16,
-        "text": "Make the most of every chance you have, because these are evil days."
-      },
-      {
-        "n": 17,
-        "text": "So do not be foolish, but understand what the Lord wants."
-      },
-      {
-        "n": 18,
-        "text": "Do not get drunk on wine, which leads to wild living. Instead, be filled with the Spirit."
-      },
-      {
-        "n": 19,
-        "text": "Speak to one another with psalms, hymns, and songs from the Spirit. Sing and make music in your hearts to the Lord."
-      },
-      {
-        "n": 20,
-        "text": "Always give thanks to God the Father for everything, in the name of our Lord Jesus Christ."
-      },
-      {
-        "n": 21,
-        "text": "Put others first, out of respect for Christ."
-      },
-      {
-        "n": 22,
-        "text": "Wives, follow the lead of your husbands, as you follow the Lord."
-      },
-      {
-        "n": 23,
-        "text": "For the husband is the head of the wife, just as Christ is the head of the church, His body, of which He is the Savior."
-      },
-      {
-        "n": 24,
-        "text": "So just as the church follows Christ, wives should follow their husbands in everything."
-      },
-      {
-        "n": 25,
-        "text": "Husbands, love your wives, just as Christ loved the church and gave Himself up for her,"
-      },
-      {
-        "n": 26,
-        "text": "to make her holy, cleaning her by washing her with water through the word."
-      },
-      {
-        "n": 27,
-        "text": "He did this to present the church to Himself as glorious, with no stain or wrinkle or any such thing, but holy and without fault."
-      },
-      {
-        "n": 28,
-        "text": "In the same way, husbands should love their wives as they love their own bodies. A man who loves his wife loves himself."
-      },
-      {
-        "n": 29,
-        "text": "No one ever hates his own body. Instead, he feeds and cares for it, just as Christ cares for the church,"
-      },
-      {
-        "n": 30,
-        "text": "Because we are parts of His body."
-      },
-      {
-        "n": 31,
-        "text": "As the Scripture says: For this reason a man will leave his father and mother and be joined to his wife, and the two will become one flesh."
-      },
-      {
-        "n": 32,
-        "text": "This is a deep secret, but I am talking about Christ and the church."
-      },
-      {
-        "n": 33,
-        "text": "So each one of you also must love his wife as he loves himself, and the wife must respect her husband."
-      }
+      { "n": 1, "text": "So follow God's example, as His dear children." },
+      { "n": 2, "text": "Live a life of love, just as Christ loved us and gave Himself for us, as a sweet-smelling offering and sacrifice to God." },
+      { "n": 3, "text": "Sexual sin, any kind of impurity, or greed: do not even let it be named among you, because these are not right for saints (holy people)." },
+      { "n": 4, "text": "There must be no dirty talk, foolish talk, or rude joking, which are out of place. Instead, give thanks." },
+      { "n": 5, "text": "You can be sure of this: no one who sins sexually, or is impure, or is greedy has any inheritance in the kingdom of Christ and of God. Greed is the same as worshiping idols." },
+      { "n": 6, "text": "Do not let anyone fool you with empty words. It is because of these things that God's anger comes on the children of disobedience (people who disobey God)." },
+      { "n": 7, "text": "So do not have anything to do with them." },
+      { "n": 8, "text": "You once were darkness, but now you are light in the Lord. So live as children of light." },
+      { "n": 9, "text": "For the fruit of the Spirit is in all goodness, righteousness (being right with God), and truth." },
+      { "n": 10, "text": "Find out what pleases the Lord." },
+      { "n": 11, "text": "Have nothing to do with the useless things that people do in the dark. Instead, show how wrong they are." },
+      { "n": 12, "text": "It is shameful even to talk about the things such people do in secret." },
+      { "n": 13, "text": "But when the light shines on these things, they are seen for what they are," },
+      { "n": 14, "text": "because light makes everything clear. That is why it is said: Wake up, sleeper. Rise from death, and Christ will shine on you." },
+      { "n": 15, "text": "So be very careful how you live. Do not live like fools, but like wise people." },
+      { "n": 16, "text": "Make the most of every chance you have, because these are evil days." },
+      { "n": 17, "text": "So do not be foolish, but understand what the Lord wants." },
+      { "n": 18, "text": "Do not get drunk on wine, which leads to wild living. Instead, be filled with the Spirit." },
+      { "n": 19, "text": "Speak to one another with psalms, hymns, and songs from the Spirit. Sing and make music in your hearts to the Lord." },
+      { "n": 20, "text": "Always give thanks to God the Father for everything, in the name of our Lord Jesus Christ." },
+      { "n": 21, "text": "Submit to one another in the fear of God." },
+      { "n": 22, "text": "Wives, submit to your own husbands, as to the Lord." },
+      { "n": 23, "text": "For the husband is the head of the wife, just as Christ is the head of the church, His body, of which He is the Savior." },
+      { "n": 24, "text": "So just as the church is subject to Christ, wives should be subject to their own husbands in everything." },
+      { "n": 25, "text": "Husbands, love your wives, just as Christ loved the church and gave Himself up for her," },
+      { "n": 26, "text": "to sanctify (make holy) the church, cleaning her by washing her with water through the word." },
+      { "n": 27, "text": "He did this to present the church to Himself as glorious, with no stain or wrinkle or any such thing, but holy and without fault." },
+      { "n": 28, "text": "In the same way, husbands should love their wives as they love their own bodies. A man who loves his wife loves himself." },
+      { "n": 29, "text": "No one ever hates his own body. Instead, he feeds and cares for it, just as the Lord cares for the church," },
+      { "n": 30, "text": "Because we are members of His body, of His flesh, and of His bones." },
+      { "n": 31, "text": "As the Scripture says: For this reason a man will leave his father and mother and be joined to his wife, and the two will become one flesh." },
+      { "n": 32, "text": "This is a great mystery (secret), but I am talking about Christ and the church." },
+      { "n": 33, "text": "So each one of you also must love his wife as he loves himself, and the wife must respect her husband." }
     ]
   },
   "6": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he' rendered gender-neutral in v8.",
+    "source": "Drafted from the public-domain King James Version. Revised 2026-11-15 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level. Generic 'he' rendered gender-neutral in v8.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Children, obey your parents because you belong to the Lord, for this is right."
-      },
-      {
-        "n": 2,
-        "text": "Honor your father and mother. This is the first command that comes with a promise:"
-      },
-      {
-        "n": 3,
-        "text": "So that things will go well with you, and you will live a long time on the earth."
-      },
-      {
-        "n": 4,
-        "text": "Fathers, do not make your children angry. Instead, bring them up with the teaching and training of the Lord."
-      },
-      {
-        "n": 5,
-        "text": "Servants, obey your earthly masters with respect and care, and with an honest heart, as if you were obeying Christ."
-      },
-      {
-        "n": 6,
-        "text": "Do not obey only when they are watching, to win their favor. Instead, work as servants of Christ, doing what God wants with all your heart."
-      },
-      {
-        "n": 7,
-        "text": "Serve with a good attitude, as if you were serving the Lord and not people."
-      },
-      {
-        "n": 8,
-        "text": "Remember that the Lord will reward each person for the good that person does, whether that person is a slave or free."
-      },
-      {
-        "n": 9,
-        "text": "Masters, treat your servants in the same good way. Do not threaten them. Remember that the Master of both you and them is in heaven, and He treats everyone the same."
-      },
-      {
-        "n": 10,
-        "text": "Finally, be strong in the Lord and in His mighty power."
-      },
-      {
-        "n": 11,
-        "text": "Put on the full armor of God, so that you can stand against the tricks of the devil."
-      },
-      {
-        "n": 12,
-        "text": "For our fight is not against people. It is against rulers, against authorities, against the powers of this dark world, and against evil spirits in the heavenly places."
-      },
-      {
-        "n": 13,
-        "text": "So put on the full armor of God. Then, when the evil day comes, you will be able to stand your ground. After you have done everything, you will keep standing."
-      },
-      {
-        "n": 14,
-        "text": "So stand firm. Wear the belt of truth, and the chest-armor of right living."
-      },
-      {
-        "n": 15,
-        "text": "On your feet, wear the readiness that comes from the good news of peace."
-      },
-      {
-        "n": 16,
-        "text": "Most important of all, take up the shield of faith. With it you can stop all the burning arrows of the evil one."
-      },
-      {
-        "n": 17,
-        "text": "Take the helmet of salvation, and the sword of the Spirit, which is the word of God."
-      },
-      {
-        "n": 18,
-        "text": "Pray in the Spirit at all times, with every kind of prayer and request. Stay alert, and keep on praying for all God's people."
-      },
-      {
-        "n": 19,
-        "text": "And pray for me too. Pray that whenever I speak, God will give me the right words, so that I can boldly make known the secret of the good news."
-      },
-      {
-        "n": 20,
-        "text": "I am its messenger, even though I am in chains. Pray that I may tell it boldly, as I should."
-      },
-      {
-        "n": 21,
-        "text": "Tychicus will tell you everything, so that you also may know how I am and what I am doing. He is a dear brother and a faithful worker in the Lord."
-      },
-      {
-        "n": 22,
-        "text": "I am sending him to you for this very reason: so that you may know how we are, and so that he may encourage your hearts."
-      },
-      {
-        "n": 23,
-        "text": "May God the Father and the Lord Jesus Christ give peace to the brothers and sisters, and love together with faith."
-      },
-      {
-        "n": 24,
-        "text": "May grace be with all who love our Lord Jesus Christ with a love that never dies. Amen."
-      }
+      { "n": 1, "text": "Children, obey your parents because you belong to the Lord, for this is right." },
+      { "n": 2, "text": "Honor your father and mother. This is the first command that comes with a promise:" },
+      { "n": 3, "text": "So that things will go well with you, and you will live a long time on the earth." },
+      { "n": 4, "text": "Fathers, do not make your children angry. Instead, bring them up with the teaching and training of the Lord." },
+      { "n": 5, "text": "Servants, obey your earthly masters with fear and trembling, and with an honest heart, as if you were obeying Christ." },
+      { "n": 6, "text": "Do not obey only when they are watching, to win their favor. Instead, work as servants of Christ, doing what God wants with all your heart." },
+      { "n": 7, "text": "Serve with a good attitude, as if you were serving the Lord and not people." },
+      { "n": 8, "text": "Remember that the Lord will reward each person for the good that person does, whether that person is a slave or free." },
+      { "n": 9, "text": "Masters, treat your servants in the same good way. Do not threaten them. Remember that your Master also is in heaven, and He treats everyone the same." },
+      { "n": 10, "text": "Finally, my brothers and sisters, be strong in the Lord and in His mighty power." },
+      { "n": 11, "text": "Put on the full armor of God, so that you can stand against the tricks of the devil." },
+      { "n": 12, "text": "For our fight is not against people. It is against rulers, against authorities, against the rulers of the darkness of this world, and against evil spirits in high places." },
+      { "n": 13, "text": "So put on the full armor of God. Then, when the evil day comes, you will be able to stand your ground. After you have done everything, you will keep standing." },
+      { "n": 14, "text": "So stand firm. Wear the belt of truth, and the breastplate (chest armor) of righteousness (being right with God)." },
+      { "n": 15, "text": "On your feet, wear the readiness that comes from the good news of peace." },
+      { "n": 16, "text": "Most important of all, take up the shield of faith. With it you can stop all the burning arrows of the wicked." },
+      { "n": 17, "text": "Take the helmet of salvation, and the sword of the Spirit, which is the word of God." },
+      { "n": 18, "text": "Pray in the Spirit at all times, with every kind of prayer and request. Stay alert, and keep on praying for all the saints (holy people)." },
+      { "n": 19, "text": "And pray for me too. Pray that whenever I speak, God will give me the right words, so that I can boldly make known the mystery (secret) of the good news." },
+      { "n": 20, "text": "I am its messenger, even though I am in chains. Pray that I may tell it boldly, as I should." },
+      { "n": 21, "text": "Tychicus will tell you everything, so that you also may know how I am and what I am doing. He is a dear brother and a faithful worker in the Lord." },
+      { "n": 22, "text": "I am sending Tychicus to you for this very reason: so that you may know how we are, and so that Tychicus may encourage your hearts." },
+      { "n": 23, "text": "May God the Father and the Lord Jesus Christ give peace to the brothers and sisters, and love together with faith." },
+      { "n": 24, "text": "May grace be with all who love our Lord Jesus Christ in sincerity (with an honest heart). Amen." }
     ]
   }
 }
