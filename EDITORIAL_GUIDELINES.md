@@ -12,6 +12,7 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
 - **The KJV wins.** Hebrew/Greek is used to understand KJV words, not to replace them. If a modern reading of the Hebrew or Greek seems to differ from the KJV, keep the KJV (e.g. Proverbs 25:23 "the north wind drives away rain"; Psalm 139:16 "all my body parts").
 - **Do not copy other Bibles.** No wording taken from the Easy-to-Read Version, Amplified Bible, NIV, or similar.
 - **Reading level: about 5th grade, Deaf-friendly -- but as close to the KJV as that allows.** Keep the KJV's order of ideas and its key words, names, and titles (e.g. "firstborn," "Gentiles," "submit," "Barbarian, Scythian"). If a KJV word is too hard, use the simplest word that means exactly the same thing, or keep the word and explain it briefly -- do not swap in a looser idea.
+- **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
 
 ## Core approach
