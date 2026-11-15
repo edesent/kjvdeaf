@@ -13,7 +13,28 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
 - **Do not copy other Bibles.** No wording taken from the Easy-to-Read Version, Amplified Bible, NIV, or similar.
 - **Reading level: about 5th grade, Deaf-friendly -- but as close to the KJV as that allows.** Keep the KJV's order of ideas and its key words, names, and titles (e.g. "firstborn," "Gentiles," "submit," "Barbarian, Scythian"). If a KJV word is too hard, use the simplest word that means exactly the same thing, or keep the word and explain it briefly -- do not swap in a looser idea.
 - **Source check for the Old Testament:** the KJV follows the Ben Chayyim Masoretic text (1524-25). Never follow modern Bibles where they change the Hebrew using the Septuagint, Dead Sea Scrolls, Samaritan, Syriac, or guesses (often marked in their footnotes). Known places where the KJV's Hebrew differs from modern Bibles' Hebrew: 1 Kings 20:38, Proverbs 8:16, Isaiah 10:16, Isaiah 27:2, Isaiah 38:14, Ezekiel 30:18, Zephaniah 3:15, Malachi 1:12 -- always follow the KJV there.
-- **Hard words: keep the KJV word and explain it in parentheses.** Example: "a strong delusion (a powerful lie)," "quench (put out) the Spirit," "His saints (holy people)," "repentance (a change of heart)." Keep the explanation short and simple, and use the same explanation for the same word everywhere.
+- **Hard words: keep the KJV word and explain it in parentheses.** Example: "a strong delusion (a powerful lie)," "quench (put out) the Spirit," "His saints (holy people)," "repentance (a change of heart)." Keep the explanation short and simple, and use the same explanation for the same word everywhere. **Explain it every time the word appears** (not only the first time).
+  Standard explanations (add to this list as new words come up):
+  - mystery (secret)
+  - redemption (being bought back and set free); redeem (buy back and set free)
+  - reconcile (bring back to God)
+  - mediator (go-between)
+  - ransom (the price paid to set people free)
+  - justified (made right with God) -- of Christ in 1 Timothy 3:16: justified (shown to be right)
+  - inspiration of God (breathed out by God)
+  - regeneration (new birth); renewing (making new)
+  - sanctification (being made holy); sanctify (make holy)
+  - archangel (chief angel)
+  - falling away (many people turning away from God); son of perdition (one headed for destruction)
+  - iniquity (sin)
+  - repentance (a change of heart)
+  - quench (put out)
+  - saints (holy people)
+  - delusion (a powerful lie)
+  - immortality (life that never dies)
+  - righteousness (being right with God)
+  - Gentiles (people who are not Jews)
+  - bishop (church leader)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
