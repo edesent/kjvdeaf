@@ -93,7 +93,7 @@ export default function WhyKjvDeafPage() {
           Fixing places where the English hides the original meaning
         </h2>
         <p>
-          Some KJV words were the right word in 1611 for hearing people, but
+          KJV words were the right word in 1611 for hearing people, but
           they mislead Deaf readers today because of the language barrier. A
           few examples, verified against the Hebrew:
         </p>
