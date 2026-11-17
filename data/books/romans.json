@@ -2,961 +2,286 @@
   "1": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Covers Paul's introduction and thesis statement (the gospel as God's power for salvation, righteousness by faith), and his description of humanity's suppression of the truth about God leading to idolatry and moral collapse. All pronouns referring to God, Jesus, and the Holy Spirit are capitalized per this site's standard.",
+    "source": "Drafted from the public-domain King James Version. Revised 2026-11-16 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level and hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Paul, a servant of Christ Jesus, called to be an apostle and set apart for the good news of God."
-      },
-      {
-        "n": 2,
-        "text": "God promised this good news long ago through His prophets in the holy Scriptures."
-      },
-      {
-        "n": 3,
-        "text": "It is about His Son. As a human being, the Son was born from the family of David."
-      },
-      {
-        "n": 4,
-        "text": "And by the Holy Spirit, He was shown to be the Son of God with power when He rose from death. He is Jesus Christ our Lord."
-      },
-      {
-        "n": 5,
-        "text": "Through Christ I received grace and the work of an apostle. My work is to call people of all nations to the obedience that comes from faith. I do this for the honor of His name."
-      },
-      {
-        "n": 6,
-        "text": "And you also are among those who are called to belong to Jesus Christ."
-      },
-      {
-        "n": 7,
-        "text": "To all of you in Rome: God loves you. He has called you to be His holy people. May God our Father and the Lord Jesus Christ give you grace and peace."
-      },
-      {
-        "n": 8,
-        "text": "First, I thank my God through Jesus Christ for all of you, because people all over the world are talking about your faith."
-      },
-      {
-        "n": 9,
-        "text": "God knows that I always remember you in my prayers. He is the One I serve with my whole heart by spreading the good news about His Son."
-      },
-      {
-        "n": 10,
-        "text": "And I always ask that, if it is God's will, I may at last find a way to come to you."
-      },
-      {
-        "n": 11,
-        "text": "I long to see you, so that I may share with you a spiritual gift to make you strong."
-      },
-      {
-        "n": 12,
-        "text": "Or rather, so that you and I may encourage each other through our shared faith."
-      },
-      {
-        "n": 13,
-        "text": "Brothers and sisters, I want you to know that I planned many times to come to you, but until now I have been kept from it. I wanted to see good results among you, as I have among the other nations."
-      },
-      {
-        "n": 14,
-        "text": "I have a duty to everyone, to Greeks and to those who are not Greeks, to the wise and to the foolish."
-      },
-      {
-        "n": 15,
-        "text": "So I am eager to preach the good news to you also who are in Rome."
-      },
-      {
-        "n": 16,
-        "text": "I am not ashamed of the good news. It is the power of God that brings salvation to everyone who believes. It comes first to the Jew, and also to the Greek."
-      },
-      {
-        "n": 17,
-        "text": "For in the good news, God shows how He makes people right with Himself, a rightness that is by faith from start to finish. As the Scripture says: The person who is right with God will live by faith."
-      },
-      {
-        "n": 18,
-        "text": "The anger of God is shown from heaven against all the godlessness and evil of people who hold back the truth by their evil."
-      },
-      {
-        "n": 19,
-        "text": "They know what can be known about God, because God has made it plain to them."
-      },
-      {
-        "n": 20,
-        "text": "Ever since God made the world, His invisible qualities, His eternal power and His divine nature, have been clearly seen. People understand them from the things God has made. So people have no excuse."
-      },
-      {
-        "n": 21,
-        "text": "Even though they knew God, they did not honor Him as God or give Him thanks. Instead, their thinking became worthless, and their foolish hearts became dark."
-      },
-      {
-        "n": 22,
-        "text": "They claimed to be wise, but they became fools."
-      },
-      {
-        "n": 23,
-        "text": "They traded the glory of the God who never dies for images that look like people, who do die, and like birds, animals, and reptiles."
-      },
-      {
-        "n": 24,
-        "text": "So God let them go after the sinful desires of their hearts, which led to shameful things done with their bodies."
-      },
-      {
-        "n": 25,
-        "text": "They traded the truth of God for a lie, and they worshiped and served created things instead of the Creator, who is blessed forever. Amen."
-      },
-      {
-        "n": 26,
-        "text": "Because of this, God let them go after shameful desires. Even the women traded natural relations for unnatural ones."
-      },
-      {
-        "n": 27,
-        "text": "In the same way, the men stopped having natural relations with women and burned with desire for one another. Men did shameful things with men, and they suffered in themselves the punishment they deserved for their wrong."
-      },
-      {
-        "n": 28,
-        "text": "Since they did not think it worthwhile to keep knowing God, God let them go after their worthless thinking. So they did what they should not do."
-      },
-      {
-        "n": 29,
-        "text": "They became full of every kind of evil, sin, greed, and hate. They were full of jealousy, murder, fighting, lying, and meanness. They were gossips,"
-      },
-      {
-        "n": 30,
-        "text": "those who say evil things about others, haters of God, rude, proud, and boastful. They thought up new ways to do evil. They disobeyed their parents."
-      },
-      {
-        "n": 31,
-        "text": "They were senseless, they broke their promises, they had no love, and they showed no mercy."
-      },
-      {
-        "n": 32,
-        "text": "They know God's just rule, that those who do such things deserve death. Yet they not only keep doing them, but they also approve of others who do them."
-      }
+      { "n": 1, "text": "Paul, a servant of Jesus Christ, called to be an apostle and set apart for the good news of God." },
+      { "n": 2, "text": "God promised this good news long ago through His prophets in the holy Scriptures." },
+      { "n": 3, "text": "It is about His Son. As a human being, the Son was born from the family of David." },
+      { "n": 4, "text": "And by the Holy Spirit, He was shown to be the Son of God with power when He rose from death. He is Jesus Christ our Lord." },
+      { "n": 5, "text": "Through Christ I received grace and the work of an apostle. My work is to call people of all nations to obey the faith. I do this for the honor of His name." },
+      { "n": 6, "text": "And you also are among those who are called to belong to Jesus Christ." },
+      { "n": 7, "text": "To all of you in Rome: God loves you. He has called you to be saints (holy people). May God our Father and the Lord Jesus Christ give you grace and peace." },
+      { "n": 8, "text": "First, I thank my God through Jesus Christ for all of you, because people all over the world are talking about your faith." },
+      { "n": 9, "text": "God is my witness that I always remember you in my prayers. He is the One I serve with my spirit by spreading the good news about His Son." },
+      { "n": 10, "text": "And I always ask that, if it is God's will, I may at last find a way to come to you." },
+      { "n": 11, "text": "I long to see you, so that I may share with you a spiritual gift to make you strong." },
+      { "n": 12, "text": "Or rather, so that you and I may encourage each other through our shared faith." },
+      { "n": 13, "text": "Brothers and sisters, I want you to know that I planned many times to come to you, but until now I have been kept from it. I wanted to have some fruit among you, as I have among other Gentiles (people who are not Jews)." },
+      { "n": 14, "text": "I have a duty to the Greeks and to the Barbarians, to the wise and to the unwise." },
+      { "n": 15, "text": "So I am eager to preach the good news to you also who are in Rome." },
+      { "n": 16, "text": "I am not ashamed of the good news of Christ. It is the power of God that brings salvation to everyone who believes. It comes first to the Jew, and also to the Greek." },
+      { "n": 17, "text": "For in the good news the righteousness (being right with God) of God is revealed (shown), from faith to faith. As the Scripture says: The just (those who are right with God) shall live by faith." },
+      { "n": 18, "text": "The wrath (God's anger) of God is revealed (shown) from heaven against all the ungodliness and unrighteousness (wrong) of people who hold back the truth by their unrighteousness (wrong)." },
+      { "n": 19, "text": "They know what can be known about God, because God has made it plain to them." },
+      { "n": 20, "text": "Ever since God made the world, the things about God that cannot be seen have been clearly seen. People understand them from the things God has made: His eternal power and Godhead (that He is God). So people have no excuse." },
+      { "n": 21, "text": "Even though they knew God, they did not honor Him as God or give Him thanks. Instead, their thinking became worthless, and their foolish hearts became dark." },
+      { "n": 22, "text": "They claimed to be wise, but they became fools." },
+      { "n": 23, "text": "They traded the glory of the God who never dies for images that look like people, who do die, and like birds, animals, and reptiles." },
+      { "n": 24, "text": "So God gave them up to uncleanness, through the sinful desires of their own hearts. They did shameful things with their bodies among themselves." },
+      { "n": 25, "text": "They traded the truth of God for a lie, and they worshiped and served created things instead of the Creator, who is blessed forever. Amen." },
+      { "n": 26, "text": "Because of this, God gave them up to shameful desires. Even the women traded natural relations for unnatural ones." },
+      { "n": 27, "text": "In the same way, the men stopped having natural relations with women and burned with desire for one another. Men did shameful things with men, and they suffered in themselves the punishment they deserved for their wrong." },
+      { "n": 28, "text": "Since they did not want to keep God in their knowledge, God gave them over to a reprobate (worthless, rejected) mind. So they did what they should not do." },
+      { "n": 29, "text": "They were filled with all unrighteousness (wrong), fornication (sexual sin), evil, greed, and hate. They were full of jealousy, murder, fighting, lying, and meanness. They were gossips," },
+      { "n": 30, "text": "those who say evil things about others, haters of God, rude, proud, and boastful. They thought up new ways to do evil. They disobeyed their parents." },
+      { "n": 31, "text": "They were senseless, they broke their promises, they had no natural love, they were implacable (refusing to make peace), and they showed no mercy." },
+      { "n": 32, "text": "They know God's just rule, that those who do such things deserve death. Yet they not only keep doing them, but they also approve of others who do them." }
     ]
   },
   "2": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Covers Paul's warning against hypocritical judgment, God's impartial judgment of Jew and Gentile alike, and the argument that true circumcision is of the heart. All pronouns referring to God are capitalized per this site's standard.",
+    "source": "Drafted from the public-domain King James Version. Revised 2026-11-16 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level and hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "So you have no excuse, whoever you are, when you judge someone else. For when you judge another person, you are condemning yourself, because you do the same things."
-      },
-      {
-        "n": 2,
-        "text": "We know that God judges fairly those who do such things."
-      },
-      {
-        "n": 3,
-        "text": "So do you think, you who judge others but do the same things, that you will escape God's judgment?"
-      },
-      {
-        "n": 4,
-        "text": "Or do you look down on the riches of God's kindness, patience, and self-control? Do you not know that God's kindness is meant to lead you to change your heart?"
-      },
-      {
-        "n": 5,
-        "text": "But you are stubborn and refuse to change. So you are storing up anger against yourself for the day of anger, when God's fair judgment will be shown."
-      },
-      {
-        "n": 6,
-        "text": "God will pay back each person for what they have done."
-      },
-      {
-        "n": 7,
-        "text": "To those who keep on doing good, seeking glory, honor, and life that never ends, He will give eternal life."
-      },
-      {
-        "n": 8,
-        "text": "But for those who are selfish, who reject the truth and follow evil, there will be anger and fury."
-      },
-      {
-        "n": 9,
-        "text": "There will be trouble and suffering for everyone who does evil, first for the Jew, and also for the Greek."
-      },
-      {
-        "n": 10,
-        "text": "But there will be glory, honor, and peace for everyone who does good, first for the Jew, and also for the Greek."
-      },
-      {
-        "n": 11,
-        "text": "For God treats everyone the same."
-      },
-      {
-        "n": 12,
-        "text": "All who sin without knowing the law of Moses will also be lost without the law. And all who sin under the law will be judged by the law."
-      },
-      {
-        "n": 13,
-        "text": "For it is not those who hear the law who are right with God, but those who obey the law who will be made right."
-      },
-      {
-        "n": 14,
-        "text": "People who are not Jews do not have the law. But when they do by nature what the law requires, they are a law for themselves, even though they do not have the law."
-      },
-      {
-        "n": 15,
-        "text": "They show that the demands of the law are written on their hearts. Their conscience agrees, and their own thoughts sometimes accuse them and sometimes defend them."
-      },
-      {
-        "n": 16,
-        "text": "This will all be clear on the day when God judges people's secrets through Christ Jesus, as my good news says."
-      },
-      {
-        "n": 17,
-        "text": "Now you call yourself a Jew. You depend on the law and brag that you are close to God."
-      },
-      {
-        "n": 18,
-        "text": "You know what God wants, and because the law has taught you, you can tell what is best."
-      },
-      {
-        "n": 19,
-        "text": "You are sure that you are a guide for the blind and a light for those in the dark,"
-      },
-      {
-        "n": 20,
-        "text": "a teacher of the foolish and of the young, because in the law you have the full shape of knowledge and truth."
-      },
-      {
-        "n": 21,
-        "text": "So you who teach others, do you not teach yourself? You preach that people should not steal. Do you steal?"
-      },
-      {
-        "n": 22,
-        "text": "You say people should not commit adultery. Do you commit adultery? You hate idols. Do you rob temples?"
-      },
-      {
-        "n": 23,
-        "text": "You brag about the law. Do you dishonor God by breaking the law?"
-      },
-      {
-        "n": 24,
-        "text": "As the Scripture says: Because of you, God's name is insulted among the other nations."
-      },
-      {
-        "n": 25,
-        "text": "Being circumcised has value if you obey the law. But if you break the law, you might as well not be circumcised at all."
-      },
-      {
-        "n": 26,
-        "text": "So if those who are not circumcised obey what the law requires, will they not be counted as if they were circumcised?"
-      },
-      {
-        "n": 27,
-        "text": "The one who is not circumcised in body but obeys the law will judge you. You break the law, even though you have the written law and are circumcised."
-      },
-      {
-        "n": 28,
-        "text": "A real Jew is not just one on the outside, and real circumcision is not only on the outside, in the body."
-      },
-      {
-        "n": 29,
-        "text": "No, a real Jew is one on the inside, and real circumcision is of the heart, done by the Spirit, not by the written law. Such a person is praised by God, not by people."
-      }
+      { "n": 1, "text": "So you have no excuse, whoever you are, when you judge someone else. For when you judge another person, you are condemning yourself, because you do the same things." },
+      { "n": 2, "text": "We know that God judges fairly those who do such things." },
+      { "n": 3, "text": "So do you think, you who judge others but do the same things, that you will escape God's judgment?" },
+      { "n": 4, "text": "Or do you look down on the riches of God's kindness, patience, and self-control? Do you not know that God's goodness leads you to repentance (a change of heart)?" },
+      { "n": 5, "text": "But your heart is hard and does not repent (change). So you are storing up wrath (God's anger) against yourself for the day of wrath (God's anger), when God's righteous judgment will be revealed (shown)." },
+      { "n": 6, "text": "God will pay back each person for what they have done." },
+      { "n": 7, "text": "To those who keep on doing good, seeking glory, honor, and life that never ends, He will give eternal life." },
+      { "n": 8, "text": "But for those who are selfish, who do not obey the truth but obey unrighteousness (wrong), there will be anger and wrath (God's anger)." },
+      { "n": 9, "text": "There will be tribulation (trouble) and anguish (deep pain) for everyone who does evil, first for the Jew, and also for the Gentile (people who are not Jews)." },
+      { "n": 10, "text": "But there will be glory, honor, and peace for everyone who does good, first for the Jew, and also for the Gentile (people who are not Jews)." },
+      { "n": 11, "text": "For God treats everyone the same." },
+      { "n": 12, "text": "All who sin without the law will also perish without the law. And all who sin under the law will be judged by the law." },
+      { "n": 13, "text": "For it is not those who hear the law who are right before God. It is those who do the law who will be justified (made right with God)." },
+      { "n": 14, "text": "The Gentiles (people who are not Jews) do not have the law. But when they do by nature what the law requires, they are a law for themselves, even though they do not have the law." },
+      { "n": 15, "text": "They show that the demands of the law are written on their hearts. Their conscience agrees, and their own thoughts sometimes accuse them and sometimes defend them." },
+      { "n": 16, "text": "This will all be clear on the day when God judges people's secrets by Jesus Christ, as my good news says." },
+      { "n": 17, "text": "Now you call yourself a Jew. You depend on the law and brag that you are close to God." },
+      { "n": 18, "text": "You know what God wants, and because the law has taught you, you can tell what is best." },
+      { "n": 19, "text": "You are sure that you are a guide for the blind and a light for those in the dark," },
+      { "n": 20, "text": "a teacher of the foolish and of the young, because in the law you have the full shape of knowledge and truth." },
+      { "n": 21, "text": "So you who teach others, do you not teach yourself? You preach that people should not steal. Do you steal?" },
+      { "n": 22, "text": "You say people should not commit adultery. Do you commit adultery? You hate idols. Do you rob temples?" },
+      { "n": 23, "text": "You brag about the law. Do you dishonor God by breaking the law?" },
+      { "n": 24, "text": "As the Scripture says: Because of you, God's name is blasphemed (spoken against) among the Gentiles (people who are not Jews)." },
+      { "n": 25, "text": "Being circumcised has value if you obey the law. But if you break the law, you might as well not be circumcised at all." },
+      { "n": 26, "text": "So if those who are not circumcised obey what the law requires, will they not be counted as if they were circumcised?" },
+      { "n": 27, "text": "The one who is not circumcised in body but obeys the law will judge you. You break the law, even though you have the written law and are circumcised." },
+      { "n": 28, "text": "A real Jew is not just one on the outside, and real circumcision is not only on the outside, in the body." },
+      { "n": 29, "text": "No, a real Jew is one on the inside, and real circumcision is of the heart, done by the Spirit, not by the written law. Such a person is praised by God, not by people." }
     ]
   },
   "3": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Covers Paul's argument that all people, Jew and Gentile alike, are under sin, and his introduction of righteousness through faith in Christ apart from the law -- one of the doctrinal cores of the whole letter. All pronouns referring to God and Christ are capitalized per this site's standard.",
+    "source": "Drafted from the public-domain King James Version. Revised 2026-11-16 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level and hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "So what advantage is there in being a Jew? Or what good is circumcision?"
-      },
-      {
-        "n": 2,
-        "text": "There is great advantage in every way! First of all, the Jews were trusted with the very words of God."
-      },
-      {
-        "n": 3,
-        "text": "What if some of them were not faithful? Will their lack of faith cancel God's faithfulness?"
-      },
-      {
-        "n": 4,
-        "text": "No, never! Let God be true, even if everyone else is a liar. As the Scripture says: So you will be shown right when you speak, and you will win when you are judged."
-      },
-      {
-        "n": 5,
-        "text": "But if our wrong brings out how right God is, what should we say? That God is unfair to punish us? (I am speaking the way people do.)"
-      },
-      {
-        "n": 6,
-        "text": "No, never! If that were so, how could God judge the world?"
-      },
-      {
-        "n": 7,
-        "text": "Someone might argue: If my lie makes God's truth shine even more, to His glory, then why am I still judged as a sinner?"
-      },
-      {
-        "n": 8,
-        "text": "Why not just say: Let us do evil so that good may come? Some people slander us by claiming we say this. They deserve to be judged."
-      },
-      {
-        "n": 9,
-        "text": "So what then? Are we Jews any better? Not at all. We have already shown that everyone, Jews and non-Jews alike, is under the power of sin."
-      },
-      {
-        "n": 10,
-        "text": "As the Scripture says: There is no one who is right with God, not even one."
-      },
-      {
-        "n": 11,
-        "text": "There is no one who understands; there is no one who looks for God."
-      },
-      {
-        "n": 12,
-        "text": "Everyone has turned away; together they have become useless. There is no one who does good, not even one."
-      },
-      {
-        "n": 13,
-        "text": "Their throats are like open graves; their tongues tell lies. The poison of snakes is on their lips."
-      },
-      {
-        "n": 14,
-        "text": "Their mouths are full of curses and bitter words."
-      },
-      {
-        "n": 15,
-        "text": "They are quick to kill."
-      },
-      {
-        "n": 16,
-        "text": "They leave ruin and misery wherever they go,"
-      },
-      {
-        "n": 17,
-        "text": "and they do not know the way of peace."
-      },
-      {
-        "n": 18,
-        "text": "They have no fear of God at all."
-      },
-      {
-        "n": 19,
-        "text": "Now we know that whatever the law says, it says to those who are under the law. So no one can make any excuse, and the whole world is held guilty before God."
-      },
-      {
-        "n": 20,
-        "text": "No one will be made right with God by obeying the law. The law only makes us aware of our sin."
-      },
-      {
-        "n": 21,
-        "text": "But now, apart from the law, God has shown how He makes people right with Himself. The law and the prophets pointed to this."
-      },
-      {
-        "n": 22,
-        "text": "God makes people right with Himself through faith in Jesus Christ. This is for everyone who believes; there is no difference between people,"
-      },
-      {
-        "n": 23,
-        "text": "because everyone has sinned and falls short of the glory of God."
-      },
-      {
-        "n": 24,
-        "text": "Yet by His grace, as a free gift, God makes them right with Himself, through Christ Jesus, who set them free."
-      },
-      {
-        "n": 25,
-        "text": "God offered Christ as the sacrifice that takes away sin, through faith in His blood. God did this to show that He is right, because in His patience He had let earlier sins go unpunished."
-      },
-      {
-        "n": 26,
-        "text": "He did it to show His rightness at the present time. Then He could be both fair and the One who makes right anyone who has faith in Jesus."
-      },
-      {
-        "n": 27,
-        "text": "So where is there any room for bragging? There is none. On what basis is it shut out? On the basis of obeying the law? No, but on the basis of faith."
-      },
-      {
-        "n": 28,
-        "text": "For we hold that a person is made right with God by faith, apart from obeying the law."
-      },
-      {
-        "n": 29,
-        "text": "Or is God the God of the Jews only? Is He not also the God of the other nations? Yes, of them too,"
-      },
-      {
-        "n": 30,
-        "text": "since there is only one God. He will make the circumcised right by faith, and the uncircumcised right through that same faith."
-      },
-      {
-        "n": 31,
-        "text": "So do we cancel the law by this faith? No, never! Instead, we uphold the law."
-      }
+      { "n": 1, "text": "So what advantage is there in being a Jew? Or what good is circumcision?" },
+      { "n": 2, "text": "There is great advantage in every way! First of all, the Jews were trusted with the very words of God." },
+      { "n": 3, "text": "What if some of them did not believe? Will their unbelief cancel God's faithfulness?" },
+      { "n": 4, "text": "No, never! Let God be true, even if everyone else is a liar. As the Scripture says: That You might be justified (shown to be right) in Your sayings, and win when You are judged." },
+      { "n": 5, "text": "But if our unrighteousness (wrong) shows how righteous God is, what should we say? That God is unrighteous to punish us? (I am speaking the way people do.)" },
+      { "n": 6, "text": "No, never! If that were so, how could God judge the world?" },
+      { "n": 7, "text": "Someone might argue: If my lie makes God's truth shine even more, to His glory, then why am I still judged as a sinner?" },
+      { "n": 8, "text": "Why not just say: Let us do evil so that good may come? Some people slander us by claiming we say this. They deserve to be judged." },
+      { "n": 9, "text": "So what then? Are we Jews any better? Not at all. We have already shown that everyone, Jews and Gentiles (people who are not Jews) alike, is under sin." },
+      { "n": 10, "text": "As the Scripture says: There is none righteous (right with God), no, not one." },
+      { "n": 11, "text": "There is no one who understands; there is no one who looks for God." },
+      { "n": 12, "text": "Everyone has turned away; together they have become useless. There is no one who does good, not even one." },
+      { "n": 13, "text": "Their throats are like open graves; their tongues tell lies. The poison of snakes is on their lips." },
+      { "n": 14, "text": "Their mouths are full of curses and bitter words." },
+      { "n": 15, "text": "They are quick to kill." },
+      { "n": 16, "text": "They leave ruin and misery wherever they go," },
+      { "n": 17, "text": "and they do not know the way of peace." },
+      { "n": 18, "text": "They have no fear of God at all." },
+      { "n": 19, "text": "Now we know that whatever the law says, it says to those who are under the law. So no one can make any excuse, and the whole world is held guilty before God." },
+      { "n": 20, "text": "So by the deeds of the law no one will be justified (made right with God) in God's sight. The law only makes us know sin." },
+      { "n": 21, "text": "But now the righteousness (being right with God) of God is shown without the law. The law and the prophets are witnesses to it." },
+      { "n": 22, "text": "This is the righteousness (being right with God) of God by faith in Jesus Christ. It is to all and upon all who believe; there is no difference between people," },
+      { "n": 23, "text": "because everyone has sinned and falls short of the glory of God." },
+      { "n": 24, "text": "We are justified (made right with God) freely by His grace, through the redemption (being bought back and set free) that is in Christ Jesus." },
+      { "n": 25, "text": "God set forth Christ to be a propitiation (the sacrifice that turns away God's anger) through faith in His blood. God did this to show His righteousness (being right with God). In His patience God had passed over sins done in the past." },
+      { "n": 26, "text": "God did it to show His righteousness (being right with God) at this present time. So God is just (fair), and He is the One who justifies (makes right with God) anyone who believes in Jesus." },
+      { "n": 27, "text": "So where is there any room for bragging? There is none. On what basis is it shut out? On the basis of obeying the law? No, but on the basis of faith." },
+      { "n": 28, "text": "So we conclude that a person is justified (made right with God) by faith, without the deeds of the law." },
+      { "n": 29, "text": "Or is God the God of the Jews only? Is He not also the God of the Gentiles (people who are not Jews)? Yes, of the Gentiles (people who are not Jews) too," },
+      { "n": 30, "text": "since there is only one God. He will justify (make right with God) the circumcised by faith, and the uncircumcised through faith." },
+      { "n": 31, "text": "So do we cancel the law by this faith? No, never! Instead, we establish the law." }
     ]
   },
   "4": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Covers Paul's argument that Abraham was made right with God through faith, not works or circumcision, making Abraham the spiritual father of all who believe, whether circumcised or not. All pronouns referring to God and Jesus are capitalized per this site's standard.",
+    "source": "Drafted from the public-domain King James Version. Revised 2026-11-16 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level and hard KJV words explained in parentheses. V16 rewritten from the KJV.",
     "verses": [
-      {
-        "n": 1,
-        "text": "So what shall we say about Abraham, the father of our people? What did he discover?"
-      },
-      {
-        "n": 2,
-        "text": "If Abraham was made right with God by his works, then he had something to brag about, but not before God."
-      },
-      {
-        "n": 3,
-        "text": "For what does the Scripture say? Abraham believed God, and because of that he was accepted as right with God."
-      },
-      {
-        "n": 4,
-        "text": "Now when a person works, their pay is not counted as a gift, but as something owed to them."
-      },
-      {
-        "n": 5,
-        "text": "A person might not work, but trusts God. God makes the ungodly right with Himself. That person's faith is counted as making them right with God."
-      },
-      {
-        "n": 6,
-        "text": "David says the same thing when he speaks of the happiness of the person whom God counts as right, apart from works:"
-      },
-      {
-        "n": 7,
-        "text": "Happy are those whose wrongs are forgiven, whose sins are covered."
-      },
-      {
-        "n": 8,
-        "text": "Happy is the person whose sin the Lord will never count against them."
-      },
-      {
-        "n": 9,
-        "text": "Is this happiness only for the circumcised, or also for the uncircumcised? We have been saying that Abraham's faith was counted as making him right with God."
-      },
-      {
-        "n": 10,
-        "text": "So when did this happen? Was it after he was circumcised, or before? It was before, not after!"
-      },
-      {
-        "n": 11,
-        "text": "Abraham received circumcision later as a sign, a seal of the rightness he already had by faith while he was still uncircumcised. So he is the father of all who believe but are not circumcised, so that they too can be counted right with God."
-      },
-      {
-        "n": 12,
-        "text": "And he is also the father of the circumcised. This includes not only those who are circumcised, but also those who follow in the steps of Abraham's faith. Our father Abraham had that faith before he was circumcised."
-      },
-      {
-        "n": 13,
-        "text": "God's promise that Abraham would inherit the world did not come through the law. It came through the rightness that is by faith."
-      },
-      {
-        "n": 14,
-        "text": "For if those who depend on the law are the heirs, then faith means nothing and the promise is worthless."
-      },
-      {
-        "n": 15,
-        "text": "The law brings God's anger, but where there is no law, there is no breaking of the law."
-      },
-      {
-        "n": 16,
-        "text": "God gives the promise through faith so it remains a free gift. This divine promise stands guaranteed for all members of Abraham's family. It includes people keeping the law and everyone sharing Abraham's living faith. Therefore, Abraham serves as the spiritual father of all who believe!"
-      },
-      {
-        "n": 17,
-        "text": "As the Scripture says: I have made you the father of many nations. Abraham is our father in God's sight, the God he believed. This is the God who gives life to the dead and calls into being things that did not exist."
-      },
-      {
-        "n": 18,
-        "text": "Against all hope, Abraham believed in hope. So he became the father of many nations. He had been told: That is how many your descendants will be."
-      },
-      {
-        "n": 19,
-        "text": "His faith did not weaken. He was about a hundred years old, and his body was as good as dead. Sarah was too old to have children."
-      },
-      {
-        "n": 20,
-        "text": "He did not doubt God's promise through unbelief. Instead, his faith made him strong, and he gave glory to God,"
-      },
-      {
-        "n": 21,
-        "text": "Being fully sure that God had the power to do what He had promised."
-      },
-      {
-        "n": 22,
-        "text": "That is why his faith was counted as making him right with God."
-      },
-      {
-        "n": 23,
-        "text": "The words that say God counted it to him were not written for Abraham alone,"
-      },
-      {
-        "n": 24,
-        "text": "but also for us. Our faith will be counted in the same way, since we believe in the God who raised Jesus our Lord from death."
-      },
-      {
-        "n": 25,
-        "text": "Jesus was handed over to die for our sins, and He was raised to life to make us right with God."
-      }
+      { "n": 1, "text": "So what shall we say about Abraham, our father according to the flesh? What did he find?" },
+      { "n": 2, "text": "If Abraham was justified (made right with God) by works, then he had something to brag about, but not before God." },
+      { "n": 3, "text": "For what does the Scripture say? Abraham believed God, and it was counted to Abraham as righteousness (being right with God)." },
+      { "n": 4, "text": "Now when a person works, the pay is not counted as grace (a gift), but as something owed." },
+      { "n": 5, "text": "But suppose a person does not work, but believes in God, who justifies (makes right with God) the ungodly. That person's faith is counted as righteousness (being right with God)." },
+      { "n": 6, "text": "David also speaks of the blessedness of the person to whom God counts righteousness (being right with God) without works:" },
+      { "n": 7, "text": "Blessed are they whose iniquities (sins) are forgiven, and whose sins are covered." },
+      { "n": 8, "text": "Blessed is the person to whom the Lord will not count sin." },
+      { "n": 9, "text": "Is this blessedness only for the circumcised, or also for the uncircumcised? We say that faith was counted to Abraham as righteousness (being right with God)." },
+      { "n": 10, "text": "So when did this happen? Was it after he was circumcised, or before? It was before, not after!" },
+      { "n": 11, "text": "Abraham received circumcision as a sign, a seal of the righteousness (being right with God) he had by faith while he was still uncircumcised. So he is the father of all who believe but are not circumcised, so that righteousness (being right with God) might be counted to them also." },
+      { "n": 12, "text": "And he is also the father of the circumcised. This includes not only those who are circumcised, but also those who follow in the steps of Abraham's faith. Our father Abraham had that faith before he was circumcised." },
+      { "n": 13, "text": "God promised that Abraham would be the heir of the world. This promise did not come to Abraham or his seed through the law. It came through the righteousness (being right with God) of faith." },
+      { "n": 14, "text": "For if those who depend on the law are the heirs, then faith means nothing and the promise is worthless." },
+      { "n": 15, "text": "The law brings wrath (God's anger), for where there is no law, there is no breaking of the law." },
+      { "n": 16, "text": "So the promise comes by faith, so that it can be by grace. Then the promise is sure to all of Abraham's seed. It is not only for those who are of the law, but also for those who are of the faith of Abraham. Abraham is the father of us all." },
+      { "n": 17, "text": "As the Scripture says: I have made you the father of many nations. Abraham is our father in God's sight, the God he believed. This is the God who gives life to the dead and calls into being things that did not exist." },
+      { "n": 18, "text": "Against all hope, Abraham believed in hope. So he became the father of many nations. He had been told: So shall your seed be." },
+      { "n": 19, "text": "Abraham was not weak in faith. He did not think about his own body, which was now as good as dead, since he was about 100 years old. He did not think about how Sarah's womb was dead." },
+      { "n": 20, "text": "He did not doubt God's promise through unbelief. Instead, his faith made him strong, and he gave glory to God," },
+      { "n": 21, "text": "Being fully sure that God had the power to do what He had promised." },
+      { "n": 22, "text": "That is why it was counted to Abraham as righteousness (being right with God)." },
+      { "n": 23, "text": "The words that say God counted it to him were not written for Abraham alone," },
+      { "n": 24, "text": "but also for us. Righteousness (being right with God) will be counted to us also, since we believe in the God who raised Jesus our Lord from the dead." },
+      { "n": 25, "text": "Jesus was handed over to die for our sins, and He was raised again for our justification (being made right with God)." }
     ]
   },
   "5": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Covers the results of justification by faith (peace with God, hope in suffering), and Paul's Adam-Christ comparison showing how grace overflows sin's damage. All pronouns referring to God and Jesus are capitalized per this site's standard.",
+    "source": "Drafted from the public-domain King James Version. Revised 2026-11-16 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level and hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "So, since we have been made right with God by faith, we have peace with God through our Lord Jesus Christ."
-      },
-      {
-        "n": 2,
-        "text": "Through Jesus we have been brought, by faith, into this grace in which we now stand. And we are glad because of our hope of sharing in God's glory."
-      },
-      {
-        "n": 3,
-        "text": "Not only that, but we are also glad in our troubles, because we know that trouble produces patience;"
-      },
-      {
-        "n": 4,
-        "text": "patience produces strong character; and strong character produces hope."
-      },
-      {
-        "n": 5,
-        "text": "And this hope does not disappoint us, because God has poured out His love into our hearts through the Holy Spirit He has given us."
-      },
-      {
-        "n": 6,
-        "text": "You see, at just the right time, when we were still powerless, Christ died for the ungodly."
-      },
-      {
-        "n": 7,
-        "text": "It is rare for anyone to die even for a good person, though for a truly good person someone might dare to die."
-      },
-      {
-        "n": 8,
-        "text": "But God shows His love for us in this way: while we were still sinners, Christ died for us."
-      },
-      {
-        "n": 9,
-        "text": "So now that we have been made right with God by Christ's blood, how much more will we be saved from God's anger through Him!"
-      },
-      {
-        "n": 10,
-        "text": "While we were God's enemies, we were brought back to Him through the death of His Son. Now we are His friends. How much more will we be saved through His life!"
-      },
-      {
-        "n": 11,
-        "text": "Not only that, but we are also glad in God through our Lord Jesus Christ, through whom we have now been brought back to God."
-      },
-      {
-        "n": 12,
-        "text": "So then, sin came into the world through one man, and death came through sin. And so death spread to everyone, because everyone sinned."
-      },
-      {
-        "n": 13,
-        "text": "Sin was in the world before the law was given. But sin is not counted against anyone when there is no law."
-      },
-      {
-        "n": 14,
-        "text": "Yet death ruled from the time of Adam to the time of Moses. It even ruled over those who did not sin in the same way Adam did. Adam broke God's command. Adam was a picture of the One who was coming."
-      },
-      {
-        "n": 15,
-        "text": "But God's free gift is not like Adam's sin. Many died because of the sin of one man. But God's grace, and the gift that came by the grace of one man, Jesus Christ, overflowed to many even more."
-      },
-      {
-        "n": 16,
-        "text": "And the gift is not like the result of one man's sin. The judgment after one sin brought condemnation, but the free gift brought a right standing, even after many sins."
-      },
-      {
-        "n": 17,
-        "text": "Death ruled because of one man's sin. How much more will those who receive God's overflowing grace and the gift of right standing rule in life! They rule through one man, Jesus Christ!"
-      },
-      {
-        "n": 18,
-        "text": "So then, just as one sin brought condemnation for everyone, one act of right brought a right standing and life for everyone."
-      },
-      {
-        "n": 19,
-        "text": "For just as many were made sinners through the disobedience of one man, so many will be made right with God through the obedience of one man."
-      },
-      {
-        "n": 20,
-        "text": "The law was brought in so that sin would increase. But where sin increased, grace increased even more,"
-      },
-      {
-        "n": 21,
-        "text": "so that, just as sin ruled and brought death, grace might rule by making people right with God, bringing eternal life through Jesus Christ our Lord."
-      }
+      { "n": 1, "text": "So, since we have been justified (made right with God) by faith, we have peace with God through our Lord Jesus Christ." },
+      { "n": 2, "text": "Through Jesus we have been brought, by faith, into this grace in which we now stand. And we rejoice in hope of the glory of God." },
+      { "n": 3, "text": "Not only that, but we also rejoice in tribulations (troubles), because we know that tribulation (trouble) produces patience;" },
+      { "n": 4, "text": "patience produces experience (proven character); and experience (proven character) produces hope." },
+      { "n": 5, "text": "And this hope does not disappoint us, because God has poured out His love into our hearts through the Holy Spirit He has given us." },
+      { "n": 6, "text": "You see, when we were still without strength, at the right time Christ died for the ungodly." },
+      { "n": 7, "text": "It is rare for anyone to die even for a righteous (right with God) person, though for a good person someone might dare to die." },
+      { "n": 8, "text": "But God shows His love for us in this way: while we were still sinners, Christ died for us." },
+      { "n": 9, "text": "So now that we have been justified (made right with God) by Christ's blood, how much more will we be saved from wrath (God's anger) through Him!" },
+      { "n": 10, "text": "While we were God's enemies, we were reconciled (brought back to God) by the death of His Son. Now that we are reconciled (brought back to God), how much more will we be saved by His life!" },
+      { "n": 11, "text": "Not only that, but we also rejoice in God through our Lord Jesus Christ. Through Him we have now received the atonement (being made one with God again)." },
+      { "n": 12, "text": "So then, sin came into the world through one man, and death came through sin. And so death spread to everyone, because everyone sinned." },
+      { "n": 13, "text": "Sin was in the world before the law was given. But sin is not counted against anyone when there is no law." },
+      { "n": 14, "text": "Yet death ruled from the time of Adam to the time of Moses. It even ruled over those who did not sin in the same way Adam did. Adam broke God's command. Adam was a picture of the One who was coming." },
+      { "n": 15, "text": "But God's free gift is not like Adam's sin. Many died because of the sin of one man. But God's grace, and the gift that came by the grace of one man, Jesus Christ, overflowed to many even more." },
+      { "n": 16, "text": "And the gift is not like the result of one man's sin. The judgment after one sin brought condemnation (being judged guilty), but the free gift brought justification (being made right with God), even after many sins." },
+      { "n": 17, "text": "Death ruled because of one man's sin. How much more will those who receive God's overflowing grace and the gift of righteousness (being right with God) rule in life by One, Jesus Christ!" },
+      { "n": 18, "text": "So then, just as one sin brought condemnation (being judged guilty) on everyone, the righteousness (being right with God) of One brought the free gift to everyone, for justification (being made right with God) and life." },
+      { "n": 19, "text": "For just as many were made sinners through the disobedience of one man, so many will be made righteous (right with God) through the obedience of One." },
+      { "n": 20, "text": "The law came in so that sin would increase. But where sin increased, grace increased even more," },
+      { "n": 21, "text": "so that, just as sin ruled and brought death, grace might rule through righteousness (being right with God), bringing eternal life by Jesus Christ our Lord." }
     ]
   },
   "6": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Covers Paul's teaching that believers are united with Christ in His death and resurrection, freeing them from sin's mastery to become slaves of righteousness instead. All pronouns referring to Christ are capitalized per this site's standard.",
+    "source": "Drafted from the public-domain King James Version. Revised 2026-11-16 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level and hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "So what should we say? Should we keep on sinning so that grace can grow?"
-      },
-      {
-        "n": 2,
-        "text": "No, never! We died to sin. So how can we go on living in it?"
-      },
-      {
-        "n": 3,
-        "text": "Do you not know that all of us who were baptized into Christ Jesus were baptized into His death?"
-      },
-      {
-        "n": 4,
-        "text": "So through baptism we were buried with Him into death. Christ was raised from death by the glory of the Father. In the same way, we too may live a new life."
-      },
-      {
-        "n": 5,
-        "text": "For if we have become joined with Him in a death like His, we will also be joined with Him in a resurrection like His."
-      },
-      {
-        "n": 6,
-        "text": "We know our old self was nailed to the cross with Him. So the body ruled by sin would lose its power. Then we would no longer be slaves to sin."
-      },
-      {
-        "n": 7,
-        "text": "For anyone who has died has been set free from sin."
-      },
-      {
-        "n": 8,
-        "text": "Now if we died with Christ, we believe that we will also live with Him."
-      },
-      {
-        "n": 9,
-        "text": "We know that Christ, who was raised from death, will never die again; death no longer has power over Him."
-      },
-      {
-        "n": 10,
-        "text": "The death He died, He died to sin once for all. But the life He lives, He lives to God."
-      },
-      {
-        "n": 11,
-        "text": "In the same way, count yourselves dead to sin, but alive to God in Christ Jesus."
-      },
-      {
-        "n": 12,
-        "text": "So do not let sin rule in your body, which will die, by obeying its desires."
-      },
-      {
-        "n": 13,
-        "text": "Do not give any part of yourself to sin to be used for evil. Instead, give yourselves to God, as people who have been brought from death to life. Give every part of yourself to God to be used for what is right."
-      },
-      {
-        "n": 14,
-        "text": "For sin will not rule over you, because you are not under the law, but under grace."
-      },
-      {
-        "n": 15,
-        "text": "So what then? Should we sin because we are not under the law, but under grace? No, never!"
-      },
-      {
-        "n": 16,
-        "text": "Do you not know that when you give yourself to someone to obey, you are the slave of the one you obey? You are either a slave to sin, which leads to death, or a slave to obedience, which leads to right living."
-      },
-      {
-        "n": 17,
-        "text": "But thanks be to God! You used to be slaves to sin, but you obeyed with all your heart the teaching you were given."
-      },
-      {
-        "n": 18,
-        "text": "Now you have been set free from sin and have become slaves to right living."
-      },
-      {
-        "n": 19,
-        "text": "I am using an everyday example, because you are weak in your human nature. You once gave yourselves to be slaves to impurity and to more and more evil. Now give yourselves to be slaves to right living. That leads to holiness."
-      },
-      {
-        "n": 20,
-        "text": "When you were slaves to sin, you were free from doing what is right."
-      },
-      {
-        "n": 21,
-        "text": "What did you gain from the things you are now ashamed of? Those things lead to death!"
-      },
-      {
-        "n": 22,
-        "text": "But now you have been set free from sin and have become slaves of God. The good you gain leads to holiness, and the end is eternal life."
-      },
-      {
-        "n": 23,
-        "text": "For the payment for sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."
-      }
+      { "n": 1, "text": "So what should we say? Should we keep on sinning so that grace can grow?" },
+      { "n": 2, "text": "No, never! We died to sin. So how can we go on living in it?" },
+      { "n": 3, "text": "Do you not know that all of us who were baptized into Christ Jesus were baptized into His death?" },
+      { "n": 4, "text": "So through baptism we were buried with Him into death. Christ was raised from death by the glory of the Father. In the same way, we too may live a new life." },
+      { "n": 5, "text": "For if we have become joined with Him in a death like His, we will also be joined with Him in a resurrection like His." },
+      { "n": 6, "text": "We know our old self was nailed to the cross with Him. So the body ruled by sin would lose its power. Then we would no longer be slaves to sin." },
+      { "n": 7, "text": "For anyone who has died has been set free from sin." },
+      { "n": 8, "text": "Now if we died with Christ, we believe that we will also live with Him." },
+      { "n": 9, "text": "We know that Christ, who was raised from death, will never die again; death no longer has power over Him." },
+      { "n": 10, "text": "The death He died, He died to sin once for all. But the life He lives, He lives to God." },
+      { "n": 11, "text": "In the same way, count yourselves dead to sin, but alive to God through Jesus Christ our Lord." },
+      { "n": 12, "text": "So do not let sin rule in your body, which will die, by obeying its desires." },
+      { "n": 13, "text": "Do not give any part of yourself to sin to be used for unrighteousness (wrong). Instead, give yourselves to God, as people who are alive from the dead. Give every part of yourself to God to be used for righteousness (being right with God)." },
+      { "n": 14, "text": "For sin will not rule over you, because you are not under the law, but under grace." },
+      { "n": 15, "text": "So what then? Should we sin because we are not under the law, but under grace? No, never!" },
+      { "n": 16, "text": "Do you not know that when you give yourself to someone to obey, you are the slave of the one you obey? You are either a slave to sin, which leads to death, or a slave to obedience, which leads to righteousness (being right with God)." },
+      { "n": 17, "text": "But thanks be to God! You used to be slaves to sin, but you obeyed with all your heart the teaching you were given." },
+      { "n": 18, "text": "Now you have been set free from sin and have become servants of righteousness (being right with God)." },
+      { "n": 19, "text": "I am using an everyday example, because you are weak in your human nature. You once gave yourselves to be slaves to impurity and to more and more evil. Now give yourselves to be servants of righteousness (being right with God). That leads to holiness." },
+      { "n": 20, "text": "When you were slaves to sin, you were free from righteousness (being right with God)." },
+      { "n": 21, "text": "What did you gain from the things you are now ashamed of? Those things lead to death!" },
+      { "n": 22, "text": "But now you have been set free from sin and have become slaves of God. The good you gain leads to holiness, and the end is eternal life." },
+      { "n": 23, "text": "For the wages (payment) of sin is death, but the gift of God is eternal life through Jesus Christ our Lord." }
     ]
   },
   "7": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Brothers and sisters, I know you all understand the Law of Moses. So surely you know that the law rules over people only while they are alive."
-      },
-      {
-        "n": 2,
-        "text": "The laws say that a woman who is married is her husband's wife for as long as he is alive. But if her husband dies, then she is free. That is what the laws say."
-      },
-      {
-        "n": 3,
-        "text": "The laws say she commits adultery if she marries another man while her husband lives. But if her husband dies, she is free from the laws. If she marries another man then, she does not commit adultery."
-      },
-      {
-        "n": 4,
-        "text": "In the same way, my brothers and sisters, your old selves died and you became free from the law through the body of Christ. Now you belong to someone else. You belong to the one who was raised from death. We belong to Christ so that we can be used in service to God."
-      },
-      {
-        "n": 5,
-        "text": "In the past we were ruled by our sinful selves. The law made us want to do sinful things. And those sinful desires controlled our bodies, so that what we did only brought us death."
-      },
-      {
-        "n": 6,
-        "text": "In the past the law held us as prisoners, but our old selves died, and we were made free from the law. So now we serve God in a new way, not in the old way, with the written rules."
-      },
-      {
-        "n": 7,
-        "text": "Some people say: Is God's law sin? No, it is wrong to say that. I know God's law and that is why I know what sin is. For example, God's law says: You must not want something that belongs to someone else."
-      },
-      {
-        "n": 8,
-        "text": "But sin uses these laws and makes me feel like I want to have it. If there were no laws, then sin could not make me want to have those things that are wrong."
-      },
-      {
-        "n": 9,
-        "text": "I was once alive without knowing the Law. But when I understood what the commandment meant, sin became alive, and I died, because the Law sentenced me to death."
-      },
-      {
-        "n": 10,
-        "text": "God gave the laws to make me alive, but what happened was that those laws brought me death."
-      },
-      {
-        "n": 11,
-        "text": "Sin found a way to fool me by using the command to make me die."
-      },
-      {
-        "n": 12,
-        "text": "Now the law is holy, and the command is holy and right and good."
-      },
-      {
-        "n": 13,
-        "text": "Does this mean that something that is good brought death to me? No, it was sin that used the good command to bring me death. This shows how terrible sin really is. It can use a good command to produce a result that shows sin at its very worst."
-      },
-      {
-        "n": 14,
-        "text": "We know that the law is spiritual, but I am not. I am so human. Sin rules me as if I were its slave."
-      },
-      {
-        "n": 15,
-        "text": "I do not understand what I am doing. I do not do the good I want to do, and I do the evil I hate."
-      },
-      {
-        "n": 16,
-        "text": "And if I do not want to do what I do, that means I agree that the law is good."
-      },
-      {
-        "n": 17,
-        "text": "But I am not really the one doing the evil. It is sin living in me that does it."
-      },
-      {
-        "n": 18,
-        "text": "I know that there is nothing in me that is good. I am sinful. I want to do good things, but I do not do them."
-      },
-      {
-        "n": 19,
-        "text": "I do not do the good that I want to do. I do the evil that I do not want to do."
-      },
-      {
-        "n": 20,
-        "text": "So if I do what I do not want to do, then I am not really the one doing it. It is the sin living in me that does it."
-      },
-      {
-        "n": 21,
-        "text": "So I have learned this rule: When I want to do good, evil is there with me."
-      },
-      {
-        "n": 22,
-        "text": "In my mind I am happy with God's law."
-      },
-      {
-        "n": 23,
-        "text": "But I see another law working in my body. That law makes war against the law that my mind accepts. That other law working in my body is the law of sin, and that law makes me its prisoner."
-      },
-      {
-        "n": 24,
-        "text": "What a miserable person I am! Who will save me from this body that brings me death?"
-      },
-      {
-        "n": 25,
-        "text": "I thank God for His salvation through Jesus Christ our Lord! So, in my mind I am a servant to God's law, but in my sinful self I am a slave to the law of sin."
-      }
+      { "n": 1, "text": "Brothers and sisters, I speak to people who know the law. Do you not know that the law rules over a person only as long as that person lives?" },
+      { "n": 2, "text": "A married woman is bound by the law to her husband as long as her husband lives. But if her husband dies, she is free from the law of her husband." },
+      { "n": 3, "text": "So if she marries another man while her husband lives, she will be called an adulteress. But if her husband dies, she is free from that law. Then she is not an adulteress, even if she marries another man." },
+      { "n": 4, "text": "In the same way, my brothers and sisters, you also have become dead to the law by the body of Christ. Now you can be married to Another, to Christ, who was raised from the dead. So we can bring forth fruit for God." },
+      { "n": 5, "text": "When we were in the flesh (sinful self), the sinful desires stirred up by the law worked in our bodies. They brought forth fruit that leads to death." },
+      { "n": 6, "text": "But now we are delivered (set free) from the law. We are dead to what once held us. So we serve in the new way of the spirit, not in the old way of the written letter." },
+      { "n": 7, "text": "What shall we say then? Is the law sin? No, never! I would not have known sin except by the law. I would not have known lust (wrong desire) if the law had not said: You shall not covet (want what belongs to others)." },
+      { "n": 8, "text": "But sin used the commandment as a chance. Sin worked in me all kinds of wrong desire. For without the law, sin was dead." },
+      { "n": 9, "text": "Once I was alive without the law. But when the commandment came, sin came alive again, and I died." },
+      { "n": 10, "text": "The commandment was meant to bring life, but I found that it brought death." },
+      { "n": 11, "text": "For sin used the commandment as a chance. Sin fooled me, and by the commandment sin killed me." },
+      { "n": 12, "text": "So the law is holy. The commandment is holy, just (fair), and good." },
+      { "n": 13, "text": "Then did what is good bring death to me? No, never! It was sin. Sin used what is good to bring death to me. This shows sin for what it really is. By the commandment, sin became very sinful." },
+      { "n": 14, "text": "We know that the law is spiritual. But I am carnal (ruled by the sinful self), sold under sin." },
+      { "n": 15, "text": "I do not understand what I do. What I want to do, I do not do. But what I hate, I do." },
+      { "n": 16, "text": "If I do what I do not want to do, I agree that the law is good." },
+      { "n": 17, "text": "So now it is no longer I who do it. It is sin that lives in me." },
+      { "n": 18, "text": "I know that in me, that is, in my flesh (sinful self), no good thing lives. I want to do good, but I do not find how to do it." },
+      { "n": 19, "text": "For the good that I want to do, I do not do. But the evil that I do not want to do, I do." },
+      { "n": 20, "text": "If I do what I do not want to do, it is no longer I who do it. It is sin that lives in me." },
+      { "n": 21, "text": "So I find this law: when I want to do good, evil is right there with me." },
+      { "n": 22, "text": "In my inner man (my inner self), I delight in the law of God." },
+      { "n": 23, "text": "But I see another law in my body. It fights against the law of my mind. It makes me a captive (prisoner) to the law of sin, which is in my body." },
+      { "n": 24, "text": "What a wretched (miserable) man I am! Who will deliver (rescue) me from the body of this death?" },
+      { "n": 25, "text": "I thank God through Jesus Christ our Lord! So with my mind I myself serve the law of God. But with my flesh (sinful self) I serve the law of sin." }
     ],
     "sourceUrl": "https://kjvdeaf.com/romans-chapter-7/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed several grammar issues. Reverential capitalization of pronouns referring to God applied per this site's standard.",
+    "source": "Rewritten 2026-11-16 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "8": {
     "verses": [
-      {
-        "n": 1,
-        "text": "So now, anyone who is in Christ Jesus and does not follow our sinful ways, but follows the ways of the Spirit, is not judged guilty."
-      },
-      {
-        "n": 2,
-        "text": "It is because in Christ Jesus the law of the Spirit brings life and has made you free. The Spirit made you free from the law that brings sin and death"
-      },
-      {
-        "n": 3,
-        "text": "God did what His laws could not do. He saved us. The law was without power because it was made weak by our sinful flesh. But God sent His Son, and He became a Man, a human like the people who sin, and God punished Him for their sin. That is how God punished the sin that ruled over people."
-      },
-      {
-        "n": 4,
-        "text": "God did this so that we could be right just as the law said we must be. Now we do not follow our sinful selves. We follow the Spirit."
-      },
-      {
-        "n": 5,
-        "text": "People who follow their sinful selves think only about what they want. But those who follow the Spirit are thinking about what the Spirit wants them to do."
-      },
-      {
-        "n": 6,
-        "text": "If your thinking is controlled by your sinful self, there is death. But if your thinking is controlled by the Spirit, there is life and peace."
-      },
-      {
-        "n": 7,
-        "text": "Anyone whose thinking is controlled by their sinful self is against God. They refuse to obey God's law. They are not able to obey it."
-      },
-      {
-        "n": 8,
-        "text": "Those who are ruled by their sinful selves cannot please God."
-      },
-      {
-        "n": 9,
-        "text": "But you are not ruled by your sinful selves. You are ruled by the Spirit, if the Spirit of God really lives in you. But whoever does not have the Spirit of Christ does not belong to Christ."
-      },
-      {
-        "n": 10,
-        "text": "Your bodies will die because of sin. But if Christ lives in you, then the Spirit gives you life, because Christ made you right with God."
-      },
-      {
-        "n": 11,
-        "text": "Jesus died, but the Spirit of God made Him live again. That same Spirit lives in your hearts and that is why He will also make you live again, you who have bodies that will die. The Spirit of God who lives in your heart will raise you as He raised Jesus."
-      },
-      {
-        "n": 12,
-        "text": "So, my brothers and sisters, we have a responsibility not to be ruled by our sinful selves. We must not live the way our sinful selves want."
-      },
-      {
-        "n": 13,
-        "text": "If you live to do what your sinful selves want, you will die. But if you use the Spirit's help to stop doing the wrong things you do with your body, you will have true life."
-      },
-      {
-        "n": 14,
-        "text": "The true children of God are those who let God's Spirit lead them."
-      },
-      {
-        "n": 15,
-        "text": "The Spirit that we received is not a spirit that makes us slaves again to fear. The Spirit that we have makes us adopted children of God. And with that Spirit we cry out, Abba, Father."
-      },
-      {
-        "n": 16,
-        "text": "And the Spirit Himself speaks to our spirits and makes us sure that we are God's children."
-      },
-      {
-        "n": 17,
-        "text": "If we are God's children, we will get the blessings God has for His people. He will give us all that He has given Christ. But we must suffer like Christ suffered. Then we will also be glorified with Him."
-      },
-      {
-        "n": 18,
-        "text": "We have to suffer now. But God will give us something much better, something wonderful, and we will see it."
-      },
-      {
-        "n": 19,
-        "text": "Everything that God has made is waiting with excitement for the time when He will show the world who His children are."
-      },
-      {
-        "n": 20,
-        "text": "Everything God made was allowed to become like something that cannot fulfill its purpose. That was not its choice, but God made it happen with this hope in view:"
-      },
-      {
-        "n": 21,
-        "text": "That the creation would be made free from ruin. That everything God made would have the same freedom and glory that belong to God's children."
-      },
-      {
-        "n": 22,
-        "text": "We know that everything God made has been waiting until now in pain like a woman ready to give birth to a child."
-      },
-      {
-        "n": 23,
-        "text": "Not only the world, but we also have been waiting with pain inside us. We have the Spirit as the first part of God's promise. So, we are waiting for God to finish making us His own children. I mean we are waiting for our bodies to be made free."
-      },
-      {
-        "n": 24,
-        "text": "God has saved us, and He gave us this hope, to wait for something wonderful. If we can see what we are waiting for, that is not really hope. People do not hope for something they already have."
-      },
-      {
-        "n": 25,
-        "text": "But we are hoping for something we do not have yet, and we are waiting for it patiently."
-      },
-      {
-        "n": 26,
-        "text": "Also, the Spirit helps us. We are weak, but the Spirit helps us with our weakness. We do not know how to pray as we should, but the Spirit Himself speaks to God for us. He begs God for us, speaking to Him with feelings too deep for words."
-      },
-      {
-        "n": 27,
-        "text": "God already knows our deepest thoughts. And He understands what the Spirit is saying, because the Spirit speaks for His people in the way that agrees with what God wants."
-      },
-      {
-        "n": 28,
-        "text": "The people who love God should know that everything that happens to them is for good. God makes it happen that way because that was His plan."
-      },
-      {
-        "n": 29,
-        "text": "God knew them before He made the world. And He decided that they would be like His Son. Then Jesus would be the firstborn of many brothers and sisters."
-      },
-      {
-        "n": 30,
-        "text": "God planned for them to be like His Son. God calls them to Himself, and God made them right with Him. And after He made them right, He gave them His glory."
-      },
-      {
-        "n": 31,
-        "text": "So what should we say about this? If God is for us, no one can stand against us."
-      },
-      {
-        "n": 32,
-        "text": "He even let His own Son suffer for us. God gave His Son for all of us. So now with Jesus, God will freely give us all things."
-      },
-      {
-        "n": 33,
-        "text": "Who can accuse God's people? No one! God is the one who makes them right."
-      },
-      {
-        "n": 34,
-        "text": "Who can say that God's people are guilty? No one! Christ Jesus died for us, but that is not all. Jesus was also raised from death. And now He is at God's right side, speaking to God for us."
-      },
-      {
-        "n": 35,
-        "text": "Can anything separate us from Christ's love? Can trouble, or problems, or persecution? Can no food, or no clothes, or facing danger, or even death?"
-      },
-      {
-        "n": 36,
-        "text": "As the Scripture says: For your sake we are in danger of death at all times. We are treated like sheep that are going to be slaughtered."
-      },
-      {
-        "n": 37,
-        "text": "No, in all these things we have complete victory through Jesus who loved us."
-      },
-      {
-        "n": 38,
-        "text": "For I am certain that nothing can separate us from His love. Death cannot. Life cannot. Angels and other heavenly rulers and powers cannot. The present cannot. The future cannot."
-      },
-      {
-        "n": 39,
-        "text": "Neither the world above nor the world below. There is nothing in all creation that will ever be able to separate us from the love of God, which is ours through Christ Jesus our Lord."
-      }
+      { "n": 1, "text": "So now there is no condemnation (being judged guilty) for those who are in Christ Jesus. They do not walk after the flesh (sinful self), but after the Spirit." },
+      { "n": 2, "text": "For the law of the Spirit of life in Christ Jesus has made me free from the law of sin and death." },
+      { "n": 3, "text": "The law could not do it, because the law was weak through the flesh (sinful self). So God sent His own Son in the likeness (looking like) of sinful flesh, and for sin. God condemned (judged guilty) sin in the flesh." },
+      { "n": 4, "text": "God did this so that the righteousness (being right with God) of the law might be fulfilled in us. We do not walk after the flesh (sinful self), but after the Spirit." },
+      { "n": 5, "text": "Those who live after the flesh (sinful self) set their minds on the things of the flesh. But those who live after the Spirit set their minds on the things of the Spirit." },
+      { "n": 6, "text": "To be carnally (ruled by the sinful self) minded is death. But to be spiritually minded is life and peace." },
+      { "n": 7, "text": "The carnal (ruled by the sinful self) mind is enmity (hate) against God. It is not subject to the law of God, and it cannot be." },
+      { "n": 8, "text": "So those who are in the flesh (sinful self) cannot please God." },
+      { "n": 9, "text": "But you are not in the flesh (sinful self). You are in the Spirit, if the Spirit of God lives in you. Now if anyone does not have the Spirit of Christ, that person does not belong to Christ." },
+      { "n": 10, "text": "And if Christ is in you, the body is dead because of sin. But the Spirit is life because of righteousness (being right with God)." },
+      { "n": 11, "text": "God raised up Jesus from the dead. If the Spirit of God lives in you, then God, who raised up Christ from the dead, will also quicken (make alive) your mortal (that will die) bodies. God will do this by His Spirit who lives in you." },
+      { "n": 12, "text": "So, brothers and sisters, we are debtors (we owe something). But we do not owe the flesh (sinful self), to live after the flesh." },
+      { "n": 13, "text": "For if you live after the flesh (sinful self), you will die. But if through the Spirit you mortify (put to death) the deeds of the body, you will live." },
+      { "n": 14, "text": "All who are led by the Spirit of God are the sons of God." },
+      { "n": 15, "text": "For you did not receive the spirit of bondage (slavery) to fear again. You received the Spirit of adoption (being made God's children). By the Spirit we cry out: Abba, Father." },
+      { "n": 16, "text": "The Spirit Himself bears witness with our spirit that we are the children of God." },
+      { "n": 17, "text": "And if we are children, then we are heirs. We are heirs of God and joint-heirs (sharing heirs) with Christ, if we suffer with Christ, so that we may also be glorified together with Him." },
+      { "n": 18, "text": "I count the sufferings of this present time as not worth comparing with the glory that will be revealed (shown) in us." },
+      { "n": 19, "text": "All creation waits with eager hope for the sons of God to be shown." },
+      { "n": 20, "text": "For creation was made subject to vanity (emptiness). It was not by its own choice, but because of God, who made it subject in hope." },
+      { "n": 21, "text": "Creation itself will also be delivered (set free) from the bondage (slavery) of corruption (decay). It will come into the glorious freedom of the children of God." },
+      { "n": 22, "text": "We know that the whole creation groans and labors in pain together until now, like a woman giving birth." },
+      { "n": 23, "text": "And not only creation, but we ourselves also. We have the firstfruits (first part) of the Spirit, yet we groan within ourselves. We are waiting for the adoption (being made God's children), that is, the redemption (being bought back and set free) of our body." },
+      { "n": 24, "text": "For we are saved by hope. But hope that is seen is not hope. Why would anyone still hope for what they already see?" },
+      { "n": 25, "text": "But if we hope for what we do not see, then we wait for it with patience." },
+      { "n": 26, "text": "In the same way, the Spirit also helps our infirmities (weaknesses). We do not know what we should pray for as we ought. But the Spirit Himself makes intercession (prays to God) for us, with groanings that cannot be put into words." },
+      { "n": 27, "text": "God, who searches the hearts, knows what is the mind of the Spirit. The Spirit makes intercession (prays to God) for the saints (holy people) the way God wants." },
+      { "n": 28, "text": "And we know that all things work together for good to those who love God, to those who are called by His purpose (plan)." },
+      { "n": 29, "text": "For those God foreknew (knew ahead of time), God also predestinated (chose ahead of time) to become like the image of His Son. So the Son would be the firstborn among many brothers and sisters." },
+      { "n": 30, "text": "And those God predestinated (chose ahead of time), He also called. Those He called, He also justified (made right with God). Those He justified (made right with God), He also glorified." },
+      { "n": 31, "text": "What shall we say to these things? If God is for us, who can be against us?" },
+      { "n": 32, "text": "God did not spare His own Son, but gave Him up for us all. So how will God not also, with His Son, freely give us all things?" },
+      { "n": 33, "text": "Who can bring any charge against God's elect (chosen people)? It is God who justifies (makes right with God)." },
+      { "n": 34, "text": "Who is the one who condemns (judges guilty)? It is Christ who died. Even more, Christ is risen again. Christ is at the right hand of God, and Christ also makes intercession (prays to God) for us." },
+      { "n": 35, "text": "Who will separate us from the love of Christ? Will tribulation (trouble), or hard times, or persecution (being attacked for our faith), or famine (no food), or nakedness, or danger, or sword?" },
+      { "n": 36, "text": "As the Scripture says: For Your sake we are killed all day long. We are counted as sheep for the slaughter." },
+      { "n": 37, "text": "No, in all these things we are more than conquerors (winners) through Him who loved us." },
+      { "n": 38, "text": "For I am sure that neither death, nor life, nor angels, nor rulers, nor powers, nor things present, nor things to come," },
+      { "n": 39, "text": "nor height, nor depth, nor anything else in all creation, will be able to separate us from the love of God, which is in Christ Jesus our Lord." }
     ],
     "sourceUrl": "https://kjvdeaf.com/romans-chapter-8/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. A merged-verse numbering bug (37/38) has been split apart, and several grammar issues fixed. Reverential capitalization of pronouns referring to God, Jesus, and the Holy Spirit applied per this site's standard.",
+    "source": "Rewritten 2026-11-16 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences): v1 keeps 'who walk not after the flesh, but after the Spirit.' Simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "9": {
@@ -964,138 +289,39 @@
     "generated": true,
     "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Covers Paul's anguish over Israel's unbelief, God's sovereign choice illustrated through Isaac/Ishmael and Jacob/Esau, the potter-and-clay image, and the stumbling stone. All pronouns referring to God are capitalized per this site's standard.",
     "verses": [
-      {
-        "n": 1,
-        "text": "I am telling the truth in Christ; I am not lying. My conscience, guided by the Holy Spirit, agrees with me:"
-      },
-      {
-        "n": 2,
-        "text": "I have great sorrow and constant pain in my heart."
-      },
-      {
-        "n": 3,
-        "text": "For I could almost wish that I myself were cursed and cut off from Christ for the sake of my own people, my own flesh and blood."
-      },
-      {
-        "n": 4,
-        "text": "They are the people of Israel. God made them His children. He gave them His glory, His agreements, the law, the worship, and the promises."
-      },
-      {
-        "n": 5,
-        "text": "They are descended from the great ancestors, and from them, as a human being, came Christ, who is God over all, blessed forever. Amen."
-      },
-      {
-        "n": 6,
-        "text": "It is not as though God's word has failed. For not everyone descended from Israel really belongs to Israel."
-      },
-      {
-        "n": 7,
-        "text": "And not all of Abraham's descendants are his true children. Instead, God said: Your descendants will come through Isaac."
-      },
-      {
-        "n": 8,
-        "text": "In other words, it is not the natural children who are God's children. It is the children of the promise who are counted as Abraham's descendants."
-      },
-      {
-        "n": 9,
-        "text": "For this is what the promise said: At the right time I will come back, and Sarah will have a son."
-      },
-      {
-        "n": 10,
-        "text": "Not only that, but Rebecca's two children had the same father, our ancestor Isaac."
-      },
-      {
-        "n": 11,
-        "text": "Yet the children were not yet born. They had not done anything good or bad. God's plan to choose people must stand. It does not depend on works. It depends on the One who calls."
-      },
-      {
-        "n": 12,
-        "text": "Rebecca was told: The older will serve the younger."
-      },
-      {
-        "n": 13,
-        "text": "As the Scripture says: I loved Jacob, but I rejected Esau."
-      },
-      {
-        "n": 14,
-        "text": "So what should we say? Is God unfair? No, never!"
-      },
-      {
-        "n": 15,
-        "text": "For God said to Moses: I will have mercy on whomever I choose, and I will show pity to whomever I choose."
-      },
-      {
-        "n": 16,
-        "text": "So it does not depend on human wanting or human effort, but on God, who shows mercy."
-      },
-      {
-        "n": 17,
-        "text": "The Scripture says to Pharaoh: I raised you up for this very reason. I wanted to show my power through you. I wanted my name to be told all over the earth."
-      },
-      {
-        "n": 18,
-        "text": "So then, God has mercy on whomever He chooses, and He hardens whomever He chooses."
-      },
-      {
-        "n": 19,
-        "text": "So you might say to me: Then why does God still blame us? For who can resist His will?"
-      },
-      {
-        "n": 20,
-        "text": "But who are you, a mere human, to argue with God? Should the thing that was made say to the one who made it: Why did you make me like this?"
-      },
-      {
-        "n": 21,
-        "text": "Does the potter not have the right to make, from the same lump of clay, one pot for special use and another for ordinary use?"
-      },
-      {
-        "n": 22,
-        "text": "What if God wanted to show His anger and make His power known? What if He patiently put up with the objects of His anger, which were ready to be destroyed?"
-      },
-      {
-        "n": 23,
-        "text": "What if He did this to make known the riches of His glory to the objects of His mercy, whom He prepared in advance for glory."
-      },
-      {
-        "n": 24,
-        "text": "That is, to us, whom He called, not only from the Jews but also from the other nations?"
-      },
-      {
-        "n": 25,
-        "text": "As God says in Hosea: I will call them my people who were not my people. I will call her my loved one who was not loved."
-      },
-      {
-        "n": 26,
-        "text": "And: In the very place where they were told, You are not my people, they will be called children of the living God."
-      },
-      {
-        "n": 27,
-        "text": "And Isaiah cries out about Israel: Even if the people of Israel are as many as the sand of the sea, only a few will be saved."
-      },
-      {
-        "n": 28,
-        "text": "For the Lord will carry out his sentence on the earth quickly and completely."
-      },
-      {
-        "n": 29,
-        "text": "As Isaiah also said before: If the Lord of heaven's armies had not left us some descendants, we would have become like Sodom. We would have been like Gomorrah."
-      },
-      {
-        "n": 30,
-        "text": "So what should we say? That the other nations, who were not even chasing after a right standing with God, have received it. This is a right standing that comes by faith."
-      },
-      {
-        "n": 31,
-        "text": "But Israel, who chased after a law that would make them right, did not reach it."
-      },
-      {
-        "n": 32,
-        "text": "Why not? Because they did not seek it by faith, but as if it could come by works. They tripped over the stumbling stone,"
-      },
-      {
-        "n": 33,
-        "text": "As the Scripture says: Look, I am laying in Zion a stone that makes people trip and a rock that makes them fall. But the one who trusts in Him will never be put to shame."
-      }
+      { "n": 1, "text": "I am telling the truth in Christ; I am not lying. My conscience, guided by the Holy Spirit, agrees with me:" },
+      { "n": 2, "text": "I have great sorrow and constant pain in my heart." },
+      { "n": 3, "text": "For I could almost wish that I myself were cursed and cut off from Christ for the sake of my own people, my own flesh and blood." },
+      { "n": 4, "text": "They are the people of Israel. God made them His children. He gave them His glory, His agreements, the law, the worship, and the promises." },
+      { "n": 5, "text": "They are descended from the great ancestors, and from them, as a human being, came Christ, who is God over all, blessed forever. Amen." },
+      { "n": 6, "text": "It is not as though God's word has failed. For not everyone descended from Israel really belongs to Israel." },
+      { "n": 7, "text": "And not all of Abraham's descendants are his true children. Instead, God said: Your descendants will come through Isaac." },
+      { "n": 8, "text": "In other words, it is not the natural children who are God's children. It is the children of the promise who are counted as Abraham's descendants." },
+      { "n": 9, "text": "For this is what the promise said: At the right time I will come back, and Sarah will have a son." },
+      { "n": 10, "text": "Not only that, but Rebecca's two children had the same father, our ancestor Isaac." },
+      { "n": 11, "text": "Yet the children were not yet born. They had not done anything good or bad. God's plan to choose people must stand. It does not depend on works. It depends on the One who calls." },
+      { "n": 12, "text": "Rebecca was told: The older will serve the younger." },
+      { "n": 13, "text": "As the Scripture says: I loved Jacob, but I rejected Esau." },
+      { "n": 14, "text": "So what should we say? Is God unfair? No, never!" },
+      { "n": 15, "text": "For God said to Moses: I will have mercy on whomever I choose, and I will show pity to whomever I choose." },
+      { "n": 16, "text": "So it does not depend on human wanting or human effort, but on God, who shows mercy." },
+      { "n": 17, "text": "The Scripture says to Pharaoh: I raised you up for this very reason. I wanted to show my power through you. I wanted my name to be told all over the earth." },
+      { "n": 18, "text": "So then, God has mercy on whomever He chooses, and He hardens whomever He chooses." },
+      { "n": 19, "text": "So you might say to me: Then why does God still blame us? For who can resist His will?" },
+      { "n": 20, "text": "But who are you, a mere human, to argue with God? Should the thing that was made say to the one who made it: Why did you make me like this?" },
+      { "n": 21, "text": "Does the potter not have the right to make, from the same lump of clay, one pot for special use and another for ordinary use?" },
+      { "n": 22, "text": "What if God wanted to show His anger and make His power known? What if He patiently put up with the objects of His anger, which were ready to be destroyed?" },
+      { "n": 23, "text": "What if He did this to make known the riches of His glory to the objects of His mercy, whom He prepared in advance for glory." },
+      { "n": 24, "text": "That is, to us, whom He called, not only from the Jews but also from the other nations?" },
+      { "n": 25, "text": "As God says in Hosea: I will call them my people who were not my people. I will call her my loved one who was not loved." },
+      { "n": 26, "text": "And: In the very place where they were told, You are not my people, they will be called children of the living God." },
+      { "n": 27, "text": "And Isaiah cries out about Israel: Even if the people of Israel are as many as the sand of the sea, only a few will be saved." },
+      { "n": 28, "text": "For the Lord will carry out his sentence on the earth quickly and completely." },
+      { "n": 29, "text": "As Isaiah also said before: If the Lord of heaven's armies had not left us some descendants, we would have become like Sodom. We would have been like Gomorrah." },
+      { "n": 30, "text": "So what should we say? That the other nations, who were not even chasing after a right standing with God, have received it. This is a right standing that comes by faith." },
+      { "n": 31, "text": "But Israel, who chased after a law that would make them right, did not reach it." },
+      { "n": 32, "text": "Why not? Because they did not seek it by faith, but as if it could come by works. They tripped over the stumbling stone," },
+      { "n": 33, "text": "As the Scripture says: Look, I am laying in Zion a stone that makes people trip and a rock that makes them fall. But the one who trusts in Him will never be put to shame." }
     ]
   },
   "10": {
@@ -1103,90 +329,27 @@
     "generated": true,
     "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Covers salvation by confessing Jesus as Lord and believing in His resurrection, the call to preach so people can hear and believe, and Israel's persistent unbelief despite having heard. All pronouns referring to God and Jesus are capitalized per this site's standard.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Brothers and sisters, the deep desire of my heart, and my prayer to God, is for the people of Israel to be saved."
-      },
-      {
-        "n": 2,
-        "text": "I can say about them that they are very eager for God, but their eagerness is not based on real knowledge."
-      },
-      {
-        "n": 3,
-        "text": "They did not understand how God makes people right with Himself, and they tried to set up their own way of being right. So they did not accept God's way."
-      },
-      {
-        "n": 4,
-        "text": "For Christ is the end of the law, so that everyone who believes may be made right with God."
-      },
-      {
-        "n": 5,
-        "text": "Moses writes about being made right by the law: The person who obeys these things will live by them."
-      },
-      {
-        "n": 6,
-        "text": "But being made right by faith says this: Do not say in your heart, Who will go up to heaven? (that is, to bring Christ down)"
-      },
-      {
-        "n": 7,
-        "text": "or, Who will go down into the deep? (that is, to bring Christ up from death)."
-      },
-      {
-        "n": 8,
-        "text": "Instead, what does it say? The message is near you; it is in your mouth and in your heart. This is the message of faith that we preach:"
-      },
-      {
-        "n": 9,
-        "text": "If you say with your mouth that Jesus is Lord, and believe in your heart that God raised Him from death, you will be saved."
-      },
-      {
-        "n": 10,
-        "text": "For it is by believing in your heart that you are made right with God. It is by saying it with your mouth that you are saved."
-      },
-      {
-        "n": 11,
-        "text": "As the Scripture says: The one who trusts in Him will never be put to shame."
-      },
-      {
-        "n": 12,
-        "text": "There is no difference between Jew and Greek. The same Lord is Lord of all, and He richly blesses all who call on Him,"
-      },
-      {
-        "n": 13,
-        "text": "for: Everyone who calls on the name of the Lord will be saved."
-      },
-      {
-        "n": 14,
-        "text": "But how can people call on the One they have not believed in? And how can they believe in the One they have not heard about? And how can they hear without someone preaching?"
-      },
-      {
-        "n": 15,
-        "text": "And how can anyone preach unless they are sent? As the Scripture says: How beautiful are the feet of those who bring the good news!"
-      },
-      {
-        "n": 16,
-        "text": "But not everyone has accepted the good news. For Isaiah says: Lord, who has believed our message?"
-      },
-      {
-        "n": 17,
-        "text": "So faith comes from hearing the message, and the message is heard through the word of Christ."
-      },
-      {
-        "n": 18,
-        "text": "But I ask: Did they not hear? Yes, they did: Their voice went out into all the earth, their words to the ends of the world."
-      },
-      {
-        "n": 19,
-        "text": "Again I ask: Did Israel not understand? First, Moses says: I will make you jealous of those who are not even a nation. I will make you angry with a nation that has no understanding."
-      },
-      {
-        "n": 20,
-        "text": "And Isaiah boldly says: I was found by those who were not looking for me; I showed myself to those who were not asking for me."
-      },
-      {
-        "n": 21,
-        "text": "But about Israel he says: All day long I have held out my hands to a people who disobey and argue."
-      }
+      { "n": 1, "text": "Brothers and sisters, the deep desire of my heart, and my prayer to God, is for the people of Israel to be saved." },
+      { "n": 2, "text": "I can say about them that they are very eager for God, but their eagerness is not based on real knowledge." },
+      { "n": 3, "text": "They did not understand how God makes people right with Himself, and they tried to set up their own way of being right. So they did not accept God's way." },
+      { "n": 4, "text": "For Christ is the end of the law, so that everyone who believes may be made right with God." },
+      { "n": 5, "text": "Moses writes about being made right by the law: The person who obeys these things will live by them." },
+      { "n": 6, "text": "But being made right by faith says this: Do not say in your heart, Who will go up to heaven? (that is, to bring Christ down)" },
+      { "n": 7, "text": "or, Who will go down into the deep? (that is, to bring Christ up from death)." },
+      { "n": 8, "text": "Instead, what does it say? The message is near you; it is in your mouth and in your heart. This is the message of faith that we preach:" },
+      { "n": 9, "text": "If you say with your mouth that Jesus is Lord, and believe in your heart that God raised Him from death, you will be saved." },
+      { "n": 10, "text": "For it is by believing in your heart that you are made right with God. It is by saying it with your mouth that you are saved." },
+      { "n": 11, "text": "As the Scripture says: The one who trusts in Him will never be put to shame." },
+      { "n": 12, "text": "There is no difference between Jew and Greek. The same Lord is Lord of all, and He richly blesses all who call on Him," },
+      { "n": 13, "text": "for: Everyone who calls on the name of the Lord will be saved." },
+      { "n": 14, "text": "But how can people call on the One they have not believed in? And how can they believe in the One they have not heard about? And how can they hear without someone preaching?" },
+      { "n": 15, "text": "And how can anyone preach unless they are sent? As the Scripture says: How beautiful are the feet of those who bring the good news!" },
+      { "n": 16, "text": "But not everyone has accepted the good news. For Isaiah says: Lord, who has believed our message?" },
+      { "n": 17, "text": "So faith comes from hearing the message, and the message is heard through the word of Christ." },
+      { "n": 18, "text": "But I ask: Did they not hear? Yes, they did: Their voice went out into all the earth, their words to the ends of the world." },
+      { "n": 19, "text": "Again I ask: Did Israel not understand? First, Moses says: I will make you jealous of those who are not even a nation. I will make you angry with a nation that has no understanding." },
+      { "n": 20, "text": "And Isaiah boldly says: I was found by those who were not looking for me; I showed myself to those who were not asking for me." },
+      { "n": 21, "text": "But about Israel he says: All day long I have held out my hands to a people who disobey and argue." }
     ]
   },
   "11": {
@@ -1194,243 +357,72 @@
     "generated": true,
     "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Covers God's remnant among Israel, the olive tree metaphor of Gentile grafting, the mystery of Israel's future salvation, and Paul's closing doxology on the depth of God's wisdom. All pronouns referring to God are capitalized per this site's standard.",
     "verses": [
-      {
-        "n": 1,
-        "text": "So I ask: Did God reject His people? No, never! I myself am an Israelite, a descendant of Abraham, from the tribe of Benjamin."
-      },
-      {
-        "n": 2,
-        "text": "God did not reject His people, whom He chose long ago. Do you not know what the Scripture says about Elijah, how he pleaded with God against Israel:"
-      },
-      {
-        "n": 3,
-        "text": "Lord, they have killed Your prophets and torn down Your altars. I am the only one left, and they are trying to kill me?"
-      },
-      {
-        "n": 4,
-        "text": "And what was God's answer to him? I have kept for myself seven thousand who have not bowed down to worship Baal."
-      },
-      {
-        "n": 5,
-        "text": "So in the same way, at the present time, there is a small group that God has chosen by His grace."
-      },
-      {
-        "n": 6,
-        "text": "And if it is by grace, then it is no longer based on works; if it were, grace would not be grace."
-      },
-      {
-        "n": 7,
-        "text": "So what then? The people of Israel did not get what they were looking for. The chosen ones got it, but the rest were made hard,"
-      },
-      {
-        "n": 8,
-        "text": "as the Scripture says: God gave them a dull spirit, eyes that do not see and ears that do not hear, right up to this very day."
-      },
-      {
-        "n": 9,
-        "text": "And David says: Let their feasts become a trap and a snare, a stumbling block and a punishment for them."
-      },
-      {
-        "n": 10,
-        "text": "Let their eyes be darkened so that they cannot see, and let their backs be bent forever."
-      },
-      {
-        "n": 11,
-        "text": "So I ask: Did the people stumble so badly that they fell beyond recovery? No, never! Instead, because they slipped, salvation has come to the other nations, to make Israel jealous."
-      },
-      {
-        "n": 12,
-        "text": "Now if their slipping means riches for the world, and their loss means riches for the other nations, how much greater riches will their full return bring!"
-      },
-      {
-        "n": 13,
-        "text": "I am speaking to you who are not Jews. As the apostle to the other nations, I take pride in my work,"
-      },
-      {
-        "n": 14,
-        "text": "hoping somehow to make my own people jealous and so save some of them."
-      },
-      {
-        "n": 15,
-        "text": "For if their being set aside means the world being brought back to God, what will their being welcomed back mean, but life from the dead?"
-      },
-      {
-        "n": 16,
-        "text": "If the first piece of dough offered to God is holy, then the whole batch is holy. And if the root is holy, so are the branches."
-      },
-      {
-        "n": 17,
-        "text": "Some of the branches have been broken off, and you, a wild olive branch, have been grafted in among the others. Now you share in the rich life of the olive root."
-      },
-      {
-        "n": 18,
-        "text": "So do not brag against those branches. If you do, remember this: you do not hold up the root; the root holds you up."
-      },
-      {
-        "n": 19,
-        "text": "You might say: Branches were broken off so that I could be grafted in."
-      },
-      {
-        "n": 20,
-        "text": "That is true. They were broken off because of unbelief, and you stand only by faith. So do not be proud, but be careful."
-      },
-      {
-        "n": 21,
-        "text": "For if God did not spare the natural branches, He will not spare you either."
-      },
-      {
-        "n": 22,
-        "text": "So look at both the kindness and the strictness of God. He was strict with those who fell. But He is kind to you, if you continue in His kindness. Otherwise, you also will be cut off."
-      },
-      {
-        "n": 23,
-        "text": "And if they do not continue in unbelief, they will be grafted in again, because God is able to graft them in again."
-      },
-      {
-        "n": 24,
-        "text": "After all, you were cut from a wild olive tree and grafted, against nature, into a cultivated one. How much more easily will these natural branches be grafted back into their own olive tree!"
-      },
-      {
-        "n": 25,
-        "text": "Brothers and sisters, I want you to understand this secret, so you will not think you are wise. Israel has become hard in part. This will continue until the full number of other nations has come in."
-      },
-      {
-        "n": 26,
-        "text": "And in this way all Israel will be saved. The Scripture says: The Deliverer will come from Zion. He will turn the people of Jacob away from sin."
-      },
-      {
-        "n": 27,
-        "text": "And this is my agreement with them: I will take away their sins."
-      },
-      {
-        "n": 28,
-        "text": "As far as the good news is concerned, they are God's enemies for your sake. But as far as God's choosing is concerned, they are loved because of the ancestors,"
-      },
-      {
-        "n": 29,
-        "text": "For God never takes back His gifts or His calling."
-      },
-      {
-        "n": 30,
-        "text": "At one time you did not obey God, but now you have received mercy because they did not obey."
-      },
-      {
-        "n": 31,
-        "text": "In the same way, they have now disobeyed, so that they too may now receive mercy, because of the mercy shown to you."
-      },
-      {
-        "n": 32,
-        "text": "For God has allowed everyone to be bound up in disobedience, so that He can have mercy on everyone."
-      },
-      {
-        "n": 33,
-        "text": "Oh, how deep are the riches and the wisdom and the knowledge of God! No one can fully understand His decisions or trace out His ways!"
-      },
-      {
-        "n": 34,
-        "text": "For: Who has known the mind of the Lord? Or who has been His adviser?"
-      },
-      {
-        "n": 35,
-        "text": "Who has ever given to God, so that God would owe them anything?"
-      },
-      {
-        "n": 36,
-        "text": "For everything comes from Him, exists through Him, and is for Him. To Him be glory forever. Amen."
-      }
+      { "n": 1, "text": "So I ask: Did God reject His people? No, never! I myself am an Israelite, a descendant of Abraham, from the tribe of Benjamin." },
+      { "n": 2, "text": "God did not reject His people, whom He chose long ago. Do you not know what the Scripture says about Elijah, how he pleaded with God against Israel:" },
+      { "n": 3, "text": "Lord, they have killed Your prophets and torn down Your altars. I am the only one left, and they are trying to kill me?" },
+      { "n": 4, "text": "And what was God's answer to him? I have kept for myself seven thousand who have not bowed down to worship Baal." },
+      { "n": 5, "text": "So in the same way, at the present time, there is a small group that God has chosen by His grace." },
+      { "n": 6, "text": "And if it is by grace, then it is no longer based on works; if it were, grace would not be grace." },
+      { "n": 7, "text": "So what then? The people of Israel did not get what they were looking for. The chosen ones got it, but the rest were made hard," },
+      { "n": 8, "text": "as the Scripture says: God gave them a dull spirit, eyes that do not see and ears that do not hear, right up to this very day." },
+      { "n": 9, "text": "And David says: Let their feasts become a trap and a snare, a stumbling block and a punishment for them." },
+      { "n": 10, "text": "Let their eyes be darkened so that they cannot see, and let their backs be bent forever." },
+      { "n": 11, "text": "So I ask: Did the people stumble so badly that they fell beyond recovery? No, never! Instead, because they slipped, salvation has come to the other nations, to make Israel jealous." },
+      { "n": 12, "text": "Now if their slipping means riches for the world, and their loss means riches for the other nations, how much greater riches will their full return bring!" },
+      { "n": 13, "text": "I am speaking to you who are not Jews. As the apostle to the other nations, I take pride in my work," },
+      { "n": 14, "text": "hoping somehow to make my own people jealous and so save some of them." },
+      { "n": 15, "text": "For if their being set aside means the world being brought back to God, what will their being welcomed back mean, but life from the dead?" },
+      { "n": 16, "text": "If the first piece of dough offered to God is holy, then the whole batch is holy. And if the root is holy, so are the branches." },
+      { "n": 17, "text": "Some of the branches have been broken off, and you, a wild olive branch, have been grafted in among the others. Now you share in the rich life of the olive root." },
+      { "n": 18, "text": "So do not brag against those branches. If you do, remember this: you do not hold up the root; the root holds you up." },
+      { "n": 19, "text": "You might say: Branches were broken off so that I could be grafted in." },
+      { "n": 20, "text": "That is true. They were broken off because of unbelief, and you stand only by faith. So do not be proud, but be careful." },
+      { "n": 21, "text": "For if God did not spare the natural branches, He will not spare you either." },
+      { "n": 22, "text": "So look at both the kindness and the strictness of God. He was strict with those who fell. But He is kind to you, if you continue in His kindness. Otherwise, you also will be cut off." },
+      { "n": 23, "text": "And if they do not continue in unbelief, they will be grafted in again, because God is able to graft them in again." },
+      { "n": 24, "text": "After all, you were cut from a wild olive tree and grafted, against nature, into a cultivated one. How much more easily will these natural branches be grafted back into their own olive tree!" },
+      { "n": 25, "text": "Brothers and sisters, I want you to understand this secret, so you will not think you are wise. Israel has become hard in part. This will continue until the full number of other nations has come in." },
+      { "n": 26, "text": "And in this way all Israel will be saved. The Scripture says: The Deliverer will come from Zion. He will turn the people of Jacob away from sin." },
+      { "n": 27, "text": "And this is my agreement with them: I will take away their sins." },
+      { "n": 28, "text": "As far as the good news is concerned, they are God's enemies for your sake. But as far as God's choosing is concerned, they are loved because of the ancestors," },
+      { "n": 29, "text": "For God never takes back His gifts or His calling." },
+      { "n": 30, "text": "At one time you did not obey God, but now you have received mercy because they did not obey." },
+      { "n": 31, "text": "In the same way, they have now disobeyed, so that they too may now receive mercy, because of the mercy shown to you." },
+      { "n": 32, "text": "For God has allowed everyone to be bound up in disobedience, so that He can have mercy on everyone." },
+      { "n": 33, "text": "Oh, how deep are the riches and the wisdom and the knowledge of God! No one can fully understand His decisions or trace out His ways!" },
+      { "n": 34, "text": "For: Who has known the mind of the Lord? Or who has been His adviser?" },
+      { "n": 35, "text": "Who has ever given to God, so that God would owe them anything?" },
+      { "n": 36, "text": "For everything comes from Him, exists through Him, and is for Him. To Him be glory forever. Amen." }
     ]
   },
   "12": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Brothers and sisters in Christ, I urge you with deep love. Because of God's great mercy, offer your bodies to Him as a living sacrifice. Make your life holy and pleasing to Him. Considering all He has done, this is the right way to worship Him."
-      },
-      {
-        "n": 2,
-        "text": "Do not be like the people of this world, but let God change you with a new way of thinking. Then you will know what the good, pleasing, and perfect will of God is."
-      },
-      {
-        "n": 3,
-        "text": "God was very good to me, and that is why I am saying this to each of you. Do not think you are more important than you really are. You must be wise when you think of yourselves. Remember that it is God who tells each believer how they must serve Him."
-      },
-      {
-        "n": 4,
-        "text": "All of us together are like a human body. A person has one body, but that body has many parts, and each part does something different."
-      },
-      {
-        "n": 5,
-        "text": "It is the same with us. There are many believers, but we all belong to Christ and that is why we are like a body. We all belong to each other."
-      },
-      {
-        "n": 6,
-        "text": "God gave each one of us gifts, but God did not give the same gifts to each one of us. If God gave some believers the gift of preaching the messages of God, then they must tell people the right message that we believe."
-      },
-      {
-        "n": 7,
-        "text": "If God gave some other believers the gift of serving, then they must help and serve other people. If God gave some believers the gift of teaching other people, then they must teach them about God."
-      },
-      {
-        "n": 8,
-        "text": "Whoever has the gift of comforting others should do that. Whoever has the gift of giving to help others should give generously. Whoever has the gift of leading should work hard at it. Whoever has the gift of showing kindness to others should do it gladly."
-      },
-      {
-        "n": 9,
-        "text": "Your love must be real. You must hate evil and hold tight to good things."
-      },
-      {
-        "n": 10,
-        "text": "Love each other in a way that makes you feel close like brothers and sisters. And give each other more honor than you give yourself."
-      },
-      {
-        "n": 11,
-        "text": "As you serve the Lord, work hard and do not be lazy. Be excited about serving Him!"
-      },
-      {
-        "n": 12,
-        "text": "Be happy because of the hope you have. Be patient when you have troubles. Pray all the time."
-      },
-      {
-        "n": 13,
-        "text": "Some of the believers are poor. Help them and take care of them. You must be friendly to strangers."
-      },
-      {
-        "n": 14,
-        "text": "When people make you suffer and make trouble for you, ask the Lord to bless them. Do not ask Him to punish them."
-      },
-      {
-        "n": 15,
-        "text": "When other people are happy, be happy with them and rejoice. When they are sad, be sad and cry with them."
-      },
-      {
-        "n": 16,
-        "text": "Live together in peace with one another and work together. Do not be proud, but be willing to be friends with people who are not important to others. Do not think of yourself as smarter than everyone else."
-      },
-      {
-        "n": 17,
-        "text": "When people do bad things to you, do not try to do bad things to them. You must always do what is right. Try to do what everyone thinks is right."
-      },
-      {
-        "n": 18,
-        "text": "Try very hard to live in peace with other people."
-      },
-      {
-        "n": 19,
-        "text": "Dear friends, people may make you suffer and do bad things to you. Do not try to punish them yourselves. Wait for God to punish them. It is written in the Old Testament that the Lord said: I am the One who will punish people for what they have done wrong."
-      },
-      {
-        "n": 20,
-        "text": "But you should do this: When your enemies are hungry, give them food to eat, and when they are thirsty, give them something to drink. In doing this you will make them feel ashamed."
-      },
-      {
-        "n": 21,
-        "text": "Do not let evil defeat you, but defeat evil by doing good."
-      }
+      { "n": 1, "text": "So I beg you, brothers and sisters, by the mercies of God: present your bodies as a living sacrifice, holy and acceptable (pleasing) to God. This is your reasonable service." },
+      { "n": 2, "text": "Do not be conformed to (shaped by) this world. But be transformed (changed) by the renewing (making new) of your mind. Then you can prove (test and know) what is the good, acceptable, and perfect will of God." },
+      { "n": 3, "text": "Through the grace given to me, I say this to everyone among you: Do not think of yourself more highly than you ought to think. Think soberly (with a clear mind), by the measure of faith God has given to each one." },
+      { "n": 4, "text": "We have many members (parts) in one body, and all the members do not have the same job." },
+      { "n": 5, "text": "So we, being many, are one body in Christ. Every one of us is a member of one another." },
+      { "n": 6, "text": "We have different gifts, by the grace that is given to us. If your gift is prophecy, prophesy by the measure of your faith." },
+      { "n": 7, "text": "If it is ministry (serving), give yourself to serving. If you teach, give yourself to teaching." },
+      { "n": 8, "text": "If you exhort (encourage), give yourself to exhortation (encouragement). Whoever gives should give with simplicity (an honest heart). Whoever leads should lead with diligence (hard work). Whoever shows mercy should show it with cheerfulness." },
+      { "n": 9, "text": "Let love be without dissimulation (pretending). Hate what is evil. Hold tight to what is good." },
+      { "n": 10, "text": "Be kind and loving to one another with brotherly love. In honor, put one another first." },
+      { "n": 11, "text": "Do not be lazy in your work. Be fervent (on fire) in spirit, serving the Lord." },
+      { "n": 12, "text": "Rejoice in hope. Be patient in tribulation (trouble). Keep on praying." },
+      { "n": 13, "text": "Share with the saints (holy people) who are in need. Be given to hospitality (welcoming strangers)." },
+      { "n": 14, "text": "Bless those who persecute you (attack you for your faith). Bless, and do not curse." },
+      { "n": 15, "text": "Rejoice with those who rejoice, and weep with those who weep." },
+      { "n": 16, "text": "Be of the same mind toward one another. Do not set your mind on high things, but be friends with people of low position. Do not be wise in your own eyes." },
+      { "n": 17, "text": "Do not pay back anyone evil for evil. Do what is honest in the sight of everyone." },
+      { "n": 18, "text": "If it is possible, as much as you can, live in peace with everyone." },
+      { "n": 19, "text": "Dear friends, do not avenge (pay back) yourselves. Instead, give place to wrath (God's anger). For the Scripture says: Vengeance (paying back) is Mine; I will repay, says the Lord." },
+      { "n": 20, "text": "So if your enemy is hungry, feed your enemy. If your enemy is thirsty, give your enemy something to drink. For by doing this you will heap coals of fire on your enemy's head (make your enemy feel ashamed)." },
+      { "n": 21, "text": "Do not be overcome by evil, but overcome evil with good." }
     ],
     "sourceUrl": "https://kjvdeaf.com/romans-chapter-12/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a garbled/redundant verse (v8) and a fragment sentence (v20). Reverential capitalization of pronouns referring to God applied per this site's standard.",
+    "source": "Rewritten 2026-11-16 fresh from the public-domain King James Version (the earlier text was a loose paraphrase and left out v20's 'heap coals of fire'), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "13": {
@@ -1438,62 +430,20 @@
     "generated": true,
     "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Covers Paul's instruction on submitting to governing authorities, love as the fulfillment of the law, and the call to wake up and live rightly since the day of salvation is nearer. Pronouns referring to human rulers in v3-4 correctly stay lowercase per this site's standard, since they do not refer to God.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Everyone should obey the governing authorities, because all authority comes from God. The authorities that exist were put there by God."
-      },
-      {
-        "n": 2,
-        "text": "So anyone who fights against the authority is fighting against what God has set up, and those who do this will bring judgment on themselves."
-      },
-      {
-        "n": 3,
-        "text": "For rulers do not frighten those who do right, but those who do wrong. Do you want to be free from fear of the one in authority? Then do what is right, and he will praise you."
-      },
-      {
-        "n": 4,
-        "text": "For he is God's servant, working for your good. But if you do wrong, be afraid, because he does not carry the sword for nothing. He is God's servant, who carries out God's anger on the wrongdoer."
-      },
-      {
-        "n": 5,
-        "text": "So you must obey, not only to avoid being punished, but also because it is the right thing to do."
-      },
-      {
-        "n": 6,
-        "text": "This is also why you pay taxes, for the authorities are God's servants, who give their full time to governing."
-      },
-      {
-        "n": 7,
-        "text": "Give everyone what you owe them: pay your taxes and fees, and give respect and honor to those they are due."
-      },
-      {
-        "n": 8,
-        "text": "Do not owe anyone anything, except to love one another. For whoever loves others has fully obeyed the law."
-      },
-      {
-        "n": 9,
-        "text": "Think of the commands: Do not commit adultery. Do not murder. Do not steal. Do not want what belongs to others. Every other command is summed up in this one rule: Love your neighbor as yourself."
-      },
-      {
-        "n": 10,
-        "text": "Love does no harm to a neighbor. So love is how the law is fully obeyed."
-      },
-      {
-        "n": 11,
-        "text": "And do this because you know the time we live in. The hour has come for you to wake up from sleep, because our salvation is nearer now than when we first believed."
-      },
-      {
-        "n": 12,
-        "text": "The night is almost over; the day is near. So let us get rid of the deeds of darkness and put on the armor of light."
-      },
-      {
-        "n": 13,
-        "text": "Let us live properly, as in the daytime: not in wild parties and drunkenness, not in sexual sin and wild living, not in fighting and jealousy."
-      },
-      {
-        "n": 14,
-        "text": "Instead, clothe yourselves with the Lord Jesus Christ, and do not think about how to satisfy the wrong desires of your sinful self."
-      }
+      { "n": 1, "text": "Everyone should obey the governing authorities, because all authority comes from God. The authorities that exist were put there by God." },
+      { "n": 2, "text": "So anyone who fights against the authority is fighting against what God has set up, and those who do this will bring judgment on themselves." },
+      { "n": 3, "text": "For rulers do not frighten those who do right, but those who do wrong. Do you want to be free from fear of the one in authority? Then do what is right, and he will praise you." },
+      { "n": 4, "text": "For he is God's servant, working for your good. But if you do wrong, be afraid, because he does not carry the sword for nothing. He is God's servant, who carries out God's anger on the wrongdoer." },
+      { "n": 5, "text": "So you must obey, not only to avoid being punished, but also because it is the right thing to do." },
+      { "n": 6, "text": "This is also why you pay taxes, for the authorities are God's servants, who give their full time to governing." },
+      { "n": 7, "text": "Give everyone what you owe them: pay your taxes and fees, and give respect and honor to those they are due." },
+      { "n": 8, "text": "Do not owe anyone anything, except to love one another. For whoever loves others has fully obeyed the law." },
+      { "n": 9, "text": "Think of the commands: Do not commit adultery. Do not murder. Do not steal. Do not want what belongs to others. Every other command is summed up in this one rule: Love your neighbor as yourself." },
+      { "n": 10, "text": "Love does no harm to a neighbor. So love is how the law is fully obeyed." },
+      { "n": 11, "text": "And do this because you know the time we live in. The hour has come for you to wake up from sleep, because our salvation is nearer now than when we first believed." },
+      { "n": 12, "text": "The night is almost over; the day is near. So let us get rid of the deeds of darkness and put on the armor of light." },
+      { "n": 13, "text": "Let us live properly, as in the daytime: not in wild parties and drunkenness, not in sexual sin and wild living, not in fighting and jealousy." },
+      { "n": 14, "text": "Instead, clothe yourselves with the Lord Jesus Christ, and do not think about how to satisfy the wrong desires of your sinful self." }
     ]
   },
   "14": {
@@ -1501,98 +451,29 @@
     "generated": true,
     "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, and reviewed for English-ASL clarity. Covers Paul's teaching on not judging fellow believers over disputable matters like food and holy days, since all are accountable to God alone. Concrete, visual content throughout with no ASL-conflict phrases flagged. All pronouns referring to God and Christ are capitalized per this site's standard.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Welcome anyone whose faith is weak, but do not argue with them about matters of opinion."
-      },
-      {
-        "n": 2,
-        "text": "One person believes they may eat anything, while another, whose faith is weak, eats only vegetables."
-      },
-      {
-        "n": 3,
-        "text": "The one who eats everything must not look down on the one who does not. The one who does not eat everything must not judge the one who does, because God has welcomed them."
-      },
-      {
-        "n": 4,
-        "text": "Who are you to judge someone else's servant? Whether they stand or fall is their own master's concern. And they will stand, because the Lord is able to make them stand."
-      },
-      {
-        "n": 5,
-        "text": "One person thinks one day is more holy than another, while another thinks every day is the same. Each person should be fully convinced in their own mind."
-      },
-      {
-        "n": 6,
-        "text": "Whoever treats a certain day as special does it for the Lord. Whoever eats anything does it for the Lord, because they give thanks to God. And whoever does not eat certain things does that for the Lord too, and gives thanks to God."
-      },
-      {
-        "n": 7,
-        "text": "For none of us lives only for themselves, and none of us dies only for themselves."
-      },
-      {
-        "n": 8,
-        "text": "If we live, we live for the Lord, and if we die, we die for the Lord. So whether we live or die, we belong to the Lord."
-      },
-      {
-        "n": 9,
-        "text": "For this is why Christ died and came back to life: so that He would be Lord of both the dead and the living."
-      },
-      {
-        "n": 10,
-        "text": "So why do you judge your brother or sister? And why do you look down on them? We will all stand before God to be judged."
-      },
-      {
-        "n": 11,
-        "text": "For the Scripture says: As surely as I live, says the Lord, every knee will bow before me, and every tongue will give praise to God."
-      },
-      {
-        "n": 12,
-        "text": "So then, each of us will give an account of themselves to God."
-      },
-      {
-        "n": 13,
-        "text": "So let us stop judging one another. Instead, decide this: do not put anything in your brother's way that would make him trip or fall."
-      },
-      {
-        "n": 14,
-        "text": "I know, and the Lord Jesus has convinced me, that no food is unclean in itself. But if someone believes a thing is unclean, then for them it is unclean."
-      },
-      {
-        "n": 15,
-        "text": "If your brother is hurt by what you eat, you are no longer acting in love. Do not destroy, by what you eat, someone for whom Christ died."
-      },
-      {
-        "n": 16,
-        "text": "Do not let what you know is good be spoken of as evil."
-      },
-      {
-        "n": 17,
-        "text": "For the kingdom of God is not about food and drink, but about right living, peace, and joy in the Holy Spirit."
-      },
-      {
-        "n": 18,
-        "text": "Anyone who serves Christ in this way pleases God and is approved by people."
-      },
-      {
-        "n": 19,
-        "text": "So let us go after the things that lead to peace and that build one another up."
-      },
-      {
-        "n": 20,
-        "text": "Do not destroy the work of God for the sake of food. All food is clean, but it is wrong for a person to eat anything that causes someone else to fall."
-      },
-      {
-        "n": 21,
-        "text": "It is better not to eat meat or drink wine or do anything else that makes your brother or sister fall."
-      },
-      {
-        "n": 22,
-        "text": "Whatever you believe about these things, keep between yourself and God. Happy is the person who does not feel guilty about what they allow themselves to do."
-      },
-      {
-        "n": 23,
-        "text": "But whoever has doubts is condemned if they eat, because they are not acting from faith. And anything that is not from faith is sin."
-      }
+      { "n": 1, "text": "Welcome anyone whose faith is weak, but do not argue with them about matters of opinion." },
+      { "n": 2, "text": "One person believes they may eat anything, while another, whose faith is weak, eats only vegetables." },
+      { "n": 3, "text": "The one who eats everything must not look down on the one who does not. The one who does not eat everything must not judge the one who does, because God has welcomed them." },
+      { "n": 4, "text": "Who are you to judge someone else's servant? Whether they stand or fall is their own master's concern. And they will stand, because the Lord is able to make them stand." },
+      { "n": 5, "text": "One person thinks one day is more holy than another, while another thinks every day is the same. Each person should be fully convinced in their own mind." },
+      { "n": 6, "text": "Whoever treats a certain day as special does it for the Lord. Whoever eats anything does it for the Lord, because they give thanks to God. And whoever does not eat certain things does that for the Lord too, and gives thanks to God." },
+      { "n": 7, "text": "For none of us lives only for themselves, and none of us dies only for themselves." },
+      { "n": 8, "text": "If we live, we live for the Lord, and if we die, we die for the Lord. So whether we live or die, we belong to the Lord." },
+      { "n": 9, "text": "For this is why Christ died and came back to life: so that He would be Lord of both the dead and the living." },
+      { "n": 10, "text": "So why do you judge your brother or sister? And why do you look down on them? We will all stand before God to be judged." },
+      { "n": 11, "text": "For the Scripture says: As surely as I live, says the Lord, every knee will bow before me, and every tongue will give praise to God." },
+      { "n": 12, "text": "So then, each of us will give an account of themselves to God." },
+      { "n": 13, "text": "So let us stop judging one another. Instead, decide this: do not put anything in your brother's way that would make him trip or fall." },
+      { "n": 14, "text": "I know, and the Lord Jesus has convinced me, that no food is unclean in itself. But if someone believes a thing is unclean, then for them it is unclean." },
+      { "n": 15, "text": "If your brother is hurt by what you eat, you are no longer acting in love. Do not destroy, by what you eat, someone for whom Christ died." },
+      { "n": 16, "text": "Do not let what you know is good be spoken of as evil." },
+      { "n": 17, "text": "For the kingdom of God is not about food and drink, but about right living, peace, and joy in the Holy Spirit." },
+      { "n": 18, "text": "Anyone who serves Christ in this way pleases God and is approved by people." },
+      { "n": 19, "text": "So let us go after the things that lead to peace and that build one another up." },
+      { "n": 20, "text": "Do not destroy the work of God for the sake of food. All food is clean, but it is wrong for a person to eat anything that causes someone else to fall." },
+      { "n": 21, "text": "It is better not to eat meat or drink wine or do anything else that makes your brother or sister fall." },
+      { "n": 22, "text": "Whatever you believe about these things, keep between yourself and God. Happy is the person who does not feel guilty about what they allow themselves to do." },
+      { "n": 23, "text": "But whoever has doubts is condemned if they eat, because they are not acting from faith. And anything that is not from faith is sin." }
     ]
   },
   "15": {
@@ -1600,138 +481,39 @@
     "generated": true,
     "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, and reviewed for English-ASL clarity. Covers accepting one another as Christ did, the mission to the Gentiles fulfilling the prophets, Paul's ambition to preach where Christ was not yet named, and his travel plans and prayer request. All pronouns referring to God and Christ are capitalized per this site's standard.",
     "verses": [
-      {
-        "n": 1,
-        "text": "We who are strong should help carry the weaknesses of those who are weak, and not just please ourselves."
-      },
-      {
-        "n": 2,
-        "text": "We should each please our neighbor, for their good, to build them up."
-      },
-      {
-        "n": 3,
-        "text": "For even Christ did not please Himself. As the Scripture says: The insults of those who insulted you fell on me."
-      },
-      {
-        "n": 4,
-        "text": "Everything that was written in the past was written to teach us, so that through the patience and comfort the Scriptures give, we might have hope."
-      },
-      {
-        "n": 5,
-        "text": "May God, who gives patience and comfort, help you to live in harmony with one another, following Christ Jesus,"
-      },
-      {
-        "n": 6,
-        "text": "so that with one heart and one voice you may give glory to God, the Father of our Lord Jesus Christ."
-      },
-      {
-        "n": 7,
-        "text": "So welcome one another, just as Christ welcomed you, to the glory of God."
-      },
-      {
-        "n": 8,
-        "text": "For I tell you that Christ became a servant of the Jews, to show that God is true, and to confirm the promises made to the ancestors,"
-      },
-      {
-        "n": 9,
-        "text": "And also so that the other nations might give glory to God for His mercy. As the Scripture says: So I will praise you among the nations; I will sing praises to your name."
-      },
-      {
-        "n": 10,
-        "text": "And again it says: Be glad, you nations, together with His people."
-      },
-      {
-        "n": 11,
-        "text": "And again: Praise the Lord, all you nations; let all the peoples praise Him."
-      },
-      {
-        "n": 12,
-        "text": "And Isaiah says: There will come a root from Jesse, one who will rise to rule the nations; the nations will put their hope in Him."
-      },
-      {
-        "n": 13,
-        "text": "May the God of hope fill you with all joy and peace as you trust in Him. Then you will overflow with hope by the power of the Holy Spirit."
-      },
-      {
-        "n": 14,
-        "text": "My brothers and sisters, I myself am sure that you are full of goodness and knowledge, and that you are able to teach one another."
-      },
-      {
-        "n": 15,
-        "text": "Still, I have written to you quite boldly on some points, to remind you of them again, because of the grace God gave me"
-      },
-      {
-        "n": 16,
-        "text": "to be a servant of Christ Jesus to the other nations. I have the priestly duty of preaching the good news of God. This is so the nations might become an offering that pleases God, made holy by the Holy Spirit."
-      },
-      {
-        "n": 17,
-        "text": "So I am proud of what I have done for God, in Christ Jesus."
-      },
-      {
-        "n": 18,
-        "text": "I will not dare to talk about anything except what Christ has done through me to bring the nations to obey God. He did it by what I have said and done,"
-      },
-      {
-        "n": 19,
-        "text": "by the power of signs and wonders, through the power of the Spirit of God. So from Jerusalem all the way around to Illyricum, I have fully preached the good news of Christ."
-      },
-      {
-        "n": 20,
-        "text": "It has always been my goal to preach the good news where Christ was not already known. Then I would not be building on someone else's foundation."
-      },
-      {
-        "n": 21,
-        "text": "Instead, as the Scripture says: Those who were not told about Him will see, and those who have not heard will understand."
-      },
-      {
-        "n": 22,
-        "text": "This is also why I have so often been kept from coming to you."
-      },
-      {
-        "n": 23,
-        "text": "But now there is no more place for me to work in these regions, and I have wanted for many years to come to you."
-      },
-      {
-        "n": 24,
-        "text": "So I plan to do this when I go to Spain. I hope to see you as I pass through. I hope you will help me on my way there, after I have enjoyed being with you for a while."
-      },
-      {
-        "n": 25,
-        "text": "But right now I am on my way to Jerusalem to help God's people there."
-      },
-      {
-        "n": 26,
-        "text": "For the believers in Macedonia and Achaia were pleased to make a gift for the poor among God's people in Jerusalem."
-      },
-      {
-        "n": 27,
-        "text": "They were pleased to do it, and indeed they owe it to them. For if the other nations have shared in the spiritual blessings of the Jews, they ought to share their material blessings with them."
-      },
-      {
-        "n": 28,
-        "text": "So after I have finished this task and made sure they receive this gift, I will go to Spain and visit you on the way."
-      },
-      {
-        "n": 29,
-        "text": "I know that when I come to you, I will come with the full blessing of Christ."
-      },
-      {
-        "n": 30,
-        "text": "Brothers and sisters, I beg you by our Lord Jesus Christ and by the love that the Spirit gives: join me in my struggle. Pray to God for me."
-      },
-      {
-        "n": 31,
-        "text": "Pray that I will be kept safe from those in Judea who do not believe. Pray that the help I bring to Jerusalem will be welcomed by God's people there."
-      },
-      {
-        "n": 32,
-        "text": "Then, by God's will, I can come to you with joy and be refreshed together with you."
-      },
-      {
-        "n": 33,
-        "text": "May the God of peace be with you all. Amen."
-      }
+      { "n": 1, "text": "We who are strong should help carry the weaknesses of those who are weak, and not just please ourselves." },
+      { "n": 2, "text": "We should each please our neighbor, for their good, to build them up." },
+      { "n": 3, "text": "For even Christ did not please Himself. As the Scripture says: The insults of those who insulted you fell on me." },
+      { "n": 4, "text": "Everything that was written in the past was written to teach us, so that through the patience and comfort the Scriptures give, we might have hope." },
+      { "n": 5, "text": "May God, who gives patience and comfort, help you to live in harmony with one another, following Christ Jesus," },
+      { "n": 6, "text": "so that with one heart and one voice you may give glory to God, the Father of our Lord Jesus Christ." },
+      { "n": 7, "text": "So welcome one another, just as Christ welcomed you, to the glory of God." },
+      { "n": 8, "text": "For I tell you that Christ became a servant of the Jews, to show that God is true, and to confirm the promises made to the ancestors," },
+      { "n": 9, "text": "And also so that the other nations might give glory to God for His mercy. As the Scripture says: So I will praise you among the nations; I will sing praises to your name." },
+      { "n": 10, "text": "And again it says: Be glad, you nations, together with His people." },
+      { "n": 11, "text": "And again: Praise the Lord, all you nations; let all the peoples praise Him." },
+      { "n": 12, "text": "And Isaiah says: There will come a root from Jesse, one who will rise to rule the nations; the nations will put their hope in Him." },
+      { "n": 13, "text": "May the God of hope fill you with all joy and peace as you trust in Him. Then you will overflow with hope by the power of the Holy Spirit." },
+      { "n": 14, "text": "My brothers and sisters, I myself am sure that you are full of goodness and knowledge, and that you are able to teach one another." },
+      { "n": 15, "text": "Still, I have written to you quite boldly on some points, to remind you of them again, because of the grace God gave me" },
+      { "n": 16, "text": "to be a servant of Christ Jesus to the other nations. I have the priestly duty of preaching the good news of God. This is so the nations might become an offering that pleases God, made holy by the Holy Spirit." },
+      { "n": 17, "text": "So I am proud of what I have done for God, in Christ Jesus." },
+      { "n": 18, "text": "I will not dare to talk about anything except what Christ has done through me to bring the nations to obey God. He did it by what I have said and done," },
+      { "n": 19, "text": "by the power of signs and wonders, through the power of the Spirit of God. So from Jerusalem all the way around to Illyricum, I have fully preached the good news of Christ." },
+      { "n": 20, "text": "It has always been my goal to preach the good news where Christ was not already known. Then I would not be building on someone else's foundation." },
+      { "n": 21, "text": "Instead, as the Scripture says: Those who were not told about Him will see, and those who have not heard will understand." },
+      { "n": 22, "text": "This is also why I have so often been kept from coming to you." },
+      { "n": 23, "text": "But now there is no more place for me to work in these regions, and I have wanted for many years to come to you." },
+      { "n": 24, "text": "So I plan to do this when I go to Spain. I hope to see you as I pass through. I hope you will help me on my way there, after I have enjoyed being with you for a while." },
+      { "n": 25, "text": "But right now I am on my way to Jerusalem to help God's people there." },
+      { "n": 26, "text": "For the believers in Macedonia and Achaia were pleased to make a gift for the poor among God's people in Jerusalem." },
+      { "n": 27, "text": "They were pleased to do it, and indeed they owe it to them. For if the other nations have shared in the spiritual blessings of the Jews, they ought to share their material blessings with them." },
+      { "n": 28, "text": "So after I have finished this task and made sure they receive this gift, I will go to Spain and visit you on the way." },
+      { "n": 29, "text": "I know that when I come to you, I will come with the full blessing of Christ." },
+      { "n": 30, "text": "Brothers and sisters, I beg you by our Lord Jesus Christ and by the love that the Spirit gives: join me in my struggle. Pray to God for me." },
+      { "n": 31, "text": "Pray that I will be kept safe from those in Judea who do not believe. Pray that the help I bring to Jerusalem will be welcomed by God's people there." },
+      { "n": 32, "text": "Then, by God's will, I can come to you with joy and be refreshed together with you." },
+      { "n": 33, "text": "May the God of peace be with you all. Amen." }
     ]
   },
   "16": {
@@ -1739,114 +521,33 @@
     "generated": true,
     "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, and reviewed for English-ASL clarity. Covers Paul's personal greetings to co-workers in Rome (including Phoebe, Priscilla and Aquila, and Junia), his warning against those who cause division, and his closing doxology. All pronouns referring to God are capitalized per this site's standard. This completes the Book of Romans (all 16 chapters).",
     "verses": [
-      {
-        "n": 1,
-        "text": "I am introducing to you our sister Phoebe, a servant of the church in Cenchrea."
-      },
-      {
-        "n": 2,
-        "text": "Welcome her in the Lord, as God's people should. Help her with anything she needs from you. She has been a great help to many people, including me."
-      },
-      {
-        "n": 3,
-        "text": "Greet Priscilla and Aquila, my fellow workers in Christ Jesus."
-      },
-      {
-        "n": 4,
-        "text": "They risked their own lives for me. Not only I, but all the churches of the other nations are thankful for them."
-      },
-      {
-        "n": 5,
-        "text": "Greet also the church that meets in their house. Greet my dear friend Epaenetus, who was the first person in Achaia to believe in Christ."
-      },
-      {
-        "n": 6,
-        "text": "Greet Mary, who worked very hard for you."
-      },
-      {
-        "n": 7,
-        "text": "Greet Andronicus and Junia, my relatives who were in prison with me. They are respected among the apostles, and they belonged to Christ before I did."
-      },
-      {
-        "n": 8,
-        "text": "Greet Ampliatus, my dear friend in the Lord."
-      },
-      {
-        "n": 9,
-        "text": "Greet Urbanus, our fellow worker in Christ, and my dear friend Stachys."
-      },
-      {
-        "n": 10,
-        "text": "Greet Apelles, who has proven himself faithful in Christ. Greet those who belong to the household of Aristobulus."
-      },
-      {
-        "n": 11,
-        "text": "Greet Herodion, my relative. Greet those in the household of Narcissus who belong to the Lord."
-      },
-      {
-        "n": 12,
-        "text": "Greet Tryphena and Tryphosa, who work hard for the Lord. Greet my dear friend Persis, who has also worked very hard for the Lord."
-      },
-      {
-        "n": 13,
-        "text": "Greet Rufus, chosen by the Lord, and his mother, who has been a mother to me too."
-      },
-      {
-        "n": 14,
-        "text": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers and sisters with them."
-      },
-      {
-        "n": 15,
-        "text": "Greet Philologus, Julia, Nereus and his sister, and Olympas, and all God's people who are with them."
-      },
-      {
-        "n": 16,
-        "text": "Greet one another with a holy kiss. All the churches of Christ send you their greetings."
-      },
-      {
-        "n": 17,
-        "text": "Brothers and sisters, I beg you to watch out for those who cause divisions and put obstacles in your way, against the teaching you have learned. Stay away from them."
-      },
-      {
-        "n": 18,
-        "text": "For such people are not serving our Lord Christ, but their own appetites. By smooth talk and flattery they fool the minds of innocent people."
-      },
-      {
-        "n": 19,
-        "text": "Everyone has heard about your obedience, so I am very glad about you. But I want you to be wise about what is good, and innocent about what is evil."
-      },
-      {
-        "n": 20,
-        "text": "The God of peace will soon crush Satan under your feet. May the grace of our Lord Jesus be with you."
-      },
-      {
-        "n": 21,
-        "text": "Timothy, my fellow worker, sends his greetings, and so do Lucius, Jason, and Sosipater, my relatives."
-      },
-      {
-        "n": 22,
-        "text": "I, Tertius, who wrote down this letter, also greet you in the Lord."
-      },
-      {
-        "n": 23,
-        "text": "Gaius, whose home I am staying in, and who hosts the whole church, sends you greetings. Erastus, the city treasurer, and our brother Quartus send you greetings."
-      },
-      {
-        "n": 24,
-        "text": "May the grace of our Lord Jesus Christ be with you all. Amen."
-      },
-      {
-        "n": 25,
-        "text": "God is able to make you strong. He does it by the good news I preach and by the message about Jesus Christ. This is the secret that was kept hidden for long ages."
-      },
-      {
-        "n": 26,
-        "text": "But now the secret is revealed. It is made known through the prophets' writings, by the command of the eternal God. This is so all nations will believe and obey Him."
-      },
-      {
-        "n": 27,
-        "text": "To the only wise God be glory forever through Jesus Christ! Amen."
-      }
+      { "n": 1, "text": "I am introducing to you our sister Phoebe, a servant of the church in Cenchrea." },
+      { "n": 2, "text": "Welcome her in the Lord, as God's people should. Help her with anything she needs from you. She has been a great help to many people, including me." },
+      { "n": 3, "text": "Greet Priscilla and Aquila, my fellow workers in Christ Jesus." },
+      { "n": 4, "text": "They risked their own lives for me. Not only I, but all the churches of the other nations are thankful for them." },
+      { "n": 5, "text": "Greet also the church that meets in their house. Greet my dear friend Epaenetus, who was the first person in Achaia to believe in Christ." },
+      { "n": 6, "text": "Greet Mary, who worked very hard for you." },
+      { "n": 7, "text": "Greet Andronicus and Junia, my relatives who were in prison with me. They are respected among the apostles, and they belonged to Christ before I did." },
+      { "n": 8, "text": "Greet Ampliatus, my dear friend in the Lord." },
+      { "n": 9, "text": "Greet Urbanus, our fellow worker in Christ, and my dear friend Stachys." },
+      { "n": 10, "text": "Greet Apelles, who has proven himself faithful in Christ. Greet those who belong to the household of Aristobulus." },
+      { "n": 11, "text": "Greet Herodion, my relative. Greet those in the household of Narcissus who belong to the Lord." },
+      { "n": 12, "text": "Greet Tryphena and Tryphosa, who work hard for the Lord. Greet my dear friend Persis, who has also worked very hard for the Lord." },
+      { "n": 13, "text": "Greet Rufus, chosen by the Lord, and his mother, who has been a mother to me too." },
+      { "n": 14, "text": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers and sisters with them." },
+      { "n": 15, "text": "Greet Philologus, Julia, Nereus and his sister, and Olympas, and all God's people who are with them." },
+      { "n": 16, "text": "Greet one another with a holy kiss. All the churches of Christ send you their greetings." },
+      { "n": 17, "text": "Brothers and sisters, I beg you to watch out for those who cause divisions and put obstacles in your way, against the teaching you have learned. Stay away from them." },
+      { "n": 18, "text": "For such people are not serving our Lord Christ, but their own appetites. By smooth talk and flattery they fool the minds of innocent people." },
+      { "n": 19, "text": "Everyone has heard about your obedience, so I am very glad about you. But I want you to be wise about what is good, and innocent about what is evil." },
+      { "n": 20, "text": "The God of peace will soon crush Satan under your feet. May the grace of our Lord Jesus be with you." },
+      { "n": 21, "text": "Timothy, my fellow worker, sends his greetings, and so do Lucius, Jason, and Sosipater, my relatives." },
+      { "n": 22, "text": "I, Tertius, who wrote down this letter, also greet you in the Lord." },
+      { "n": 23, "text": "Gaius, whose home I am staying in, and who hosts the whole church, sends you greetings. Erastus, the city treasurer, and our brother Quartus send you greetings." },
+      { "n": 24, "text": "May the grace of our Lord Jesus Christ be with you all. Amen." },
+      { "n": 25, "text": "God is able to make you strong. He does it by the good news I preach and by the message about Jesus Christ. This is the secret that was kept hidden for long ages." },
+      { "n": 26, "text": "But now the secret is revealed. It is made known through the prophets' writings, by the command of the eternal God. This is so all nations will believe and obey Him." },
+      { "n": 27, "text": "To the only wise God be glory forever through Jesus Christ! Amen." }
     ]
   }
 }
