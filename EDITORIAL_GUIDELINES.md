@@ -105,6 +105,17 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - exhort (encourage); diligence (hard work); simplicity (an honest heart)
   - dissimulation (pretending); fervent (on fire); hospitality (welcoming strangers)
   - avenge (pay back); vengeance (paying back)
+  - election (choosing)
+  - remnant (a small part)
+  - Lord of Sabaoth (the Lord of all armies)
+  - concluded (shut up) -- Romans 11:32
+  - slumber (sleepiness)
+  - severity (strictness)
+  - gainsaying (arguing)
+  - damnation (being condemned)
+  - custom (fees)
+  - bear false witness (lie about others)
+  - higher powers (rulers); ordained (set up)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
