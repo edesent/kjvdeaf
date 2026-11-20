@@ -92,95 +92,32 @@
   },
   "4": {
     "verses": [
-      {
-        "n": 1,
-        "text": "You should think of us as servants of Christ, the ones God has trusted to do the work of making known God's secret truths."
-      },
-      {
-        "n": 2,
-        "text": "Someone who does this work of God must always be faithful and do what God wants them to do."
-      },
-      {
-        "n": 3,
-        "text": "But it is not important to me what people or a judge thinks of my work. I do not even try to decide myself if I have done the right thing."
-      },
-      {
-        "n": 4,
-        "text": "I do not know of anything that I have done wrong, but I do not say that I am innocent. God will say if I am guilty or not."
-      },
-      {
-        "n": 5,
-        "text": "That is why you must not judge anyone now. The time for judging will be when the Lord comes. He will shine light on everything that is now hidden in darkness. He will make known the secret purposes of our hearts. Then the praise each person should get will come from God."
-      },
-      {
-        "n": 6,
-        "text": "Brothers and sisters, I have used Apollos and myself as examples for you. I did this so that you could learn from us the meaning of the words, Follow what the Scriptures say. No one must say that one person is more important than another person."
-      },
-      {
-        "n": 7,
-        "text": "Why do you think you are better than someone else? Everything that you have, God gave you. Why do you boast about the things that you did not work for?"
-      },
-      {
-        "n": 8,
-        "text": "You think you have everything you need. You think you are rich. You think you have become kings without us. I wish you really were kings. Then we could rule together with you."
-      },
-      {
-        "n": 9,
-        "text": "We are apostles, but I think God made us unimportant and He gave us the last place of all people. We are like prisoners on our way to die in a place where everyone can see us. And now everyone in the world, angels and people, can see how we die."
-      },
-      {
-        "n": 10,
-        "text": "Everyone thinks that we, the apostles, are fools because we work for Christ. But you think you are so wise in Christ. You think we are weak but you are strong. You think you are important and we are not important."
-      },
-      {
-        "n": 11,
-        "text": "Even now we still do not have enough to eat or drink, and we do not have enough clothes. We often get beatings. We have no homes."
-      },
-      {
-        "n": 12,
-        "text": "We work very hard for food and clothes for ourselves. When people curse us, we pray that God will bless them. When they do bad things to us, we keep quiet and hold out."
-      },
-      {
-        "n": 13,
-        "text": "When they say bad things about us, we try to say something good that will help them. We have become like the worst people in the world, like dirt. We are like dirty things that people throw away."
-      },
-      {
-        "n": 14,
-        "text": "I am not trying to make you feel ashamed, but I am writing this to warn you as my own children."
-      },
-      {
-        "n": 15,
-        "text": "You have ten thousand teachers to guide you in Christ, but you do not have many fathers. I led you to Christ and took responsibility for you. I became your father in Christ Jesus through the good news of salvation."
-      },
-      {
-        "n": 16,
-        "text": "That is why I beg you to live as I live."
-      },
-      {
-        "n": 17,
-        "text": "That is why I sent Timothy to you. I have helped Timothy know the Lord Jesus. Now he is like a son to me, and I love him very much. Timothy is faithful. He will help you remember how I live in Christ Jesus and the way of life I teach in every church I visit."
-      },
-      {
-        "n": 18,
-        "text": "Some of you thought I would never come to you again and they think they are very important now."
-      },
-      {
-        "n": 19,
-        "text": "But I will soon come to you, if God wants me to come. I will find out if these people only talk or if they also do something."
-      },
-      {
-        "n": 20,
-        "text": "Because where God is King, people do not only talk about the things that God wants. They also do them with the power that God gives them."
-      },
-      {
-        "n": 21,
-        "text": "You can choose what I must do when I come to you: Must I be angry, or must I be loving and friendly?"
-      }
+      { "n": 1, "text": "Let people think of us as ministers (servants) of Christ, and stewards (managers) of the mysteries (secrets) of God." },
+      { "n": 2, "text": "Also, it is required in stewards (managers) that they be found faithful." },
+      { "n": 3, "text": "But to me it is a very small thing that I should be judged by you, or by man's judgment. Yes, I do not even judge myself." },
+      { "n": 4, "text": "For I know nothing against myself. Yet I am not justified (shown to be right) by this. The One who judges me is the Lord." },
+      { "n": 5, "text": "So judge nothing before the time, until the Lord comes. The Lord will bring to light the hidden things of darkness. The Lord will make manifest (show clearly) the counsels (plans) of the hearts. Then each person will have praise from God." },
+      { "n": 6, "text": "Brothers and sisters, I have used myself and Apollos as an example, for your sakes. I did this so you can learn from us not to think of men above what is written. Then none of you will be puffed up (proud) for one person against another." },
+      { "n": 7, "text": "For who makes you different from another? What do you have that you did not receive? If you did receive it, why do you glory (brag), as if you had not received it?" },
+      { "n": 8, "text": "Now you are full. Now you are rich. You have reigned as kings without us. I truly wish you did reign, so that we also could reign with you." },
+      { "n": 9, "text": "For I think God has set us apostles last, like men appointed (sentenced) to death. For we are made a spectacle (show) to the world, to angels, and to men." },
+      { "n": 10, "text": "We are fools for Christ's sake, but you are wise in Christ. We are weak, but you are strong. You are honored, but we are despised (looked down on)." },
+      { "n": 11, "text": "Even to this very hour we are hungry and thirsty. We are naked (without enough clothes), and we are buffeted (beaten). We have no settled home." },
+      { "n": 12, "text": "We labor (work hard), working with our own hands. When we are reviled (insulted), we bless. When we are persecuted (attacked for faith), we suffer it (put up with it)." },
+      { "n": 13, "text": "When we are defamed (lied about), we intreat (answer kindly). We are made like the filth (dirt) of the world. We are the offscouring (garbage) of all things to this day." },
+      { "n": 14, "text": "I do not write these things to shame you. I warn you as my beloved (dear) sons." },
+      { "n": 15, "text": "For though you have ten thousand instructors (teachers) in Christ, you do not have many fathers. For in Christ Jesus I have begotten you (become your father) through the gospel (good news)." },
+      { "n": 16, "text": "So I beg you, be followers of me." },
+      { "n": 17, "text": "For this reason I have sent Timothy to you. Timothy is my beloved (dear) son, and faithful in the Lord. Timothy will bring to your memory my ways in Christ, as I teach everywhere in every church." },
+      { "n": 18, "text": "Now some of you are puffed up (proud), as though I would not come to you." },
+      { "n": 19, "text": "But I will come to you soon, if the Lord wills. Then I will know, not the speech of those who are puffed up (proud), but their power." },
+      { "n": 20, "text": "For the kingdom of God is not in word, but in power." },
+      { "n": 21, "text": "What do you want? Should I come to you with a rod (a stick for punishment), or in love and in the spirit of meekness (gentleness)?" }
     ],
     "sourceUrl": "https://kjvdeaf.com/1-corinthians-chapter-4/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a capitalization issue in v10.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "5": {
