@@ -40,72 +40,24 @@
   "2": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Brothers and sisters, when I came to you, I did not come with fancy words or great wisdom as I told you about God."
-      },
-      {
-        "n": 2,
-        "text": "For I decided to know nothing while I was with you except Jesus Christ, and Him nailed to the cross."
-      },
-      {
-        "n": 3,
-        "text": "I came to you weak, afraid, and trembling."
-      },
-      {
-        "n": 4,
-        "text": "My message and my preaching did not depend on clever, persuasive words. Instead, they came with the proof of the Spirit's power,"
-      },
-      {
-        "n": 5,
-        "text": "so that your faith would not rest on human wisdom, but on God's power."
-      },
-      {
-        "n": 6,
-        "text": "We do teach wisdom to mature believers. But this is not the world's wisdom. It does not come from powerful world leaders. Those leaders will soon lose all their power."
-      },
-      {
-        "n": 7,
-        "text": "Instead, we speak God's hidden wisdom, a wisdom that was a secret. God planned it before time began, for our glory."
-      },
-      {
-        "n": 8,
-        "text": "None of the rulers of this age understood it. If they had, they would not have nailed the Lord of glory to the cross."
-      },
-      {
-        "n": 9,
-        "text": "The Scripture says: No eye has ever seen it. No ear has ever heard it. No human mind has ever imagined it! That is how wonderful God's plan is for those who love Him."
-      },
-      {
-        "n": 10,
-        "text": "But God has shown these things to us through His Spirit. The Spirit searches everything, even the deep things of God."
-      },
-      {
-        "n": 11,
-        "text": "For who knows a person's thoughts except that person's own spirit within them? In the same way, no one knows the thoughts of God except the Spirit of God."
-      },
-      {
-        "n": 12,
-        "text": "We have not received the spirit of the world, but the Spirit who is from God, so that we may understand what God has freely given us."
-      },
-      {
-        "n": 13,
-        "text": "We do not teach with words made up by human wisdom. The Holy Spirit teaches us the words to speak. We explain spiritual truths to people who have the Spirit."
-      },
-      {
-        "n": 14,
-        "text": "A person without the Spirit rejects God's truths. They think God's message is total foolishness! They cannot understand it. These truths can only be understood through the Holy Spirit."
-      },
-      {
-        "n": 15,
-        "text": "The person who has the Spirit can judge all things, but they themselves are not subject to anyone's judgment."
-      },
-      {
-        "n": 16,
-        "text": "For: Who has known the mind of the Lord, so as to instruct Him? But we have the mind of Christ."
-      }
+      { "n": 1, "text": "And I, brothers and sisters, when I came to you, did not come with excellency (fancy) of speech or of wisdom. I came telling you the testimony (witness) of God." },
+      { "n": 2, "text": "For I decided not to know anything among you except Jesus Christ, and Him crucified (put to death on a cross)." },
+      { "n": 3, "text": "I was with you in weakness, and in fear, and in much trembling." },
+      { "n": 4, "text": "My speech and my preaching were not with enticing (persuasive) words of man's wisdom. They were in demonstration (proof) of the Spirit and of power." },
+      { "n": 5, "text": "This was so that your faith would not stand in the wisdom of men, but in the power of God." },
+      { "n": 6, "text": "Yet we speak wisdom among those who are perfect (fully grown). But it is not the wisdom of this world, or of the princes (rulers) of this world, who come to nothing." },
+      { "n": 7, "text": "We speak the wisdom of God in a mystery (secret), the hidden wisdom. God ordained (planned) it before the world began, for our glory." },
+      { "n": 8, "text": "None of the princes (rulers) of this world knew this wisdom. If they had known it, they would not have crucified (put to death on a cross) the Lord of glory." },
+      { "n": 9, "text": "But as the Scripture says: Eye has not seen, and ear has not heard, and it has not entered into the heart of man, the things God has prepared for those who love Him." },
+      { "n": 10, "text": "But God has revealed (shown) these things to us by His Spirit. For the Spirit searches all things, yes, the deep things of God." },
+      { "n": 11, "text": "What man knows the things of a man, except the spirit of man that is in him? In the same way, no one knows the things of God except the Spirit of God." },
+      { "n": 12, "text": "Now we have received, not the spirit of the world, but the Spirit who is from God. This is so that we can know the things God has freely given to us." },
+      { "n": 13, "text": "We also speak these things, not in the words that man's wisdom teaches, but in the words the Holy Spirit teaches. We compare spiritual things with spiritual things." },
+      { "n": 14, "text": "But the natural man (a person without God's Spirit) does not receive the things of the Spirit of God. These things are foolishness to the natural man. The natural man cannot know them, because they are spiritually discerned (understood only through the Spirit)." },
+      { "n": 15, "text": "But the one who is spiritual judges all things. Yet no one judges the spiritual person." },
+      { "n": 16, "text": "For who has known the mind of the Lord, so that he can instruct (teach) the Lord? But we have the mind of Christ." }
     ]
   },
   "3": {
