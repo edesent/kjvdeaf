@@ -2,132 +2,39 @@
   "1": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "I am Paul. God chose me to be an apostle of Christ Jesus. Our brother Sosthenes joins me in writing this letter."
-      },
-      {
-        "n": 2,
-        "text": "We are writing to the church of God in Corinth. God made you holy through Christ Jesus. He called you to be His special holy people. We also write to everyone everywhere who calls on the name of our Lord Jesus Christ, their Lord and ours."
-      },
-      {
-        "n": 3,
-        "text": "May God our Father and the Lord Jesus Christ give you grace and peace."
-      },
-      {
-        "n": 4,
-        "text": "I always thank my God for you, because of the grace God has given you in Christ Jesus."
-      },
-      {
-        "n": 5,
-        "text": "In Him you have been made rich in every way, in all your speaking and all your knowledge,"
-      },
-      {
-        "n": 6,
-        "text": "because what we told you about Christ was proven true in you."
-      },
-      {
-        "n": 7,
-        "text": "So you do not lack any spiritual gift as you wait for our Lord Jesus Christ to appear."
-      },
-      {
-        "n": 8,
-        "text": "He will keep you strong to the end, so that you will be without blame on the day of our Lord Jesus Christ."
-      },
-      {
-        "n": 9,
-        "text": "God is faithful. He is the One who called you to share life with His Son, Jesus Christ our Lord."
-      },
-      {
-        "n": 10,
-        "text": "Brothers and sisters, I make a serious appeal to you. I speak in the name of our Lord Jesus Christ. Please agree with one another. Stop arguing and dividing the church! Be completely united in what you think and believe."
-      },
-      {
-        "n": 11,
-        "text": "My brothers and sisters, some from Chloe's household have told me that there is quarreling among you."
-      },
-      {
-        "n": 12,
-        "text": "What I mean is this: some of you say, I follow Paul. Others say, I follow Apollos. Others say, I follow Peter. And others say, I follow Christ."
-      },
-      {
-        "n": 13,
-        "text": "Is Christ divided? Was Paul nailed to the cross for you? Were you baptized in the name of Paul?"
-      },
-      {
-        "n": 14,
-        "text": "I thank God that I did not baptize any of you except Crispus and Gaius,"
-      },
-      {
-        "n": 15,
-        "text": "so that no one can say you were baptized in my name."
-      },
-      {
-        "n": 16,
-        "text": "(Yes, I also baptized the household of Stephanas. Beyond that, I do not remember baptizing anyone else.)"
-      },
-      {
-        "n": 17,
-        "text": "Christ did not send me to baptize. He sent me to preach the good news. I do not preach with clever words. Clever words would rob the cross of Christ of its power."
-      },
-      {
-        "n": 18,
-        "text": "The message of the cross is foolishness to those who are being lost. But to us who are being saved, it is the power of God."
-      },
-      {
-        "n": 19,
-        "text": "For the Scripture says: I will destroy the wisdom of the wise. I will set aside the cleverness of the clever."
-      },
-      {
-        "n": 20,
-        "text": "Where is the wise person? Where is the teacher of the law? Where is the great debater of this age? Has God not shown that the world's wisdom is foolish?"
-      },
-      {
-        "n": 21,
-        "text": "For in His wisdom, God made sure that the world could not know Him through its own wisdom. Instead, God was pleased to save those who believe through the message we preach. People think this message is foolish."
-      },
-      {
-        "n": 22,
-        "text": "Jews ask for signs, and Greeks look for wisdom,"
-      },
-      {
-        "n": 23,
-        "text": "We preach that Christ was nailed to a cross. This message offends Jewish people. And other nations think this message is totally foolish."
-      },
-      {
-        "n": 24,
-        "text": "But to those whom God has called, both Jews and Greeks, Christ is the power of God and the wisdom of God."
-      },
-      {
-        "n": 25,
-        "text": "Even the part of God that people call foolish is wiser than human wisdom. Even the part of God that people call weak is stronger than human strength."
-      },
-      {
-        "n": 26,
-        "text": "Brothers and sisters, think about what you were when God called you. Not many of you were wise by human standards. Not many were powerful. Not many were of noble birth."
-      },
-      {
-        "n": 27,
-        "text": "But God chose the foolish things of the world to shame the wise. God chose the weak things of the world to shame the strong."
-      },
-      {
-        "n": 28,
-        "text": "God chose people who are poor and looked down on. He chose people the world thinks are completely worthless. God did this to wipe out what the world calls important."
-      },
-      {
-        "n": 29,
-        "text": "So that no one can brag in God's presence."
-      },
-      {
-        "n": 30,
-        "text": "God united you with Christ Jesus. Christ became true wisdom from God for us. Through Christ, God makes us right with Himself. He makes us holy, and He sets us free!"
-      },
-      {
-        "n": 31,
-        "text": "So, as the Scripture says: Whoever wants to brag should brag about the Lord."
-      }
+      { "n": 1, "text": "Paul, called to be an apostle of Jesus Christ because God wanted it, and Sosthenes our brother." },
+      { "n": 2, "text": "To the church of God at Corinth. To those who are sanctified (made holy) in Christ Jesus, called to be saints (holy people). And to all in every place who call on the name of Jesus Christ our Lord, both their Lord and ours:" },
+      { "n": 3, "text": "May God our Father and the Lord Jesus Christ give you grace and peace." },
+      { "n": 4, "text": "I always thank my God for you, because of the grace of God that is given to you by Jesus Christ." },
+      { "n": 5, "text": "In everything you are made rich by Christ, in all your speaking and in all your knowledge." },
+      { "n": 6, "text": "The testimony (witness) of Christ was confirmed (proven true) in you." },
+      { "n": 7, "text": "So you are not lacking in any gift, as you wait for the coming of our Lord Jesus Christ." },
+      { "n": 8, "text": "Christ will also confirm (make strong) you to the end. Then you will be blameless (without blame) in the day of our Lord Jesus Christ." },
+      { "n": 9, "text": "God is faithful. God called you into the fellowship (sharing) of His Son Jesus Christ our Lord." },
+      { "n": 10, "text": "Now I beg you, brothers and sisters, by the name of our Lord Jesus Christ: all of you speak the same thing. Let there be no divisions among you. Be perfectly joined together in the same mind and in the same judgment." },
+      { "n": 11, "text": "My brothers and sisters, people from the house of Chloe told me about you. They told me there are contentions (fighting) among you." },
+      { "n": 12, "text": "This is what I mean. One of you says: I follow Paul. Another says: I follow Apollos. Another says: I follow Peter. Another says: I follow Christ." },
+      { "n": 13, "text": "Is Christ divided? Was Paul crucified (put to death on a cross) for you? Or were you baptized in the name of Paul?" },
+      { "n": 14, "text": "I thank God that I baptized none of you except Crispus and Gaius," },
+      { "n": 15, "text": "so that no one can say that I baptized in my own name." },
+      { "n": 16, "text": "I also baptized the household of Stephanas. Besides them, I do not know if I baptized anyone else." },
+      { "n": 17, "text": "For Christ did not send me to baptize, but to preach the good news. I do not preach with wisdom of words, so that the cross of Christ will not lose its power." },
+      { "n": 18, "text": "For the preaching of the cross is foolishness to those who perish. But to us who are saved, it is the power of God." },
+      { "n": 19, "text": "For the Scripture says: I will destroy the wisdom of the wise. I will bring to nothing the understanding of the prudent (clever)." },
+      { "n": 20, "text": "Where is the wise person? Where is the scribe (teacher of the law)? Where is the debater of this world? Has God not made the wisdom of this world foolish?" },
+      { "n": 21, "text": "In the wisdom of God, the world did not know God by its own wisdom. So it pleased God to save those who believe, by the foolishness of preaching." },
+      { "n": 22, "text": "The Jews ask for a sign, and the Greeks look for wisdom." },
+      { "n": 23, "text": "But we preach Christ crucified (put to death on a cross). To the Jews this is a stumbling block. To the Greeks it is foolishness." },
+      { "n": 24, "text": "But to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God." },
+      { "n": 25, "text": "For the foolishness of God is wiser than people, and the weakness of God is stronger than people." },
+      { "n": 26, "text": "Look at your calling, brothers and sisters. Not many of you were wise by human standards. Not many were mighty. Not many were noble." },
+      { "n": 27, "text": "But God has chosen the foolish things of the world to confound (shame) the wise. God has chosen the weak things of the world to confound (shame) the mighty." },
+      { "n": 28, "text": "God has chosen the base (lowly) things of the world, and the things that are despised (looked down on). God has even chosen things that are nothing, to bring to nothing the things that are." },
+      { "n": 29, "text": "God did this so that no one should glory (brag) in His presence." },
+      { "n": 30, "text": "Because of God you are in Christ Jesus. God has made Christ to be our wisdom, righteousness (being right with God), sanctification (being made holy), and redemption (being bought back and set free)." },
+      { "n": 31, "text": "So, as the Scripture says: Whoever glories (brags), let them glory (brag) in the Lord." }
     ]
   },
   "2": {
