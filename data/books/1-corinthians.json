@@ -313,144 +313,42 @@
   "11": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Follow my example, as I follow the example of Christ."
-      },
-      {
-        "n": 2,
-        "text": "I praise you for remembering me in everything and for holding on to the teachings, just as I passed them on to you."
-      },
-      {
-        "n": 3,
-        "text": "I want you to understand God's order of authority. Christ is the head of every man. The husband is the head of the wife. And God the Father is the head of Christ!"
-      },
-      {
-        "n": 4,
-        "text": "A man dishonors Christ when he prays with his head covered."
-      },
-      {
-        "n": 5,
-        "text": "A woman dishonors her husband when she prays with no veil. That is just as shameful as shaving off all her hair!"
-      },
-      {
-        "n": 6,
-        "text": "If a woman refuses a veil, she might as well shave her head. Since a shaved head brings shame, she should wear a head covering."
-      },
-      {
-        "n": 7,
-        "text": "A man should not cover his head, because he is the image and glory of God; but the woman is the glory of the man."
-      },
-      {
-        "n": 8,
-        "text": "For man did not come from woman, but woman from man."
-      },
-      {
-        "n": 9,
-        "text": "And man was not created for woman, but woman for man."
-      },
-      {
-        "n": 10,
-        "text": "For this reason, and because of the angels, a woman should have a sign of authority on her head."
-      },
-      {
-        "n": 11,
-        "text": "But in the Lord, woman is not separate from man, and man is not separate from woman."
-      },
-      {
-        "n": 12,
-        "text": "For just as woman came from man, so man is born of woman. But everything comes from God."
-      },
-      {
-        "n": 13,
-        "text": "Judge for yourselves: is it right for a woman to pray to God with her head uncovered?"
-      },
-      {
-        "n": 14,
-        "text": "Does not nature itself teach you that it is a shame for a man to have long hair,"
-      },
-      {
-        "n": 15,
-        "text": "but that long hair is a woman's glory? For her hair is given to her as a covering."
-      },
-      {
-        "n": 16,
-        "text": "If anyone wants to argue about this, we have no such practice, and neither do the churches of God."
-      },
-      {
-        "n": 17,
-        "text": "Now in giving these instructions I cannot praise you, because your meetings do more harm than good."
-      },
-      {
-        "n": 18,
-        "text": "First of all, I hear that when you come together as a church, there are divisions among you, and I partly believe it."
-      },
-      {
-        "n": 19,
-        "text": "No doubt there have to be differences among you, to show which of you have God's approval."
-      },
-      {
-        "n": 20,
-        "text": "When you gather, you do not really eat the Lord's Supper."
-      },
-      {
-        "n": 21,
-        "text": "Each rich person rushes ahead and eats their own private meal. Poor people go hungry while others get completely drunk!"
-      },
-      {
-        "n": 22,
-        "text": "Do you not have your own homes for eating and drinking? You are humiliating the poor and insulting God's church! Should I praise you for this? I definitely will not!"
-      },
-      {
-        "n": 23,
-        "text": "I passed on to you what the Lord Jesus gave me. On the night someone betrayed Him, the Lord Jesus took bread."
-      },
-      {
-        "n": 24,
-        "text": "He thanked God and broke the bread into pieces. He said: This is my body, broken for you. Eat this bread to remember me."
-      },
-      {
-        "n": 25,
-        "text": "After supper, He took the cup in the same way. He said: This cup is the new agreement in my blood. Whenever you drink it, do this to remember me!"
-      },
-      {
-        "n": 26,
-        "text": "For whenever you eat this bread and drink this cup, you are showing the Lord's death until He comes."
-      },
-      {
-        "n": 27,
-        "text": "Do not treat the Lord's bread and cup with disrespect. Anyone who does that sins against the Lord's body and blood!"
-      },
-      {
-        "n": 28,
-        "text": "Every person must examine their own heart before eating."
-      },
-      {
-        "n": 29,
-        "text": "Respect the body of the Lord when you eat. Disrespecting it brings God's judgment upon yourself."
-      },
-      {
-        "n": 30,
-        "text": "That is why many among you are weak, sick, and dying."
-      },
-      {
-        "n": 31,
-        "text": "But if we judged ourselves truly, we would not be judged."
-      },
-      {
-        "n": 32,
-        "text": "When the Lord judges us, He is correcting us, so that we will not be condemned along with the world."
-      },
-      {
-        "n": 33,
-        "text": "So, my brothers and sisters, when you come together to eat, wait for one another."
-      },
-      {
-        "n": 34,
-        "text": "If anyone is hungry, they should eat at home, so that when you meet together it will not bring judgment. And when I come, I will give further directions."
-      }
+      { "n": 1, "text": "Be followers of me, even as I also am of Christ." },
+      { "n": 2, "text": "Now I praise you, brothers and sisters, that you remember me in all things. You keep the ordinances (teachings), as I delivered (handed) them to you." },
+      { "n": 3, "text": "But I want you to know that the head of every man is Christ. And the head of the woman is the man. And the head of Christ is God." },
+      { "n": 4, "text": "Every man praying or prophesying (speaking God's message) with his head covered dishonors his head." },
+      { "n": 5, "text": "But every woman who prays or prophesies (speaks God's message) with her head uncovered dishonors her head. For that is all the same as if her head were shaved." },
+      { "n": 6, "text": "For if the woman is not covered, let her hair also be shorn (cut off). But if it is a shame for a woman to have her hair shorn (cut off) or shaved, let her be covered." },
+      { "n": 7, "text": "For a man indeed should not cover his head, because he is the image and glory of God. But the woman is the glory of the man." },
+      { "n": 8, "text": "For the man is not from the woman, but the woman is from the man." },
+      { "n": 9, "text": "And the man was not created for the woman, but the woman for the man." },
+      { "n": 10, "text": "For this reason the woman should have power (a sign of authority) on her head, because of the angels." },
+      { "n": 11, "text": "But neither is the man without the woman, nor the woman without the man, in the Lord." },
+      { "n": 12, "text": "For as the woman is from the man, so also the man is born by the woman. But all things are from God." },
+      { "n": 13, "text": "Judge for yourselves: is it comely (fitting) for a woman to pray to God uncovered?" },
+      { "n": 14, "text": "Does not even nature itself teach you that if a man has long hair, it is a shame to him?" },
+      { "n": 15, "text": "But if a woman has long hair, it is a glory to her. For her hair is given to her for a covering." },
+      { "n": 16, "text": "But if any man seems to be contentious (wanting to fight), we have no such custom (practice), and neither do the churches of God." },
+      { "n": 17, "text": "Now in what I tell you next, I do not praise you. For you come together not for the better, but for the worse." },
+      { "n": 18, "text": "For first of all, when you come together in the church, I hear that there are divisions among you. And I partly believe it." },
+      { "n": 19, "text": "For there must also be heresies (wrong teachings that divide) among you, so that those who are approved may be made manifest (shown clearly) among you." },
+      { "n": 20, "text": "So when you come together into one place, this is not to eat the Lord's supper." },
+      { "n": 21, "text": "For in eating, each one takes his own supper before others. And one is hungry, and another is drunk." },
+      { "n": 22, "text": "What? Do you not have houses to eat and to drink in? Or do you despise (look down on) the church of God, and shame those who have nothing? What shall I say to you? Shall I praise you in this? I do not praise you." },
+      { "n": 23, "text": "For I have received from the Lord what I also delivered (handed) to you. The Lord Jesus, the same night in which He was betrayed, took bread." },
+      { "n": 24, "text": "And when He had given thanks, He broke it and said: Take, eat. This is My body, which is broken for you. Do this in remembrance of Me." },
+      { "n": 25, "text": "In the same way He also took the cup, when He had eaten supper, saying: This cup is the new testament (new agreement) in My blood. Do this, as often as you drink it, in remembrance of Me." },
+      { "n": 26, "text": "For as often as you eat this bread and drink this cup, you show the Lord's death until He comes." },
+      { "n": 27, "text": "So whoever eats this bread and drinks this cup of the Lord unworthily will be guilty of the body and blood of the Lord." },
+      { "n": 28, "text": "But let a person examine themselves, and then let them eat of that bread and drink of that cup." },
+      { "n": 29, "text": "For whoever eats and drinks unworthily eats and drinks damnation (being condemned) to themselves, not discerning (seeing the meaning of) the Lord's body." },
+      { "n": 30, "text": "For this reason many among you are weak and sick, and many sleep (have died)." },
+      { "n": 31, "text": "For if we would judge ourselves, we would not be judged." },
+      { "n": 32, "text": "But when we are judged, we are chastened (corrected) by the Lord, so that we will not be condemned (judged guilty) with the world." },
+      { "n": 33, "text": "So, my brothers and sisters, when you come together to eat, wait for one another." },
+      { "n": 34, "text": "And if any man is hungry, let him eat at home, so that you do not come together to be condemned (judged guilty). And I will set the rest in order when I come." }
     ]
   },
   "12": {
