@@ -63,100 +63,31 @@
   "3": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Brothers and sisters, I could not talk to you like spiritual adults. You still act like babies in Christ."
-      },
-      {
-        "n": 2,
-        "text": "I had to feed you milk, not solid meat. You were not ready for real spiritual food! Even right now, you are still not ready."
-      },
-      {
-        "n": 3,
-        "text": "You are still controlled by your selfish human desires. You are jealous of each other, and you constantly argue. That proves you are acting just like worldly people!"
-      },
-      {
-        "n": 4,
-        "text": "For when one of you says, I follow Paul, and another, I follow Apollos, are you not acting like ordinary people?"
-      },
-      {
-        "n": 5,
-        "text": "After all, who is Apollos? And who is Paul? We are only servants through whom you believed, each doing the work the Lord gave us."
-      },
-      {
-        "n": 6,
-        "text": "I planted the seed, Apollos watered it, but God made it grow."
-      },
-      {
-        "n": 7,
-        "text": "So neither the one who plants nor the one who waters is anything; only God matters, the One who makes things grow."
-      },
-      {
-        "n": 8,
-        "text": "The one who plants and the one who waters work toward the same goal, and each will be rewarded for their own work."
-      },
-      {
-        "n": 9,
-        "text": "We are God's team of workers. You are God's garden, and you are God's building."
-      },
-      {
-        "n": 10,
-        "text": "God gave me the grace to lay the solid foundation. I worked like a skilled builder. Now other leaders build on top of that foundation. Every person must be very careful how they build!"
-      },
-      {
-        "n": 11,
-        "text": "For no one can lay any foundation other than the one already laid, which is Jesus Christ."
-      },
-      {
-        "n": 12,
-        "text": "A person might build with gold, silver, or precious stones. Another might build with cheap wood, hay, or dry straw."
-      },
-      {
-        "n": 13,
-        "text": "The Day of Judgment will expose everyone's work. A great fire will test the quality of each building."
-      },
-      {
-        "n": 14,
-        "text": "If a person's work survives the fire, they will get a reward."
-      },
-      {
-        "n": 15,
-        "text": "If their work burns up completely, they will lose everything. That builder will still be saved, but like someone running from a burning house!"
-      },
-      {
-        "n": 16,
-        "text": "Do you not know that you yourselves are God's temple, and that God's Spirit lives in you?"
-      },
-      {
-        "n": 17,
-        "text": "If anyone destroys God's temple, God will destroy that person. For God's temple is holy, and you are that temple."
-      },
-      {
-        "n": 18,
-        "text": "Do not fool yourselves. If any of you thinks they are wise by the standards of this age, they should become a fool in the world's eyes, so that they may become truly wise."
-      },
-      {
-        "n": 19,
-        "text": "For the wisdom of this world is foolishness to God. As the Scripture says: He catches the wise in their own cleverness."
-      },
-      {
-        "n": 20,
-        "text": "And again: The Lord knows that the thoughts of the wise are worthless."
-      },
-      {
-        "n": 21,
-        "text": "So no one should brag about human leaders! Everything belongs to you,"
-      },
-      {
-        "n": 22,
-        "text": "whether Paul or Apollos or Peter, or the world or life or death, or the present or the future, all are yours,"
-      },
-      {
-        "n": 23,
-        "text": "and you are Christ's, and Christ is God's."
-      }
+      { "n": 1, "text": "Brothers and sisters, I could not speak to you as to spiritual people. I spoke to you as to carnal (ruled by the sinful self) people, as to babies in Christ." },
+      { "n": 2, "text": "I fed you with milk, not with meat (solid food). Before, you were not able to take it. And even now you are still not able." },
+      { "n": 3, "text": "For you are still carnal (ruled by the sinful self). There is envying (jealousy), strife (fighting), and divisions among you. Are you not carnal (ruled by the sinful self), and living like ordinary men?" },
+      { "n": 4, "text": "For one of you says: I follow Paul. Another says: I follow Apollos. Are you not carnal (ruled by the sinful self)?" },
+      { "n": 5, "text": "Who then is Paul, and who is Apollos? Paul and Apollos are ministers (servants) through whom you believed, as the Lord gave to each one." },
+      { "n": 6, "text": "I planted, Apollos watered, but God gave the increase (made it grow)." },
+      { "n": 7, "text": "So the one who plants is not anything, and the one who waters is not anything. God is the One who gives the increase (makes it grow)." },
+      { "n": 8, "text": "The one who plants and the one who waters are one. Each one will receive their own reward, according to their own labor (work)." },
+      { "n": 9, "text": "For we are laborers (workers) together with God. You are God's husbandry (farm field). You are God's building." },
+      { "n": 10, "text": "By the grace of God given to me, I have laid the foundation, like a wise master builder. Another person builds on it. But let each one be careful how they build on it." },
+      { "n": 11, "text": "For no one can lay any other foundation than the one already laid, which is Jesus Christ." },
+      { "n": 12, "text": "Someone may build on this foundation with gold, silver, precious stones, wood, hay, or stubble (dry stalks of grain)." },
+      { "n": 13, "text": "Each person's work will be made manifest (shown clearly). The day will declare (show) it, because it will be revealed (shown) by fire. The fire will try (test) each person's work, to see what kind it is." },
+      { "n": 14, "text": "If anyone's work that they built on the foundation abides (lasts), they will receive a reward." },
+      { "n": 15, "text": "If anyone's work is burned, they will suffer loss. But they themselves will be saved, yet as through fire." },
+      { "n": 16, "text": "Do you not know that you are the temple of God, and that the Spirit of God dwells (lives) in you?" },
+      { "n": 17, "text": "If anyone defiles (ruins) the temple of God, God will destroy the person who defiles it. For the temple of God is holy, and you are that temple." },
+      { "n": 18, "text": "Let no one deceive (fool) themselves. If anyone among you seems to be wise in this world, let them become a fool, so that they may be wise." },
+      { "n": 19, "text": "For the wisdom of this world is foolishness with God. For the Scripture says: He takes the wise in their own craftiness (tricks)." },
+      { "n": 20, "text": "And again: The Lord knows the thoughts of the wise, that they are vain (empty)." },
+      { "n": 21, "text": "So let no one glory (brag) in men. For all things are yours," },
+      { "n": 22, "text": "Whether Paul, or Apollos, or Peter, or the world, or life, or death, or things now, or things to come. All are yours." },
+      { "n": 23, "text": "And you are Christ's, and Christ is God's." }
     ]
   },
   "4": {
