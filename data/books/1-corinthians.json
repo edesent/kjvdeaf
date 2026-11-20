@@ -353,135 +353,42 @@
   },
   "12": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Now, brothers and sisters, I want you to understand about spiritual gifts."
-      },
-      {
-        "n": 2,
-        "text": "Remember the lives you lived before you were believers. You let yourselves be influenced and led away to worship idols, things that have no life."
-      },
-      {
-        "n": 3,
-        "text": "That is why I tell you: If the Spirit of God is in someone's heart, that person cannot curse Jesus. And when someone believes that Jesus is the Lord, they can say that only because the Holy Spirit is in their heart."
-      },
-      {
-        "n": 4,
-        "text": "There are different gifts, but it is the same Spirit who gives them."
-      },
-      {
-        "n": 5,
-        "text": "And there are different ways to serve the Lord, but we serve the same Lord."
-      },
-      {
-        "n": 6,
-        "text": "And there are different kinds of ways that God works in the congregation, but it is the same God who helps people do all these things."
-      },
-      {
-        "n": 7,
-        "text": "The Spirit shows everyone what they must do, because the Spirit knows what is best for the congregation."
-      },
-      {
-        "n": 8,
-        "text": "The Spirit gives one person the ability to speak with wisdom. And the same Spirit gives another person the ability to speak with knowledge."
-      },
-      {
-        "n": 9,
-        "text": "The same Spirit gives faith to one person, and to another He gives gifts of healing."
-      },
-      {
-        "n": 10,
-        "text": "To another person, the Spirit gives the power to do miracles. To another, He gives the ability to prophesy God's message. To another, He gives the power to tell true spirits from fake spirits. To another, He gives the ability to speak in unknown languages. And to another person, He gives the ability to interpret those languages."
-      },
-      {
-        "n": 11,
-        "text": "One Spirit, the same Spirit, does all these things. The Spirit decides what to give each one."
-      },
-      {
-        "n": 12,
-        "text": "Every person has a body, but that body has many parts. Yes, there are many parts, but the many parts are one body. It is the same with the body of Christ. It has many parts."
-      },
-      {
-        "n": 13,
-        "text": "When we were baptized, the Holy Spirit made us all part of one body. We are Jews, Greeks, slaves and free people but the same Spirit is in all of us."
-      },
-      {
-        "n": 14,
-        "text": "Our bodies do not have only one part. They have many parts."
-      },
-      {
-        "n": 15,
-        "text": "Suppose the foot says: I am not a hand, so I do not belong to the body! That does not stop the foot from being part of the body."
-      },
-      {
-        "n": 16,
-        "text": "Suppose the ear says: I am not an eye, so I do not belong to the body! That does not stop the ear from being part of the body either."
-      },
-      {
-        "n": 17,
-        "text": "If the whole body were an eye, then the body would not have been able to hear. And if the whole body were an ear, then the body would not have been able to smell."
-      },
-      {
-        "n": 18,
-        "text": "But now God has given different parts to the body. He gave every part as He wanted."
-      },
-      {
-        "n": 19,
-        "text": "If the whole body were just one part, then it would not have been a body."
-      },
-      {
-        "n": 20,
-        "text": "But now there are many parts, and there is only one body."
-      },
-      {
-        "n": 21,
-        "text": "The eye cannot say to the hand: I do not need you. The head cannot say to the feet: I do not need you."
-      },
-      {
-        "n": 22,
-        "text": "We think there are parts of the body that are weaker than other parts, but the body needs them."
-      },
-      {
-        "n": 23,
-        "text": "And the parts that we think are not worth very much are the parts we give the most care to. And we give special care to the parts of the body that we do not want to show."
-      },
-      {
-        "n": 24,
-        "text": "The more beautiful parts do not need this special care. But God put the body together and gave more honor to the parts that need it."
-      },
-      {
-        "n": 25,
-        "text": "That is why the body does not fight against itself, because the different parts of the body care for each other."
-      },
-      {
-        "n": 26,
-        "text": "When one part of the body suffers, then all the other parts also suffer. And when the people praise one part of the body, then all the other parts are also happy."
-      },
-      {
-        "n": 27,
-        "text": "All of you together are the body of Christ. You all are a part of this body."
-      },
-      {
-        "n": 28,
-        "text": "God placed different people in the church for special work. First, He appointed apostles. Second, He appointed prophets. Third, He appointed teachers. Next come those who perform miracles and those who heal the sick. Then come those who help others, those who lead, and those with different tongues."
-      },
-      {
-        "n": 29,
-        "text": "Is everyone an apostle? No! Is everyone a prophet? No! Is everyone a teacher? No!"
-      },
-      {
-        "n": 30,
-        "text": "Can everyone perform miracles or heal the sick? No! Does everyone speak in unknown tongues or interpret them? Of course not!"
-      },
-      {
-        "n": 31,
-        "text": "Continue to give your attention to the spiritual gifts you consider to be the greatest. But now I want to point out a way of life that is even greater."
-      }
+      { "n": 1, "text": "Now about spiritual gifts, brothers and sisters, I do not want you to be ignorant (not knowing)." },
+      { "n": 2, "text": "You know that you were Gentiles (people who are not Jews). You were carried away to these idols that cannot speak, just as you were led." },
+      { "n": 3, "text": "So I want you to understand this. No one speaking by the Spirit of God calls Jesus accursed (cursed). And no one can say that Jesus is the Lord, except by the Holy Spirit." },
+      { "n": 4, "text": "Now there are diversities (different kinds) of gifts, but the same Spirit." },
+      { "n": 5, "text": "And there are differences of administrations (kinds of service), but the same Lord." },
+      { "n": 6, "text": "And there are diversities (different kinds) of operations (works), but it is the same God who works all in all." },
+      { "n": 7, "text": "But the manifestation (showing) of the Spirit is given to every person for the good of all." },
+      { "n": 8, "text": "For to one person the word of wisdom is given by the Spirit. To another, the word of knowledge by the same Spirit." },
+      { "n": 9, "text": "To another, faith by the same Spirit. To another, the gifts of healing by the same Spirit." },
+      { "n": 10, "text": "To another, the working of miracles. To another, prophecy (speaking God's message). To another, discerning (telling apart) of spirits. To another, different kinds of tongues (languages). To another, the interpretation (explaining) of tongues (languages)." },
+      { "n": 11, "text": "But that one and the same Spirit works all these. The Spirit gives to every person separately, as the Spirit wills." },
+      { "n": 12, "text": "For the body is one, and has many members (parts). And all the members (parts) of that one body, being many, are one body. So also is Christ." },
+      { "n": 13, "text": "For by one Spirit we are all baptized into one body, whether we are Jews or Gentiles (people who are not Jews), whether we are bond (slaves) or free. And we have all been made to drink into one Spirit." },
+      { "n": 14, "text": "For the body is not one member (part), but many." },
+      { "n": 15, "text": "If the foot says: Because I am not the hand, I am not part of the body. Is it then not part of the body?" },
+      { "n": 16, "text": "And if the ear says: Because I am not the eye, I am not part of the body. Is it then not part of the body?" },
+      { "n": 17, "text": "If the whole body were an eye, where would the hearing be? If the whole body were hearing, where would the smelling be?" },
+      { "n": 18, "text": "But now God has set each one of the members (parts) in the body, as it has pleased Him." },
+      { "n": 19, "text": "And if they were all one member (part), where would the body be?" },
+      { "n": 20, "text": "But now they are many members (parts), yet only one body." },
+      { "n": 21, "text": "And the eye cannot say to the hand: I have no need of you. Nor can the head say to the feet: I have no need of you." },
+      { "n": 22, "text": "No, much more those members (parts) of the body which seem to be more feeble (weak) are necessary." },
+      { "n": 23, "text": "And those members (parts) of the body which we think are less honorable, on these we put more abundant (more) honor. And our uncomely (less pretty) parts have more abundant comeliness (more care to look right)." },
+      { "n": 24, "text": "For our comely (pretty) parts have no need. But God has tempered (put) the body together, giving more abundant (more) honor to the part which lacked it." },
+      { "n": 25, "text": "God did this so that there should be no schism (split) in the body, but that the members (parts) should have the same care for one another." },
+      { "n": 26, "text": "And if one member (part) suffers, all the members (parts) suffer with it. Or if one member (part) is honored, all the members (parts) rejoice with it." },
+      { "n": 27, "text": "Now you are the body of Christ, and members (parts) each one." },
+      { "n": 28, "text": "And God has set some in the church: first apostles, second prophets, third teachers, after that miracles, then gifts of healings, helps, governments (leaders), and diversities (different kinds) of tongues (languages)." },
+      { "n": 29, "text": "Are all apostles? Are all prophets? Are all teachers? Are all workers of miracles?" },
+      { "n": 30, "text": "Do all have the gifts of healing? Do all speak with tongues (languages)? Do all interpret (explain)?" },
+      { "n": 31, "text": "But covet earnestly (strongly want) the best gifts. And yet I show you a more excellent way." }
     ],
     "sourceUrl": "https://kjvdeaf.com/1-corinthians-chapter-12/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No errors found.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V2 'dumb idols' written as 'idols that cannot speak'.",
     "videos": []
   },
   "13": {
