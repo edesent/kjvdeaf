@@ -2,395 +2,122 @@
   "1": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "I am Paul. God chose me to be an apostle of Christ Jesus. Our brother Sosthenes joins me in writing this letter."
-      },
-      {
-        "n": 2,
-        "text": "We are writing to the church of God in Corinth. God made you holy through Christ Jesus. He called you to be His special holy people. We also write to everyone everywhere who calls on the name of our Lord Jesus Christ, their Lord and ours."
-      },
-      {
-        "n": 3,
-        "text": "May God our Father and the Lord Jesus Christ give you grace and peace."
-      },
-      {
-        "n": 4,
-        "text": "I always thank my God for you, because of the grace God has given you in Christ Jesus."
-      },
-      {
-        "n": 5,
-        "text": "In Him you have been made rich in every way, in all your speaking and all your knowledge,"
-      },
-      {
-        "n": 6,
-        "text": "because what we told you about Christ was proven true in you."
-      },
-      {
-        "n": 7,
-        "text": "So you do not lack any spiritual gift as you wait for our Lord Jesus Christ to appear."
-      },
-      {
-        "n": 8,
-        "text": "He will keep you strong to the end, so that you will be without blame on the day of our Lord Jesus Christ."
-      },
-      {
-        "n": 9,
-        "text": "God is faithful. He is the One who called you to share life with His Son, Jesus Christ our Lord."
-      },
-      {
-        "n": 10,
-        "text": "Brothers and sisters, I make a serious appeal to you. I speak in the name of our Lord Jesus Christ. Please agree with one another. Stop arguing and dividing the church! Be completely united in what you think and believe."
-      },
-      {
-        "n": 11,
-        "text": "My brothers and sisters, some from Chloe's household have told me that there is quarreling among you."
-      },
-      {
-        "n": 12,
-        "text": "What I mean is this: some of you say, I follow Paul. Others say, I follow Apollos. Others say, I follow Peter. And others say, I follow Christ."
-      },
-      {
-        "n": 13,
-        "text": "Is Christ divided? Was Paul nailed to the cross for you? Were you baptized in the name of Paul?"
-      },
-      {
-        "n": 14,
-        "text": "I thank God that I did not baptize any of you except Crispus and Gaius,"
-      },
-      {
-        "n": 15,
-        "text": "so that no one can say you were baptized in my name."
-      },
-      {
-        "n": 16,
-        "text": "(Yes, I also baptized the household of Stephanas. Beyond that, I do not remember baptizing anyone else.)"
-      },
-      {
-        "n": 17,
-        "text": "Christ did not send me to baptize. He sent me to preach the good news. I do not preach with clever words. Clever words would rob the cross of Christ of its power."
-      },
-      {
-        "n": 18,
-        "text": "The message of the cross is foolishness to those who are being lost. But to us who are being saved, it is the power of God."
-      },
-      {
-        "n": 19,
-        "text": "For the Scripture says: I will destroy the wisdom of the wise. I will set aside the cleverness of the clever."
-      },
-      {
-        "n": 20,
-        "text": "Where is the wise person? Where is the teacher of the law? Where is the great debater of this age? Has God not shown that the world's wisdom is foolish?"
-      },
-      {
-        "n": 21,
-        "text": "For in His wisdom, God made sure that the world could not know Him through its own wisdom. Instead, God was pleased to save those who believe through the message we preach. People think this message is foolish."
-      },
-      {
-        "n": 22,
-        "text": "Jews ask for signs, and Greeks look for wisdom,"
-      },
-      {
-        "n": 23,
-        "text": "We preach that Christ was nailed to a cross. This message offends Jewish people. And other nations think this message is totally foolish."
-      },
-      {
-        "n": 24,
-        "text": "But to those whom God has called, both Jews and Greeks, Christ is the power of God and the wisdom of God."
-      },
-      {
-        "n": 25,
-        "text": "Even the part of God that people call foolish is wiser than human wisdom. Even the part of God that people call weak is stronger than human strength."
-      },
-      {
-        "n": 26,
-        "text": "Brothers and sisters, think about what you were when God called you. Not many of you were wise by human standards. Not many were powerful. Not many were of noble birth."
-      },
-      {
-        "n": 27,
-        "text": "But God chose the foolish things of the world to shame the wise. God chose the weak things of the world to shame the strong."
-      },
-      {
-        "n": 28,
-        "text": "God chose people who are poor and looked down on. He chose people the world thinks are completely worthless. God did this to wipe out what the world calls important."
-      },
-      {
-        "n": 29,
-        "text": "So that no one can brag in God's presence."
-      },
-      {
-        "n": 30,
-        "text": "God united you with Christ Jesus. Christ became true wisdom from God for us. Through Christ, God makes us right with Himself. He makes us holy, and He sets us free!"
-      },
-      {
-        "n": 31,
-        "text": "So, as the Scripture says: Whoever wants to brag should brag about the Lord."
-      }
+      { "n": 1, "text": "Paul, called to be an apostle of Jesus Christ because God wanted it, and Sosthenes our brother." },
+      { "n": 2, "text": "To the church of God at Corinth. To those who are sanctified (made holy) in Christ Jesus, called to be saints (holy people). And to all in every place who call on the name of Jesus Christ our Lord, both their Lord and ours:" },
+      { "n": 3, "text": "May God our Father and the Lord Jesus Christ give you grace and peace." },
+      { "n": 4, "text": "I always thank my God for you, because of the grace of God that is given to you by Jesus Christ." },
+      { "n": 5, "text": "In everything you are made rich by Christ, in all your speaking and in all your knowledge." },
+      { "n": 6, "text": "The testimony (witness) of Christ was confirmed (proven true) in you." },
+      { "n": 7, "text": "So you are not lacking in any gift, as you wait for the coming of our Lord Jesus Christ." },
+      { "n": 8, "text": "Christ will also confirm (make strong) you to the end. Then you will be blameless (without blame) in the day of our Lord Jesus Christ." },
+      { "n": 9, "text": "God is faithful. God called you into the fellowship (sharing) of His Son Jesus Christ our Lord." },
+      { "n": 10, "text": "Now I beg you, brothers and sisters, by the name of our Lord Jesus Christ: all of you speak the same thing. Let there be no divisions among you. Be perfectly joined together in the same mind and in the same judgment." },
+      { "n": 11, "text": "My brothers and sisters, people from the house of Chloe told me about you. They told me there are contentions (fighting) among you." },
+      { "n": 12, "text": "This is what I mean. One of you says: I follow Paul. Another says: I follow Apollos. Another says: I follow Peter. Another says: I follow Christ." },
+      { "n": 13, "text": "Is Christ divided? Was Paul crucified (put to death on a cross) for you? Or were you baptized in the name of Paul?" },
+      { "n": 14, "text": "I thank God that I baptized none of you except Crispus and Gaius," },
+      { "n": 15, "text": "So that no one can say that I baptized in my own name." },
+      { "n": 16, "text": "I also baptized the household of Stephanas. Besides them, I do not know if I baptized anyone else." },
+      { "n": 17, "text": "For Christ did not send me to baptize, but to preach the gospel (good news). I do not preach with wisdom of words, so that the cross of Christ will not lose its power." },
+      { "n": 18, "text": "For the preaching of the cross is foolishness to those who perish. But to us who are saved, it is the power of God." },
+      { "n": 19, "text": "For the Scripture says: I will destroy the wisdom of the wise. I will bring to nothing the understanding of the prudent (clever)." },
+      { "n": 20, "text": "Where is the wise person? Where is the scribe (teacher of the law)? Where is the debater of this world? Has God not made the wisdom of this world foolish?" },
+      { "n": 21, "text": "In the wisdom of God, the world did not know God by its own wisdom. So it pleased God to save those who believe, by the foolishness of preaching." },
+      { "n": 22, "text": "The Jews ask for a sign, and the Greeks look for wisdom." },
+      { "n": 23, "text": "But we preach Christ crucified (put to death on a cross). To the Jews this is a stumbling block. To the Greeks it is foolishness." },
+      { "n": 24, "text": "But to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God." },
+      { "n": 25, "text": "For the foolishness of God is wiser than people, and the weakness of God is stronger than people." },
+      { "n": 26, "text": "Look at your calling, brothers and sisters. Not many of you were wise by human standards. Not many were mighty. Not many were noble." },
+      { "n": 27, "text": "But God has chosen the foolish things of the world to confound (shame) the wise. God has chosen the weak things of the world to confound (shame) the mighty." },
+      { "n": 28, "text": "God has chosen the base (lowly) things of the world, and the things that are despised (looked down on). God has even chosen things that are nothing, to bring to nothing the things that are." },
+      { "n": 29, "text": "God did this so that no one should glory (brag) in His presence." },
+      { "n": 30, "text": "Because of God you are in Christ Jesus. God has made Christ to be our wisdom, righteousness (being right with God), sanctification (being made holy), and redemption (being bought back and set free)." },
+      { "n": 31, "text": "So, as the Scripture says: Whoever glories (brags), let them glory (brag) in the Lord." }
     ]
   },
   "2": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Brothers and sisters, when I came to you, I did not come with fancy words or great wisdom as I told you about God."
-      },
-      {
-        "n": 2,
-        "text": "For I decided to know nothing while I was with you except Jesus Christ, and Him nailed to the cross."
-      },
-      {
-        "n": 3,
-        "text": "I came to you weak, afraid, and trembling."
-      },
-      {
-        "n": 4,
-        "text": "My message and my preaching did not depend on clever, persuasive words. Instead, they came with the proof of the Spirit's power,"
-      },
-      {
-        "n": 5,
-        "text": "so that your faith would not rest on human wisdom, but on God's power."
-      },
-      {
-        "n": 6,
-        "text": "We do teach wisdom to mature believers. But this is not the world's wisdom. It does not come from powerful world leaders. Those leaders will soon lose all their power."
-      },
-      {
-        "n": 7,
-        "text": "Instead, we speak God's hidden wisdom, a wisdom that was a secret. God planned it before time began, for our glory."
-      },
-      {
-        "n": 8,
-        "text": "None of the rulers of this age understood it. If they had, they would not have nailed the Lord of glory to the cross."
-      },
-      {
-        "n": 9,
-        "text": "The Scripture says: No eye has ever seen it. No ear has ever heard it. No human mind has ever imagined it! That is how wonderful God's plan is for those who love Him."
-      },
-      {
-        "n": 10,
-        "text": "But God has shown these things to us through His Spirit. The Spirit searches everything, even the deep things of God."
-      },
-      {
-        "n": 11,
-        "text": "For who knows a person's thoughts except that person's own spirit within them? In the same way, no one knows the thoughts of God except the Spirit of God."
-      },
-      {
-        "n": 12,
-        "text": "We have not received the spirit of the world, but the Spirit who is from God, so that we may understand what God has freely given us."
-      },
-      {
-        "n": 13,
-        "text": "We do not teach with words made up by human wisdom. The Holy Spirit teaches us the words to speak. We explain spiritual truths to people who have the Spirit."
-      },
-      {
-        "n": 14,
-        "text": "A person without the Spirit rejects God's truths. They think God's message is total foolishness! They cannot understand it. These truths can only be understood through the Holy Spirit."
-      },
-      {
-        "n": 15,
-        "text": "The person who has the Spirit can judge all things, but they themselves are not subject to anyone's judgment."
-      },
-      {
-        "n": 16,
-        "text": "For: Who has known the mind of the Lord, so as to instruct Him? But we have the mind of Christ."
-      }
+      { "n": 1, "text": "And I, brothers and sisters, when I came to you, did not come with excellency (fancy) of speech or of wisdom. I came telling you the testimony (witness) of God." },
+      { "n": 2, "text": "For I decided not to know anything among you except Jesus Christ, and Him crucified (put to death on a cross)." },
+      { "n": 3, "text": "I was with you in weakness, and in fear, and in much trembling." },
+      { "n": 4, "text": "My speech and my preaching were not with enticing (persuasive) words of man's wisdom. They were in demonstration (proof) of the Spirit and of power." },
+      { "n": 5, "text": "This was so that your faith would not stand in the wisdom of men, but in the power of God." },
+      { "n": 6, "text": "Yet we speak wisdom among those who are perfect (fully grown). But it is not the wisdom of this world, or of the princes (rulers) of this world, who come to nothing." },
+      { "n": 7, "text": "We speak the wisdom of God in a mystery (secret), the hidden wisdom. God ordained (planned) it before the world began, for our glory." },
+      { "n": 8, "text": "None of the princes (rulers) of this world knew this wisdom. If they had known it, they would not have crucified (put to death on a cross) the Lord of glory." },
+      { "n": 9, "text": "But as the Scripture says: Eye has not seen, and ear has not heard, and it has not entered into the heart of man, the things God has prepared for those who love Him." },
+      { "n": 10, "text": "But God has revealed (shown) these things to us by His Spirit. For the Spirit searches all things, yes, the deep things of God." },
+      { "n": 11, "text": "What man knows the things of a man, except the spirit of man that is in him? In the same way, no one knows the things of God except the Spirit of God." },
+      { "n": 12, "text": "Now we have received, not the spirit of the world, but the Spirit who is from God. This is so that we can know the things God has freely given to us." },
+      { "n": 13, "text": "We also speak these things, not in the words that man's wisdom teaches, but in the words the Holy Spirit teaches. We compare spiritual things with spiritual things." },
+      { "n": 14, "text": "But the natural man (a person without God's Spirit) does not receive the things of the Spirit of God. These things are foolishness to the natural man. The natural man cannot know them, because they are spiritually discerned (understood only through the Spirit)." },
+      { "n": 15, "text": "But the one who is spiritual judges all things. Yet no one judges the spiritual person." },
+      { "n": 16, "text": "For who has known the mind of the Lord, so that he can instruct (teach) the Lord? But we have the mind of Christ." }
     ]
   },
   "3": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Brothers and sisters, I could not talk to you like spiritual adults. You still act like babies in Christ."
-      },
-      {
-        "n": 2,
-        "text": "I had to feed you milk, not solid meat. You were not ready for real spiritual food! Even right now, you are still not ready."
-      },
-      {
-        "n": 3,
-        "text": "You are still controlled by your selfish human desires. You are jealous of each other, and you constantly argue. That proves you are acting just like worldly people!"
-      },
-      {
-        "n": 4,
-        "text": "For when one of you says, I follow Paul, and another, I follow Apollos, are you not acting like ordinary people?"
-      },
-      {
-        "n": 5,
-        "text": "After all, who is Apollos? And who is Paul? We are only servants through whom you believed, each doing the work the Lord gave us."
-      },
-      {
-        "n": 6,
-        "text": "I planted the seed, Apollos watered it, but God made it grow."
-      },
-      {
-        "n": 7,
-        "text": "So neither the one who plants nor the one who waters is anything; only God matters, the One who makes things grow."
-      },
-      {
-        "n": 8,
-        "text": "The one who plants and the one who waters work toward the same goal, and each will be rewarded for their own work."
-      },
-      {
-        "n": 9,
-        "text": "We are God's team of workers. You are God's garden, and you are God's building."
-      },
-      {
-        "n": 10,
-        "text": "God gave me the grace to lay the solid foundation. I worked like a skilled builder. Now other leaders build on top of that foundation. Every person must be very careful how they build!"
-      },
-      {
-        "n": 11,
-        "text": "For no one can lay any foundation other than the one already laid, which is Jesus Christ."
-      },
-      {
-        "n": 12,
-        "text": "A person might build with gold, silver, or precious stones. Another might build with cheap wood, hay, or dry straw."
-      },
-      {
-        "n": 13,
-        "text": "The Day of Judgment will expose everyone's work. A great fire will test the quality of each building."
-      },
-      {
-        "n": 14,
-        "text": "If a person's work survives the fire, they will get a reward."
-      },
-      {
-        "n": 15,
-        "text": "If their work burns up completely, they will lose everything. That builder will still be saved, but like someone running from a burning house!"
-      },
-      {
-        "n": 16,
-        "text": "Do you not know that you yourselves are God's temple, and that God's Spirit lives in you?"
-      },
-      {
-        "n": 17,
-        "text": "If anyone destroys God's temple, God will destroy that person. For God's temple is holy, and you are that temple."
-      },
-      {
-        "n": 18,
-        "text": "Do not fool yourselves. If any of you thinks they are wise by the standards of this age, they should become a fool in the world's eyes, so that they may become truly wise."
-      },
-      {
-        "n": 19,
-        "text": "For the wisdom of this world is foolishness to God. As the Scripture says: He catches the wise in their own cleverness."
-      },
-      {
-        "n": 20,
-        "text": "And again: The Lord knows that the thoughts of the wise are worthless."
-      },
-      {
-        "n": 21,
-        "text": "So no one should brag about human leaders! Everything belongs to you,"
-      },
-      {
-        "n": 22,
-        "text": "whether Paul or Apollos or Peter, or the world or life or death, or the present or the future, all are yours,"
-      },
-      {
-        "n": 23,
-        "text": "and you are Christ's, and Christ is God's."
-      }
+      { "n": 1, "text": "Brothers and sisters, I could not speak to you as to spiritual people. I spoke to you as to carnal (ruled by the sinful self) people, as to babies in Christ." },
+      { "n": 2, "text": "I fed you with milk, not with meat (solid food). Before, you were not able to take it. And even now you are still not able." },
+      { "n": 3, "text": "For you are still carnal (ruled by the sinful self). There is envying (jealousy), strife (fighting), and divisions among you. Are you not carnal (ruled by the sinful self), and living like ordinary men?" },
+      { "n": 4, "text": "For one of you says: I follow Paul. Another says: I follow Apollos. Are you not carnal (ruled by the sinful self)?" },
+      { "n": 5, "text": "Who then is Paul, and who is Apollos? Paul and Apollos are only ministers (servants) through whom you believed, as the Lord gave to each one." },
+      { "n": 6, "text": "I planted, Apollos watered, but God gave the increase (made it grow)." },
+      { "n": 7, "text": "So the one who plants is not anything, and the one who waters is not anything. God is the One who gives the increase (makes it grow)." },
+      { "n": 8, "text": "The one who plants and the one who waters are one. Each one will receive their own reward, according to their own labor (work)." },
+      { "n": 9, "text": "For we are laborers (workers) together with God. You are God's husbandry (farm field). You are God's building." },
+      { "n": 10, "text": "By the grace of God given to me, I have laid the foundation, like a wise master builder. Another person builds on it. But let each one be careful how they build on it." },
+      { "n": 11, "text": "For no one can lay any other foundation than the one already laid, which is Jesus Christ." },
+      { "n": 12, "text": "Someone may build on this foundation with gold, silver, precious stones, wood, hay, or stubble (dry stalks of grain)." },
+      { "n": 13, "text": "Each person's work will be made manifest (shown clearly). The day will declare (show) it, because it will be revealed (shown) by fire. The fire will try (test) each person's work, to see what kind it is." },
+      { "n": 14, "text": "If anyone's work that they built on the foundation abides (lasts), they will receive a reward." },
+      { "n": 15, "text": "If anyone's work is burned, they will suffer loss. But they themselves will be saved, yet as through fire." },
+      { "n": 16, "text": "Do you not know that you are the temple of God, and that the Spirit of God dwells (lives) in you?" },
+      { "n": 17, "text": "If anyone defiles (ruins) the temple of God, God will destroy the person who defiles it. For the temple of God is holy, and you are that temple." },
+      { "n": 18, "text": "Let no one deceive (fool) themselves. If anyone among you seems to be wise in this world, let them become a fool, so that they may be wise." },
+      { "n": 19, "text": "For the wisdom of this world is foolishness with God. For the Scripture says: He takes the wise in their own craftiness (tricks)." },
+      { "n": 20, "text": "And again: The Lord knows the thoughts of the wise, that they are vain (empty)." },
+      { "n": 21, "text": "So let no one glory (brag) in men. For all things are yours," },
+      { "n": 22, "text": "Whether Paul, or Apollos, or Peter, or the world, or life, or death, or things now, or things to come. All are yours." },
+      { "n": 23, "text": "And you are Christ's, and Christ is God's." }
     ]
   },
   "4": {
     "verses": [
-      {
-        "n": 1,
-        "text": "You should think of us as servants of Christ, the ones God has trusted to do the work of making known God's secret truths."
-      },
-      {
-        "n": 2,
-        "text": "Someone who does this work of God must always be faithful and do what God wants them to do."
-      },
-      {
-        "n": 3,
-        "text": "But it is not important to me what people or a judge thinks of my work. I do not even try to decide myself if I have done the right thing."
-      },
-      {
-        "n": 4,
-        "text": "I do not know of anything that I have done wrong, but I do not say that I am innocent. God will say if I am guilty or not."
-      },
-      {
-        "n": 5,
-        "text": "That is why you must not judge anyone now. The time for judging will be when the Lord comes. He will shine light on everything that is now hidden in darkness. He will make known the secret purposes of our hearts. Then the praise each person should get will come from God."
-      },
-      {
-        "n": 6,
-        "text": "Brothers and sisters, I have used Apollos and myself as examples for you. I did this so that you could learn from us the meaning of the words, Follow what the Scriptures say. No one must say that one person is more important than another person."
-      },
-      {
-        "n": 7,
-        "text": "Why do you think you are better than someone else? Everything that you have, God gave you. Why do you boast about the things that you did not work for?"
-      },
-      {
-        "n": 8,
-        "text": "You think you have everything you need. You think you are rich. You think you have become kings without us. I wish you really were kings. Then we could rule together with you."
-      },
-      {
-        "n": 9,
-        "text": "We are apostles, but I think God made us unimportant and He gave us the last place of all people. We are like prisoners on our way to die in a place where everyone can see us. And now everyone in the world, angels and people, can see how we die."
-      },
-      {
-        "n": 10,
-        "text": "Everyone thinks that we, the apostles, are fools because we work for Christ. But you think you are so wise in Christ. You think we are weak but you are strong. You think you are important and we are not important."
-      },
-      {
-        "n": 11,
-        "text": "Even now we still do not have enough to eat or drink, and we do not have enough clothes. We often get beatings. We have no homes."
-      },
-      {
-        "n": 12,
-        "text": "We work very hard for food and clothes for ourselves. When people curse us, we pray that God will bless them. When they do bad things to us, we keep quiet and hold out."
-      },
-      {
-        "n": 13,
-        "text": "When they say bad things about us, we try to say something good that will help them. We have become like the worst people in the world, like dirt. We are like dirty things that people throw away."
-      },
-      {
-        "n": 14,
-        "text": "I am not trying to make you feel ashamed, but I am writing this to warn you as my own children."
-      },
-      {
-        "n": 15,
-        "text": "You have ten thousand teachers to guide you in Christ, but you do not have many fathers. I led you to Christ and took responsibility for you. I became your father in Christ Jesus through the good news of salvation."
-      },
-      {
-        "n": 16,
-        "text": "That is why I beg you to live as I live."
-      },
-      {
-        "n": 17,
-        "text": "That is why I sent Timothy to you. I have helped Timothy know the Lord Jesus. Now he is like a son to me, and I love him very much. Timothy is faithful. He will help you remember how I live in Christ Jesus and the way of life I teach in every church I visit."
-      },
-      {
-        "n": 18,
-        "text": "Some of you thought I would never come to you again and they think they are very important now."
-      },
-      {
-        "n": 19,
-        "text": "But I will soon come to you, if God wants me to come. I will find out if these people only talk or if they also do something."
-      },
-      {
-        "n": 20,
-        "text": "Because where God is King, people do not only talk about the things that God wants. They also do them with the power that God gives them."
-      },
-      {
-        "n": 21,
-        "text": "You can choose what I must do when I come to you: Must I be angry, or must I be loving and friendly?"
-      }
+      { "n": 1, "text": "Let people think of us as ministers (servants) of Christ, and stewards (managers) of the mysteries (secrets) of God." },
+      { "n": 2, "text": "Also, it is required in stewards (managers) that they be found faithful." },
+      { "n": 3, "text": "But to me it is a very small thing that I should be judged by you, or by man's judgment. Yes, I do not even judge myself." },
+      { "n": 4, "text": "For I know nothing against myself. Yet I am not justified (shown to be right) by this. The One who judges me is the Lord." },
+      { "n": 5, "text": "So judge nothing before the time, until the Lord comes. The Lord will bring to light the hidden things of darkness. The Lord will make manifest (show clearly) the counsels (plans) of the hearts. Then each person will have praise from God." },
+      { "n": 6, "text": "Brothers and sisters, I have used myself and Apollos as an example, for your sakes. I did this so you can learn from us not to think of men above what is written. Then none of you will be puffed up (proud) for one person against another." },
+      { "n": 7, "text": "For who makes you different from another? What do you have that you did not receive? If you did receive it, why do you glory (brag), as if you had not received it?" },
+      { "n": 8, "text": "Now you are full. Now you are rich. You have reigned as kings without us. I truly wish you did reign, so that we also could reign with you." },
+      { "n": 9, "text": "For I think God has set us apostles last, like men appointed (sentenced) to death. For we are made a spectacle (show) to the world, to angels, and to men." },
+      { "n": 10, "text": "We are fools for Christ's sake, but you are wise in Christ. We are weak, but you are strong. You are honored, but we are despised (looked down on)." },
+      { "n": 11, "text": "Even to this very hour we are hungry and thirsty. We are naked (without enough clothes), and we are buffeted (beaten). We have no settled home." },
+      { "n": 12, "text": "We labor (work hard), working with our own hands. When we are reviled (insulted), we bless. When we are persecuted (attacked for faith), we suffer it (put up with it)." },
+      { "n": 13, "text": "When we are defamed (lied about), we intreat (answer kindly). We are made like the filth (dirt) of the world. We are the offscouring (garbage) of all things to this day." },
+      { "n": 14, "text": "I do not write these things to shame you. I warn you as my beloved (dear) sons." },
+      { "n": 15, "text": "For though you have ten thousand instructors (teachers) in Christ, you do not have many fathers. For in Christ Jesus I have begotten you (become your father) through the gospel (good news)." },
+      { "n": 16, "text": "So I beg you, be followers of me." },
+      { "n": 17, "text": "For this reason I have sent Timothy to you. Timothy is my beloved (dear) son, and faithful in the Lord. Timothy will bring to your memory my ways in Christ, as I teach everywhere in every church." },
+      { "n": 18, "text": "Now some of you are puffed up (proud), as though I would not come to you." },
+      { "n": 19, "text": "But I will come to you soon, if the Lord wills. Then I will know, not the speech of those who are puffed up (proud), but their power." },
+      { "n": 20, "text": "For the kingdom of God is not in word, but in power." },
+      { "n": 21, "text": "What do you want? Should I come to you with a rod (a stick for punishment), or in love and in the spirit of meekness (gentleness)?" }
     ],
     "sourceUrl": "https://kjvdeaf.com/1-corinthians-chapter-4/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a capitalization issue in v10.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "5": {
