@@ -123,60 +123,21 @@
   "5": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "People are talking about a terrible sin in your church. Even unbelievers would never do such a wicked thing! A man is sleeping with his own father's wife."
-      },
-      {
-        "n": 2,
-        "text": "And you are proud! Should you not rather be filled with grief and remove from your group the man who did this?"
-      },
-      {
-        "n": 3,
-        "text": "Even though I am not there with you in body, I am with you in spirit. And I have already judged the man who did this, just as if I were there."
-      },
-      {
-        "n": 4,
-        "text": "Call a meeting of the church together. I will be with you in spirit. Our Lord Jesus will be present with His mighty power."
-      },
-      {
-        "n": 5,
-        "text": "At this meeting, throw that man out to Satan! Let his selfish human body suffer. We pray his spirit will be saved when the Lord returns."
-      },
-      {
-        "n": 6,
-        "text": "Your bragging is completely wrong! Just a tiny pinch of yeast spreads through the whole batch of dough."
-      },
-      {
-        "n": 7,
-        "text": "Throw out that old, rotten yeast! Then you can become fresh, clean bread. Christ, our holy Passover Lamb, was sacrificed for us."
-      },
-      {
-        "n": 8,
-        "text": "So stop living with the old yeast of wickedness and sin. Instead, feast on the pure bread of truth and honesty!"
-      },
-      {
-        "n": 9,
-        "text": "I wrote to you in my letter not to keep company with people who are sexually immoral."
-      },
-      {
-        "n": 10,
-        "text": "I did not mean the people of this world who are immoral, or greedy, or cheaters, or who worship idols. If that were so, you would have to leave the world."
-      },
-      {
-        "n": 11,
-        "text": "Do not associate with anyone who claims to follow Christ but lives in sin. Stay away from a person who calls himself a believer but commits sexual sin or is greedy. Stay away if they worship idols, insult people, get drunk, or cheat. Do not even sit down to eat a meal with someone like that!"
-      },
-      {
-        "n": 12,
-        "text": "What business is it of mine to judge those outside the church? But you are to judge those inside, are you not?"
-      },
-      {
-        "n": 13,
-        "text": "God will judge those outside. So, as the Scripture says: Remove the evil person from among you."
-      }
+      { "n": 1, "text": "It is commonly reported that there is fornication (sexual sin) among you. It is such fornication (sexual sin) as is not even named among the Gentiles (people who are not Jews). One of you has his father's wife." },
+      { "n": 2, "text": "And you are puffed up (proud). You have not mourned instead, so that the man who has done this deed would be taken away from among you." },
+      { "n": 3, "text": "For I truly, as absent in body but present in spirit, have already judged the man who has done this deed, as though I were present." },
+      { "n": 4, "text": "In the name of our Lord Jesus Christ, when you are gathered together, and my spirit is with you, with the power of our Lord Jesus Christ," },
+      { "n": 5, "text": "Deliver (hand over) such a man to Satan for the destruction of the flesh (sinful self). Then the man's spirit may be saved in the day of the Lord Jesus." },
+      { "n": 6, "text": "Your glorying (bragging) is not good. Do you not know that a little leaven (yeast) spreads through the whole lump of dough?" },
+      { "n": 7, "text": "So purge out (clean out) the old leaven (yeast), so that you may be a new lump, as you are unleavened (without yeast). For even Christ our passover (Passover lamb) is sacrificed for us." },
+      { "n": 8, "text": "So let us keep the feast, not with old leaven (yeast), or with the leaven (yeast) of malice (hate) and wickedness. Let us keep it with the unleavened bread (bread without yeast) of sincerity (with an honest heart) and truth." },
+      { "n": 9, "text": "I wrote to you in a letter not to keep company with fornicators (people who do sexual sin)." },
+      { "n": 10, "text": "Yet I did not mean that you must stay away altogether from the fornicators (people who do sexual sin) of this world, or the covetous (people who want what belongs to others), or extortioners (cheaters), or idolaters (people who worship idols). For then you would need to go out of the world." },
+      { "n": 11, "text": "But now I have written to you not to keep company with anyone called a brother who is a fornicator (person who does sexual sin), or covetous (wanting what belongs to others), or an idolater (person who worships idols), or a railer (person who insults others), or a drunkard, or an extortioner (cheater). Do not even eat with such a person." },
+      { "n": 12, "text": "For what do I have to do with judging those who are outside the church? Do you not judge those who are inside the church?" },
+      { "n": 13, "text": "But God judges those who are outside the church. So put away from among yourselves that wicked person." }
     ]
   },
   "6": {
