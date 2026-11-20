@@ -273,140 +273,41 @@
   "10": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Brothers and sisters, I do not want you to forget that all our ancestors were under the cloud, and all of them passed through the sea."
-      },
-      {
-        "n": 2,
-        "text": "They were all united under Moses as their leader. The protecting cloud covered them, and they walked through the sea."
-      },
-      {
-        "n": 3,
-        "text": "They all ate the same spiritual food,"
-      },
-      {
-        "n": 4,
-        "text": "and they all drank the same spiritual drink. They drank from the spiritual Rock that went with them, and that Rock was Christ."
-      },
-      {
-        "n": 5,
-        "text": "But God was not pleased with most of them, and their bodies were scattered over the desert."
-      },
-      {
-        "n": 6,
-        "text": "These things happened as examples for us, to keep us from setting our hearts on evil things as they did."
-      },
-      {
-        "n": 7,
-        "text": "Do not worship idols, as some of them did. The Scripture says: The people sat down to feast and drink. Then they got up to dance in wild, sinful worship!"
-      },
-      {
-        "n": 8,
-        "text": "We should not commit sexual sin, as some of them did, and in one day twenty-three thousand of them died."
-      },
-      {
-        "n": 9,
-        "text": "We should not test Christ, as some of them did, and were killed by snakes."
-      },
-      {
-        "n": 10,
-        "text": "And do not complain, as some of them did, and were killed by the destroying angel."
-      },
-      {
-        "n": 11,
-        "text": "These things happened to them as examples, and they were written down as warnings for us, on whom the end of the ages has come."
-      },
-      {
-        "n": 12,
-        "text": "So if you think you are standing firm, be careful that you do not fall."
-      },
-      {
-        "n": 13,
-        "text": "Every temptation you face is common to all human beings. And God is completely faithful to you! He will not let you be tempted beyond your strength. When temptation comes, He will provide a clear way out. Then you will have the strength to stand strong!"
-      },
-      {
-        "n": 14,
-        "text": "So, my dear friends, run away from the worship of idols."
-      },
-      {
-        "n": 15,
-        "text": "I am speaking to you as sensible people; judge for yourselves what I say."
-      },
-      {
-        "n": 16,
-        "text": "When we drink from the blessed cup, we thank God. Do we not share together in the blood of Christ? When we break the bread, do we not share together in His body?"
-      },
-      {
-        "n": 17,
-        "text": "There is one single loaf of bread. Though we are many people, we form one united body!"
-      },
-      {
-        "n": 18,
-        "text": "Think about the people of Israel: those who eat the sacrifices share in the altar, do they not?"
-      },
-      {
-        "n": 19,
-        "text": "So what am I saying? That an idol is anything, or that food offered to an idol is anything?"
-      },
-      {
-        "n": 20,
-        "text": "No, but the sacrifices of those who do not know God are offered to demons, not to God. And I do not want you to share with demons."
-      },
-      {
-        "n": 21,
-        "text": "You cannot drink the cup of the Lord and the cup of demons too. You cannot share in the Lord's table and the table of demons."
-      },
-      {
-        "n": 22,
-        "text": "Are we trying to make the Lord jealous? Are we stronger than He is?"
-      },
-      {
-        "n": 23,
-        "text": "Some people say: I am allowed to do anything. But not everything is good. Some people say: I am allowed to do anything. But not everything builds people up."
-      },
-      {
-        "n": 24,
-        "text": "No one should look out only for their own good, but also for the good of others."
-      },
-      {
-        "n": 25,
-        "text": "Eat anything that is sold in the meat market, without asking questions for the sake of your conscience,"
-      },
-      {
-        "n": 26,
-        "text": "for: The earth is the Lord's, and everything in it."
-      },
-      {
-        "n": 27,
-        "text": "Suppose someone who does not believe invites you to a meal, and you want to go. Eat whatever is put before you. Do not ask questions for the sake of conscience."
-      },
-      {
-        "n": 28,
-        "text": "Suppose someone at dinner warns you: This meat was offered to an idol. Then do not eat that meat!"
-      },
-      {
-        "n": 29,
-        "text": "Do this for the sake of the person who told you. Do it to protect that person's sensitive conscience. For why should my freedom be judged by someone else's conscience?"
-      },
-      {
-        "n": 30,
-        "text": "If I eat with thankfulness, why am I blamed for something I thank God for?"
-      },
-      {
-        "n": 31,
-        "text": "So whether you eat or drink, or whatever you do, do it all for the glory of God."
-      },
-      {
-        "n": 32,
-        "text": "Do not cause anyone to stumble: not the Jews, not the other nations, and not the church of God."
-      },
-      {
-        "n": 33,
-        "text": "This is what I do: I try to please everyone in every way. I am not looking out for my own good, but for the good of many, so that they may be saved."
-      }
+      { "n": 1, "text": "Also, brothers and sisters, I do not want you to be ignorant (not knowing). All our fathers were under the cloud, and all passed through the sea." },
+      { "n": 2, "text": "And all were baptized to Moses in the cloud and in the sea." },
+      { "n": 3, "text": "And all ate the same spiritual meat (food)." },
+      { "n": 4, "text": "And all drank the same spiritual drink. For they drank from that spiritual Rock that followed them, and that Rock was Christ." },
+      { "n": 5, "text": "But with many of them God was not well pleased. For they were overthrown (struck down) in the wilderness (desert)." },
+      { "n": 6, "text": "Now these things were examples for us, so that we should not lust after (strongly want) evil things, as they also lusted." },
+      { "n": 7, "text": "Do not be idolaters (people who worship idols), as some of them were. As the Scripture says: The people sat down to eat and drink, and rose up to play." },
+      { "n": 8, "text": "Let us not commit fornication (sexual sin), as some of them did. In one day 23,000 of them fell (died)." },
+      { "n": 9, "text": "Let us not tempt (test) Christ, as some of them also tempted (tested) Him, and were destroyed by serpents (snakes)." },
+      { "n": 10, "text": "Do not murmur (complain), as some of them also murmured (complained), and were destroyed by the destroyer." },
+      { "n": 11, "text": "Now all these things happened to them as examples. And they are written for our admonition (warning), on whom the ends of the world have come." },
+      { "n": 12, "text": "So let the one who thinks he stands take heed (be careful) so that he does not fall." },
+      { "n": 13, "text": "No temptation has taken you except what is common to people. But God is faithful. God will not allow you to be tempted more than you are able. But with the temptation God will also make a way to escape, so that you may be able to bear it." },
+      { "n": 14, "text": "So, my dearly beloved (dear friends), flee (run away) from idolatry (worshiping idols)." },
+      { "n": 15, "text": "I speak as to wise people. You judge what I say." },
+      { "n": 16, "text": "The cup of blessing which we bless, is it not the communion (sharing) of the blood of Christ? The bread which we break, is it not the communion (sharing) of the body of Christ?" },
+      { "n": 17, "text": "For we, being many, are one bread and one body. For we all share in that one bread." },
+      { "n": 18, "text": "Look at Israel after the flesh (the people of Israel). Are not those who eat of the sacrifices sharers of the altar?" },
+      { "n": 19, "text": "What do I say then? That the idol is anything, or that what is offered in sacrifice to idols is anything?" },
+      { "n": 20, "text": "But I say that the things which the Gentiles (people who are not Jews) sacrifice, they sacrifice to devils, and not to God. And I do not want you to have fellowship (sharing) with devils." },
+      { "n": 21, "text": "You cannot drink the cup of the Lord and the cup of devils. You cannot share in the Lord's table and in the table of devils." },
+      { "n": 22, "text": "Do we provoke (stir up) the Lord to jealousy? Are we stronger than He is?" },
+      { "n": 23, "text": "All things are lawful (allowed) for me, but all things are not expedient (helpful). All things are lawful (allowed) for me, but all things do not edify (build up)." },
+      { "n": 24, "text": "Let no one seek their own good only, but each one the good of another person." },
+      { "n": 25, "text": "Whatever is sold in the shambles (meat market), eat it. Ask no question for conscience' sake." },
+      { "n": 26, "text": "For the earth is the Lord's, and the fulness (everything in it)." },
+      { "n": 27, "text": "If any of those who do not believe invites you to a feast, and you want to go, eat whatever is set before you. Ask no question for conscience' sake." },
+      { "n": 28, "text": "But if any man says to you: This is offered in sacrifice to idols, do not eat it. Do not eat for the sake of the man who told you, and for conscience' sake. For the earth is the Lord's, and the fulness (everything in it)." },
+      { "n": 29, "text": "I mean conscience, not your own, but the other person's. For why is my liberty (freedom) judged by another man's conscience?" },
+      { "n": 30, "text": "For if I share in the food by grace, why am I spoken evil of for that for which I give thanks?" },
+      { "n": 31, "text": "So whether you eat, or drink, or whatever you do, do all to the glory of God." },
+      { "n": 32, "text": "Give no offence (do not make anyone fall into sin), not to the Jews, not to the Gentiles (people who are not Jews), and not to the church of God." },
+      { "n": 33, "text": "Even as I please all men in all things. I am not seeking my own profit (good), but the profit (good) of many, so that they may be saved." }
     ]
   },
   "11": {
