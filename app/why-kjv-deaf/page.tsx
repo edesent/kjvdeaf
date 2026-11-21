@@ -134,6 +134,12 @@ export default function WhyKjvDeafPage() {
         <p>A few conventions carry through every chapter:</p>
         <ul className="ml-5 list-disc space-y-1.5">
           <li>
+            <strong>Words in parentheses ( ) explain a hard King James word</strong>{" "}
+            so you know the right sign. The King James word stays, and its
+            meaning comes right after it: <em>Blessed are the meek (gentle).</em>{" "}
+            The same word always gets the same explanation.
+          </li>
+          <li>
             <strong>Numbers are written as digits</strong> (<em>40</em>{" "}
             years, not <em>forty</em> years) &mdash; easier to recognize at a
             glance than a spelled-out word.
