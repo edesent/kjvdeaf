@@ -346,179 +346,53 @@
   "10": {
     "generated": true,
     "verses": [
-      {
-        "n": 1,
-        "text": "Jesus called His twelve disciples to Him and gave them power to drive out evil spirits and to heal every kind of sickness and disease."
-      },
-      {
-        "n": 2,
-        "text": "These are the names of the twelve apostles: first, Simon (who is called Peter) and his brother Andrew; James son of Zebedee and his brother John;"
-      },
-      {
-        "n": 3,
-        "text": "Philip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus, and Thaddaeus;"
-      },
-      {
-        "n": 4,
-        "text": "Simon the Zealot, and Judas Iscariot, who later handed Jesus over to His enemies."
-      },
-      {
-        "n": 5,
-        "text": "Jesus sent out these twelve with these instructions: Do not go among the other nations or enter any town of the Samaritans."
-      },
-      {
-        "n": 6,
-        "text": "Go instead to the lost sheep of Israel."
-      },
-      {
-        "n": 7,
-        "text": "As you go, preach this message: The kingdom of heaven is near."
-      },
-      {
-        "n": 8,
-        "text": "Heal the sick, raise the dead, cure those with skin diseases, and drive out demons. You received freely, so give freely."
-      },
-      {
-        "n": 9,
-        "text": "Do not take any gold, silver, or copper in your belts."
-      },
-      {
-        "n": 10,
-        "text": "Take no bag for the trip, no extra shirt, no sandals, and no walking stick, because a worker deserves to be fed."
-      },
-      {
-        "n": 11,
-        "text": "When you enter a town or village, find someone there who is worthy, and stay at their house until you leave."
-      },
-      {
-        "n": 12,
-        "text": "When you go into the house, give it your greeting of peace."
-      },
-      {
-        "n": 13,
-        "text": "If the home is worthy, let your peace rest on it. If it is not worthy, let your peace come back to you."
-      },
-      {
-        "n": 14,
-        "text": "If anyone will not welcome you or listen to your words, shake the dust off your feet when you leave that home or town."
-      },
-      {
-        "n": 15,
-        "text": "I tell you the truth, on the day of judgment it will be easier for Sodom and Gomorrah than for that town."
-      },
-      {
-        "n": 16,
-        "text": "Look, I am sending you out like sheep among wolves. So be as wise as snakes and as innocent as doves."
-      },
-      {
-        "n": 17,
-        "text": "Be on your guard against people. They will hand you over to the courts and beat you in their synagogues."
-      },
-      {
-        "n": 18,
-        "text": "Because of me, you will be brought before governors and kings to tell them and the other nations the truth."
-      },
-      {
-        "n": 19,
-        "text": "But when the people arrest you, do not worry about how to speak or what to say. At that time you will be given what to say,"
-      },
-      {
-        "n": 20,
-        "text": "Because it will not be you speaking, but the Spirit of your Father speaking through you."
-      },
-      {
-        "n": 21,
-        "text": "Brother will hand over brother to be killed, and a father will hand over his child. Children will turn against their parents and have them put to death."
-      },
-      {
-        "n": 22,
-        "text": "Everyone will hate you because of me, but the one who stands strong to the end will be saved."
-      },
-      {
-        "n": 23,
-        "text": "When they treat you badly in one town, run to another. I tell you the truth, you will not finish going through the towns of Israel before the Son of Man comes."
-      },
-      {
-        "n": 24,
-        "text": "A student is not greater than their teacher, and a servant is not greater than their master."
-      },
-      {
-        "n": 25,
-        "text": "It is enough for the student to be like their teacher, and the servant like their master. If the head of the house has been called Beelzebub, how much more will they insult the members of their household!"
-      },
-      {
-        "n": 26,
-        "text": "So do not be afraid of them. There is nothing hidden that will not be brought out into the open, and nothing secret that will not be made known."
-      },
-      {
-        "n": 27,
-        "text": "What I tell you in the dark, say in the daylight. What is whispered in your ear, shout from the housetops."
-      },
-      {
-        "n": 28,
-        "text": "Do not be afraid of those who kill the body but cannot kill the soul. Instead, be afraid of the One who can destroy both soul and body in hell."
-      },
-      {
-        "n": 29,
-        "text": "Are not two sparrows sold for a penny? Yet not one of them falls to the ground apart from your Father."
-      },
-      {
-        "n": 30,
-        "text": "And even the hairs of your head are all numbered."
-      },
-      {
-        "n": 31,
-        "text": "So do not be afraid. You are worth more than many sparrows."
-      },
-      {
-        "n": 32,
-        "text": "Whoever acknowledges me in front of others, I will also acknowledge that person in front of my Father in heaven."
-      },
-      {
-        "n": 33,
-        "text": "But whoever denies me in front of others, I will also deny that person in front of my Father in heaven."
-      },
-      {
-        "n": 34,
-        "text": "Do not think that I came to bring peace to the earth. I did not come to bring peace, but a sword."
-      },
-      {
-        "n": 35,
-        "text": "For I have come to turn a man against his father, a daughter against her mother, and a daughter-in-law against her mother-in-law."
-      },
-      {
-        "n": 36,
-        "text": "A person's enemies will be the members of that person's own household."
-      },
-      {
-        "n": 37,
-        "text": "Anyone who loves their father or mother more than me is not worthy of me. Anyone who loves their son or daughter more than me is not worthy of me."
-      },
-      {
-        "n": 38,
-        "text": "And anyone who does not take up their cross and follow me is not worthy of me."
-      },
-      {
-        "n": 39,
-        "text": "Whoever tries to save their life will lose it, but whoever loses their life for me will find it."
-      },
-      {
-        "n": 40,
-        "text": "Anyone who welcomes you welcomes me, and anyone who welcomes me welcomes the One who sent me."
-      },
-      {
-        "n": 41,
-        "text": "Whoever welcomes a prophet because that person is a prophet will receive a prophet's reward. And whoever welcomes a good person because that person is good will receive a good person's reward."
-      },
-      {
-        "n": 42,
-        "text": "Suppose anyone gives even a cup of cold water to one of these little ones because that little one is my follower. I tell you the truth: that person will surely be rewarded."
-      }
+      { "n": 1, "text": "Jesus called His twelve disciples to Him. Jesus gave them power against unclean spirits, to cast them out (drive them out), and to heal all kinds of sickness and all kinds of disease." },
+      { "n": 2, "text": "These are the names of the twelve apostles (sent ones): The first, Simon, who is called Peter, and Andrew his brother. James the son of Zebedee, and John his brother." },
+      { "n": 3, "text": "Philip, and Bartholomew. Thomas, and Matthew the publican (tax collector). James the son of Alphaeus, and Lebbaeus, whose surname (other name) was Thaddaeus." },
+      { "n": 4, "text": "Simon the Canaanite, and Judas Iscariot, who also betrayed (handed over) Jesus." },
+      { "n": 5, "text": "Jesus sent out these twelve. Jesus commanded them: Do not go into the way of the Gentiles (people who are not Jews). Do not enter into any city of the Samaritans." },
+      { "n": 6, "text": "But go instead to the lost sheep of the house of Israel." },
+      { "n": 7, "text": "As you go, preach this: The kingdom of heaven is at hand (near)." },
+      { "n": 8, "text": "Heal the sick, cleanse (heal) the lepers (people with a skin disease), raise the dead, cast out (drive out) devils (demons). You received freely, so give freely." },
+      { "n": 9, "text": "Do not take gold, or silver, or brass (copper money) in your purses (money belts)." },
+      { "n": 10, "text": "Do not take a scrip (traveling bag) for your trip, or two coats, or shoes, or staves (walking sticks). For the workman is worthy of his meat (has earned his food)." },
+      { "n": 11, "text": "Whatever city or town you enter, ask who in it is worthy (good and ready to receive you). Stay there until you leave that place." },
+      { "n": 12, "text": "When you come into a house, salute it (greet the people there)." },
+      { "n": 13, "text": "If the house is worthy, let your peace come upon it. But if it is not worthy, let your peace come back to you." },
+      { "n": 14, "text": "Whoever will not receive you or hear your words, when you leave that house or city, shake off the dust from your feet." },
+      { "n": 15, "text": "Truly I say to you: It will be more tolerable (easier) for the land of Sodom and Gomorrha in the day of judgment than for that city." },
+      { "n": 16, "text": "Look, I send you out like sheep in the middle of wolves. So be wise as serpents (snakes), and harmless as doves." },
+      { "n": 17, "text": "But beware of men. For they will deliver you up (hand you over) to the councils (courts). They will scourge (whip) you in their synagogues (meeting houses)." },
+      { "n": 18, "text": "You will be brought before governors and kings for My sake, for a testimony (proof) against them and the Gentiles (people who are not Jews)." },
+      { "n": 19, "text": "But when they deliver you up (hand you over), take no thought (do not worry) how or what you will speak. For in that same hour it will be given to you what you will speak." },
+      { "n": 20, "text": "For it is not you who speak. It is the Spirit of your Father who speaks in you." },
+      { "n": 21, "text": "The brother will deliver up (hand over) the brother to death, and the father will hand over the child. The children will rise up against their parents, and cause them to be put to death." },
+      { "n": 22, "text": "All people will hate you for My name's sake. But whoever endures (keeps on faithful) to the end will be saved." },
+      { "n": 23, "text": "When they persecute (attack) you in this city, flee into another. For truly I say to you: You will not have gone through all the cities of Israel before the Son of Man comes." },
+      { "n": 24, "text": "The disciple is not above his master (teacher). The servant is not above his lord (master)." },
+      { "n": 25, "text": "It is enough for the disciple to be like his master (teacher), and the servant like his lord (master). If they have called the master of the house Beelzebub (the devil), how much more will they call those of his household (family)?" },
+      { "n": 26, "text": "So do not fear them. For there is nothing covered that will not be revealed (shown). And there is nothing hidden that will not be known." },
+      { "n": 27, "text": "What I tell you in darkness, speak in the light. What you hear in the ear, preach on the housetops." },
+      { "n": 28, "text": "Do not fear those who kill the body, but are not able to kill the soul. But fear Him who is able to destroy both soul and body in hell." },
+      { "n": 29, "text": "Are not two sparrows sold for a farthing (smallest coin)? Yet not one of them will fall on the ground without your Father." },
+      { "n": 30, "text": "But even the hairs of your head are all numbered (counted)." },
+      { "n": 31, "text": "So do not fear. You are worth more than many sparrows." },
+      { "n": 32, "text": "Whoever confesses (says openly that they belong to) Me before men, I will also confess that person before My Father who is in heaven." },
+      { "n": 33, "text": "But whoever denies (says they do not know) Me before men, I will also deny that person before My Father who is in heaven." },
+      { "n": 34, "text": "Do not think that I have come to send peace on earth. I did not come to send peace, but a sword." },
+      { "n": 35, "text": "For I have come to set a man at variance (against each other) with his father, and the daughter against her mother, and the daughter-in-law against her mother-in-law." },
+      { "n": 36, "text": "A man's foes (enemies) will be the people of his own household (family)." },
+      { "n": 37, "text": "Whoever loves father or mother more than Me is not worthy of Me. Whoever loves son or daughter more than Me is not worthy of Me." },
+      { "n": 38, "text": "Whoever does not take their cross and follow after Me is not worthy of Me." },
+      { "n": 39, "text": "Whoever finds their life will lose it. Whoever loses their life for My sake will find it." },
+      { "n": 40, "text": "Whoever receives you receives Me. And whoever receives Me receives the One who sent Me." },
+      { "n": 41, "text": "Whoever receives a prophet in the name of a prophet will receive a prophet's reward. Whoever receives a righteous (right with God) man in the name of a righteous man will receive a righteous man's reward." },
+      { "n": 42, "text": "Whoever gives one of these little ones only a cup of cold water to drink, in the name of a disciple, truly I say to you: That person will in no way lose their reward." }
     ],
     "sourceUrl": "https://kjvdeaf.com/matthew-chapter-10/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his' rendered gender-neutral throughout v24-42."
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. dropping \"Lebbaeus\" in 10:3 and \"nor yet staves\" in 10:10), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, with generic 'he/his' rendered gender-neutral."
   },
   "11": {
     "status": "published",
