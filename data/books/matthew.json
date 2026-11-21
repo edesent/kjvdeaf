@@ -68,7 +68,7 @@
   "3": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No pronoun ambiguity found.",
+    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Rewritten 2026-11-20 fresh from the KJV (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
       { "n": 1, "text": "In those days John the Baptist came, preaching in the wilderness (desert) of Judea." },
       { "n": 2, "text": "John said: Repent (change your heart), for the kingdom of heaven is at hand (near)." },
