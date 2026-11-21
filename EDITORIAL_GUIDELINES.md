@@ -205,6 +205,10 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - vineyard (grape farm); penny (a day's pay) -- Matthew 20; idle (doing nothing); steward (manager); hire (pay); murmured (complained); goodman (owner)
   - wrought (worked); borne (carried); eye evil (are you jealous); third / sixth / ninth / eleventh hour (9 a.m. / noon / 3 p.m. / 5 p.m.)
   - crucify (nail to a cross); grant (allow); indignation (anger); exercise dominion (rule); chief (first); hold their peace (be quiet)
+  - over against you (in front of you); ass (donkey); colt (young donkey); foal (baby); loose (untie) -- of animals; Sion (Zion); strawed (spread); the way (road)
+  - Hosanna (save now); moved (stirred up); overthrew (turned over); sucklings (babies who still nurse); lodged (stayed the night); presently (right away)
+  - repented (changed his mind) -- Matthew 21:29; harlots (prostitutes); hedged (fenced); winepress (place to crush grapes); let it out (rented it); husbandmen (farmers)
+  - reverence (respect); heir (the one who will own it all); slew (killed); render (give); head of the corner (the most important stone); sought (tried)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
