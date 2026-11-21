@@ -1,106 +1,31 @@
 {
   "1": {
     "verses": [
-      {
-        "n": 1,
-        "text": "This is the family history of Jesus Christ. He came from the family of David, who was from the family of Abraham."
-      },
-      {
-        "n": 2,
-        "text": "Abraham was the father of Isaac, Isaac was the father of Jacob and Jacob was the father of Judas and his brothers."
-      },
-      {
-        "n": 3,
-        "text": "Judas was the father of Perez and Zera and their mother was Tamar. Perez was the father of Esrom and Esrom was the father of Abam."
-      },
-      {
-        "n": 4,
-        "text": "Aram was the father of Aminadab, Aminadab was the father of Naasson and Naasson was the father of Salmon."
-      },
-      {
-        "n": 5,
-        "text": "Salmon was the father of Boaz and Boaz's mother was Rahab. Boaz was the father of Obed and Obed's mother was Ruth. Obed was the father of Jesse,"
-      },
-      {
-        "n": 6,
-        "text": "Jesse was the father of King David. David was the father of Solomon and Solomon's mother was the wife of Uriah."
-      },
-      {
-        "n": 7,
-        "text": "Solomon was the father of Reboam, Reboam was the father of Abia and Abia was the father of Asa."
-      },
-      {
-        "n": 8,
-        "text": "Asa was the father of Jehoshaphat, Jehoshaphat was the father of Joram and Joram was the father of Uzziah."
-      },
-      {
-        "n": 9,
-        "text": "Uzziah was the father of Joatham, Joatham was the father of Ahaz and Achaz was the father of Hezekiah."
-      },
-      {
-        "n": 10,
-        "text": "Hezekiah was the father of Manasses, Manasses was the father of Amon and Amon was the father of Josiah."
-      },
-      {
-        "n": 11,
-        "text": "Josiah was the father of Jechonias and his brothers. This was the time when the people of Judea were taken away to be slaves in the land of Babylon."
-      },
-      {
-        "n": 12,
-        "text": "After the people of Judea were slaves in Babylon, Jechonias became the father of Salathiel. Salathiel was the father of Zerubbabel,"
-      },
-      {
-        "n": 13,
-        "text": "Zerubbabel was the father of Abiud, Abiud was the father of Eliakim and Eliakim was the father of Azor."
-      },
-      {
-        "n": 14,
-        "text": "Azor was the father of Sadoc, Sadoc was the father of Achim and Achim was the father of Eliud."
-      },
-      {
-        "n": 15,
-        "text": "Eliud was the father of Eleazar, Eleazar was the father of Matthan and Matthan was the father of Jacob."
-      },
-      {
-        "n": 16,
-        "text": "Jacob was the father of Joseph and Joseph was Mary's husband. Mary was the mother of Jesus who was named the Christ."
-      },
-      {
-        "n": 17,
-        "text": "From Abraham to King David there were 14 generations. There were fourteen generations from King David until the people were captured. The enemy army dragged the people away as slaves to live in Babylon. And there were fourteen more generations from Babylon until Christ was born."
-      },
-      {
-        "n": 18,
-        "text": "This is how the birth of Jesus Christ happened. His mother Mary was engaged to marry Joseph. But before they married, Joseph learned that Mary was expecting a baby. (Mary was pregnant by the power of the Holy Spirit.)"
-      },
-      {
-        "n": 19,
-        "text": "Mary's husband, Joseph, was a good man. He did not want to cause her public disgrace, so he planned to divorce her secretly."
-      },
-      {
-        "n": 20,
-        "text": "But after Joseph thought about this, an angel from the Lord came to him in a dream. The angel said, Joseph, son of David, do not be afraid to accept Mary to be your wife. The baby inside her is from the Holy Spirit."
-      },
-      {
-        "n": 21,
-        "text": "Mary will have a Son, and you, Joseph, must name Him Jesus, because Jesus will save His people from their sins."
-      },
-      {
-        "n": 22,
-        "text": "All these things happened as the prophet had said:"
-      },
-      {
-        "n": 23,
-        "text": "The virgin will become pregnant, and she will have a son, and His name will be Emmanuel, Emmanuel means God is with us."
-      },
-      {
-        "n": 24,
-        "text": "When Joseph woke up from his sleep, he did what the angel of the Lord had told him, and he married Mary."
-      },
-      {
-        "n": 25,
-        "text": "Joseph did not have sex with her. He waited until after the Child was born. Joseph named the Baby Jesus."
-      }
+      { "n": 1, "text": "The book of the generation (family line) of Jesus Christ, the son of David, the son of Abraham." },
+      { "n": 2, "text": "Abraham was the father of Isaac. Isaac was the father of Jacob. Jacob was the father of Judah and his brothers." },
+      { "n": 3, "text": "Judah was the father of Perez and Zerah. Their mother was Tamar. Perez was the father of Hezron. Hezron was the father of Ram." },
+      { "n": 4, "text": "Ram was the father of Amminadab. Amminadab was the father of Nahshon. Nahshon was the father of Salmon." },
+      { "n": 5, "text": "Salmon was the father of Boaz. Boaz's mother was Rahab. Boaz was the father of Obed. Obed's mother was Ruth. Obed was the father of Jesse." },
+      { "n": 6, "text": "Jesse was the father of David the king. David the king was the father of Solomon. Solomon's mother had been the wife of Uriah." },
+      { "n": 7, "text": "Solomon was the father of Rehoboam. Rehoboam was the father of Abijah. Abijah was the father of Asa." },
+      { "n": 8, "text": "Asa was the father of Jehoshaphat. Jehoshaphat was the father of Joram. Joram was the father of Uzziah." },
+      { "n": 9, "text": "Uzziah was the father of Jotham. Jotham was the father of Ahaz. Ahaz was the father of Hezekiah." },
+      { "n": 10, "text": "Hezekiah was the father of Manasseh. Manasseh was the father of Amon. Amon was the father of Josiah." },
+      { "n": 11, "text": "Josiah was the father of Jeconiah and his brothers, about the time they were carried away to Babylon." },
+      { "n": 12, "text": "After they were brought to Babylon, Jeconiah was the father of Shealtiel. Shealtiel was the father of Zerubbabel." },
+      { "n": 13, "text": "Zerubbabel was the father of Abiud. Abiud was the father of Eliakim. Eliakim was the father of Azor." },
+      { "n": 14, "text": "Azor was the father of Sadoc. Sadoc was the father of Achim. Achim was the father of Eliud." },
+      { "n": 15, "text": "Eliud was the father of Eleazar. Eleazar was the father of Matthan. Matthan was the father of Jacob." },
+      { "n": 16, "text": "Jacob was the father of Joseph, the husband of Mary. Mary was the mother of Jesus, who is called Christ." },
+      { "n": 17, "text": "So all the generations from Abraham to David are 14 generations. From David to the time they were carried away to Babylon are 14 generations. From the time they were carried away to Babylon to Christ are 14 generations." },
+      { "n": 18, "text": "Now the birth of Jesus Christ happened like this. His mother Mary was engaged to Joseph. Before Joseph and Mary came together, Mary was found to be with child by the Holy Spirit." },
+      { "n": 19, "text": "Joseph her husband was a just (good and fair) man. Joseph did not want to make her a public example (shame her in public). So Joseph planned to put her away (end the engagement) secretly." },
+      { "n": 20, "text": "But while Joseph thought about these things, the angel of the Lord appeared to Joseph in a dream. The angel said: Joseph, son of David, do not be afraid to take Mary as your wife. The child in her is from the Holy Spirit." },
+      { "n": 21, "text": "Mary will give birth to a son, and you will name Him JESUS. For He will save His people from their sins." },
+      { "n": 22, "text": "All this was done so that what the Lord said by the prophet would come true:" },
+      { "n": 23, "text": "Look, a virgin will be with child, and will give birth to a son. They will call His name Emmanuel, which means: God with us." },
+      { "n": 24, "text": "Then Joseph woke up from sleep. Joseph did what the angel of the Lord had told him, and took Mary as his wife." },
+      { "n": 25, "text": "Joseph did not know her (have relations with her) until she had given birth to her firstborn son. And Joseph named Him JESUS." }
     ],
     "sourceUrl": "https://kjvdeaf.com/matthew-chapter-1/",
     "status": "published",
