@@ -233,6 +233,11 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - staves (clubs) -- of a mob; hold fast (tight); hail (greetings); legions (armies); afar off (from a distance); council (Jewish court) -- Matthew 26:59
   - adjure (command); hereafter (from now on); rent (tore); guilty of death (deserves to die); buffeted (punched); prophesy (tell us by God's power) -- Matthew 26:68
   - without (outside); damsel / maid (servant girl) -- Matthew 26:69-71; bewrays (gives away); swear (make oaths); crew (crowed)
+  - repented himself (was sorry) -- of Judas; treasury (temple money box); Jeremy (Jeremiah); wont (used); notable (well-known); envy (jealousy); just (good and innocent) -- of Jesus
+  - tumult (riot); common hall (the governor's hall); band (group) -- of soldiers; scarlet (bright red); platted (woven); reed (stick) -- Matthew 27; compelled (forced); bear (carry)
+  - mingled (mixed); gall (bitter liquid); parted (divided); casting lots (a game of chance to decide); vesture (robe); accusation (the charge against Him); reviled (insulted); wagging (shaking)
+  - cast the same in His teeth (insulted Him the same way); spunge (sponge); yielded up the ghost (gave up His spirit); veil (curtain); quake (shake); slept (had died)
+  - beholding (watching); hewn (cut); over against (across from); day of the preparation (the day before the sabbath); deceiver (liar); sure (safe); watch (guard of soldiers)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
