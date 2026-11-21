@@ -834,192 +834,54 @@
   "21": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. \"the temple\" instead of \"the temple of God\" in 21:12 and \"you are making it\" instead of \"ye have made it\" in 21:13, and it added words in 21:21), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent two disciples ahead,"
-      },
-      {
-        "n": 2,
-        "text": "Saying to them: Go into the village ahead of you. There you will find a donkey tied there, with a colt beside her. Untie them and bring them to me."
-      },
-      {
-        "n": 3,
-        "text": "If anyone says anything to you, tell him: The Lord needs them, and He will send them right away."
-      },
-      {
-        "n": 4,
-        "text": "This happened so that what the prophet had said would come true:"
-      },
-      {
-        "n": 5,
-        "text": "Tell the daughter of Zion: Look, your King is coming to you, gentle and riding on a donkey, on a colt, the foal of a donkey."
-      },
-      {
-        "n": 6,
-        "text": "The disciples went and did just as Jesus had told them."
-      },
-      {
-        "n": 7,
-        "text": "They brought the donkey and the colt and put their coats on them, and Jesus sat on them."
-      },
-      {
-        "n": 8,
-        "text": "A very large crowd spread their coats on the road, while others cut branches from the trees and spread them on the road."
-      },
-      {
-        "n": 9,
-        "text": "The crowds who went ahead of Him and those who followed shouted: Hosanna to the Son of David! Blessed is He who comes in the name of the Lord! Hosanna in the highest heaven!"
-      },
-      {
-        "n": 10,
-        "text": "When Jesus entered Jerusalem, the whole city was stirred and asked: Who is this?"
-      },
-      {
-        "n": 11,
-        "text": "The crowds answered: This is Jesus, the prophet from Nazareth in Galilee."
-      },
-      {
-        "n": 12,
-        "text": "Jesus went into the temple courts and drove out all who were buying and selling there. He knocked over the tables of the money changers and the benches of those selling doves."
-      },
-      {
-        "n": 13,
-        "text": "Jesus said to them: It is written: My house will be called a house of prayer. But you are making it a den of robbers."
-      },
-      {
-        "n": 14,
-        "text": "The blind and the lame came to Him at the temple, and He healed them."
-      },
-      {
-        "n": 15,
-        "text": "But the chief priests and the teachers of the law saw the wonderful things He did. They saw the children shouting in the temple: Hosanna to the Son of David! They were very angry."
-      },
-      {
-        "n": 16,
-        "text": "They asked Him: Do you hear what these children are saying? Yes, Jesus answered. Have you never read: Out of the mouths of children and infants you have called forth praise?"
-      },
-      {
-        "n": 17,
-        "text": "Then He left them and went out of the city to Bethany, where He spent the night."
-      },
-      {
-        "n": 18,
-        "text": "Early in the morning, as Jesus was returning to the city, He was hungry."
-      },
-      {
-        "n": 19,
-        "text": "Seeing a fig tree beside the road, He went up to it but found nothing on it except leaves. He said to it: May you never bear fruit again! At once the tree withered."
-      },
-      {
-        "n": 20,
-        "text": "When the disciples saw this, they were amazed and asked: How did the fig tree wither so quickly?"
-      },
-      {
-        "n": 21,
-        "text": "Jesus replied: I tell you the truth, if you have real faith, you will do what I did to this fig tree right now! You can even command this mountain to throw itself into the sea. If you believe without any doubt, it will truly happen for you!"
-      },
-      {
-        "n": 22,
-        "text": "If you believe, you will receive whatever you ask for in prayer."
-      },
-      {
-        "n": 23,
-        "text": "When Jesus entered the temple courts, the chief priests and elders of the people came to Him as He was teaching. They asked: By what authority are you doing these things? Who gave you this authority?"
-      },
-      {
-        "n": 24,
-        "text": "Jesus answered: I will also ask you one question. If you answer it, I will tell you by what authority I do these things."
-      },
-      {
-        "n": 25,
-        "text": "John's baptism: where did it come from? Was it from heaven or from men? They discussed it among themselves: If we say, From heaven, He will ask us, Then why did you not believe him?"
-      },
-      {
-        "n": 26,
-        "text": "But if we say, From men, we are afraid of the crowd, because everyone considers John to be a prophet."
-      },
-      {
-        "n": 27,
-        "text": "So they answered Jesus: We do not know. Jesus said: Then neither will I tell you by what authority I do these things."
-      },
-      {
-        "n": 28,
-        "text": "What do you think? There was a man who had two sons. He went to the first and said: Son, go and work today in the vineyard."
-      },
-      {
-        "n": 29,
-        "text": "The son answered: I will not. But later he changed his mind and went."
-      },
-      {
-        "n": 30,
-        "text": "The father went to the second son and said the same thing. This son answered: I will, sir. But he did not go."
-      },
-      {
-        "n": 31,
-        "text": "Which of the two did what his father wanted? The first, they answered. Jesus said to them: I tell you the truth, tax collectors and prostitutes are entering the kingdom of God ahead of you."
-      },
-      {
-        "n": 32,
-        "text": "For John came to you showing the way of righteousness, and you did not believe him, but the tax collectors and prostitutes did. And even after you saw this, you did not change your minds and believe him."
-      },
-      {
-        "n": 33,
-        "text": "Listen to another teaching story: There was a landowner who planted a vineyard. He put a wall around it, dug a winepress in it, and built a watchtower. Then he rented it out to some farmers and went away on a journey."
-      },
-      {
-        "n": 34,
-        "text": "When harvest time approached, he sent his servants to the farmers to collect his share of the fruit."
-      },
-      {
-        "n": 35,
-        "text": "The farmers seized his servants. They beat one, killed another, and stoned a third."
-      },
-      {
-        "n": 36,
-        "text": "Then he sent other servants, more than the first time, and the farmers treated them the same way."
-      },
-      {
-        "n": 37,
-        "text": "Finally, he sent his son to them, saying: They will respect my son."
-      },
-      {
-        "n": 38,
-        "text": "But when the farmers saw the son, they said to each other: This is the heir. Come, let us kill him and take his inheritance."
-      },
-      {
-        "n": 39,
-        "text": "So they took him, threw him out of the vineyard, and killed him."
-      },
-      {
-        "n": 40,
-        "text": "So when the owner of the vineyard comes, what will he do to those farmers?"
-      },
-      {
-        "n": 41,
-        "text": "They answered Him: He will destroy those wicked men without mercy. He will rent the vineyard out to other farmers. They will give him his share of the fruit at harvest time."
-      },
-      {
-        "n": 42,
-        "text": "Jesus said to them: Have you never read in the Scriptures: The stone the builders rejected has become the cornerstone. The Lord has done this, and it is wonderful to see?"
-      },
-      {
-        "n": 43,
-        "text": "Therefore I tell you, the kingdom of God will be taken away from you and given to a people who will produce its fruit."
-      },
-      {
-        "n": 44,
-        "text": "Whoever falls on this stone will be broken to pieces, and anyone on whom it falls will be crushed."
-      },
-      {
-        "n": 45,
-        "text": "When the chief priests and the Pharisees heard Jesus' teaching stories, they knew He was speaking about them."
-      },
-      {
-        "n": 46,
-        "text": "They looked for a way to arrest Him, but they were afraid of the crowds, because the crowds believed He was a prophet."
-      }
+      { "n": 1, "text": "When they drew nigh (came near) to Jerusalem, and had come to Bethphage, to the mount of Olives, then Jesus sent two disciples." },
+      { "n": 2, "text": "Jesus said to them: Go into the village over against you (in front of you). Right away you will find an ass (donkey) tied, and a colt (young donkey) with her. Loose (untie) them, and bring them to Me." },
+      { "n": 3, "text": "If anyone says anything to you, you will say: The Lord has need of them. And right away he will send them." },
+      { "n": 4, "text": "All this was done so that what was spoken by the prophet would be fulfilled (come true). The prophet said:" },
+      { "n": 5, "text": "Tell the daughter of Sion (Zion): Look, your King comes to you, meek (gentle), and sitting on an ass (donkey), and a colt (young donkey), the foal (baby) of an ass (donkey)." },
+      { "n": 6, "text": "The disciples went, and did as Jesus commanded them." },
+      { "n": 7, "text": "They brought the ass (donkey) and the colt (young donkey). They put their clothes on them, and they set Jesus on them." },
+      { "n": 8, "text": "A very great multitude (crowd) spread their garments (clothes) in the way (road). Others cut down branches from the trees, and strawed (spread) them in the way (road)." },
+      { "n": 9, "text": "The multitudes (crowds) that went before, and that followed, cried out: Hosanna (save now) to the Son of David! Blessed is He who comes in the name of the Lord! Hosanna (save now) in the highest!" },
+      { "n": 10, "text": "When Jesus had come into Jerusalem, all the city was moved (stirred up). They said: Who is this?" },
+      { "n": 11, "text": "The multitude (crowd) said: This is Jesus the prophet of Nazareth of Galilee." },
+      { "n": 12, "text": "Jesus went into the temple of God. Jesus cast out (drove out) all those who sold and bought in the temple. Jesus overthrew (turned over) the tables of the moneychangers, and the seats of those who sold doves." },
+      { "n": 13, "text": "Jesus said to them: It is written: My house will be called the house of prayer. But you have made it a den of thieves." },
+      { "n": 14, "text": "The blind and the lame (people who could not walk well) came to Jesus in the temple, and He healed them." },
+      { "n": 15, "text": "The chief priests and scribes (teachers of the law) saw the wonderful things that Jesus did. They saw the children crying out in the temple: Hosanna (save now) to the Son of David! And they were sore (very) displeased." },
+      { "n": 16, "text": "They said to Jesus: Do You hear what these say? Jesus said to them: Yes. Have you never read: Out of the mouth of babes and sucklings (babies who still nurse) You have perfected praise?" },
+      { "n": 17, "text": "Jesus left them, and went out of the city into Bethany. And He lodged (stayed the night) there." },
+      { "n": 18, "text": "In the morning, as Jesus returned into the city, He was hungry." },
+      { "n": 19, "text": "Jesus saw a fig tree by the way (road). He came to it, and found nothing on it, but leaves only. Jesus said to it: Let no fruit grow on you from now on for ever. And presently (right away) the fig tree withered (dried up) away." },
+      { "n": 20, "text": "When the disciples saw it, they marvelled (were amazed). They said: How soon the fig tree has withered (dried up) away!" },
+      { "n": 21, "text": "Jesus answered them: Truly I say to you: If you have faith, and do not doubt, you will not only do what was done to the fig tree. But also if you say to this mountain, Be removed, and be thrown into the sea, it will be done." },
+      { "n": 22, "text": "And all things, whatever you ask in prayer, believing, you will receive." },
+      { "n": 23, "text": "When Jesus had come into the temple, the chief priests and the elders of the people came to Him as He was teaching. They said: By what authority do You do these things? And who gave You this authority?" },
+      { "n": 24, "text": "Jesus answered them: I also will ask you one thing. If you tell Me, I also will tell you by what authority I do these things." },
+      { "n": 25, "text": "The baptism of John, where was it from? From heaven, or from men? They reasoned (talked it over) with themselves. They said: If we say, From heaven, He will say to us: Why then did you not believe him?" },
+      { "n": 26, "text": "But if we say, From men, we fear the people. For all hold John as a prophet." },
+      { "n": 27, "text": "They answered Jesus: We cannot tell. And Jesus said to them: Neither will I tell you by what authority I do these things." },
+      { "n": 28, "text": "But what do you think? A certain man had two sons. He came to the first, and said: Son, go work today in my vineyard (grape farm)." },
+      { "n": 29, "text": "The son answered: I will not. But afterward he repented (changed his mind), and went." },
+      { "n": 30, "text": "The man came to the second son, and said the same. And he answered: I go, sir. But he did not go." },
+      { "n": 31, "text": "Which of the twain (two) did the will of his father? They said to Jesus: The first. Jesus said to them: Truly I say to you: The publicans (tax collectors) and the harlots (prostitutes) go into the kingdom of God before you." },
+      { "n": 32, "text": "For John came to you in the way of righteousness (being right with God), and you did not believe him. But the publicans (tax collectors) and the harlots (prostitutes) believed him. And you, when you had seen it, did not repent (change your hearts) afterward, so that you might believe him." },
+      { "n": 33, "text": "Hear another parable (story that teaches a lesson): There was a certain householder (owner of the house) who planted a vineyard (grape farm). He hedged (fenced) it around, and dug a winepress (place to crush grapes) in it, and built a tower. He let it out (rented it) to husbandmen (farmers), and went into a far country." },
+      { "n": 34, "text": "When the time of the fruit drew near, he sent his servants to the husbandmen (farmers), so they might receive the fruits of it." },
+      { "n": 35, "text": "The husbandmen (farmers) took his servants. They beat one, and killed another, and stoned another." },
+      { "n": 36, "text": "Again, he sent other servants, more than the first. And they did the same to them." },
+      { "n": 37, "text": "But last of all he sent his son to them. He said: They will reverence (respect) my son." },
+      { "n": 38, "text": "But when the husbandmen (farmers) saw the son, they said among themselves: This is the heir (the one who will own it all). Come, let us kill him, and let us seize (take) his inheritance." },
+      { "n": 39, "text": "They caught him, and threw him out of the vineyard (grape farm), and slew (killed) him." },
+      { "n": 40, "text": "So when the lord (owner) of the vineyard comes, what will he do to those husbandmen (farmers)?" },
+      { "n": 41, "text": "They said to Jesus: He will miserably destroy those wicked men. He will let out (rent) his vineyard to other husbandmen (farmers), who will render (give) him the fruits in their seasons." },
+      { "n": 42, "text": "Jesus said to them: Did you never read in the scriptures: The stone which the builders rejected, the same has become the head of the corner (the most important stone). This is the Lord's doing, and it is marvellous (wonderful) in our eyes?" },
+      { "n": 43, "text": "So I say to you: The kingdom of God will be taken from you, and given to a nation bringing forth (producing) its fruits." },
+      { "n": 44, "text": "Whoever falls on this stone will be broken. But on whomever it falls, it will grind them to powder." },
+      { "n": 45, "text": "When the chief priests and Pharisees had heard His parables (stories that teach a lesson), they perceived (understood) that He spoke about them." },
+      { "n": 46, "text": "But when they sought (tried) to lay hands on Jesus, they feared the multitude (crowd), because the people took Jesus for a prophet." }
     ]
   },
   "22": {
