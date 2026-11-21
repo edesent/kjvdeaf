@@ -397,128 +397,38 @@
   "11": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No pronoun ambiguity found.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. \"wisdom is shown to be right by what it does\" in 11:19 instead of \"justified of her children\", and turning 11:23 into a question), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "After Jesus finished instructing His twelve disciples, He went on from there to teach and preach in the towns of Galilee."
-      },
-      {
-        "n": 2,
-        "text": "John was in prison, and when he heard about the things Christ was doing, he sent his disciples"
-      },
-      {
-        "n": 3,
-        "text": "To ask Him: Are You the one who is to come, or should we look for someone else?"
-      },
-      {
-        "n": 4,
-        "text": "Jesus answered: Go back and tell John what you hear and see:"
-      },
-      {
-        "n": 5,
-        "text": "The blind can see. The crippled can walk. Those with skin diseases are made clean. The deaf can hear. The dead are raised to life. And the good news is preached to the poor."
-      },
-      {
-        "n": 6,
-        "text": "And blessed is anyone who does not turn away because of me."
-      },
-      {
-        "n": 7,
-        "text": "As John's disciples were leaving, Jesus began to speak to the crowds about John: What did you go out into the desert to see? A reed shaken by the wind?"
-      },
-      {
-        "n": 8,
-        "text": "If not that, what did you go out to see? A man dressed in fine clothes? No, people who wear fine clothes live in kings' palaces."
-      },
-      {
-        "n": 9,
-        "text": "Then what did you go out to see? A prophet? Yes, I tell you, and more than a prophet."
-      },
-      {
-        "n": 10,
-        "text": "John is the one the Scriptures speak about: I am sending my messenger ahead of You. He will prepare Your way."
-      },
-      {
-        "n": 11,
-        "text": "I tell you the truth, no one greater than John the Baptist has ever been born. Yet the one who is least in the kingdom of heaven is greater than he is."
-      },
-      {
-        "n": 12,
-        "text": "From the days of John the Baptist until now, the kingdom of heaven has been under attack, and violent people try to take it by force."
-      },
-      {
-        "n": 13,
-        "text": "For all the prophets and the law of Moses spoke about these things until John came."
-      },
-      {
-        "n": 14,
-        "text": "And if you are willing to accept it, John is the Elijah who was to come."
-      },
-      {
-        "n": 15,
-        "text": "Anyone who has ears should listen."
-      },
-      {
-        "n": 16,
-        "text": "To what can I compare the people of this time? They are like children sitting in the marketplaces, calling out to the others:"
-      },
-      {
-        "n": 17,
-        "text": "We played the flute for you, but you would not dance. We sang a sad song, but you would not cry."
-      },
-      {
-        "n": 18,
-        "text": "For John came neither eating nor drinking, and people say: He has a demon."
-      },
-      {
-        "n": 19,
-        "text": "The Son of Man came eating and drinking. People say: Look at Him! He eats and drinks too much. He is a friend of tax collectors and sinners. But wisdom is shown to be right by what it does."
-      },
-      {
-        "n": 20,
-        "text": "Then Jesus began to speak against the towns where He had done most of His miracles, because the people there had not turned away from their sins."
-      },
-      {
-        "n": 21,
-        "text": "How terrible it will be for you, Chorazin! How terrible for you, Bethsaida! If the miracles done in you had been done in Tyre and Sidon, those people would have turned from their sins long ago. They would have dressed in rough cloth and sat in ashes."
-      },
-      {
-        "n": 22,
-        "text": "But I tell you, on the day of judgment it will be easier for Tyre and Sidon than for you."
-      },
-      {
-        "n": 23,
-        "text": "And you, Capernaum, will you be lifted up to heaven? No, you will go down to the place of the dead. If the miracles done in you had been done in Sodom, it would still be here today."
-      },
-      {
-        "n": 24,
-        "text": "But I tell you, on the day of judgment it will be easier for Sodom than for you."
-      },
-      {
-        "n": 25,
-        "text": "At that time Jesus said: I praise You, Father, Lord of heaven and earth, because You have hidden these things from the wise and the educated. You have shown them to little children."
-      },
-      {
-        "n": 26,
-        "text": "Yes, Father, this is what You wanted."
-      },
-      {
-        "n": 27,
-        "text": "My Father has handed over everything to me. No one knows the Son except the Father, and no one knows the Father except the Son and those to whom the Son chooses to show Him."
-      },
-      {
-        "n": 28,
-        "text": "Come to me, all of you who are tired and carrying heavy loads, and I will give you rest."
-      },
-      {
-        "n": 29,
-        "text": "Take my yoke on you and learn from me, because I am gentle and humble in heart, and you will find rest for your souls."
-      },
-      {
-        "n": 30,
-        "text": "For my yoke is easy, and the load I give you is light."
-      }
+      { "n": 1, "text": "When Jesus had finished commanding His twelve disciples, Jesus left there to teach and to preach in their cities." },
+      { "n": 2, "text": "Now John was in prison. When John heard about the works of Christ, John sent two of his disciples." },
+      { "n": 3, "text": "They said to Jesus: Are You the One who should come, or do we look for another?" },
+      { "n": 4, "text": "Jesus answered them: Go and show John again the things that you hear and see." },
+      { "n": 5, "text": "The blind receive their sight, and the lame (people who cannot walk well) walk. The lepers (people with a skin disease) are cleansed (healed), and the deaf hear. The dead are raised up, and the poor have the gospel (good news) preached to them." },
+      { "n": 6, "text": "And blessed is whoever is not offended in Me (does not turn away because of Me)." },
+      { "n": 7, "text": "As John's disciples left, Jesus began to speak to the multitudes (large crowds) about John: What did you go out into the wilderness (desert) to see? A reed (tall grass) shaken by the wind?" },
+      { "n": 8, "text": "But what did you go out to see? A man dressed in soft raiment (fine clothes)? Look, those who wear soft clothing are in kings' houses." },
+      { "n": 9, "text": "But what did you go out to see? A prophet? Yes, I say to you, and more than a prophet." },
+      { "n": 10, "text": "For this is the one about whom it is written: Look, I send My messenger before Your face. He will prepare Your way before You." },
+      { "n": 11, "text": "Truly I say to you: Among those born of women, there has not risen anyone greater than John the Baptist. But whoever is least in the kingdom of heaven is greater than John." },
+      { "n": 12, "text": "From the days of John the Baptist until now, the kingdom of heaven suffers violence (is attacked), and the violent take it by force." },
+      { "n": 13, "text": "For all the prophets and the law prophesied (spoke God's message) until John." },
+      { "n": 14, "text": "And if you will receive it, this is Elias (Elijah), who was to come." },
+      { "n": 15, "text": "Whoever has ears to hear, let them hear." },
+      { "n": 16, "text": "But what can I compare this generation (people living now) to? It is like children sitting in the markets, calling to their friends." },
+      { "n": 17, "text": "They say: We have piped (played the flute) for you, and you have not danced. We have mourned (shown great sadness) for you, and you have not lamented (cried)." },
+      { "n": 18, "text": "For John came neither eating nor drinking, and they say: He has a devil (demon)." },
+      { "n": 19, "text": "The Son of Man came eating and drinking, and they say: Look, a man who is gluttonous (eats too much), and a winebibber (drinks too much wine), a friend of publicans (tax collectors) and sinners. But wisdom is justified (shown to be right) by her children." },
+      { "n": 20, "text": "Then Jesus began to upbraid (scold) the cities where most of His mighty works were done, because they did not repent (change their hearts)." },
+      { "n": 21, "text": "Woe (great trouble) to you, Chorazin! Woe (great trouble) to you, Bethsaida! For if the mighty works done in you had been done in Tyre and Sidon, they would have repented (changed their hearts) long ago in sackcloth (rough cloth worn when sorry) and ashes." },
+      { "n": 22, "text": "But I say to you: It will be more tolerable (easier) for Tyre and Sidon at the day of judgment than for you." },
+      { "n": 23, "text": "And you, Capernaum, which are exalted (lifted up) to heaven, will be brought down to hell (the grave). For if the mighty works done in you had been done in Sodom, Sodom would have remained until this day." },
+      { "n": 24, "text": "But I say to you: It will be more tolerable (easier) for the land of Sodom in the day of judgment than for you." },
+      { "n": 25, "text": "At that time Jesus answered: I thank You, O Father, Lord of heaven and earth, because You have hidden these things from the wise and prudent (clever), and have revealed (shown) them to babes (little children)." },
+      { "n": 26, "text": "Yes, Father, for so it seemed good in Your sight." },
+      { "n": 27, "text": "All things are delivered (given) to Me by My Father. No one knows the Son, except the Father. And no one knows the Father, except the Son, and anyone to whom the Son will reveal (show) the Father." },
+      { "n": 28, "text": "Come to Me, all you who labour (work hard) and are heavy laden (carry heavy loads), and I will give you rest." },
+      { "n": 29, "text": "Take My yoke (wooden bar for working together) upon you, and learn from Me. For I am meek (gentle) and lowly (humble) in heart. And you will find rest for your souls." },
+      { "n": 30, "text": "For My yoke (wooden bar for working together) is easy, and My burden (load) is light." }
     ]
   },
   "12": {
