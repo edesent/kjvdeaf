@@ -219,6 +219,11 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - proselyte (convert); twofold (two times); debtor / guilty (bound by the promise) -- of oaths; tithe (a tenth part); cummin (small garden herbs); weightier (more important)
   - judgment (fairness) -- Matthew 23:23; strain at (strain out); gnat (tiny bug); platter (plate); extortion (stealing by force); excess (no self-control)
   - whited sepulchres (tombs painted white); sepulchres (tombs); hypocrisy (pretending); partakers (sharers); measure (the full amount); desolate (empty and ruined)
+  - deceive (fool); rumours (reports); come to pass (happen); famines (times of no food); pestilences (deadly sicknesses); divers (many different); sorrows (great pains)
+  - afflicted (made to suffer); offended (fall away) -- Matthew 24:10; abound (grow everywhere); wax cold (grow cold); abomination of desolation (the hateful thing that brings ruin)
+  - flee (run away); with child (pregnant); give suck (nurse babies); flight (escape); flesh (person) -- Matthew 24:22; elect (chosen people); Lo (look)
+  - secret chambers (hidden rooms); carcase (dead body); tender (soft); Noe (Noah); ark (big boat); mill (grain grinder); watch (time of night)
+  - meat (food); in due season (at the right time); smite (hit); cut asunder (cut in pieces); appoint (give); portion (place)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
