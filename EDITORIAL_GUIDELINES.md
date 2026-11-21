@@ -147,6 +147,13 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - cast out (drove out); Esaias (Isaiah); fulfilled (come true); Master (Teacher)
   - ship (boat); tempest (storm); perish (are dying); rebuked (gave a strong command to)
   - fierce (wild and dangerous); torment (hurt); coasts (land)
+  - be of good cheer (be happy); be of good comfort (take heart); blasphemes (speaks against God); glorified (praised)
+  - receipt of custom (tax booth); sat at meat (ate a meal); whole (healthy / healed); physician (doctor)
+  - children of the bridechamber (friends of the bridegroom); bridegroom (the man getting married); garment (clothes); rent (tear)
+  - bottles (leather wine bags); preserved (kept safe); issue of blood (bleeding); hem (edge)
+  - minstrels (musicians for the dead); give place (move away); maid (girl); laughed to scorn (laughed at); fame (news)
+  - straitly charged (strongly warned); dumb (could not speak); prince (ruler); gospel (good news)
+  - compassion (deep pity); fainted (were tired out); plenteous (very big); labourers (workers)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
