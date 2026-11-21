@@ -2,1120 +2,349 @@
   "1": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother. To the church of God in Corinth, and to all God's people throughout Achaia:"
-      },
-      {
-        "n": 2,
-        "text": "May God our Father and the Lord Jesus Christ give you grace and peace."
-      },
-      {
-        "n": 3,
-        "text": "Praise God, the Father of our Lord Jesus Christ! He is the Father of tender mercy and all comfort."
-      },
-      {
-        "n": 4,
-        "text": "God comforts us in every single hardship we face. Then we can comfort other people facing hard times. We share with them the exact comfort God gave us!"
-      },
-      {
-        "n": 5,
-        "text": "For just as we share in the many sufferings of Christ, so also through Christ we share in much comfort."
-      },
-      {
-        "n": 6,
-        "text": "If we suffer, it is for your comfort and salvation. If we are comforted, it is for your comfort, which helps you patiently bear the same sufferings we suffer."
-      },
-      {
-        "n": 7,
-        "text": "Our hope for you is firm, because we know that just as you share in our sufferings, you also share in our comfort."
-      },
-      {
-        "n": 8,
-        "text": "Brothers and sisters, know about the terrible troubles we suffered in Asia. The crushing burden was far beyond our ability to endure. We even gave up hope of staying alive!"
-      },
-      {
-        "n": 9,
-        "text": "Inside our hearts, we felt sentenced to death. This happened so we would stop trusting in our own strength. Instead, we learned to trust God, who raises the dead!"
-      },
-      {
-        "n": 10,
-        "text": "He rescued us from such deadly danger, and He will rescue us again. We have set our hope on Him that He will keep on rescuing us,"
-      },
-      {
-        "n": 11,
-        "text": "as you help us by praying for us. Then many people will give thanks on our behalf for the gift of grace given to us in answer to many prayers."
-      },
-      {
-        "n": 12,
-        "text": "Now this is what we are proud of, and our conscience agrees: we have lived in the world, and especially toward you, with honesty and godly sincerity. We have not depended on worldly wisdom, but on God's grace."
-      },
-      {
-        "n": 13,
-        "text": "For we do not write you anything you cannot read and understand. And I hope that you will understand fully,"
-      },
-      {
-        "n": 14,
-        "text": "as you have understood us in part. Then you can be proud of us, just as we will be proud of you on the day of our Lord Jesus."
-      },
-      {
-        "n": 15,
-        "text": "Because I was sure of this, I planned to visit you first, so that you might be blessed twice."
-      },
-      {
-        "n": 16,
-        "text": "I planned to visit you on my way to Macedonia, and again on my way back, so that you could help me on my journey to Judea."
-      },
-      {
-        "n": 17,
-        "text": "Did I change my travel plans carelessly? Do I act like worldly people, saying yes and no at the same time?"
-      },
-      {
-        "n": 18,
-        "text": "No! As surely as God is faithful, our message never flips back and forth."
-      },
-      {
-        "n": 19,
-        "text": "Jesus Christ, God's Son, is not wishy-washy. In Christ, God's answer is always a solid YES!"
-      },
-      {
-        "n": 20,
-        "text": "Every single promise God made finds its Yes in Christ. Through Christ, we say Amen to bring glory to God."
-      },
-      {
-        "n": 21,
-        "text": "Now it is God who makes both us and you stand firm in Christ. He anointed us,"
-      },
-      {
-        "n": 22,
-        "text": "God stamped His official seal of ownership on us. He placed the Holy Spirit inside our hearts. The Spirit is God's down payment, guaranteeing all His future promises!"
-      },
-      {
-        "n": 23,
-        "text": "I call God as my witness, and I stake my life on it, that it was to spare you that I did not return to Corinth."
-      },
-      {
-        "n": 24,
-        "text": "Not that we rule over your faith, but we work together with you for your joy, because it is by faith that you stand firm."
-      }
+      { "n": 1, "text": "Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother. To the church of God which is at Corinth, with all the saints (holy people) who are in all Achaia:" },
+      { "n": 2, "text": "Grace be to you and peace from God our Father, and from the Lord Jesus Christ." },
+      { "n": 3, "text": "Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort." },
+      { "n": 4, "text": "God comforts us in all our tribulation (trouble). Then we are able to comfort those who are in any trouble, with the same comfort God gives to us." },
+      { "n": 5, "text": "For as the sufferings of Christ abound (are many) in us, so our consolation (comfort) also abounds (is great) by Christ." },
+      { "n": 6, "text": "And whether we are afflicted (made to suffer), it is for your consolation (comfort) and salvation. It is effectual (working) as you endure the same sufferings which we also suffer. Or whether we are comforted, it is for your consolation (comfort) and salvation." },
+      { "n": 7, "text": "And our hope for you is stedfast (firm). For we know that as you share in the sufferings, so you will also share in the consolation (comfort)." },
+      { "n": 8, "text": "For, brothers and sisters, we do not want you to be ignorant (not knowing) of our trouble which came to us in Asia. We were pressed down beyond measure, beyond our strength, so that we despaired (lost hope) even of life." },
+      { "n": 9, "text": "But we had the sentence of death in ourselves. This was so that we would not trust in ourselves, but in God who raises the dead." },
+      { "n": 10, "text": "God delivered (rescued) us from so great a death, and does deliver (rescue) us. We trust in God that He will still deliver (rescue) us." },
+      { "n": 11, "text": "You also help together by prayer for us. Then many people will give thanks for us, for the gift given to us through the prayers of many." },
+      { "n": 12, "text": "For this is our rejoicing, the testimony (witness) of our conscience: in simplicity (an honest heart) and godly sincerity (with an honest heart), not with fleshly (worldly) wisdom, but by the grace of God, we have had our conversation (way of life) in the world, and even more toward you." },
+      { "n": 13, "text": "For we write nothing else to you than what you read or acknowledge (agree with). And I trust you will acknowledge (agree with) it even to the end." },
+      { "n": 14, "text": "You have also acknowledged us in part, that we are your rejoicing, even as you also are ours in the day of the Lord Jesus." },
+      { "n": 15, "text": "And in this confidence I planned to come to you before, so that you might have a second benefit (blessing)." },
+      { "n": 16, "text": "I planned to pass by you into Macedonia, and to come again out of Macedonia to you. Then you could help me on my way toward Judea." },
+      { "n": 17, "text": "When I planned this, did I use lightness (not think seriously)? Or the things that I plan, do I plan them according to the flesh (worldly way), so that with me there should be yes yes, and no no?" },
+      { "n": 18, "text": "But as God is true, our word toward you was not yes and no." },
+      { "n": 19, "text": "For the Son of God, Jesus Christ, who was preached among you by us, by me and Silas and Timothy, was not yes and no. But in Him was yes." },
+      { "n": 20, "text": "For all the promises of God in Him are yes, and in Him Amen, to the glory of God by us." },
+      { "n": 21, "text": "Now the One who stablishes (makes strong) us with you in Christ, and has anointed us, is God." },
+      { "n": 22, "text": "God has also sealed (marked as God's own) us, and given the earnest (first payment) of the Spirit in our hearts." },
+      { "n": 23, "text": "Also I call God as a witness on my soul, that to spare you I did not come yet to Corinth." },
+      { "n": 24, "text": "Not that we have dominion (rule) over your faith. But we are helpers of your joy. For by faith you stand." }
     ]
   },
   "2": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "So I made up my mind not to make another painful visit to you."
-      },
-      {
-        "n": 2,
-        "text": "If I make you sad, who will cheer me up? Only you can make me glad, but I made you grieve!"
-      },
-      {
-        "n": 3,
-        "text": "I wrote that difficult letter to avoid a painful visit. When I visit, you should bring me great joy, not sadness! I was confident that all of you would share my happiness."
-      },
-      {
-        "n": 4,
-        "text": "I wrote to you out of great trouble and pain in my heart, with many tears, not to make you sad, but to let you know how much I love you."
-      },
-      {
-        "n": 5,
-        "text": "Suppose that one man caused deep sorrow. He did not hurt just me; he hurt all of you!"
-      },
-      {
-        "n": 6,
-        "text": "The punishment the church gave him was severe enough."
-      },
-      {
-        "n": 7,
-        "text": "Now you must turn around and forgive him! Comfort him so excessive sorrow does not completely crush him."
-      },
-      {
-        "n": 8,
-        "text": "I beg you to openly reaffirm your love for him!"
-      },
-      {
-        "n": 9,
-        "text": "I wrote to test you and to see whether you would obey in everything."
-      },
-      {
-        "n": 10,
-        "text": "Whenever you forgive that man, I forgive him too! I forgive him in the presence of Christ for your benefit."
-      },
-      {
-        "n": 11,
-        "text": "We must do this so Satan does not outsmart us! We know the devil's sneaky plans and evil schemes."
-      },
-      {
-        "n": 12,
-        "text": "When I went to Troas to preach the good news of Christ, and the Lord opened a door for me there,"
-      },
-      {
-        "n": 13,
-        "text": "I still had no peace of mind, because I did not find my brother Titus there. So I said goodbye to them and went on to Macedonia."
-      },
-      {
-        "n": 14,
-        "text": "Praise God! In Christ, He always leads us in victory! Everywhere we travel, God uses us to spread the sweet knowledge of Him."
-      },
-      {
-        "n": 15,
-        "text": "We are like a sweet-smelling incense offering of Christ to God."
-      },
-      {
-        "n": 16,
-        "text": "To those heading for destruction, we smell like rot and death! To those being saved, we smell like fresh, life-giving air! Who is truly qualified for such a high calling?"
-      },
-      {
-        "n": 17,
-        "text": "Unlike so many, we do not sell the word of God for profit. Instead, we speak in Christ before God with sincerity, like people sent from God."
-      }
+      { "n": 1, "text": "But I decided this with myself, that I would not come again to you in heaviness (sorrow)." },
+      { "n": 2, "text": "For if I make you sorry, who is the one then who makes me glad, except the same one who is made sorry by me?" },
+      { "n": 3, "text": "And I wrote this same thing to you, so that when I came, I would not have sorrow from those who should make me rejoice. I have confidence in you all, that my joy is the joy of you all." },
+      { "n": 4, "text": "For out of much affliction (trouble) and anguish (deep pain) of heart I wrote to you with many tears. It was not to make you grieved (sad). It was so that you might know the love which I have so much for you." },
+      { "n": 5, "text": "But if anyone has caused grief, he has not grieved only me, but in part all of you. I say this so that I do not overcharge (put too much on) you all." },
+      { "n": 6, "text": "This punishment, which was given by many, is enough for such a man." },
+      { "n": 7, "text": "So now instead you should forgive him and comfort him. Otherwise such a man might be swallowed up with too much sorrow." },
+      { "n": 8, "text": "So I beg you to confirm (show again) your love toward him." },
+      { "n": 9, "text": "For this is also why I wrote: so that I might know the proof of you, whether you are obedient in all things." },
+      { "n": 10, "text": "To whom you forgive anything, I forgive also. For if I forgave anything, to whom I forgave it, I forgave it for your sakes in the person (presence) of Christ." },
+      { "n": 11, "text": "I do this so that Satan does not get an advantage over us. For we are not ignorant (not knowing) of Satan's devices (tricks)." },
+      { "n": 12, "text": "Also, when I came to Troas to preach the gospel (good news) of Christ, a door was opened to me by the Lord." },
+      { "n": 13, "text": "But I had no rest in my spirit, because I did not find Titus my brother. So I said goodbye to them, and went from there into Macedonia." },
+      { "n": 14, "text": "Now thanks be to God, who always causes us to triumph (win) in Christ. God makes manifest (shows clearly) the savour (sweet smell) of His knowledge by us in every place." },
+      { "n": 15, "text": "For we are to God a sweet savour (sweet smell) of Christ, in those who are saved, and in those who perish (are lost)." },
+      { "n": 16, "text": "To the one we are the savour (smell) of death to death. And to the other we are the savour (smell) of life to life. And who is sufficient (able) for these things?" },
+      { "n": 17, "text": "For we are not like many, who corrupt (change for gain) the word of God. But we speak in Christ with sincerity (an honest heart), as from God, in the sight of God." }
     ]
   },
   "3": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Are we starting to praise ourselves again? Or do we need letters of recommendation to you, or from you, as some people do?"
-      },
-      {
-        "n": 2,
-        "text": "You yourselves are our letter, written on our hearts, known and read by everyone."
-      },
-      {
-        "n": 3,
-        "text": "You clearly show that you are a letter from Christ! We helped deliver this living letter to the world. It was not written using messy pen and ink. The Spirit of the living God wrote it! It was not carved into hard stone tablets. It was engraved directly on human hearts!"
-      },
-      {
-        "n": 4,
-        "text": "We have this confidence before God through Christ."
-      },
-      {
-        "n": 5,
-        "text": "Not that we are able by ourselves to claim that anything comes from us. Our ability comes from God."
-      },
-      {
-        "n": 6,
-        "text": "He has made us able to be servants of a new agreement, not of the written law, but of the Spirit. For the written law kills, but the Spirit gives life."
-      },
-      {
-        "n": 7,
-        "text": "The old Law was carved in letters on stone. That Law brought death, yet it arrived with shining glory! Moses' face beamed so brightly the Israelites could not look at him. Yet that shining glory was already fading away."
-      },
-      {
-        "n": 8,
-        "text": "How much more glorious is the work of the Holy Spirit!"
-      },
-      {
-        "n": 9,
-        "text": "The old Law condemned people to death. The new agreement makes people completely right with God!"
-      },
-      {
-        "n": 10,
-        "text": "In fact, what was once glorious has no glory now, compared with the far greater glory."
-      },
-      {
-        "n": 11,
-        "text": "And if what was fading away came with glory, how much greater is the glory of what lasts!"
-      },
-      {
-        "n": 12,
-        "text": "So, since we have such a hope, we are very bold."
-      },
-      {
-        "n": 13,
-        "text": "We are not like Moses. Moses put a cloth veil over his face. He did this so the people would not watch the glory fade away."
-      },
-      {
-        "n": 14,
-        "text": "Even today, their stubborn minds remain covered. Only Christ can tear that heavy veil away."
-      },
-      {
-        "n": 15,
-        "text": "Whenever they read the Old Testament Law, that veil covers their hearts!"
-      },
-      {
-        "n": 16,
-        "text": "Whenever anyone turns to the Lord, the veil disappears!"
-      },
-      {
-        "n": 17,
-        "text": "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom."
-      },
-      {
-        "n": 18,
-        "text": "Our faces are completely uncovered! All of us reflect the dazzling glory of the Lord. The Lord, who is the Spirit, is transforming us. He is changing us to look just like Christ! He fills us with brighter and brighter glory!"
-      }
+      { "n": 1, "text": "Do we begin again to commend (praise) ourselves? Or do we need, as some others do, epistles (letters) of commendation (praise) to you, or letters of commendation (praise) from you?" },
+      { "n": 2, "text": "You are our epistle (letter) written in our hearts, known and read by all men." },
+      { "n": 3, "text": "For you are clearly shown to be the epistle (letter) of Christ, ministered (served) by us. It is written not with ink, but with the Spirit of the living God. It is not written on tables (tablets) of stone, but on fleshy tables (tablets) of the heart." },
+      { "n": 4, "text": "And we have such trust through Christ toward God." },
+      { "n": 5, "text": "Not that we are sufficient (able) by ourselves to think anything as from ourselves. But our sufficiency (ability) is from God." },
+      { "n": 6, "text": "God also has made us able ministers (servants) of the new testament (new agreement). It is not of the letter, but of the spirit. For the letter kills, but the spirit gives life." },
+      { "n": 7, "text": "The ministration (service) of death, written and engraved (cut) in stones, was glorious. It was so glorious that the children of Israel could not stedfastly (steadily) look at the face of Moses, because of the glory of his face. And that glory was to be done away." },
+      { "n": 8, "text": "How will not the ministration (service) of the spirit be even more glorious?" },
+      { "n": 9, "text": "For if the ministration (service) of condemnation (being judged guilty) is glory, much more the ministration (service) of righteousness (being right with God) is greater in glory." },
+      { "n": 10, "text": "For even what was made glorious had no glory in this way, because of the glory that excels (is greater)." },
+      { "n": 11, "text": "For if what is done away was glorious, much more what remains is glorious." },
+      { "n": 12, "text": "Since we have such hope, we use great plainness (openness) of speech." },
+      { "n": 13, "text": "And we are not like Moses, who put a vail (veil) over his face. He did this so that the children of Israel could not stedfastly (steadily) look to the end of what is abolished (done away)." },
+      { "n": 14, "text": "But their minds were blinded. For until this day the same vail (veil) remains, not taken away, in the reading of the old testament (old agreement). That vail (veil) is done away in Christ." },
+      { "n": 15, "text": "But even to this day, when Moses is read, the vail (veil) is on their heart." },
+      { "n": 16, "text": "But when their heart turns to the Lord, the vail (veil) will be taken away." },
+      { "n": 17, "text": "Now the Lord is that Spirit. And where the Spirit of the Lord is, there is liberty (freedom)." },
+      { "n": 18, "text": "But we all, with open (uncovered) face, see the glory of the Lord as in a glass (mirror). We are changed into the same image from glory to glory, even by the Spirit of the Lord." }
     ]
   },
   "4": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "So, since God in His mercy has given us this work, we do not give up."
-      },
-      {
-        "n": 2,
-        "text": "Instead, we have given up shameful, secret ways. We do not use tricks, and we do not twist the word of God. By clearly telling the truth, we let everyone's conscience judge us in the sight of God."
-      },
-      {
-        "n": 3,
-        "text": "And even if our good news is hidden, it is hidden to those who are being lost."
-      },
-      {
-        "n": 4,
-        "text": "Satan, the god of this evil world, has blinded unbelievers! He blocks them from seeing the light of the good news. They cannot see the glorious light of Christ. And Christ shows us exactly what God is like!"
-      },
-      {
-        "n": 5,
-        "text": "For we do not preach ourselves, but Jesus Christ as Lord, and ourselves as your servants for Jesus' sake."
-      },
-      {
-        "n": 6,
-        "text": "God commanded long ago: Let light shine out of darkness! Now He has made His bright light shine inside our hearts. He lets us see the radiant glory of God. We see that dazzling glory shining in the face of Jesus Christ!"
-      },
-      {
-        "n": 7,
-        "text": "But we have this treasure in clay jars, to show that this all-surpassing power is from God and not from us."
-      },
-      {
-        "n": 8,
-        "text": "Troubles push against us from every side, but we are not crushed! We are confused, but we never give up in despair."
-      },
-      {
-        "n": 9,
-        "text": "Enemies hunt us down, but God never abandons us. We get knocked down, but we are never destroyed!"
-      },
-      {
-        "n": 10,
-        "text": "We face death daily in our physical bodies, just like Jesus did. We endure this so the life of Jesus will shine in our bodies!"
-      },
-      {
-        "n": 11,
-        "text": "Every day we risk our lives for the sake of Jesus. This shows His supernatural life inside our dying human bodies."
-      },
-      {
-        "n": 12,
-        "text": "So death is at work in us, but life is at work in you."
-      },
-      {
-        "n": 13,
-        "text": "The Scripture says: I believed, and so I spoke. With that same spirit of faith, we also believe, and so we speak,"
-      },
-      {
-        "n": 14,
-        "text": "because we know that the One who raised the Lord Jesus from death will also raise us with Jesus. He will bring us, together with you, into His presence."
-      },
-      {
-        "n": 15,
-        "text": "All this is for your benefit, so that the grace that is reaching more and more people may cause thanksgiving to overflow, to the glory of God."
-      },
-      {
-        "n": 16,
-        "text": "That is why we never give up! Our physical bodies are wearing out and growing weaker. Yet inside, God renews our spirit brand new every single day!"
-      },
-      {
-        "n": 17,
-        "text": "Our troubles right now are small and last only a short moment. These small troubles produce for us a glory that outweighs everything! That glorious reward will last forever and ever."
-      },
-      {
-        "n": 18,
-        "text": "So we do not focus on visible things we can see with our eyes. We focus our eyes on invisible things we cannot see! Earthly things quickly pass away, but heavenly things last forever."
-      }
+      { "n": 1, "text": "So since we have this ministry (service), as we have received mercy, we do not faint (lose heart)." },
+      { "n": 2, "text": "But we have renounced (turned away from) the hidden things of dishonesty (shame). We do not walk in craftiness (tricks), or handle the word of God deceitfully (with lies). But by manifestation (showing) of the truth, we commend (show) ourselves to every man's conscience in the sight of God." },
+      { "n": 3, "text": "But if our gospel (good news) is hid, it is hid to those who are lost." },
+      { "n": 4, "text": "In them the god of this world has blinded the minds of those who do not believe. This is so that the light of the glorious gospel (good news) of Christ, who is the image of God, should not shine to them." },
+      { "n": 5, "text": "For we do not preach ourselves, but Christ Jesus the Lord, and ourselves your servants for Jesus' sake." },
+      { "n": 6, "text": "For God, who commanded the light to shine out of darkness, has shined in our hearts. God did this to give the light of the knowledge of the glory of God in the face of Jesus Christ." },
+      { "n": 7, "text": "But we have this treasure in earthen vessels (clay pots), so that the excellency (greatness) of the power may be from God, and not from us." },
+      { "n": 8, "text": "We are troubled on every side, yet not crushed. We are perplexed (confused), but not in despair (without hope)." },
+      { "n": 9, "text": "We are persecuted (attacked for faith), but not forsaken (left alone). We are cast down, but not destroyed." },
+      { "n": 10, "text": "We always carry about in the body the dying of the Lord Jesus. This is so that the life of Jesus also might be made manifest (shown clearly) in our body." },
+      { "n": 11, "text": "For we who live are always delivered (handed over) to death for Jesus' sake. This is so that the life of Jesus also might be made manifest (shown clearly) in our mortal (that will die) flesh." },
+      { "n": 12, "text": "So then death works in us, but life works in you." },
+      { "n": 13, "text": "We have the same spirit of faith, as it is written: I believed, and so I have spoken. We also believe, and so we speak." },
+      { "n": 14, "text": "We know that the One who raised up the Lord Jesus will raise us up also by Jesus, and will present us with you." },
+      { "n": 15, "text": "For all things are for your sakes, so that the abundant (great) grace, through the thanksgiving of many, might redound (overflow) to the glory of God." },
+      { "n": 16, "text": "For this reason we do not faint (lose heart). Though our outward man (body) perishes (wears out), yet the inward man (inner self) is renewed (made new) day by day." },
+      { "n": 17, "text": "For our light affliction (trouble), which is only for a moment, works for us a far more exceeding (greater) and eternal weight of glory." },
+      { "n": 18, "text": "We do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporal (last only a short time). But the things which are not seen are eternal." }
     ]
   },
   "5": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "We know our earthly bodies are like temporary camping tents. One day this earthly tent will be taken down. When that happens, God will give us a permanent home in heaven! Human hands did not build this house; God made it forever."
-      },
-      {
-        "n": 2,
-        "text": "Right now, we groan inside this fragile body."
-      },
-      {
-        "n": 3,
-        "text": "We long to put on our brand-new heavenly body like clean clothes."
-      },
-      {
-        "n": 4,
-        "text": "Then our mortal dying bodies will be completely swallowed up by life!"
-      },
-      {
-        "n": 5,
-        "text": "It is God who has prepared us for this very thing, and He has given us His Spirit as a guarantee of what is to come."
-      },
-      {
-        "n": 6,
-        "text": "So we are always confident. We know that as long as we are at home in the body, we are away from the Lord."
-      },
-      {
-        "n": 7,
-        "text": "For we live by faith, not by sight."
-      },
-      {
-        "n": 8,
-        "text": "So we are confident, and we would rather be away from the body and at home with the Lord."
-      },
-      {
-        "n": 9,
-        "text": "So we make it our goal to please Him, whether we are at home in the body or away from it."
-      },
-      {
-        "n": 10,
-        "text": "Every single one of us must stand before the judgment seat of Christ. Christ will evaluate everything we did in our physical bodies. He will reward each person for what they did, whether good or evil."
-      },
-      {
-        "n": 11,
-        "text": "So, because we know what it means to fear the Lord, we try to persuade people. What we are is plain to God, and I hope it is also plain to your consciences."
-      },
-      {
-        "n": 12,
-        "text": "We are not trying to praise ourselves to you again. Instead, we are giving you a reason to be proud of us. Then you can answer those who take pride in appearances rather than in what is in the heart."
-      },
-      {
-        "n": 13,
-        "text": "If we are out of our minds, it is for God; if we are in our right minds, it is for you."
-      },
-      {
-        "n": 14,
-        "text": "For the love of Christ controls us, because we are convinced that one died for all, and so all died."
-      },
-      {
-        "n": 15,
-        "text": "And He died for all, so that those who live should no longer live for themselves, but for Him who died for them and was raised again."
-      },
-      {
-        "n": 16,
-        "text": "So from now on we do not judge anyone by human standards. Even though we once thought of Christ in that way, we do so no longer."
-      },
-      {
-        "n": 17,
-        "text": "Anyone who belongs to Christ is a brand-new creation! The old, sinful life is gone forever. A fresh, brand-new life has begun!"
-      },
-      {
-        "n": 18,
-        "text": "All of this is God's wonderful gift. Through Christ, God made peace between us and Himself."
-      },
-      {
-        "n": 19,
-        "text": "God was in Christ, making peace with the whole world! He stopped counting people's sins against them. And He gave us the sacred job of sharing this message of peace!"
-      },
-      {
-        "n": 20,
-        "text": "So we are official ambassadors sent directly by Christ! God is speaking His urgent appeal through us. On behalf of Christ, we beg you: Make peace with God!"
-      },
-      {
-        "n": 21,
-        "text": "Christ never committed a single sin. Yet God placed all our sin on Him for our sake! He did this so in Christ, we could become completely right with God."
-      }
+      { "n": 1, "text": "For we know that if our earthly house of this tabernacle (tent) were dissolved (taken down), we have a building from God. It is a house not made with hands, eternal in the heavens." },
+      { "n": 2, "text": "For in this tent we groan, earnestly wanting to be clothed with our house which is from heaven." },
+      { "n": 3, "text": "If so, being clothed, we will not be found naked." },
+      { "n": 4, "text": "For we who are in this tabernacle (tent) groan, being burdened. Not because we want to be unclothed, but clothed, so that mortality (what will die) might be swallowed up by life." },
+      { "n": 5, "text": "Now the One who has made us for this very thing is God, who also has given to us the earnest (first payment) of the Spirit." },
+      { "n": 6, "text": "So we are always confident. We know that while we are at home in the body, we are absent (away) from the Lord." },
+      { "n": 7, "text": "For we walk by faith, not by sight." },
+      { "n": 8, "text": "We are confident, I say, and willing rather to be absent (away) from the body, and to be present with the Lord." },
+      { "n": 9, "text": "So we labor (work hard), so that, whether present or absent (away), we may be accepted by Him." },
+      { "n": 10, "text": "For we must all appear before the judgment seat of Christ. Then every one may receive the things done in his body, according to what he has done, whether it is good or bad." },
+      { "n": 11, "text": "So knowing the terror (fear) of the Lord, we persuade men. But we are made manifest (shown clearly) to God. And I trust that we are also made manifest (shown clearly) in your consciences." },
+      { "n": 12, "text": "For we do not commend (praise) ourselves again to you. But we give you a reason to glory (be proud) for us. Then you may have something to answer those who glory (brag) in appearance, and not in heart." },
+      { "n": 13, "text": "For whether we are beside ourselves (seem out of our minds), it is for God. Or whether we are sober (in our right minds), it is for your sake." },
+      { "n": 14, "text": "For the love of Christ constrains (controls) us. We judge it this way: if one died for all, then all were dead." },
+      { "n": 15, "text": "And Christ died for all, so that those who live should not from now on live for themselves, but for the One who died for them, and rose again." },
+      { "n": 16, "text": "So from now on we know no man after the flesh (by worldly standards). Yes, though we have known Christ after the flesh (by worldly standards), yet now from now on we know Him that way no more." },
+      { "n": 17, "text": "So if any man is in Christ, he is a new creature (new creation). Old things are passed away. Look, all things are become new." },
+      { "n": 18, "text": "And all things are from God, who has reconciled (brought back) us to Himself by Jesus Christ. And God has given to us the ministry (service) of reconciliation (bringing people back to God)." },
+      { "n": 19, "text": "That is, God was in Christ, reconciling (bringing back) the world to Himself, not imputing (counting) their trespasses (wrongs) to them. And God has given to us the word of reconciliation (bringing people back to God)." },
+      { "n": 20, "text": "Now then we are ambassadors (messengers) for Christ, as though God begged you by us. We pray you in Christ's place: be reconciled (brought back) to God." },
+      { "n": 21, "text": "For God has made Christ to be sin for us, Christ who knew no sin. This is so that we might be made the righteousness (being right with God) of God in Christ." }
     ]
   },
   "6": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "As God's fellow workers, we beg you not to receive God's grace and then waste it."
-      },
-      {
-        "n": 2,
-        "text": "For God says: At the right time I heard you, and on the day of salvation I helped you. I tell you, now is the right time; now is the day of salvation."
-      },
-      {
-        "n": 3,
-        "text": "We do not put anything in anyone's way, so that no one can find fault with our work."
-      },
-      {
-        "n": 4,
-        "text": "Instead, in every single circumstance, we prove we serve God. We patiently endure extreme troubles, hardships, and disasters."
-      },
-      {
-        "n": 5,
-        "text": "Mighty mobs beat us, throw us into prison, and riot against us. We work exhausted, go without sleep, and endure hunger."
-      },
-      {
-        "n": 6,
-        "text": "We prove ourselves through pure living, true knowledge, patience, and kindness. We serve by the Holy Spirit and through sincere, genuine love."
-      },
-      {
-        "n": 7,
-        "text": "We speak God's truth, powered by His mighty strength! We hold weapons of righteousness in our right hand and left hand!"
-      },
-      {
-        "n": 8,
-        "text": "People honor us, and people insult us. Some tell evil lies about us, while others speak well of us. Critics call us fakes, yet we always tell the truth!"
-      },
-      {
-        "n": 9,
-        "text": "The world ignores us, yet God knows us completely. We face death daily, yet look, we are still alive! Enemies beat our bodies, but God keeps us from death."
-      },
-      {
-        "n": 10,
-        "text": "Our hearts feel sorrow, yet we overflow with constant joy! We are dirt poor, yet we make many people spiritually rich! We own nothing in this world, yet we possess everything!"
-      },
-      {
-        "n": 11,
-        "text": "We have spoken openly to you, dear Corinthians, and opened our hearts wide to you."
-      },
-      {
-        "n": 12,
-        "text": "We are not holding back our love for you, but you are holding back your love for us."
-      },
-      {
-        "n": 13,
-        "text": "I am speaking to you as my children: open your hearts wide to us in return."
-      },
-      {
-        "n": 14,
-        "text": "Do not team up with unbelievers like mismatched work animals! How can doing right partner with doing evil? How can bright light live together with pitch darkness?"
-      },
-      {
-        "n": 15,
-        "text": "What agreement can exist between Christ and the devil? What does a true believer share with an ungodly unbeliever?"
-      },
-      {
-        "n": 16,
-        "text": "What partnership can the temple of God have with dirty idols? We are the holy temple of the living God! As God has said: I will live with them and walk among them. I will be their God, and they will be my people."
-      },
-      {
-        "n": 17,
-        "text": "So: Come out from among them and be separate, says the Lord. Do not touch anything unclean, and I will welcome you."
-      },
-      {
-        "n": 18,
-        "text": "And: I will be a Father to you, and you will be my sons and daughters, says the Lord Almighty."
-      }
+      { "n": 1, "text": "So we, as workers together with God, also beg you not to receive the grace of God in vain (for nothing)." },
+      { "n": 2, "text": "For God says: I have heard you in a time accepted, and in the day of salvation I have succoured (helped) you. Look, now is the accepted time. Look, now is the day of salvation." },
+      { "n": 3, "text": "We give no offence (cause to fall) in anything, so that the ministry (service) is not blamed." },
+      { "n": 4, "text": "But in all things we approve ourselves as the ministers (servants) of God: in much patience, in afflictions (troubles), in necessities (needs), in hard troubles," },
+      { "n": 5, "text": "In stripes (beatings), in imprisonments, in tumults (riots), in labors (hard work), in watchings (going without sleep), in fastings." },
+      { "n": 6, "text": "We approve ourselves by pureness, by knowledge, by longsuffering (patience), by kindness, by the Holy Spirit, by love unfeigned (not pretended)," },
+      { "n": 7, "text": "By the word of truth, by the power of God, by the armour of righteousness (being right with God) on the right hand and on the left," },
+      { "n": 8, "text": "By honor and dishonor, by evil report and good report. We are treated as deceivers (liars), and yet we are true." },
+      { "n": 9, "text": "We are treated as unknown, and yet we are well known. We are dying, and look, we live. We are chastened (corrected), and not killed." },
+      { "n": 10, "text": "We are sorrowful, yet always rejoicing. We are poor, yet making many rich. We have nothing, and yet we possess (own) all things." },
+      { "n": 11, "text": "O you Corinthians, our mouth is open to you. Our heart is enlarged (opened wide)." },
+      { "n": 12, "text": "You are not straitened (held back) by us, but you are straitened (held back) in your own bowels (deep love/tender feelings)." },
+      { "n": 13, "text": "Now as a recompence (return) for the same, I speak as to my children: you also be enlarged (open your hearts wide)." },
+      { "n": 14, "text": "Do not be unequally yoked (joined) together with unbelievers. For what fellowship (sharing) does righteousness (what is right) have with unrighteousness (wrong)? And what communion (sharing) does light have with darkness?" },
+      { "n": 15, "text": "And what concord (agreement) does Christ have with Belial (the devil)? Or what part does a believer have with an infidel (unbeliever)?" },
+      { "n": 16, "text": "And what agreement does the temple of God have with idols? For you are the temple of the living God. As God has said: I will dwell (live) in them, and walk in them. And I will be their God, and they will be My people." },
+      { "n": 17, "text": "So come out from among them, and be separate, says the Lord. Do not touch the unclean thing, and I will receive you." },
+      { "n": 18, "text": "And I will be a Father to you, and you will be My sons and daughters, says the Lord Almighty." }
     ]
   },
   "7": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Dear friends, since we have these promises, let us make ourselves clean from everything that dirties the body and the spirit. Let us aim for complete holiness out of respect for God."
-      },
-      {
-        "n": 2,
-        "text": "Open your hearts to us. We have wronged no one, ruined no one, and cheated no one."
-      },
-      {
-        "n": 3,
-        "text": "I am not saying this to blame you. As I said before, you are in our hearts, so that we would live or die together with you."
-      },
-      {
-        "n": 4,
-        "text": "I speak to you very openly, and I am very proud of you. I am greatly encouraged, and in all our troubles my joy knows no limits."
-      },
-      {
-        "n": 5,
-        "text": "When we arrived in Macedonia, our bodies had no rest. Troubles attacked us from every direction! We faced dangerous battles on the outside. We wrestled with deep fears on the inside!"
-      },
-      {
-        "n": 6,
-        "text": "But God, who comforts those who are discouraged, comforted us by the arrival of Titus."
-      },
-      {
-        "n": 7,
-        "text": "And not only by his coming, but also by the comfort you had given him. He told us how much you long for me, how sorry you are, and how concerned you are for me. So I was happier than ever."
-      },
-      {
-        "n": 8,
-        "text": "Even though my letter made you sad, I do not regret it. I did regret it for a while, because I see that the letter hurt you, but only for a little while."
-      },
-      {
-        "n": 9,
-        "text": "Now I am truly glad! I am not happy that you felt pain. I am glad your sorrow led you to turn back to God. You felt the kind of godly sorrow that God desires!"
-      },
-      {
-        "n": 10,
-        "text": "Godly sorrow leads to true repentance and eternal salvation. That kind of sorrow leaves zero regrets! Worldly sorrow only brings bitterness and death."
-      },
-      {
-        "n": 11,
-        "text": "Look at what this godly sorrow produced inside you! It made you serious and eager to clear your name. It produced righteous anger against that wicked sin! It filled you with holy fear and deep longing. It gave you passionate concern and a desire for justice. In every way, you proved you are innocent in this matter."
-      },
-      {
-        "n": 12,
-        "text": "So even though I wrote to you, it was not mainly because of the one who did the wrong, or the one who was hurt. I wrote so that you could see for yourselves, before God, how much you care for us."
-      },
-      {
-        "n": 13,
-        "text": "All of this brought us tremendous comfort and encouragement! Even better, we saw how overflowing with joy Titus was! All of you refreshed his spirit completely."
-      },
-      {
-        "n": 14,
-        "text": "I had bragged to Titus about your faith, and you proved me right! Just as our message to you was true, my boasting to Titus was true!"
-      },
-      {
-        "n": 15,
-        "text": "And his love for you is even greater when he remembers how all of you obeyed, welcoming him with respect and care."
-      },
-      {
-        "n": 16,
-        "text": "I am glad that I can have complete confidence in you."
-      }
+      { "n": 1, "text": "So since we have these promises, dearly beloved (dear friends), let us cleanse ourselves from all filthiness (dirt) of the flesh and spirit. Let us perfect (complete) holiness in the fear of God." },
+      { "n": 2, "text": "Receive us. We have wronged no man. We have corrupted (ruined) no man. We have defrauded (cheated) no man." },
+      { "n": 3, "text": "I do not say this to condemn (judge guilty) you. For I have said before that you are in our hearts, to die and live with you." },
+      { "n": 4, "text": "Great is my boldness of speech toward you. Great is my glorying (being proud) of you. I am filled with comfort. I am very joyful in all our tribulation (trouble)." },
+      { "n": 5, "text": "For when we came into Macedonia, our flesh (body) had no rest. We were troubled on every side. Outside were fightings, inside were fears." },
+      { "n": 6, "text": "But God, who comforts those who are cast down, comforted us by the coming of Titus." },
+      { "n": 7, "text": "And not by his coming only, but by the consolation (comfort) with which Titus was comforted in you. He told us your earnest desire, your mourning, your fervent (on fire) mind toward me. So I rejoiced even more." },
+      { "n": 8, "text": "For though I made you sorry with a letter, I do not repent (regret it), though I did repent (regret it). For I perceive (see) that the same epistle (letter) has made you sorry, though it was only for a season (short time)." },
+      { "n": 9, "text": "Now I rejoice, not that you were made sorry, but that you sorrowed to repentance (a change of heart). For you were made sorry in a godly way, so that you might receive damage (harm) by us in nothing." },
+      { "n": 10, "text": "For godly sorrow works repentance (a change of heart) to salvation, not to be repented of (regretted). But the sorrow of the world works death." },
+      { "n": 11, "text": "For look at this same thing, that you sorrowed in a godly way. What carefulness (eagerness) it worked in you. Yes, what clearing of yourselves. Yes, what indignation (anger at sin). Yes, what fear. Yes, what vehement (strong) desire. Yes, what zeal (eagerness). Yes, what revenge (making it right). In all things you have approved yourselves to be clear (innocent) in this matter." },
+      { "n": 12, "text": "So though I wrote to you, I did not do it for the sake of the one who had done the wrong, or for the sake of the one who suffered wrong. I did it so that our care for you in the sight of God might appear to you." },
+      { "n": 13, "text": "So we were comforted in your comfort. Yes, and we rejoiced even much more for the joy of Titus, because his spirit was refreshed by you all." },
+      { "n": 14, "text": "For if I have boasted (bragged) anything to Titus about you, I am not ashamed. But as we spoke all things to you in truth, so our boasting (bragging), which I made before Titus, is found to be truth." },
+      { "n": 15, "text": "And his inward affection (deep love) is more abundant (greater) toward you, while he remembers the obedience of you all, how you received him with fear and trembling." },
+      { "n": 16, "text": "So I rejoice that I have confidence in you in all things." }
     ]
   },
   "8": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Smoothed from heavy noun repetition ('the Macedonian churches...the Macedonian churches', 'the Corinthians...the Corinthians') back to natural pronoun flow after each subject is first established, matching the site's standard elsewhere.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Brothers and sisters, I want you to know about God's amazing grace. God poured out His grace on the churches in Macedonia!"
-      },
-      {
-        "n": 2,
-        "text": "They suffered great trouble, but they had great joy. They were very poor, yet they gave generously, like rich people give."
-      },
-      {
-        "n": 3,
-        "text": "I am an eyewitness to their incredible generosity. They gave as much as they were able, and even more than they were able. They gave willingly."
-      },
-      {
-        "n": 4,
-        "text": "They urged me and my companions strongly, asking us to accept the gift, because they wanted to share in helping God's people."
-      },
-      {
-        "n": 5,
-        "text": "They did more than we expected. First they gave themselves to the Lord. Then they gave themselves to us, because God willed it."
-      },
-      {
-        "n": 6,
-        "text": "So we asked Titus to finish what he had started. Titus had already begun this gift of grace among you."
-      },
-      {
-        "n": 7,
-        "text": "You excel in many things: faith, speech, knowledge, diligence, and love for us. I urge you to excel in giving too."
-      },
-      {
-        "n": 8,
-        "text": "I am not commanding you. I mention other believers' diligence to test the genuineness of your love."
-      },
-      {
-        "n": 9,
-        "text": "You know the incredible grace of our Lord Jesus Christ. Though He was fabulously rich, He became poor for your sake! Through His poverty, He made you spiritually rich forever."
-      },
-      {
-        "n": 10,
-        "text": "I give you advice that will help you. Last year you were the first to want to give, and you started giving."
-      },
-      {
-        "n": 11,
-        "text": "Now you must finish the task. You were eager to begin; now you must finish, giving from what you have."
-      },
-      {
-        "n": 12,
-        "text": "If a person has an eager heart, God accepts the gift based on what the person has, not on what the person lacks."
-      },
-      {
-        "n": 13,
-        "text": "I do not want others to be relieved while you suffer hardship. I want complete fairness among God's people!"
-      },
-      {
-        "n": 14,
-        "text": "Right now, you have plenty to supply their desperate need. Later on, their abundance can supply your need."
-      },
-      {
-        "n": 15,
-        "text": "The Scripture says: The person who gathered much had nothing left over. And the person who gathered little had plenty to eat!"
-      },
-      {
-        "n": 16,
-        "text": "I thank God. God put the same diligent care for you into Titus's heart."
-      },
-      {
-        "n": 17,
-        "text": "Titus accepted my urging. He was diligent, so he went to you on his own initiative."
-      },
-      {
-        "n": 18,
-        "text": "We sent a brother with Titus. All the churches praise him for his gospel work."
-      },
-      {
-        "n": 19,
-        "text": "More than that, the churches chose him to travel with us. He helps carry out the gift, for the Lord's glory, and to show your eagerness."
-      },
-      {
-        "n": 20,
-        "text": "We want to protect our reputation from any dishonest blame. No one can accuse us of stealing a penny from this large gift!"
-      },
-      {
-        "n": 21,
-        "text": "We make sure everything is completely honest before the Lord and people."
-      },
-      {
-        "n": 22,
-        "text": "We sent another brother with Titus and the first brother. We have tested him many times and found him diligent. Now he is even more diligent, because I have great confidence in you."
-      },
-      {
-        "n": 23,
-        "text": "If anyone asks about Titus: he is my partner and helper concerning you. If anyone asks about the brothers: they are messengers of the churches and bring honor to Christ."
-      },
-      {
-        "n": 24,
-        "text": "Therefore, show these men, and show the churches, proof of your love. This proof will confirm my boasting about you."
-      }
+      { "n": 1, "text": "Also, brothers and sisters, we want you to know about the grace of God given to the churches of Macedonia." },
+      { "n": 2, "text": "In a great trial of affliction (trouble), the abundance (fullness) of their joy and their deep poverty overflowed into the riches of their liberality (giving)." },
+      { "n": 3, "text": "For I bear record (witness) that they gave as much as they were able. Yes, and beyond what they were able, they were willing of themselves." },
+      { "n": 4, "text": "They prayed (begged) us with much intreaty (pleading) that we would receive the gift, and take on the fellowship (sharing) of the ministering (serving) to the saints (holy people)." },
+      { "n": 5, "text": "And they did this, not as we hoped, but first they gave their own selves to the Lord, and to us by the will of God." },
+      { "n": 6, "text": "So we desired (asked) Titus, that as he had begun, he would also finish in you the same grace also." },
+      { "n": 7, "text": "So as you abound (are rich) in everything, in faith, and utterance (speaking), and knowledge, and in all diligence (hard work), and in your love to us, see that you abound (are rich) in this grace also." },
+      { "n": 8, "text": "I do not speak by commandment. But I speak because of the forwardness (eagerness) of others, and to prove the sincerity (an honest heart) of your love." },
+      { "n": 9, "text": "For you know the grace of our Lord Jesus Christ. Though He was rich, yet for your sakes He became poor, so that you through His poverty might be rich." },
+      { "n": 10, "text": "And in this I give my advice. For this is expedient (helpful) for you. You began before, not only to do it, but also to be forward (eager) a year ago." },
+      { "n": 11, "text": "So now perform (finish) the doing of it. As there was a readiness to will it, so there may be a performance (finishing) also, out of what you have." },
+      { "n": 12, "text": "For if there is first a willing mind, it is accepted according to what a man has, and not according to what he does not have." },
+      { "n": 13, "text": "For I do not mean that other men are eased (made comfortable), and you burdened." },
+      { "n": 14, "text": "But by an equality (fairness): that now at this time your abundance (plenty) may be a supply for their want (lack). Then their abundance (plenty) also may be a supply for your want (lack). Then there may be equality (fairness)." },
+      { "n": 15, "text": "As it is written: The one who had gathered much had nothing left over. And the one who had gathered little had no lack." },
+      { "n": 16, "text": "But thanks be to God, who put the same earnest care for you into the heart of Titus." },
+      { "n": 17, "text": "For indeed Titus accepted the exhortation (encouragement). But being more forward (eager), he went to you of his own accord (choice)." },
+      { "n": 18, "text": "And we have sent with him the brother whose praise is in the gospel (good news) throughout all the churches." },
+      { "n": 19, "text": "And not only that, but he was also chosen by the churches to travel with us with this grace. This grace is administered (handled) by us to the glory of the same Lord, and to show your ready mind." },
+      { "n": 20, "text": "We avoid this: that any man should blame us in this abundance (large gift) which is administered (handled) by us." },
+      { "n": 21, "text": "We provide for honest things, not only in the sight of the Lord, but also in the sight of men." },
+      { "n": 22, "text": "And we have sent with them our brother. We have often proved him diligent (hard working) in many things. But now he is much more diligent (hard working), because of the great confidence which I have in you." },
+      { "n": 23, "text": "If anyone asks about Titus: he is my partner and fellow helper concerning you. Or if anyone asks about our brothers: they are the messengers of the churches, and the glory of Christ." },
+      { "n": 24, "text": "So show them, and show it before the churches: the proof of your love, and of our boasting (bragging) about you." }
     ]
   },
   "9": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Smoothed from heavy noun repetition back to natural pronoun flow after each subject is first established, matching the site's standard elsewhere.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V10 follows the KJV's prayer form (minister... multiply... increase).",
     "verses": [
-      {
-        "n": 1,
-        "text": "I really do not need to write to you about this offering for God's people."
-      },
-      {
-        "n": 2,
-        "text": "I already know your eager enthusiasm! I boast about you to the Macedonians all the time, saying Achaia was ready a year ago. Your enthusiasm has motivated many people."
-      },
-      {
-        "n": 3,
-        "text": "Still, I sent the brothers so my boasting about you will not prove empty. I want you to be ready, as I said."
-      },
-      {
-        "n": 4,
-        "text": "If Macedonians come with me and find you unprepared, we would be ashamed. You would also be ashamed."
-      },
-      {
-        "n": 5,
-        "text": "So I thought it was necessary to urge the brothers to go ahead to you. I wanted them to arrange your promised gift ahead of time, ready as a generous gift, not squeezed out by greed."
-      },
-      {
-        "n": 6,
-        "text": "Remember this truth: Whoever plants sparingly harvests sparingly. Whoever plants generously harvests a massive crop!"
-      },
-      {
-        "n": 7,
-        "text": "Each of you must give what you decided in your heart. Do not give reluctantly or under pressure. God passionately loves a cheerful, joyful giver!"
-      },
-      {
-        "n": 8,
-        "text": "God can make all grace overflow toward you. Then you will always have enough of everything, and can overflow in every good work."
-      },
-      {
-        "n": 9,
-        "text": "Scripture says: The righteous person scattered gifts everywhere; the righteous person gave to the poor. This righteousness remains forever."
-      },
-      {
-        "n": 10,
-        "text": "God supplies seed for the farmer and bread for food. He will supply and multiply your seed for planting. He will increase the harvest of your righteousness!"
-      },
-      {
-        "n": 11,
-        "text": "God will enrich you in every way so you can be generous. This generosity causes thanksgiving to God through us."
-      },
-      {
-        "n": 12,
-        "text": "This service does two things: it supplies what God's people lack, and it produces many thanksgivings to God."
-      },
-      {
-        "n": 13,
-        "text": "Through this proof of service, God's people will glorify God. They will do this because you obey the good news of Christ, and because you share generously with God's people and with everyone."
-      },
-      {
-        "n": 14,
-        "text": "God's people will also pray for you. They will long for you because of the abundant grace of God in you."
-      },
-      {
-        "n": 15,
-        "text": "Thanks be to God for His indescribable gift."
-      }
+      { "n": 1, "text": "For about the ministering (serving) to the saints (holy people), it is superfluous (not needed) for me to write to you." },
+      { "n": 2, "text": "For I know the forwardness (eagerness) of your mind. For it I boast (brag) about you to those of Macedonia, that Achaia was ready a year ago. And your zeal (eagerness) has stirred up very many." },
+      { "n": 3, "text": "Yet I have sent the brothers, so that our boasting (bragging) about you should not be in vain (for nothing) in this matter. Then, as I said, you may be ready." },
+      { "n": 4, "text": "Otherwise, if those of Macedonia come with me and find you unprepared, we (not to mention you) would be ashamed in this same confident boasting (bragging)." },
+      { "n": 5, "text": "So I thought it necessary to exhort (encourage) the brothers to go before me to you. They will make up your bounty (gift) ahead of time, which you had promised before. Then it may be ready as a matter of bounty (a free gift), and not as of covetousness (greed)." },
+      { "n": 6, "text": "But this I say: The one who sows sparingly (a little) will also reap sparingly (a little). And the one who sows bountifully (much) will also reap bountifully (much)." },
+      { "n": 7, "text": "Let every man give as he purposes (decides) in his heart. Do not give grudgingly (unwillingly), or of necessity (because you have to). For God loves a cheerful giver." },
+      { "n": 8, "text": "And God is able to make all grace abound (overflow) toward you. Then you, always having all sufficiency (enough) in all things, may abound (do much) in every good work." },
+      { "n": 9, "text": "As it is written: He has dispersed (spread) abroad. He has given to the poor. His righteousness (being right with God) remains forever." },
+      { "n": 10, "text": "Now may the One who ministers (gives) seed to the sower both minister (give) bread for your food, and multiply your seed sown, and increase the fruits of your righteousness (being right with God)." },
+      { "n": 11, "text": "You are made rich in everything to all bountifulness (generous giving), which causes thanksgiving to God through us." },
+      { "n": 12, "text": "For the administration (doing) of this service not only supplies the want (lack) of the saints (holy people), but is abundant (overflowing) also by many thanksgivings to God." },
+      { "n": 13, "text": "By the experiment (proof) of this ministration (service), they glorify God for your professed subjection (obedience) to the gospel (good news) of Christ, and for your liberal (generous) distribution (sharing) to them, and to all men." },
+      { "n": 14, "text": "And by their prayer for you, they long after you, because of the exceeding (great) grace of God in you." },
+      { "n": 15, "text": "Thanks be to God for His unspeakable (too great to tell) gift." }
     ]
   },
   "10": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "I appeal to you with the gentleness and kindness of Christ. Some say I am timid and quiet when facing you in person. They claim I act bold and brave only when writing from far away!"
-      },
-      {
-        "n": 2,
-        "text": "I beg you that, when I come, I will not have to be bold with you. Yet I expect to be bold toward some people who think we live in a worldly way."
-      },
-      {
-        "n": 3,
-        "text": "For though we live in the world, we do not fight the way the world fights."
-      },
-      {
-        "n": 4,
-        "text": "The weapons we fight with do not come from this world. Our weapons carry God's power to smash down enemy fortresses!"
-      },
-      {
-        "n": 5,
-        "text": "We smash down rebellious human arguments. We tear down every arrogant barrier raised against the knowledge of God. We capture every rebellious thought like a prisoner of war. We force every thought to submit and obey Christ!"
-      },
-      {
-        "n": 6,
-        "text": "And we are ready to punish every act of disobedience, once your obedience is complete."
-      },
-      {
-        "n": 7,
-        "text": "You are looking at things only on the surface. If anyone is sure that they belong to Christ, they should remember that we belong to Christ just as much as they do."
-      },
-      {
-        "n": 8,
-        "text": "So even if I brag a little too much about the authority the Lord gave us, I will not be ashamed. The Lord gave us this authority to build you up, not to tear you down."
-      },
-      {
-        "n": 9,
-        "text": "I do not want to seem like I am only trying to scare you with my letters."
-      },
-      {
-        "n": 10,
-        "text": "Critics sneer: His written letters are heavy, powerful, and bold. But in person, he looks physically weak and speaks terribly!"
-      },
-      {
-        "n": 11,
-        "text": "Those critics need to realize an important fact. What we say in our letters from far away, we will back up with bold action when we arrive!"
-      },
-      {
-        "n": 12,
-        "text": "We would never dare rank ourselves with those proud self-promoters! They compare themselves only against their own foolish standards. When they do that, they show they have zero real wisdom!"
-      },
-      {
-        "n": 13,
-        "text": "We, however, will not brag beyond proper limits, but only within the area God has given us, which reaches even to you."
-      },
-      {
-        "n": 14,
-        "text": "We are not going too far, as we would be if we had not reached you. In fact, we were the first to come to you with the good news of Christ."
-      },
-      {
-        "n": 15,
-        "text": "We do not brag beyond our limits about work others have done. Our hope is that, as your faith grows, our work among you will greatly expand,"
-      },
-      {
-        "n": 16,
-        "text": "so that we can preach the good news in the regions beyond you. We do not want to brag about work already done in someone else's area."
-      },
-      {
-        "n": 17,
-        "text": "Whoever wants to boast should boast only about what the Lord has done. Self-praise means nothing!"
-      },
-      {
-        "n": 18,
-        "text": "Only the person whom the Lord praises receives God's true approval."
-      }
+      { "n": 1, "text": "Now I, Paul myself, beg you by the meekness (gentleness) and gentleness of Christ. When I am present I am base (lowly) among you, but when I am absent (away) I am bold toward you." },
+      { "n": 2, "text": "But I beg you that I may not have to be bold when I am present, with the confidence with which I think to be bold against some. They think of us as if we walked according to the flesh (worldly way)." },
+      { "n": 3, "text": "For though we walk in the flesh (body), we do not war after the flesh (worldly way)." },
+      { "n": 4, "text": "For the weapons of our warfare (fighting) are not carnal (earthly). But they are mighty through God to the pulling down of strong holds (fortresses)." },
+      { "n": 5, "text": "We are casting down imaginations (wrong thinking), and every high thing that exalts (lifts up) itself against the knowledge of God. We are bringing into captivity (as prisoners) every thought to the obedience of Christ." },
+      { "n": 6, "text": "And we are ready to revenge (punish) all disobedience, when your obedience is fulfilled (complete)." },
+      { "n": 7, "text": "Do you look on things after the outward appearance? If any man trusts in himself that he is Christ's, let him think this again by himself: as he is Christ's, even so are we Christ's." },
+      { "n": 8, "text": "For though I should boast (brag) somewhat more of our authority, which the Lord has given us for edification (building you up) and not for your destruction, I should not be ashamed." },
+      { "n": 9, "text": "I say this so that I may not seem as if I would terrify (scare) you by letters." },
+      { "n": 10, "text": "For they say: His letters are weighty (heavy) and powerful. But his bodily presence is weak, and his speech is contemptible (looked down on)." },
+      { "n": 11, "text": "Let such a man think this: such as we are in word by letters when we are absent (away), such we will be also in deed when we are present." },
+      { "n": 12, "text": "For we do not dare to number ourselves, or compare ourselves, with some who commend (praise) themselves. But they measure themselves by themselves, and compare themselves among themselves. They are not wise." },
+      { "n": 13, "text": "But we will not boast (brag) of things outside our measure (limit). We boast according to the measure (limit) of the rule which God has given to us, a measure that reaches even to you." },
+      { "n": 14, "text": "For we do not stretch ourselves beyond our measure (limit), as though we did not reach to you. For we have come as far as to you also in preaching the gospel (good news) of Christ." },
+      { "n": 15, "text": "We do not boast (brag) of things outside our measure (limit), that is, of other men's labors (work). But we have hope that when your faith grows, we will be enlarged (helped) by you according to our rule abundantly (greatly)," },
+      { "n": 16, "text": "To preach the gospel (good news) in the regions beyond you. We do not boast (brag) in another man's line (area) of things made ready to our hand." },
+      { "n": 17, "text": "But the one who glories (brags), let them glory (brag) in the Lord." },
+      { "n": 18, "text": "For the one who commends (praises) himself is not approved, but the one whom the Lord commends (praises)." }
     ]
   },
   "11": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "I hope you will put up with a little of my foolishness. Yes, please put up with me."
-      },
-      {
-        "n": 2,
-        "text": "I am jealous for you with a godly jealousy. I promised you to one husband, to Christ, so that I could present you to Him as a pure bride."
-      },
-      {
-        "n": 3,
-        "text": "But I am afraid of this: the snake fooled Eve by its trickery. In the same way, your minds may be led away from your sincere and pure love for Christ."
-      },
-      {
-        "n": 4,
-        "text": "Someone visits you and preaches a fake, different Jesus. You welcome a different spirit than the Holy Spirit you received. You accept a different good news than the true Gospel. And you swallow their lies with zero complaint!"
-      },
-      {
-        "n": 5,
-        "text": "But I do not think I am in any way less than those super-apostles."
-      },
-      {
-        "n": 6,
-        "text": "I may not be a trained speaker, but I do have knowledge. We have made this perfectly clear to you in every way."
-      },
-      {
-        "n": 7,
-        "text": "Was it a sin for me to lower myself in order to lift you up, by preaching the good news of God to you free of charge?"
-      },
-      {
-        "n": 8,
-        "text": "I took pay from other churches, robbing them, so to speak, in order to serve you."
-      },
-      {
-        "n": 9,
-        "text": "And when I was with you and needed something, I was not a burden to anyone. The brothers who came from Macedonia gave me what I needed. I have kept myself from being a burden to you in any way, and I will keep on doing so."
-      },
-      {
-        "n": 10,
-        "text": "As surely as the truth of Christ is in me, no one in the regions of Achaia will stop me from being proud of this."
-      },
-      {
-        "n": 11,
-        "text": "Why? Because I do not love you? God knows I do!"
-      },
-      {
-        "n": 12,
-        "text": "And I will keep on doing what I am doing. I do this to take away the excuse from those who are looking for one. They brag about what they do, and they want to be seen as equal to us."
-      },
-      {
-        "n": 13,
-        "text": "Those men are phony apostles and deceitful workers. They disguise themselves to look like true apostles of Christ!"
-      },
-      {
-        "n": 14,
-        "text": "This is no surprise to us at all. Even Satan disguises himself as a radiant angel of light!"
-      },
-      {
-        "n": 15,
-        "text": "So his evil servants disguise themselves as ministers of righteousness. In the end, God will punish them for their evil deeds!"
-      },
-      {
-        "n": 16,
-        "text": "I say again: let no one think I am a fool. But if you do, then accept me as a fool, so that I too may do a little bragging."
-      },
-      {
-        "n": 17,
-        "text": "What I am saying now, I am not saying as the Lord would, but as a fool would, in this confident bragging."
-      },
-      {
-        "n": 18,
-        "text": "Since many people brag in a worldly way, I will brag too."
-      },
-      {
-        "n": 19,
-        "text": "You gladly put up with fools, since you are so wise!"
-      },
-      {
-        "n": 20,
-        "text": "In fact, you put up with anyone who makes you a slave, takes advantage of you, traps you, looks down on you, or slaps you in the face."
-      },
-      {
-        "n": 21,
-        "text": "To my shame, I admit that we were too weak for that! But whatever anyone else dares to brag about, I dare to brag about it too. I am speaking as a fool."
-      },
-      {
-        "n": 22,
-        "text": "Are they Hebrews? So am I. Are they Israelites? So am I. Are they descendants of Abraham? So am I."
-      },
-      {
-        "n": 23,
-        "text": "Are they servants of Christ? I sound crazy talking like this, but I have served Him far more! I worked far harder and went to prison more often. Mobs beat me countless times, and I faced death repeatedly."
-      },
-      {
-        "n": 24,
-        "text": "Five different times, Jewish leaders whipped me with thirty-nine lashes."
-      },
-      {
-        "n": 25,
-        "text": "Three times Roman soldiers beat me with wooden rods. Once an angry mob stoned me with heavy rocks. Three times I suffered terrifying shipwrecks at sea. I spent a full night and day drifting in deep open water!"
-      },
-      {
-        "n": 26,
-        "text": "I faced flash floods, deadly robbers, and murderous mobs. I faced danger in crowded cities, wild deserts, and stormy seas. I faced danger from treacherous phonies pretending to be believers!"
-      },
-      {
-        "n": 27,
-        "text": "I labored exhausted, froze without warm clothes, and starved without food."
-      },
-      {
-        "n": 28,
-        "text": "Besides everything else, I face daily pressure: my concern for all the churches."
-      },
-      {
-        "n": 29,
-        "text": "Who is weak without my feeling weak? Who is led into sin without my burning inside?"
-      },
-      {
-        "n": 30,
-        "text": "If I must brag, I will brag about the things that show my weakness."
-      },
-      {
-        "n": 31,
-        "text": "The God and Father of the Lord Jesus, who is blessed forever, knows that I am not lying."
-      },
-      {
-        "n": 32,
-        "text": "In the city of Damascus, King Aretas's governor guarded every gate to arrest me. Believers placed me inside a large rope basket."
-      },
-      {
-        "n": 33,
-        "text": "They lowered me down through a window in the high city wall! That is how I escaped right out of his greedy hands!"
-      }
+      { "n": 1, "text": "I wish to God you could bear with me a little in my folly (foolishness). And indeed, bear with me." },
+      { "n": 2, "text": "For I am jealous over you with godly jealousy. For I have espoused (promised in marriage) you to one husband, so that I may present you as a chaste (pure) virgin to Christ." },
+      { "n": 3, "text": "But I fear that in some way, as the serpent beguiled (tricked) Eve through his subtilty (cleverness), so your minds should be corrupted (ruined) from the simplicity (an honest heart) that is in Christ." },
+      { "n": 4, "text": "For if someone comes and preaches another Jesus, whom we have not preached, or if you receive another spirit, which you have not received, or another gospel (good news), which you have not accepted, you might well bear with him." },
+      { "n": 5, "text": "For I suppose I was not a whit (one bit) behind the very chiefest (greatest) apostles." },
+      { "n": 6, "text": "But though I am rude (untrained) in speech, yet I am not in knowledge. We have been thoroughly made manifest (shown clearly) among you in all things." },
+      { "n": 7, "text": "Have I committed an offence (sin) in abasing (lowering) myself so that you might be exalted (lifted up), because I have preached to you the gospel (good news) of God freely?" },
+      { "n": 8, "text": "I robbed other churches, taking wages (payment) from them, to do you service." },
+      { "n": 9, "text": "And when I was present with you, and wanted (lacked), I was chargeable (a burden) to no man. For the brothers who came from Macedonia supplied what was lacking to me. And in all things I have kept myself from being burdensome to you, and so I will keep myself." },
+      { "n": 10, "text": "As the truth of Christ is in me, no man will stop me from this boasting (bragging) in the regions of Achaia." },
+      { "n": 11, "text": "Why? Because I do not love you? God knows." },
+      { "n": 12, "text": "But what I do, I will keep doing. Then I may cut off occasion (an excuse) from those who desire occasion (an excuse). Then in what they glory (brag), they may be found even as we are." },
+      { "n": 13, "text": "For such men are false apostles, deceitful (lying) workers, transforming (disguising) themselves into the apostles of Christ." },
+      { "n": 14, "text": "And no marvel (surprise). For Satan himself is transformed (disguised) into an angel of light." },
+      { "n": 15, "text": "So it is no great thing if Satan's ministers (servants) also are transformed (disguised) as the ministers (servants) of righteousness (what is right). Their end will be according to their works." },
+      { "n": 16, "text": "I say again: Let no man think me a fool. But if you do, yet as a fool receive me, so that I may boast (brag) myself a little." },
+      { "n": 17, "text": "What I speak, I do not speak after the Lord, but as it were foolishly, in this confidence of boasting (bragging)." },
+      { "n": 18, "text": "Since many glory (brag) after the flesh (in a worldly way), I will glory (brag) also." },
+      { "n": 19, "text": "For you suffer (put up with) fools gladly, since you yourselves are wise." },
+      { "n": 20, "text": "For you suffer (put up with) it if a man brings you into bondage (slavery), if a man devours (eats up) you, if a man takes from you, if a man exalts (lifts up) himself, if a man strikes you on the face." },
+      { "n": 21, "text": "I speak about reproach (shame), as though we had been weak. But in whatever anyone is bold (I speak foolishly), I am bold also." },
+      { "n": 22, "text": "Are they Hebrews? So am I. Are they Israelites? So am I. Are they the seed of Abraham? So am I." },
+      { "n": 23, "text": "Are they ministers (servants) of Christ? (I speak as a fool.) I am more. I am in labors (hard work) more abundant (greater), in stripes (beatings) above measure, in prisons more often, in deaths often." },
+      { "n": 24, "text": "Five times I received from the Jews forty stripes (lashes) minus one." },
+      { "n": 25, "text": "Three times I was beaten with rods. Once I was stoned. Three times I suffered shipwreck. A night and a day I have been in the deep sea." },
+      { "n": 26, "text": "I have been in journeys often, in perils (dangers) of waters, in perils (dangers) of robbers, in perils (dangers) by my own countrymen, in perils (dangers) by the heathen (people who are not Jews), in perils (dangers) in the city, in perils (dangers) in the wilderness (desert), in perils (dangers) in the sea, in perils (dangers) among false brothers." },
+      { "n": 27, "text": "I have been in weariness and painfulness, in watchings (going without sleep) often, in hunger and thirst, in fastings often, in cold and nakedness." },
+      { "n": 28, "text": "Besides those things that are outside, there is what comes on me daily: the care of all the churches." },
+      { "n": 29, "text": "Who is weak, and I am not weak? Who is offended (made to fall), and I do not burn inside?" },
+      { "n": 30, "text": "If I must glory (brag), I will glory (brag) of the things which are about my infirmities (weaknesses)." },
+      { "n": 31, "text": "The God and Father of our Lord Jesus Christ, who is blessed forever, knows that I do not lie." },
+      { "n": 32, "text": "In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison (soldiers), wanting to apprehend (arrest) me." },
+      { "n": 33, "text": "And I was let down in a basket through a window by the wall, and escaped his hands." }
     ]
   },
   "12": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "I have to keep bragging, even though there is nothing to gain by it. So I will go on to visions and revelations from the Lord."
-      },
-      {
-        "n": 2,
-        "text": "I know a man in Christ. Fourteen years ago, God snatched him up to the highest heaven! Was he inside his body or outside his body? I do not know. Only God knows!"
-      },
-      {
-        "n": 3,
-        "text": "God carried this man straight into Paradise."
-      },
-      {
-        "n": 4,
-        "text": "He heard incredible sacred things that human words are not allowed to tell."
-      },
-      {
-        "n": 5,
-        "text": "I will brag about a man like that, but I will not brag about myself, except about my weaknesses."
-      },
-      {
-        "n": 6,
-        "text": "Even if I did want to brag, I would not be a fool, because I would be telling the truth. But I hold back, so that no one will think more of me than what they see in me or hear from me."
-      },
-      {
-        "n": 7,
-        "text": "God gave me wonderful, glorious revelations. To keep me from becoming arrogant, God gave me a sharp thorn in my flesh. It was a tormenting messenger sent from Satan to beat down my pride!"
-      },
-      {
-        "n": 8,
-        "text": "Three different times I begged the Lord to remove this agony."
-      },
-      {
-        "n": 9,
-        "text": "But the Lord answered me: My grace is all you need! My divine power works best in your human weakness. So now I brag gladly about my physical weaknesses! That way, the mighty power of Christ can rest over me like a shield."
-      },
-      {
-        "n": 10,
-        "text": "That is why, for Christ's sake, I am content with weaknesses, insults, hardships, troubles, and difficulties. For when I am weak, then I am strong."
-      },
-      {
-        "n": 11,
-        "text": "I have made a fool of myself, but you made me do it. You should have been the ones speaking well of me. For I am not in any way less than those super-apostles, even though I am nothing."
-      },
-      {
-        "n": 12,
-        "text": "The marks of a true apostle, signs, wonders, and miracles, were done among you with great patience."
-      },
-      {
-        "n": 13,
-        "text": "How were you treated worse than the other churches, except that I was never a burden to you? Forgive me this wrong!"
-      },
-      {
-        "n": 14,
-        "text": "Now I am ready to visit you for the third time. And I will still refuse to be a financial burden to you! I do not want your money; I want your hearts! Children should not have to save up money for their parents. Parents should save up money to take care of their children!"
-      },
-      {
-        "n": 15,
-        "text": "So I will very gladly spend everything I have, and even spend myself, for you. If I love you more, will you love me less?"
-      },
-      {
-        "n": 16,
-        "text": "Be that as it may, I was not a burden to you. But, you say, I was tricky and trapped you by trickery!"
-      },
-      {
-        "n": 17,
-        "text": "Did I take advantage of you through any of the people I sent to you?"
-      },
-      {
-        "n": 18,
-        "text": "I urged Titus to go to you, and I sent our brother with him. Did Titus take advantage of you? Did we not act in the same spirit and follow the same path?"
-      },
-      {
-        "n": 19,
-        "text": "Have you been thinking all this time that we are just defending ourselves to you? We speak before God, as those who belong to Christ. And everything we do, dear friends, is to build you up."
-      },
-      {
-        "n": 20,
-        "text": "I fear what I might find when I arrive. I might not find you living the way I hope! I dread finding bitter arguing, jealousy, raging anger, and selfish ambition. I fear finding slander, ugly gossip, arrogant pride, and complete disorder!"
-      },
-      {
-        "n": 21,
-        "text": "I fear that my God will humble me before you again. My heart will break over many who fell into gross sin. They have still not repented of their dirty lust, sexual sin, and wild living!"
-      }
+      { "n": 1, "text": "It is not expedient (helpful) for me, no doubt, to glory (brag). I will come to visions and revelations (showings) of the Lord." },
+      { "n": 2, "text": "I knew a man in Christ more than 14 years ago. Whether he was in the body, I cannot tell. Or whether he was out of the body, I cannot tell. God knows. Such a man was caught up to the third heaven." },
+      { "n": 3, "text": "And I knew such a man. Whether he was in the body, or out of the body, I cannot tell. God knows." },
+      { "n": 4, "text": "He was caught up into paradise, and heard unspeakable (too holy to tell) words, which it is not lawful (allowed) for a man to utter (say)." },
+      { "n": 5, "text": "Of such a man I will glory (brag). Yet of myself I will not glory (brag), except in my infirmities (weaknesses)." },
+      { "n": 6, "text": "For though I would want to glory (brag), I will not be a fool, for I will say the truth. But now I forbear (hold back), so that no man should think of me above what he sees me to be, or what he hears of me." },
+      { "n": 7, "text": "And so that I would not be exalted (lifted up with pride) above measure through the abundance (greatness) of the revelations (showings), there was given to me a thorn in the flesh. It was the messenger of Satan to buffet (beat) me, so that I would not be exalted (lifted up with pride) above measure." },
+      { "n": 8, "text": "For this thing I begged the Lord three times, that it might depart from me." },
+      { "n": 9, "text": "And the Lord said to me: My grace is sufficient (enough) for you. For My strength is made perfect in weakness. So most gladly I will rather glory (be proud) in my infirmities (weaknesses), so that the power of Christ may rest on me." },
+      { "n": 10, "text": "So I take pleasure in infirmities (weaknesses), in reproaches (insults), in necessities (needs), in persecutions (attacks for faith), in hard troubles for Christ's sake. For when I am weak, then I am strong." },
+      { "n": 11, "text": "I have become a fool in glorying (bragging). You have compelled (forced) me. For I should have been commended (praised) by you. For in nothing am I behind the very chiefest (greatest) apostles, though I am nothing." },
+      { "n": 12, "text": "Truly the signs of an apostle were done among you in all patience, in signs, and wonders, and mighty deeds." },
+      { "n": 13, "text": "For in what were you inferior (less) than other churches, except that I myself was not burdensome to you? Forgive me this wrong." },
+      { "n": 14, "text": "Look, the third time I am ready to come to you. And I will not be burdensome to you. For I do not seek what is yours, but you. For the children should not lay up (save) for the parents, but the parents for the children." },
+      { "n": 15, "text": "And I will very gladly spend and be spent for you, though the more abundantly (greatly) I love you, the less I am loved." },
+      { "n": 16, "text": "But be it so, I did not burden you. Yet, being crafty (clever), I caught you with guile (a trick)." },
+      { "n": 17, "text": "Did I make a gain (profit) from you by any of those whom I sent to you?" },
+      { "n": 18, "text": "I desired (asked) Titus to go, and with him I sent a brother. Did Titus make a gain (profit) from you? Did we not walk in the same spirit? Did we not walk in the same steps?" },
+      { "n": 19, "text": "Again, do you think that we excuse (defend) ourselves to you? We speak before God in Christ. But we do all things, dearly beloved (dear friends), for your edifying (building up)." },
+      { "n": 20, "text": "For I fear that when I come, I will not find you as I would want, and that I will be found by you as you would not want. I fear there will be debates (arguing), envyings (jealousy), wraths (anger), strifes (fighting), backbitings (speaking evil behind backs), whisperings (gossip), swellings (pride), and tumults (disorder)." },
+      { "n": 21, "text": "And I fear that when I come again, my God will humble me among you. I fear that I will bewail (weep over) many who have sinned already, and have not repented of the uncleanness and fornication (sexual sin) and lasciviousness (wild sinful living) which they have committed." }
     ]
   },
   "13": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "This will be my third visit to you. Every matter must be settled by the word of two or three witnesses."
-      },
-      {
-        "n": 2,
-        "text": "I warned those who sinned earlier during my second visit. Now, while I am away, I warn everyone again. When I return, I will spare no unrepentant sinner!"
-      },
-      {
-        "n": 3,
-        "text": "You want proof that Christ is speaking through me. He is not weak in dealing with you; He is powerful among you."
-      },
-      {
-        "n": 4,
-        "text": "Cruel men nailed Christ to the cross in human weakness. Yet He lives today by the almighty power of God! We share in His weakness, but we will live with Him. We will use God's mighty power to serve you."
-      },
-      {
-        "n": 5,
-        "text": "Examine yourselves to see whether you are in the faith; test yourselves. Do you not know that Jesus Christ is in you? Unless, of course, you fail the test."
-      },
-      {
-        "n": 6,
-        "text": "And I hope you will see that we have not failed the test."
-      },
-      {
-        "n": 7,
-        "text": "We pray to God that you will do no wrong. We do not care about proving that we passed the test. We only care that you do what is right! We want this even if people think we failed."
-      },
-      {
-        "n": 8,
-        "text": "For we cannot do anything against the truth, but only for the truth."
-      },
-      {
-        "n": 9,
-        "text": "We are glad whenever we are weak but you are strong. And our prayer is that you may be fully mature."
-      },
-      {
-        "n": 10,
-        "text": "I write these warnings while I am away from you. I do this so I will not need harsh discipline when I arrive. The Lord gave me authority to build you up strong. He never gave me authority to tear you down!"
-      },
-      {
-        "n": 11,
-        "text": "Finally, brothers and sisters, goodbye. Aim for full maturity, listen to my appeal, agree with one another, and live in peace. Then the God of love and peace will be with you."
-      },
-      {
-        "n": 12,
-        "text": "Greet one another with a holy kiss."
-      },
-      {
-        "n": 13,
-        "text": "All God's people here send you greetings."
-      },
-      {
-        "n": 14,
-        "text": "May the grace of the Lord Jesus Christ be with you! May the boundless love of God surround you! May the fellowship of the Holy Spirit unite all of you! Amen."
-      }
+      { "n": 1, "text": "This is the third time I am coming to you. In the mouth of two or three witnesses every word will be established (made sure)." },
+      { "n": 2, "text": "I told you before, and I tell you ahead of time, as if I were present the second time. And being absent (away) now I write to those who have sinned before, and to all others: if I come again, I will not spare." },
+      { "n": 3, "text": "For you seek a proof of Christ speaking in me. Christ is not weak toward you, but is mighty in you." },
+      { "n": 4, "text": "For though Christ was crucified (put to death on a cross) through weakness, yet He lives by the power of God. For we also are weak in Him, but we will live with Him by the power of God toward you." },
+      { "n": 5, "text": "Examine yourselves, whether you are in the faith. Prove (test) your own selves. Do you not know your own selves, that Jesus Christ is in you, unless you are reprobates (worthless, rejected)?" },
+      { "n": 6, "text": "But I trust that you will know that we are not reprobates (worthless, rejected)." },
+      { "n": 7, "text": "Now I pray to God that you do no evil. Not so that we should appear approved, but so that you should do what is honest, though we are as reprobates (worthless, rejected)." },
+      { "n": 8, "text": "For we can do nothing against the truth, but for the truth." },
+      { "n": 9, "text": "For we are glad when we are weak, and you are strong. And this also we wish, even your perfection (being made complete)." },
+      { "n": 10, "text": "So I write these things while I am absent (away), so that when I am present I will not have to use sharpness. This is according to the power which the Lord has given me for edification (building up), and not for destruction." },
+      { "n": 11, "text": "Finally, brothers and sisters, farewell. Be perfect (complete). Be of good comfort. Be of one mind. Live in peace. And the God of love and peace will be with you." },
+      { "n": 12, "text": "Greet one another with a holy kiss." },
+      { "n": 13, "text": "All the saints (holy people) salute (greet) you." },
+      { "n": 14, "text": "The grace of the Lord Jesus Christ, and the love of God, and the communion (sharing) of the Holy Spirit, be with you all. Amen." }
     ]
   }
 }
