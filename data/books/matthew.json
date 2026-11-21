@@ -260,144 +260,42 @@
   "8": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No pronoun ambiguity found.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. leaving out \"Jesus\" in 8:29 and using \"Gadarenes\"), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "When Jesus came down from the mountain, large crowds followed Him."
-      },
-      {
-        "n": 2,
-        "text": "A man with a skin disease came and knelt before Him. He said: Lord, if You are willing, You can make me clean."
-      },
-      {
-        "n": 3,
-        "text": "Jesus reached out His hand and touched the man. He said: I am willing. Be clean! At once the man was healed of his disease."
-      },
-      {
-        "n": 4,
-        "text": "Then Jesus said to him: Do not tell anyone. Go, show yourself to the priest, and offer the gift that Moses commanded. This will be proof to the people."
-      },
-      {
-        "n": 5,
-        "text": "When Jesus came into Capernaum, an army officer came and begged Him for help."
-      },
-      {
-        "n": 6,
-        "text": "The officer said: Lord, my servant is lying at home, unable to move and suffering terribly."
-      },
-      {
-        "n": 7,
-        "text": "Jesus said to him: I will come and heal him."
-      },
-      {
-        "n": 8,
-        "text": "The officer answered: Lord, I am not worthy to have You come into my house. Just say the word, and my servant will be healed."
-      },
-      {
-        "n": 9,
-        "text": "For I am a man under authority, with soldiers under me. I tell one, Go, and he goes. I tell another, Come, and he comes. I tell my servant, Do this, and he does it."
-      },
-      {
-        "n": 10,
-        "text": "When Jesus heard this, He was amazed. He said to those following Him: I tell you the truth, I have not found anyone in Israel with such great faith."
-      },
-      {
-        "n": 11,
-        "text": "I tell you, many will come from the east and the west and will sit down with Abraham, Isaac, and Jacob in the kingdom of heaven."
-      },
-      {
-        "n": 12,
-        "text": "But those who should belong to the kingdom will be thrown outside into the darkness, where there will be crying and grinding of teeth."
-      },
-      {
-        "n": 13,
-        "text": "Then Jesus said to the officer: Go. It will be done for you just as you believed. And his servant was healed at that very hour."
-      },
-      {
-        "n": 14,
-        "text": "When Jesus came into Peter's house, He saw Peter's mother-in-law lying in bed with a fever."
-      },
-      {
-        "n": 15,
-        "text": "Jesus touched her hand, and the fever left her. She got up and began to serve Him."
-      },
-      {
-        "n": 16,
-        "text": "When evening came, people brought to Jesus many who had demons. He drove out the spirits with a word and healed all who were sick."
-      },
-      {
-        "n": 17,
-        "text": "This happened so that the words of the prophet Isaiah would come true: He took our weaknesses and carried our diseases."
-      },
-      {
-        "n": 18,
-        "text": "When Jesus saw the crowd around Him, He gave orders to cross to the other side of the lake."
-      },
-      {
-        "n": 19,
-        "text": "Then a teacher of the law came and said to Him: Teacher, I will follow You wherever You go."
-      },
-      {
-        "n": 20,
-        "text": "Jesus replied: Foxes have dens and birds have nests, but the Son of Man has no place to lay his head."
-      },
-      {
-        "n": 21,
-        "text": "Another of His disciples said to Him: Lord, first let me go and bury my father."
-      },
-      {
-        "n": 22,
-        "text": "But Jesus told him: Follow me, and let the dead bury their own dead."
-      },
-      {
-        "n": 23,
-        "text": "Then Jesus got into a boat, and His disciples followed Him."
-      },
-      {
-        "n": 24,
-        "text": "Suddenly a terrible storm came up on the lake, so that the waves swept over the boat. But Jesus was sleeping."
-      },
-      {
-        "n": 25,
-        "text": "The disciples went and woke Him, saying: Lord, save us! We are going to drown!"
-      },
-      {
-        "n": 26,
-        "text": "Jesus replied: Why are you afraid? You have so little faith! Then He got up and ordered the winds and the waves to stop, and it became completely calm."
-      },
-      {
-        "n": 27,
-        "text": "The men were amazed. They asked: What kind of man is this? Even the winds and the waves obey Him!"
-      },
-      {
-        "n": 28,
-        "text": "When Jesus came to the other side, to the area of the Gadarenes, two men with demons came out from the tombs to meet Him. They were so dangerous that no one could go that way."
-      },
-      {
-        "n": 29,
-        "text": "The two men shouted: What do You want with us, Son of God? Have You come here to torture us before the appointed time?"
-      },
-      {
-        "n": 30,
-        "text": "Some distance away a large herd of pigs was feeding."
-      },
-      {
-        "n": 31,
-        "text": "The demons begged Jesus: If You drive us out, send us into the herd of pigs."
-      },
-      {
-        "n": 32,
-        "text": "Jesus said to the demons: Go! So they came out and went into the pigs, and the whole herd rushed down the steep hill into the lake and drowned in the water."
-      },
-      {
-        "n": 33,
-        "text": "The men who had been taking care of the pigs ran away. They went into the town and told everything, including what had happened to the men who had the demons."
-      },
-      {
-        "n": 34,
-        "text": "Then the whole town went out to meet Jesus. When they saw Him, they begged Him to leave their area."
-      }
+      { "n": 1, "text": "When Jesus came down from the mountain, great multitudes (large crowds) followed Him." },
+      { "n": 2, "text": "And look, a leper (a man with a skin disease) came and worshipped Jesus. The leper said: Lord, if You will, You can make me clean." },
+      { "n": 3, "text": "Jesus put out His hand and touched the leper. Jesus said: I will. Be clean. And right away his leprosy (skin disease) was cleansed (healed)." },
+      { "n": 4, "text": "Jesus said to the man: See that you tell no one. But go your way, show yourself to the priest, and offer the gift that Moses commanded, for a testimony (proof) to them." },
+      { "n": 5, "text": "When Jesus entered Capernaum, a centurion (army officer over 100 soldiers) came to Jesus and begged Him." },
+      { "n": 6, "text": "The centurion said: Lord, my servant is lying at home sick with palsy (could not move his body). He is suffering terribly." },
+      { "n": 7, "text": "Jesus said to the centurion: I will come and heal him." },
+      { "n": 8, "text": "The centurion answered: Lord, I am not worthy for You to come under my roof. But speak the word only, and my servant will be healed." },
+      { "n": 9, "text": "For I am a man under authority, with soldiers under me. I say to this man, Go, and he goes. I say to another, Come, and he comes. I say to my servant, Do this, and he does it." },
+      { "n": 10, "text": "When Jesus heard this, He marvelled (was amazed). Jesus said to those who followed: Truly I say to you: I have not found such great faith, no, not in Israel." },
+      { "n": 11, "text": "And I say to you: Many will come from the east and west. They will sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven." },
+      { "n": 12, "text": "But the children of the kingdom will be thrown out into outer darkness. There will be weeping and gnashing (grinding) of teeth." },
+      { "n": 13, "text": "Jesus said to the centurion: Go your way. As you have believed, so it will be done for you. And his servant was healed in that same hour." },
+      { "n": 14, "text": "When Jesus came into Peter's house, Jesus saw Peter's wife's mother lying in bed, sick with a fever." },
+      { "n": 15, "text": "Jesus touched her hand, and the fever left her. She got up and ministered to (served) them." },
+      { "n": 16, "text": "When evening came, people brought to Jesus many who were possessed with devils (demons). Jesus cast out (drove out) the spirits with His word, and healed all who were sick." },
+      { "n": 17, "text": "This happened so that what was spoken by Esaias (Isaiah) the prophet would be fulfilled (come true). Isaiah said: He Himself took our infirmities (weaknesses), and carried our sicknesses." },
+      { "n": 18, "text": "When Jesus saw great multitudes (large crowds) around Him, He gave a command to go over to the other side of the lake." },
+      { "n": 19, "text": "A scribe (teacher of the law) came and said to Jesus: Master (Teacher), I will follow You wherever You go." },
+      { "n": 20, "text": "Jesus said to the scribe: The foxes have holes, and the birds of the air have nests. But the Son of Man has no place to lay His head." },
+      { "n": 21, "text": "Another of His disciples said to Jesus: Lord, suffer (allow) me first to go and bury my father." },
+      { "n": 22, "text": "But Jesus said to him: Follow Me. Let the dead bury their dead." },
+      { "n": 23, "text": "Jesus got into a ship (boat), and His disciples followed Him." },
+      { "n": 24, "text": "And look, a great tempest (storm) came up on the sea. The waves covered the ship (boat). But Jesus was asleep." },
+      { "n": 25, "text": "His disciples came to Jesus and woke Him up. They said: Lord, save us. We perish (are dying)." },
+      { "n": 26, "text": "Jesus said to them: Why are you fearful, you of little faith? Then Jesus got up and rebuked (gave a strong command to) the winds and the sea. And there was a great calm." },
+      { "n": 27, "text": "But the men marvelled (were amazed). They said: What kind of man is this, that even the winds and the sea obey Him!" },
+      { "n": 28, "text": "Jesus came to the other side, into the country of the Gergesenes. Two men possessed with devils (demons) met Jesus. They came out of the tombs. They were very fierce (wild and dangerous), so that no one could pass by that way." },
+      { "n": 29, "text": "And look, the two men cried out: What do we have to do with You, Jesus, You Son of God? Have You come here to torment (hurt) us before the time?" },
+      { "n": 30, "text": "A good distance away from them, a herd of many swine (pigs) was feeding." },
+      { "n": 31, "text": "So the devils (demons) begged Jesus: If You cast us out, suffer (allow) us to go away into the herd of swine (pigs)." },
+      { "n": 32, "text": "Jesus said to them: Go. When the devils (demons) came out of the men, they went into the herd of swine (pigs). And look, the whole herd of swine (pigs) ran fast down a steep place into the sea, and died in the waters." },
+      { "n": 33, "text": "The men who kept the swine (pigs) ran away. They went into the city and told everything, and what had happened to the men who had been possessed with devils (demons)." },
+      { "n": 34, "text": "And look, the whole city came out to meet Jesus. When they saw Jesus, they begged Him to leave their coasts (land)." }
     ]
   },
   "9": {
