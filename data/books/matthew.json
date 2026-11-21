@@ -181,144 +181,42 @@
   "6": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he' rendered gender-neutral in v24.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences): v1 'alms,' v4, 6, 18 'reward you openly,' v13 'lead us not into temptation, but deliver us from evil' with the closing 'For Yours is the kingdom...', v27 'one cubit.' Simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Generic 'he' rendered gender-neutral in v24.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Be careful not to do your good deeds in front of others just to be seen by them. If you do, you will get no reward from your Father in heaven."
-      },
-      {
-        "n": 2,
-        "text": "So when you give to the poor, do not announce it with trumpets. The pretenders do that in the synagogues and on the streets, so that others will praise them. I tell you the truth, they already have their full reward."
-      },
-      {
-        "n": 3,
-        "text": "But when you give to the poor, do not let your left hand know what your right hand is doing."
-      },
-      {
-        "n": 4,
-        "text": "Then your giving will be in secret. And your Father, who sees what is done in secret, will reward you."
-      },
-      {
-        "n": 5,
-        "text": "And when you pray, do not be like the pretenders. They love to stand and pray in the synagogues and on the street corners, so that others will see them. I tell you the truth, they already have their full reward."
-      },
-      {
-        "n": 6,
-        "text": "But when you pray, go into your room, close the door, and pray to your Father, who cannot be seen. And your Father, who sees what is done in secret, will reward you."
-      },
-      {
-        "n": 7,
-        "text": "When you pray, do not keep saying the same things over and over, as those who do not know God do. They think they will be heard because they use many words."
-      },
-      {
-        "n": 8,
-        "text": "Do not be like those who do not know God, because your Father knows what you need before you ask Him."
-      },
-      {
-        "n": 9,
-        "text": "This is how you should pray: Our Father in heaven, may Your name be honored."
-      },
-      {
-        "n": 10,
-        "text": "May Your kingdom come. May what You want be done on earth, just as it is done in heaven."
-      },
-      {
-        "n": 11,
-        "text": "Give us today the food we need."
-      },
-      {
-        "n": 12,
-        "text": "Forgive us our sins, as we forgive those who sin against us."
-      },
-      {
-        "n": 13,
-        "text": "Keep us from being tempted, and save us from the evil one. For the kingdom, the power, and the glory are Yours forever. Amen."
-      },
-      {
-        "n": 14,
-        "text": "If you forgive others when they sin against you, your Father in heaven will also forgive you."
-      },
-      {
-        "n": 15,
-        "text": "But if you do not forgive others their sins, your Father will not forgive your sins."
-      },
-      {
-        "n": 16,
-        "text": "When you fast, do not look sad like the pretenders. They make their faces look gloomy so that others can see they are fasting. I tell you the truth, they already have their full reward."
-      },
-      {
-        "n": 17,
-        "text": "But when you fast, comb your hair and wash your face,"
-      },
-      {
-        "n": 18,
-        "text": "So that it will not be obvious to others that you are fasting, but only to your Father, who cannot be seen. And your Father, who sees what is done in secret, will reward you."
-      },
-      {
-        "n": 19,
-        "text": "Do not store up treasures for yourselves here on earth, where moths and rust destroy them, and where thieves break in and steal."
-      },
-      {
-        "n": 20,
-        "text": "Instead, store up treasures for yourselves in heaven, where moths and rust do not destroy, and where thieves do not break in and steal."
-      },
-      {
-        "n": 21,
-        "text": "For wherever your treasure is, there your heart will be also."
-      },
-      {
-        "n": 22,
-        "text": "The eye is like a lamp for the body. If your eyes are good, your whole body will be full of light."
-      },
-      {
-        "n": 23,
-        "text": "But if your eyes are bad, your whole body will be full of darkness. And if the light inside you is really darkness, how great that darkness is!"
-      },
-      {
-        "n": 24,
-        "text": "No one can serve two masters. That person will either hate the one and love the other, or be loyal to the one and look down on the other. You cannot serve both God and money."
-      },
-      {
-        "n": 25,
-        "text": "So I tell you, do not worry about your life, about what you will eat or drink, or about your body and what you will wear. Is not life more than food, and the body more than clothes?"
-      },
-      {
-        "n": 26,
-        "text": "Look at the birds in the sky. They do not plant or harvest or store food in barns, yet your Father in heaven feeds them. Are you not worth much more than they are?"
-      },
-      {
-        "n": 27,
-        "text": "Can any of you add a single hour to your life by worrying?"
-      },
-      {
-        "n": 28,
-        "text": "And why do you worry about clothes? Look at how the wild flowers grow. They do not work or make clothing."
-      },
-      {
-        "n": 29,
-        "text": "But I tell you that not even Solomon in all his glory was dressed as beautifully as one of these."
-      },
-      {
-        "n": 30,
-        "text": "God dresses the grass of the field so well. That grass is here today and thrown into the fire tomorrow. Will He not much more clothe you? You have so little faith!"
-      },
-      {
-        "n": 31,
-        "text": "So do not worry, saying: What will we eat? or, What will we drink? or, What will we wear?"
-      },
-      {
-        "n": 32,
-        "text": "The people who do not know God run after all these things. But your Father in heaven knows that you need them."
-      },
-      {
-        "n": 33,
-        "text": "Instead, put God's kingdom first, and do what He wants, and all these things will be given to you as well."
-      },
-      {
-        "n": 34,
-        "text": "So do not worry about tomorrow, because tomorrow will worry about itself. Each day has enough trouble of its own."
-      }
+      { "n": 1, "text": "Be careful that you do not do your alms (gifts to the poor) in front of people, to be seen by them. If you do, you have no reward from your Father who is in heaven." },
+      { "n": 2, "text": "So when you give alms (gifts to the poor), do not blow a trumpet before you, as the hypocrites (pretenders) do in the synagogues (meeting houses) and in the streets, so that people will praise them. Truly I say to you: They have their reward." },
+      { "n": 3, "text": "But when you give alms (gifts to the poor), do not let your left hand know what your right hand does." },
+      { "n": 4, "text": "Then your alms (gifts to the poor) will be in secret. And your Father, who sees in secret, will reward you openly." },
+      { "n": 5, "text": "And when you pray, do not be like the hypocrites (pretenders). They love to pray standing in the synagogues (meeting houses) and on the corners of the streets, so that people will see them. Truly I say to you: They have their reward." },
+      { "n": 6, "text": "But when you pray, go into your room. When you have shut your door, pray to your Father, who is in secret. And your Father, who sees in secret, will reward you openly." },
+      { "n": 7, "text": "But when you pray, do not use vain repetitions (the same empty words again and again), as the heathen (people who do not know God) do. They think they will be heard because they speak many words." },
+      { "n": 8, "text": "So do not be like them. For your Father knows what things you need before you ask Him." },
+      { "n": 9, "text": "So pray in this way: Our Father who is in heaven, hallowed (holy) be Your name." },
+      { "n": 10, "text": "Your kingdom come. Your will be done on earth, as it is in heaven." },
+      { "n": 11, "text": "Give us this day our daily bread." },
+      { "n": 12, "text": "And forgive us our debts (sins), as we forgive our debtors (those who sin against us)." },
+      { "n": 13, "text": "And lead us not into temptation, but deliver us from evil. For Yours is the kingdom, and the power, and the glory, forever. Amen." },
+      { "n": 14, "text": "For if you forgive people their trespasses (wrongs), your heavenly Father will also forgive you." },
+      { "n": 15, "text": "But if you do not forgive people their trespasses (wrongs), neither will your Father forgive your trespasses (wrongs)." },
+      { "n": 16, "text": "Also, when you fast (go without food), do not be like the hypocrites (pretenders), with a sad face. They make their faces look gloomy, so that people will see they are fasting. Truly I say to you: They have their reward." },
+      { "n": 17, "text": "But when you fast (go without food), anoint (put oil on) your head, and wash your face." },
+      { "n": 18, "text": "Then you will not look to people like you are fasting, but only to your Father, who is in secret. And your Father, who sees in secret, will reward you openly." },
+      { "n": 19, "text": "Do not lay up for yourselves treasures on earth, where moth and rust destroy, and where thieves break in and steal." },
+      { "n": 20, "text": "But lay up for yourselves treasures in heaven, where neither moth nor rust destroys, and where thieves do not break in or steal." },
+      { "n": 21, "text": "For where your treasure is, there will your heart be also." },
+      { "n": 22, "text": "The light of the body is the eye. So if your eye is single (clear and focused), your whole body will be full of light." },
+      { "n": 23, "text": "But if your eye is evil, your whole body will be full of darkness. So if the light that is in you is darkness, how great is that darkness." },
+      { "n": 24, "text": "No one can serve two masters. Either that person will hate the one and love the other, or else hold to the one and despise (look down on) the other. You cannot serve God and mammon (money)." },
+      { "n": 25, "text": "So I say to you: Take no thought (do not worry) for your life, what you will eat or what you will drink. Do not worry for your body, what you will wear. Is not the life more than food, and the body more than clothes?" },
+      { "n": 26, "text": "Look at the birds of the air. They do not sow, or reap, or gather into barns. Yet your heavenly Father feeds them. Are you not much better than they are?" },
+      { "n": 27, "text": "Which of you by taking thought (worrying) can add one cubit (about 18 inches) to your height?" },
+      { "n": 28, "text": "And why do you take thought (worry) about clothes? Think about the lilies of the field, how they grow. They do not work, and they do not spin cloth." },
+      { "n": 29, "text": "And yet I say to you that even Solomon in all his glory was not dressed like one of these." },
+      { "n": 30, "text": "So if God clothes the grass of the field, which is here today and tomorrow is thrown into the oven, will He not much more clothe you, O you of little faith?" },
+      { "n": 31, "text": "So take no thought (do not worry), saying: What will we eat? or, What will we drink? or, What will we wear?" },
+      { "n": 32, "text": "For the Gentiles (people who are not Jews) seek after all these things. And your heavenly Father knows that you need all these things." },
+      { "n": 33, "text": "But seek first the kingdom of God, and His righteousness (being right with God), and all these things will be added to you." },
+      { "n": 34, "text": "So take no thought (do not worry) for tomorrow. Tomorrow will take thought for the things of itself. Each day has enough evil (trouble) of its own." }
     ]
   },
   "7": {
