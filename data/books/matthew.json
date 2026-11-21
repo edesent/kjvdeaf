@@ -887,192 +887,54 @@
   "22": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. \"angels\" instead of \"angels of God\" in 22:30, \"under your feet\" instead of \"thy footstool\" in 22:44, and dropping \"take him away\" in 22:13), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Jesus spoke to them again in teaching stories, saying:"
-      },
-      {
-        "n": 2,
-        "text": "The kingdom of heaven is like a king who prepared a wedding banquet for his son."
-      },
-      {
-        "n": 3,
-        "text": "He sent his servants to call those who had been invited to the banquet, but they refused to come."
-      },
-      {
-        "n": 4,
-        "text": "Then he sent other servants, saying: Tell those who are invited: Look, I have prepared my dinner. My oxen and fattened cattle have been killed, and everything is ready. Come to the wedding banquet."
-      },
-      {
-        "n": 5,
-        "text": "But they paid no attention and went away, one to his field, another to his business."
-      },
-      {
-        "n": 6,
-        "text": "The rest seized his servants, mistreated them, and killed them."
-      },
-      {
-        "n": 7,
-        "text": "The king was furious. He sent his army, destroyed those murderers, and burned their city."
-      },
-      {
-        "n": 8,
-        "text": "Then he said to his servants: The wedding banquet is ready, but those I invited did not deserve to come."
-      },
-      {
-        "n": 9,
-        "text": "So go to the street corners and invite anyone you find to the wedding banquet."
-      },
-      {
-        "n": 10,
-        "text": "The servants went out into the streets and gathered everyone they found, both bad and good, and the wedding hall was filled with guests."
-      },
-      {
-        "n": 11,
-        "text": "When the king came in to see the guests, he noticed a man who was not wearing wedding clothes."
-      },
-      {
-        "n": 12,
-        "text": "He asked him: Friend, how did you get in here without wedding clothes? The man had nothing to say."
-      },
-      {
-        "n": 13,
-        "text": "Then the king told the attendants: Tie him hand and foot and throw him outside, into the darkness, where there will be weeping and grinding of teeth."
-      },
-      {
-        "n": 14,
-        "text": "For many are invited, but few are chosen."
-      },
-      {
-        "n": 15,
-        "text": "Then the Pharisees went out and planned how to trap Jesus in His words."
-      },
-      {
-        "n": 16,
-        "text": "They sent their disciples to Him along with the Herodians. They said: Teacher, we know that You are honest and teach the way of God truthfully. You do not favor anyone, because You pay no attention to who people are."
-      },
-      {
-        "n": 17,
-        "text": "Tell us then, what do you think? Is it right to pay taxes to Caesar or not?"
-      },
-      {
-        "n": 18,
-        "text": "But Jesus knew their evil intent and said: You hypocrites, why are you trying to trap me?"
-      },
-      {
-        "n": 19,
-        "text": "Show me the coin used to pay the tax. They brought Him a silver coin."
-      },
-      {
-        "n": 20,
-        "text": "Jesus asked them: Whose image is this, and whose name is written on it?"
-      },
-      {
-        "n": 21,
-        "text": "Caesar's, they answered. Then He said to them: Give back to Caesar what belongs to Caesar, and to God what belongs to God."
-      },
-      {
-        "n": 22,
-        "text": "When they heard this, they were amazed. So they left Him and went away."
-      },
-      {
-        "n": 23,
-        "text": "That same day the Sadducees, who say there is no resurrection, came to Him with a question."
-      },
-      {
-        "n": 24,
-        "text": "They said: Teacher, Moses said that if a man dies without children, his brother must marry his widow and raise up children for him."
-      },
-      {
-        "n": 25,
-        "text": "Now there were seven brothers among us. The first one married and died, and since he had no children, he left his wife to his brother."
-      },
-      {
-        "n": 26,
-        "text": "The same thing happened to the second and third brothers, and on down to the seventh."
-      },
-      {
-        "n": 27,
-        "text": "Finally, the woman died too."
-      },
-      {
-        "n": 28,
-        "text": "Now then, at the resurrection, whose wife will she be of the seven, since all of them were married to her?"
-      },
-      {
-        "n": 29,
-        "text": "Jesus replied: You are mistaken, because you do not know the Scriptures or the power of God."
-      },
-      {
-        "n": 30,
-        "text": "At the resurrection, people will neither marry nor be given in marriage. They will be like the angels in heaven."
-      },
-      {
-        "n": 31,
-        "text": "Now about the resurrection of the dead. Have you not read what God said to you:"
-      },
-      {
-        "n": 32,
-        "text": "I am the God of Abraham, the God of Isaac, and the God of Jacob? He is not the God of the dead, but of the living."
-      },
-      {
-        "n": 33,
-        "text": "When the crowds heard this, they were amazed at His teaching."
-      },
-      {
-        "n": 34,
-        "text": "When the Pharisees heard that Jesus had silenced the Sadducees, they gathered together."
-      },
-      {
-        "n": 35,
-        "text": "One of them, an expert in the law, tested Him with a question:"
-      },
-      {
-        "n": 36,
-        "text": "Teacher, which is the greatest commandment in the Law?"
-      },
-      {
-        "n": 37,
-        "text": "Jesus replied: Love the Lord your God with all your heart, with all your soul, and with all your mind."
-      },
-      {
-        "n": 38,
-        "text": "This is the first and greatest commandment."
-      },
-      {
-        "n": 39,
-        "text": "And the second is like it: Love your neighbor as yourself."
-      },
-      {
-        "n": 40,
-        "text": "All the Law and the Prophets depend on these two commandments."
-      },
-      {
-        "n": 41,
-        "text": "While the Pharisees were gathered together, Jesus asked them a question:"
-      },
-      {
-        "n": 42,
-        "text": "What do you think about the Christ? Whose son is He? The son of David, they answered."
-      },
-      {
-        "n": 43,
-        "text": "Jesus said to them: Then how is it that David, speaking by the Spirit, calls Him Lord? For David says:"
-      },
-      {
-        "n": 44,
-        "text": "The LORD said to my Lord: Sit at my right hand until I put your enemies under your feet."
-      },
-      {
-        "n": 45,
-        "text": "If David calls Him Lord, how can He be David's son?"
-      },
-      {
-        "n": 46,
-        "text": "No one could answer Him a word, and from that day on, no one dared to ask Him any more questions."
-      }
+      { "n": 1, "text": "Jesus answered and spoke to them again by parables (stories that teach a lesson). Jesus said:" },
+      { "n": 2, "text": "The kingdom of heaven is like a certain king who made a marriage (wedding feast) for his son." },
+      { "n": 3, "text": "He sent out his servants to call those who were bidden (invited) to the wedding. But they would not come." },
+      { "n": 4, "text": "Again, he sent out other servants. He said: Tell those who are bidden (invited): Look, I have prepared my dinner. My oxen and my fatlings (fattened animals) are killed, and all things are ready. Come to the marriage (wedding feast)." },
+      { "n": 5, "text": "But they made light of it (did not care), and went their ways, one to his farm, another to his merchandise (business)." },
+      { "n": 6, "text": "The remnant (the rest) took his servants, and entreated them spitefully (treated them cruelly), and slew (killed) them." },
+      { "n": 7, "text": "But when the king heard of it, he was wroth (very angry). He sent out his armies, and destroyed those murderers, and burned up their city." },
+      { "n": 8, "text": "Then the king said to his servants: The wedding is ready, but those who were bidden (invited) were not worthy." },
+      { "n": 9, "text": "So go into the highways (main roads). And as many as you find, bid (invite) them to the marriage (wedding feast)." },
+      { "n": 10, "text": "So those servants went out into the highways (main roads), and gathered together all as many as they found, both bad and good. And the wedding was furnished (filled) with guests." },
+      { "n": 11, "text": "When the king came in to see the guests, he saw there a man who did not have on a wedding garment (wedding clothes)." },
+      { "n": 12, "text": "The king said to him: Friend, how did you come in here without a wedding garment (wedding clothes)? And the man was speechless." },
+      { "n": 13, "text": "Then the king said to the servants: Bind (tie) him hand and foot, and take him away, and throw him into outer darkness. There will be weeping and gnashing (grinding) of teeth." },
+      { "n": 14, "text": "For many are called, but few are chosen." },
+      { "n": 15, "text": "Then the Pharisees went and took counsel (made plans) how they might entangle (trap) Jesus in His talk." },
+      { "n": 16, "text": "They sent out their disciples to Jesus with the Herodians (followers of King Herod). They said: Master (Teacher), we know that You are true, and teach the way of God in truth. You do not care about anyone's opinion, for You regard not the person of men (do not favor anyone)." },
+      { "n": 17, "text": "So tell us, what do You think? Is it lawful (allowed by the law) to give tribute (tax) to Caesar, or not?" },
+      { "n": 18, "text": "But Jesus perceived (knew) their wickedness. Jesus said: Why do you tempt (test) Me, you hypocrites (pretenders)?" },
+      { "n": 19, "text": "Show Me the tribute (tax) money. And they brought to Jesus a penny (a coin worth a day's pay)." },
+      { "n": 20, "text": "Jesus said to them: Whose is this image (picture) and superscription (writing)?" },
+      { "n": 21, "text": "They said to Jesus: Caesar's. Then Jesus said to them: So render (give) to Caesar the things that are Caesar's, and to God the things that are God's." },
+      { "n": 22, "text": "When they had heard these words, they marvelled (were amazed). They left Jesus, and went their way." },
+      { "n": 23, "text": "The same day the Sadducees came to Jesus. They say that there is no resurrection (rising from the dead). They asked Him:" },
+      { "n": 24, "text": "Master (Teacher), Moses said: If a man dies, having no children, his brother will marry his wife, and raise up seed (children) for his brother." },
+      { "n": 25, "text": "Now there were with us seven brethren (brothers). The first, when he had married a wife, deceased (died). He had no issue (children), so he left his wife to his brother." },
+      { "n": 26, "text": "The same happened to the second also, and the third, up to the seventh." },
+      { "n": 27, "text": "And last of all the woman died also." },
+      { "n": 28, "text": "So in the resurrection (rising from the dead), whose wife will she be of the seven? For they all had her." },
+      { "n": 29, "text": "Jesus answered them: You do err (are wrong), not knowing the scriptures, nor the power of God." },
+      { "n": 30, "text": "For in the resurrection (rising from the dead) they do not marry, nor are given in marriage. But they are like the angels of God in heaven." },
+      { "n": 31, "text": "But about the resurrection (rising) of the dead, have you not read what was spoken to you by God? God said:" },
+      { "n": 32, "text": "I am the God of Abraham, and the God of Isaac, and the God of Jacob. God is not the God of the dead, but of the living." },
+      { "n": 33, "text": "When the multitude (crowd) heard this, they were astonished (amazed) at His doctrine (teaching)." },
+      { "n": 34, "text": "But when the Pharisees had heard that Jesus had put the Sadducees to silence (made them quiet), they gathered together." },
+      { "n": 35, "text": "Then one of them, who was a lawyer (expert in God's law), asked Jesus a question, tempting (testing) Him. He said:" },
+      { "n": 36, "text": "Master (Teacher), which is the great commandment in the law?" },
+      { "n": 37, "text": "Jesus said to him: You shall love the Lord your God with all your heart, and with all your soul, and with all your mind." },
+      { "n": 38, "text": "This is the first and great commandment." },
+      { "n": 39, "text": "And the second is like it: You shall love your neighbour as yourself." },
+      { "n": 40, "text": "On these two commandments hang (depend) all the law and the prophets." },
+      { "n": 41, "text": "While the Pharisees were gathered together, Jesus asked them:" },
+      { "n": 42, "text": "What do you think of Christ? Whose son is He? They said to Jesus: The son of David." },
+      { "n": 43, "text": "Jesus said to them: How then does David in spirit (moved by the Spirit) call Him Lord? David said:" },
+      { "n": 44, "text": "The LORD said to my Lord: Sit on My right hand, until I make Your enemies Your footstool (a place to rest Your feet)." },
+      { "n": 45, "text": "If David then calls Him Lord, how is He his son?" },
+      { "n": 46, "text": "No one was able to answer Jesus a word. And from that day on, no one durst (dared) ask Him any more questions." }
     ]
   },
   "23": {
