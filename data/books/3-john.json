@@ -2,64 +2,22 @@
   "1": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. V10 renamed Diotrephes explicitly instead of five repeated 'he's, and clarified 'them/those' as the traveling believers.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "From the elder. To my dear friend Gaius, whom I love in the truth."
-      },
-      {
-        "n": 2,
-        "text": "Dear friend, I pray that you are doing well and that your body is as healthy as your soul."
-      },
-      {
-        "n": 3,
-        "text": "It made me very glad when some believers came and told me how true you are, and how you keep living in the truth."
-      },
-      {
-        "n": 4,
-        "text": "Nothing makes me happier than to hear that my children are living in the truth."
-      },
-      {
-        "n": 5,
-        "text": "Dear friend, you are faithful in what you do for the believers, even for those who are strangers to you."
-      },
-      {
-        "n": 6,
-        "text": "They told the church about your love. Please help them on their journey in a way that honors God."
-      },
-      {
-        "n": 7,
-        "text": "They went out to serve the name of Christ, and they took no help from people who do not believe."
-      },
-      {
-        "n": 8,
-        "text": "So we should welcome people like this, to work together for the truth."
-      },
-      {
-        "n": 9,
-        "text": "I wrote to the church, but Diotrephes, who loves to be first, will not listen to us."
-      },
-      {
-        "n": 10,
-        "text": "So when I come, I will bring up what Diotrephes is doing: Diotrephes tells lies about us with evil words. And Diotrephes is not satisfied with that. Diotrephes refuses to welcome traveling believers, stops other believers who want to welcome them, and puts those believers out of the church."
-      },
-      {
-        "n": 11,
-        "text": "Dear friend, do not copy what is evil, but copy what is good. Whoever does good belongs to God, but whoever does evil has not seen God."
-      },
-      {
-        "n": 12,
-        "text": "Everyone speaks well of Demetrius, and so does the truth itself. We also speak well of him, and you know that what we say is true."
-      },
-      {
-        "n": 13,
-        "text": "I have much to write to you, but I do not want to write it with pen and ink."
-      },
-      {
-        "n": 14,
-        "text": "I hope to see you soon, and then we will talk face to face. Peace to you. The friends here send their greetings. Greet each friend there by name."
-      }
+      { "n": 1, "text": "The elder to the wellbeloved (dearly loved) Gaius, whom I love in the truth." },
+      { "n": 2, "text": "Beloved (dear friend), I wish above all things that you may prosper (do well) and be in health, even as your soul prospers (does well)." },
+      { "n": 3, "text": "For I rejoiced greatly when the brothers came and testified (told) of the truth that is in you, even as you walk in the truth." },
+      { "n": 4, "text": "I have no greater joy than to hear that my children walk in truth." },
+      { "n": 5, "text": "Beloved (dear friend), you do faithfully whatever you do for the brothers, and for strangers." },
+      { "n": 6, "text": "They have borne witness of your charity (love) before the church. If you bring them forward on their journey in a godly way, you will do well." },
+      { "n": 7, "text": "Because for His name's sake they went out, taking nothing from the Gentiles (people who are not Jews)." },
+      { "n": 8, "text": "So we ought to receive such people, so that we might be fellowhelpers (helpers together) to the truth." },
+      { "n": 9, "text": "I wrote to the church. But Diotrephes, who loves to have the preeminence (first place) among them, does not receive us." },
+      { "n": 10, "text": "So if I come, I will remember the deeds Diotrephes does, prating (talking nonsense) against us with malicious (hateful) words. And not content with that, Diotrephes himself does not receive the brothers. He forbids those who want to, and casts them out of the church." },
+      { "n": 11, "text": "Beloved (dear friend), do not follow what is evil, but what is good. The one who does good is of God. But the one who does evil has not seen God." },
+      { "n": 12, "text": "Demetrius has good report from all men, and from the truth itself. Yes, and we also bear record (witness), and you know that our record (witness) is true." },
+      { "n": 13, "text": "I had many things to write, but I will not write to you with ink and pen." },
+      { "n": 14, "text": "But I trust I will see you shortly, and we will speak face to face. Peace be to you. Our friends salute (greet) you. Greet the friends by name." }
     ]
   }
 }
