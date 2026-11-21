@@ -95,155 +95,47 @@
   },
   "3": {
     "verses": [
-      {
-        "n": 1,
-        "text": "There was a Pharisee. His name was Nicodemus. Nicodemus was a leader of the Jews."
-      },
-      {
-        "n": 2,
-        "text": "Nicodemus came to Jesus in the night and said to Jesus: Teacher, we know that you are a teacher sent from God. No one can do these miracles that you do unless they have God's help."
-      },
-      {
-        "n": 3,
-        "text": "Jesus answered Nicodemus: I tell you this is true: Anyone who is not born again cannot be in God's kingdom."
-      },
-      {
-        "n": 4,
-        "text": "Nicodemus asked Jesus: But how can a person be born again when he is old? Can he go back into his mother's womb and be born a second time?"
-      },
-      {
-        "n": 5,
-        "text": "Jesus said to Nicodemus: I tell you the truth. A person must be born from water and from the Spirit. Otherwise that person cannot enter God's kingdom."
-      },
-      {
-        "n": 6,
-        "text": "Humans can only give birth to human life, but the Holy Spirit gives birth to spiritual life."
-      },
-      {
-        "n": 7,
-        "text": "Do not be surprised when I say you must be born again."
-      },
-      {
-        "n": 8,
-        "text": "The wind blows where it wants to blow. You can hear and see the wind blow, but you do not know where it comes from and where it goes. It is the same with someone who is born of the Spirit of God."
-      },
-      {
-        "n": 9,
-        "text": "Nicodemus asked Jesus: How can this happen?"
-      },
-      {
-        "n": 10,
-        "text": "Jesus said: Nicodemus, you are a teacher of the Israelites, and you do not understand these things?"
-      },
-      {
-        "n": 11,
-        "text": "I tell you this and it is true: We talk about what we know. We tell about what we have seen. But you people do not accept what we tell you"
-      },
-      {
-        "n": 12,
-        "text": "If I told you about something that has happened on earth, and you do not believe it. So, I am sure you will not believe me if I tell you about heavenly things!"
-      },
-      {
-        "n": 13,
-        "text": "No person has ever gone up to heaven. Only I, the Son of Man, have done that, and I also came down from heaven."
-      },
-      {
-        "n": 14,
-        "text": "Just as Moses lifted up the snake in the desert, the Son of Man must be lifted up in the same way."
-      },
-      {
-        "n": 15,
-        "text": "Everyone who believes in Jesus, the Son of Man, will not be destroyed but have eternal life."
-      },
-      {
-        "n": 16,
-        "text": "Yes, God loved the world so much that He gave His one and only Son. Everyone who believes in the Son will not be destroyed. They will have eternal life."
-      },
-      {
-        "n": 17,
-        "text": "God did not send His Son into the world to judge the world guilty, but to save the world through the Son."
-      },
-      {
-        "n": 18,
-        "text": "People who believe in God's Son, Jesus, are not judged guilty. But people who do not believe are already judged guilty, because they have not believed in God's only Son."
-      },
-      {
-        "n": 19,
-        "text": "People are judged guilty by this fact: The light has come into this world, but people loved the darkness, not the light, for their works were evil."
-      },
-      {
-        "n": 20,
-        "text": "People who do bad things do not love the light. They do not come into the light for fear that their sinful ways will be seen and rebuked."
-      },
-      {
-        "n": 21,
-        "text": "People who live by the truth come to the light. Then the light will show that whatever they have done was done through God."
-      },
-      {
-        "n": 22,
-        "text": "After this, Jesus and His disciples went to the area of Judea. There He spent time with His disciples and people were baptized."
-      },
-      {
-        "n": 23,
-        "text": "John was also baptizing people in a town called Aenon near Salim, because there was a lot of water there. The people came to John and he baptized them."
-      },
-      {
-        "n": 24,
-        "text": "This was before John was put in jail."
-      },
-      {
-        "n": 25,
-        "text": "Then a debate started between John's disciples and a certain Jew about purification."
-      },
-      {
-        "n": 26,
-        "text": "They went to John and said: Teacher, listen to this new report! The Man who was with you across the Jordan River is baptizing. He is the Man you told us about, and everyone follows Him!"
-      },
-      {
-        "n": 27,
-        "text": "John replied: A man can receive only what is given him from heaven."
-      },
-      {
-        "n": 28,
-        "text": "You yourselves heard me say, I am not the Christ. I am only the one God sent to prepare the way for him."
-      },
-      {
-        "n": 29,
-        "text": "At a wedding it is the bridegroom who gets the bride. The bridegroom's friend is simply glad to stand with him and hear his vows. Therefore, I am filled with joy at Jesus' success."
-      },
-      {
-        "n": 30,
-        "text": "Jesus must become more important, and I must become unimportant."
-      },
-      {
-        "n": 31,
-        "text": "Jesus came from heaven, and He is more important than everyone. Someone who comes from the world belongs to the world, and that person talks about things of the world. Someone who comes from heaven is more important than anyone on earth."
-      },
-      {
-        "n": 32,
-        "text": "Jesus talks about the things that He has seen and heard, but people do not accept what He says."
-      },
-      {
-        "n": 33,
-        "text": "Anyone who believes what Jesus says identifies themselves with God's truth."
-      },
-      {
-        "n": 34,
-        "text": "God sent Jesus to tell people what God says. God gave the Spirit to Him without limit."
-      },
-      {
-        "n": 35,
-        "text": "The Father, God, loves the Son, Jesus, and has given Him power over everything."
-      },
-      {
-        "n": 36,
-        "text": "Anyone who believes in the Son, Jesus, has eternal life. But anyone who does not believe in Him will not have life. They cannot get away from God's anger."
-      }
+      { "n": 1, "text": "There was a man of the Pharisees, named Nicodemus, a ruler of the Jews." },
+      { "n": 2, "text": "The same came to Jesus by night, and said to Him: Rabbi (Teacher), we know that You are a teacher come from God. For no man can do these miracles that You do, unless God is with him." },
+      { "n": 3, "text": "Jesus answered and said to him: Verily, verily (truly, truly), I say to you: Except a man be born again, he cannot see the kingdom of God." },
+      { "n": 4, "text": "Nicodemus said to Him: How can a man be born when he is old? Can he enter the second time into his mother's womb, and be born?" },
+      { "n": 5, "text": "Jesus answered: Verily, verily (truly, truly), I say to you: Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God." },
+      { "n": 6, "text": "That which is born of the flesh is flesh. And that which is born of the Spirit is spirit." },
+      { "n": 7, "text": "Marvel not (do not be amazed) that I said to you: You must be born again." },
+      { "n": 8, "text": "The wind blows where it wants to, and you hear the sound of it, but cannot tell where it comes from, and where it goes. So is every one who is born of the Spirit." },
+      { "n": 9, "text": "Nicodemus answered and said to Him: How can these things be?" },
+      { "n": 10, "text": "Jesus answered and said to him: Are you a master (teacher) of Israel, and do not know these things?" },
+      { "n": 11, "text": "Verily, verily (truly, truly), I say to you: We speak what we know, and testify (tell) what we have seen. And you do not receive our witness." },
+      { "n": 12, "text": "If I have told you earthly things, and you do not believe, how will you believe, if I tell you of heavenly things?" },
+      { "n": 13, "text": "And no man has ascended up (gone up) to heaven, but He who came down from heaven, even the Son of man who is in heaven." },
+      { "n": 14, "text": "And as Moses lifted up the serpent (snake) in the wilderness (desert), even so must the Son of man be lifted up," },
+      { "n": 15, "text": "That whoever believes in Him should not perish (be destroyed), but have eternal life." },
+      { "n": 16, "text": "For God so loved the world, that He gave His only begotten (one and only) Son, that whoever believes in Him should not perish (be destroyed), but have everlasting life." },
+      { "n": 17, "text": "For God sent not His Son into the world to condemn (judge guilty) the world. But that the world through Him might be saved." },
+      { "n": 18, "text": "The one who believes on Him is not condemned (judged guilty). But the one who does not believe is condemned already, because he has not believed in the name of the only begotten (one and only) Son of God." },
+      { "n": 19, "text": "And this is the condemnation (being judged guilty), that light has come into the world, and men loved darkness rather than light, because their deeds were evil." },
+      { "n": 20, "text": "For every one who does evil hates the light, and does not come to the light, lest his deeds should be reproved (shown to be wrong)." },
+      { "n": 21, "text": "But the one who does truth comes to the light, that his deeds may be made manifest (shown), that they are wrought (done) in God." },
+      { "n": 22, "text": "After these things came Jesus and His disciples into the land of Judea. And there He tarried (stayed) with them, and baptized." },
+      { "n": 23, "text": "And John also was baptizing in Aenon near to Salim, because there was much water there. And they came, and were baptized." },
+      { "n": 24, "text": "For John was not yet cast into prison." },
+      { "n": 25, "text": "Then there arose a question between some of John's disciples and the Jews about purifying (washing)." },
+      { "n": 26, "text": "And they came to John, and said to him: Rabbi (Teacher), He who was with you beyond Jordan, to whom you bore witness, look, the same baptizes, and all men come to Him." },
+      { "n": 27, "text": "John answered and said: A man can receive nothing, except it be given him from heaven." },
+      { "n": 28, "text": "You yourselves bear me witness, that I said: I am not the Christ, but that I am sent before Him." },
+      { "n": 29, "text": "The one who has the bride is the bridegroom (the man getting married). But the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom's voice. So this my joy is fulfilled." },
+      { "n": 30, "text": "He must increase, but I must decrease." },
+      { "n": 31, "text": "He who comes from above is above all. The one who is of the earth is earthly, and speaks of the earth. He who comes from heaven is above all." },
+      { "n": 32, "text": "And what He has seen and heard, that He testifies (tells). And no man receives His testimony (witness)." },
+      { "n": 33, "text": "The one who has received His testimony (witness) has set to his seal (has agreed) that God is true." },
+      { "n": 34, "text": "For He whom God has sent speaks the words of God. For God gives not the Spirit by measure (in a limited amount) unto Him." },
+      { "n": 35, "text": "The Father loves the Son, and has given all things into His hand." },
+      { "n": 36, "text": "The one who believes on the Son has everlasting life. And the one who does not believe the Son will not see life. But the wrath (anger) of God abides (stays) on him." }
     ],
     "sourceUrl": "https://kjvdeaf.com/john-chapter-3/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by nouns and vocabulary chosen to match natural ASL signs. Fixed pronoun ambiguity in the well-known John 3:16-17 and several grammar issues throughout.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "4": {
