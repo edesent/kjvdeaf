@@ -162,7 +162,7 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - lame (people who cannot walk well); offended in Me (does not turn away because of Me); reed (tall grass); raiment (clothes)
   - suffers violence (is attacked); prophesied (spoke God's message); Elias (Elijah); generation (people living now) -- in Jesus' sayings
   - piped (played the flute); lamented (cried); gluttonous (eats too much); winebibber (drinks too much wine)
-  - upbraid (scold); woe (great trouble); sackcloth (rough cloth worn when sorry); exalted (lifted up); hell (the grave) -- where the Greek is Hades
+  - upbraid (scold); woe (great trouble); sackcloth (rough cloth worn when sorry); exalted (lifted up)
   - prudent (clever); babes (little children); labour (work hard); heavy laden (carry heavy loads)
   - yoke (wooden bar for working together); lowly (humble); burden (load)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
