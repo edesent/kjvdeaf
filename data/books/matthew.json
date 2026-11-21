@@ -556,152 +556,44 @@
   "14": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No pronoun ambiguity found. V20's 'small hand-baskets' (Greek kophinoi) sets up a deliberate contrast with the 'large provision hampers' (spyrides) used in the feeding of the 4,000 (ch15) and referenced explicitly by Jesus himself in ch16:9-10 -- a distinction the KJV's uniform 'baskets' loses.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. \"far from land\" instead of \"in the midst of the sea\" in 14:24), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V20 keeps the KJV word 'baskets' and explains it as 'small hand-baskets' (Greek kophinoi), kept distinct from the 'large hampers' (spyrides) of 15:37 and 16:9-10.",
     "verses": [
-      {
-        "n": 1,
-        "text": "About that time Herod the ruler heard the reports about Jesus."
-      },
-      {
-        "n": 2,
-        "text": "Herod said to his servants: This is John the Baptist. He has come back from the dead, and that is why he has the power to do miracles."
-      },
-      {
-        "n": 3,
-        "text": "Herod had arrested John, tied him up, and put him in prison because of Herodias, the wife of his brother Philip."
-      },
-      {
-        "n": 4,
-        "text": "John had been telling Herod: It is not right for you to have her."
-      },
-      {
-        "n": 5,
-        "text": "Herod wanted to kill John, but he was afraid of the people, because they believed John was a prophet."
-      },
-      {
-        "n": 6,
-        "text": "On Herod's birthday, the daughter of Herodias danced for the guests and pleased Herod."
-      },
-      {
-        "n": 7,
-        "text": "So Herod promised with an oath to give her anything she asked for."
-      },
-      {
-        "n": 8,
-        "text": "Her mother told her what to say, so she said: Give me right here the head of John the Baptist on a plate."
-      },
-      {
-        "n": 9,
-        "text": "The king was sad, but because of his oath and his guests, he ordered that her wish be granted."
-      },
-      {
-        "n": 10,
-        "text": "The king sent men to behead John in the prison."
-      },
-      {
-        "n": 11,
-        "text": "John's head was brought in on a plate and given to the girl, who took it to her mother."
-      },
-      {
-        "n": 12,
-        "text": "John's disciples came and took his body and buried it. Then they went and told Jesus."
-      },
-      {
-        "n": 13,
-        "text": "When Jesus heard what had happened, He went away in a boat to a lonely place to be alone. But the crowds heard about it and followed Him on foot from the towns."
-      },
-      {
-        "n": 14,
-        "text": "When Jesus came ashore and saw the large crowd, He felt sorry for them and healed their sick."
-      },
-      {
-        "n": 15,
-        "text": "As evening came, His disciples came to Him and said: This is a lonely place, and it is already late. Send the people away so they can go to the villages and buy food for themselves."
-      },
-      {
-        "n": 16,
-        "text": "Jesus replied: They do not need to go away. You give them something to eat."
-      },
-      {
-        "n": 17,
-        "text": "They said to Him: All we have here is five loaves of bread and two fish."
-      },
-      {
-        "n": 18,
-        "text": "Jesus said: Bring them here to me."
-      },
-      {
-        "n": 19,
-        "text": "Jesus told the people to sit down on the grass. Then He took the five loaves and the two fish, looked up to heaven, and gave thanks. He broke the loaves and gave them to the disciples, and the disciples gave them to the people."
-      },
-      {
-        "n": 20,
-        "text": "Everyone ate and was full, and the disciples picked up twelve small hand-baskets of leftover pieces."
-      },
-      {
-        "n": 21,
-        "text": "About five thousand men ate, besides women and children."
-      },
-      {
-        "n": 22,
-        "text": "Right away Jesus made His disciples get into the boat and go ahead of Him to the other side, while He sent the people away."
-      },
-      {
-        "n": 23,
-        "text": "After Jesus had sent them away, He went up on a mountain by Himself to pray. When evening came, He was there alone."
-      },
-      {
-        "n": 24,
-        "text": "By now the boat was far from land, tossed about by the waves, because the wind was against it."
-      },
-      {
-        "n": 25,
-        "text": "Some time before dawn, Jesus came to the disciples, walking on the water."
-      },
-      {
-        "n": 26,
-        "text": "When they saw Him walking on the water, they were terrified. They said: It is a ghost! And they cried out in fear."
-      },
-      {
-        "n": 27,
-        "text": "But right away Jesus said to them: Be brave! It is I. Do not be afraid."
-      },
-      {
-        "n": 28,
-        "text": "Peter answered: Lord, if it is you, tell me to come to you on the water."
-      },
-      {
-        "n": 29,
-        "text": "Jesus said: Come. So Peter got out of the boat and walked on the water toward Jesus."
-      },
-      {
-        "n": 30,
-        "text": "But when Peter saw the strong wind, he was afraid. As he began to sink, he cried out: Lord, save me!"
-      },
-      {
-        "n": 31,
-        "text": "At once Jesus reached out His hand and caught him. He said: Your faith is so small. Why did you doubt?"
-      },
-      {
-        "n": 32,
-        "text": "And when they climbed into the boat, the wind stopped."
-      },
-      {
-        "n": 33,
-        "text": "Then those in the boat worshiped Jesus, saying: You really are the Son of God."
-      },
-      {
-        "n": 34,
-        "text": "When they had crossed over, they came to land at Gennesaret."
-      },
-      {
-        "n": 35,
-        "text": "When the people there recognized Jesus, they sent word to the whole area around them, and the people brought Him all who were sick."
-      },
-      {
-        "n": 36,
-        "text": "They begged Him to let the sick just touch the edge of His coat, and all who touched it were healed."
-      }
+      { "n": 1, "text": "At that time Herod the tetrarch (ruler over part of a land) heard of the fame (news) of Jesus." },
+      { "n": 2, "text": "Herod said to his servants: This is John the Baptist. He is risen from the dead. That is why mighty works show themselves in him." },
+      { "n": 3, "text": "For Herod had taken hold of John, tied him up, and put him in prison. Herod did this for the sake of Herodias, his brother Philip's wife." },
+      { "n": 4, "text": "For John said to Herod: It is not lawful (allowed by the law) for you to have her." },
+      { "n": 5, "text": "Herod wanted to put John to death, but Herod feared the multitude (crowd), because they counted John as a prophet." },
+      { "n": 6, "text": "But when Herod's birthday was kept (celebrated), the daughter of Herodias danced before them, and pleased Herod." },
+      { "n": 7, "text": "So Herod promised with an oath (promise) to give her whatever she would ask." },
+      { "n": 8, "text": "Her mother had told her ahead of time what to say. So she said: Give me here John Baptist's head in a charger (large platter)." },
+      { "n": 9, "text": "The king was sorry. But for the oath's (promise's) sake, and for the people who sat with him at meat (at the meal), Herod commanded it to be given to her." },
+      { "n": 10, "text": "Herod sent and beheaded (cut off the head of) John in the prison." },
+      { "n": 11, "text": "John's head was brought in a charger (large platter), and given to the damsel (girl). And she brought it to her mother." },
+      { "n": 12, "text": "John's disciples came, took up the body, and buried it. Then they went and told Jesus." },
+      { "n": 13, "text": "When Jesus heard of it, He left there by ship (boat) to a desert place, to be alone. When the people heard of it, they followed Jesus on foot out of the cities." },
+      { "n": 14, "text": "Jesus went out, and saw a great multitude (crowd). Jesus was moved with compassion (deep pity) toward them, and He healed their sick." },
+      { "n": 15, "text": "When it was evening, His disciples came to Jesus. They said: This is a desert place, and the time is now late. Send the multitude (crowd) away, so they may go into the villages and buy themselves victuals (food)." },
+      { "n": 16, "text": "But Jesus said to them: They do not need to go away. You give them something to eat." },
+      { "n": 17, "text": "They said to Jesus: We have here only five loaves (of bread), and two fishes." },
+      { "n": 18, "text": "Jesus said: Bring them here to Me." },
+      { "n": 19, "text": "Jesus commanded the multitude (crowd) to sit down on the grass. Jesus took the five loaves and the two fishes. Looking up to heaven, He blessed, and broke, and gave the loaves to His disciples. And the disciples gave them to the multitude." },
+      { "n": 20, "text": "They all ate, and were filled. They took up twelve baskets (small hand-baskets) full of the fragments (pieces) that were left." },
+      { "n": 21, "text": "Those who had eaten were about five thousand men, besides women and children." },
+      { "n": 22, "text": "Right away Jesus constrained (made) His disciples get into a ship (boat), and go before Him to the other side, while He sent the multitudes (crowds) away." },
+      { "n": 23, "text": "When Jesus had sent the multitudes (crowds) away, He went up into a mountain alone to pray. When the evening came, Jesus was there alone." },
+      { "n": 24, "text": "But the ship (boat) was now in the middle of the sea, tossed with waves. For the wind was contrary (blowing against them)." },
+      { "n": 25, "text": "In the fourth watch of the night (between 3 and 6 in the morning), Jesus went to them, walking on the sea." },
+      { "n": 26, "text": "When the disciples saw Jesus walking on the sea, they were troubled (afraid). They said: It is a spirit (ghost)! And they cried out for fear." },
+      { "n": 27, "text": "But right away Jesus spoke to them: Be of good cheer (take heart). It is I. Do not be afraid." },
+      { "n": 28, "text": "Peter answered Jesus: Lord, if it is You, bid (tell) me to come to You on the water." },
+      { "n": 29, "text": "Jesus said: Come. When Peter had come down out of the ship (boat), he walked on the water, to go to Jesus." },
+      { "n": 30, "text": "But when Peter saw the wind boisterous (strong and rough), he was afraid. Beginning to sink, Peter cried out: Lord, save me." },
+      { "n": 31, "text": "Right away Jesus stretched out His hand, and caught Peter. Jesus said to him: O you of little faith, why did you doubt?" },
+      { "n": 32, "text": "When they had come into the ship (boat), the wind ceased (stopped)." },
+      { "n": 33, "text": "Then those who were in the ship (boat) came and worshipped Jesus. They said: Truly You are the Son of God." },
+      { "n": 34, "text": "When they had gone over the sea, they came into the land of Gennesaret." },
+      { "n": 35, "text": "When the men of that place knew it was Jesus, they sent out into all the country around. They brought to Jesus all who were diseased (sick)." },
+      { "n": 36, "text": "They besought (begged) Jesus that they might only touch the hem (edge) of His garment (clothes). And as many as touched were made perfectly whole (completely healed)." }
     ]
   },
   "15": {
