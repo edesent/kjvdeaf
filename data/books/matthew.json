@@ -645,120 +645,36 @@
   "16": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his/himself' rendered gender-neutral in v24-26. V9-10 restores the deliberate contrast Jesus himself draws between 'small hand-baskets' (kophinoi, the 5,000 feeding) and 'large provision hampers' (spyrides, the 4,000 feeding) -- the KJV's uniform 'baskets' erases the very distinction Jesus is quizzing the disciples on.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. \"the Christ\" instead of \"Jesus the Christ\" in 16:20, and it added words not in the KJV in 16:21 such as 'corrupt priests' and 'evil men'), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, with generic 'he/his' rendered gender-neutral in v24-27. V9-10 keep the KJV word 'baskets' with the small hand-baskets / large hampers distinction of 14:20 and 15:37.",
     "verses": [
-      {
-        "n": 1,
-        "text": "The Pharisees and Sadducees came to test Jesus. They asked Him to show them a sign from heaven."
-      },
-      {
-        "n": 2,
-        "text": "Jesus answered: In the evening you say, The weather will be good, because the sky is red."
-      },
-      {
-        "n": 3,
-        "text": "And in the morning you say, It will be stormy today, because the sky is red and cloudy. You know how to read the look of the sky, but you cannot read the signs of the times."
-      },
-      {
-        "n": 4,
-        "text": "Only an evil and unfaithful people look for a sign. But none will be given to them except the sign of Jonah. Then Jesus left them and went away."
-      },
-      {
-        "n": 5,
-        "text": "When the disciples crossed to the other side of the lake, they forgot to bring bread."
-      },
-      {
-        "n": 6,
-        "text": "Jesus said to them: Be careful. Watch out for the yeast of the Pharisees and Sadducees."
-      },
-      {
-        "n": 7,
-        "text": "The disciples talked about this among themselves and said: He says this because we did not bring any bread."
-      },
-      {
-        "n": 8,
-        "text": "Jesus knew what they were saying, so He said: You have so little faith. Why are you talking about having no bread?"
-      },
-      {
-        "n": 9,
-        "text": "Do you still not understand? Do you not remember the five loaves for the five thousand, and how many small hand-baskets you picked up?"
-      },
-      {
-        "n": 10,
-        "text": "Or the seven loaves for the four thousand, and how many large provision hampers you picked up?"
-      },
-      {
-        "n": 11,
-        "text": "How is it that you do not understand? I was not talking to you about bread. I told you to watch out for the yeast of the Pharisees and Sadducees."
-      },
-      {
-        "n": 12,
-        "text": "Then they understood that He was not telling them to watch out for the yeast used in bread, but for the teaching of the Pharisees and Sadducees."
-      },
-      {
-        "n": 13,
-        "text": "When Jesus came to the area of Caesarea Philippi, He asked His disciples: Who do people say the Son of Man is?"
-      },
-      {
-        "n": 14,
-        "text": "They answered: Some say John the Baptist. Others say Elijah, and still others say Jeremiah or one of the prophets."
-      },
-      {
-        "n": 15,
-        "text": "But what about you? Jesus asked. Who do you say I am?"
-      },
-      {
-        "n": 16,
-        "text": "Simon Peter answered: You are the Christ, the Son of the living God."
-      },
-      {
-        "n": 17,
-        "text": "Jesus replied: God has blessed you, Simon son of Jonah. No person showed this to you, but my Father in heaven did."
-      },
-      {
-        "n": 18,
-        "text": "And I tell you, you are Peter, and on this rock I will build my church, and the gates of hell will not prevail (win) against it."
-      },
-      {
-        "n": 19,
-        "text": "I will give you the keys of the kingdom of heaven. Whatever you do not allow on earth will not be allowed in heaven, and whatever you allow on earth will be allowed in heaven."
-      },
-      {
-        "n": 20,
-        "text": "Then Jesus warned His disciples not to tell anyone that He was the Christ."
-      },
-      {
-        "n": 21,
-        "text": "From that time on, Jesus explained His coming path to the disciples. He explained that He must travel directly to the city of Jerusalem. Corrupt priests, elders, and legal teachers would make Him suffer terribly. Evil men would kill Him, but God would raise Him on day three!"
-      },
-      {
-        "n": 22,
-        "text": "Peter took Him aside and began to correct Him. He said: Never, Lord! This will never happen to You!"
-      },
-      {
-        "n": 23,
-        "text": "But Jesus turned and said to Peter: Get behind me, Satan! You are getting in my way. You are not thinking about the things of God, but about the things of people."
-      },
-      {
-        "n": 24,
-        "text": "Then Jesus said to His disciples: If anyone wants to follow me, they must say no to themselves, take up their cross, and follow me."
-      },
-      {
-        "n": 25,
-        "text": "For whoever wants to save their life will lose it, but whoever loses their life for me will find it."
-      },
-      {
-        "n": 26,
-        "text": "What good is it for someone to gain the whole world but lose their soul? Or what can a person give to buy back their soul?"
-      },
-      {
-        "n": 27,
-        "text": "For the Son of Man is going to come in His Father's glory with His angels. Then He will reward each person according to what he has done."
-      },
-      {
-        "n": 28,
-        "text": "I tell you the truth, some who are standing here will not die before they see the Son of Man coming in His kingdom."
-      }
+      { "n": 1, "text": "The Pharisees with the Sadducees came to Jesus. Tempting (testing) Him, they desired (asked) Him to show them a sign from heaven." },
+      { "n": 2, "text": "Jesus answered them: When it is evening, you say: It will be fair (good) weather, for the sky is red." },
+      { "n": 3, "text": "And in the morning you say: It will be foul (stormy) weather today, for the sky is red and lowring (dark and cloudy). O you hypocrites (pretenders), you can discern (read) the face of the sky. But can you not discern (read) the signs of the times?" },
+      { "n": 4, "text": "A wicked and adulterous (unfaithful to God) generation (people living now) seeks after a sign. But no sign will be given to it, except the sign of the prophet Jonas (Jonah). And Jesus left them, and went away." },
+      { "n": 5, "text": "When His disciples had come to the other side, they had forgotten to take bread." },
+      { "n": 6, "text": "Then Jesus said to them: Take heed (be careful) and beware of the leaven (yeast) of the Pharisees and of the Sadducees." },
+      { "n": 7, "text": "They reasoned (talked it over) among themselves. They said: It is because we have taken no bread." },
+      { "n": 8, "text": "When Jesus perceived (knew) it, He said to them: O you of little faith, why do you reason (talk it over) among yourselves, because you have brought no bread?" },
+      { "n": 9, "text": "Do you not yet understand? Do you not remember the five loaves of the five thousand, and how many baskets (small hand-baskets) you took up?" },
+      { "n": 10, "text": "Or the seven loaves of the four thousand, and how many baskets (large hampers) you took up?" },
+      { "n": 11, "text": "How is it that you do not understand that I did not speak to you about bread? I told you to beware of the leaven (yeast) of the Pharisees and of the Sadducees." },
+      { "n": 12, "text": "Then they understood. Jesus did not tell them to beware of the leaven (yeast) of bread, but of the doctrine (teaching) of the Pharisees and of the Sadducees." },
+      { "n": 13, "text": "When Jesus came into the coasts (land) of Caesarea Philippi, He asked His disciples: Who do men say that I, the Son of Man, am?" },
+      { "n": 14, "text": "They said: Some say that You are John the Baptist. Some say Elias (Elijah). And others say Jeremias (Jeremiah), or one of the prophets." },
+      { "n": 15, "text": "Jesus said to them: But who do you say that I am?" },
+      { "n": 16, "text": "Simon Peter answered: You are the Christ, the Son of the living God." },
+      { "n": 17, "text": "Jesus answered him: Blessed are you, Simon Barjona (son of Jonah). For flesh and blood (no human) has not revealed (shown) this to you, but My Father who is in heaven." },
+      { "n": 18, "text": "And I say also to you: You are Peter, and on this rock I will build My church. And the gates of hell will not prevail (win) against it." },
+      { "n": 19, "text": "And I will give to you the keys of the kingdom of heaven. Whatever you bind (forbid) on earth will be bound in heaven. And whatever you loose (allow) on earth will be loosed in heaven." },
+      { "n": 20, "text": "Then Jesus charged (strongly told) His disciples that they should tell no one that He was Jesus the Christ." },
+      { "n": 21, "text": "From that time Jesus began to show His disciples that He must go to Jerusalem. He must suffer many things from the elders and chief priests and scribes (teachers of the law), and be killed, and be raised again the third day." },
+      { "n": 22, "text": "Then Peter took Jesus aside, and began to rebuke (scold) Him. Peter said: Be it far from You, Lord. This will not happen to You." },
+      { "n": 23, "text": "But Jesus turned and said to Peter: Get behind Me, Satan. You are an offence (stumbling block) to Me. For you savour (care about) not the things of God, but the things of men." },
+      { "n": 24, "text": "Then Jesus said to His disciples: If anyone will come after Me, let them deny themselves (say no to self), and take up their cross, and follow Me." },
+      { "n": 25, "text": "For whoever will save their life will lose it. And whoever will lose their life for My sake will find it." },
+      { "n": 26, "text": "For what is a person profited (helped), if they gain the whole world, and lose their own soul? Or what will a person give in exchange for their soul?" },
+      { "n": 27, "text": "For the Son of Man will come in the glory of His Father with His angels. And then He will reward every person according to their works." },
+      { "n": 28, "text": "Truly I say to you: There are some standing here who will not taste of death (die), until they see the Son of Man coming in His kingdom." }
     ]
   },
   "17": {
