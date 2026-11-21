@@ -1183,140 +1183,41 @@
   "27": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely -- its completion finishes the whole Gospel of Matthew. Covers the trial before Pilate, the death of Judas, the crucifixion, Jesus' death, and his burial.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. \"wine\" instead of \"vinegar\" in 27:34, dropping the prophecy quote in 27:35, \"this just person\" in 27:24 and \"Joseph\" for \"Joses\" in 27:56, and it added words in 27:19), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Early in the morning, all the chief priests and the elders of the people plotted against Jesus to put Him to death."
-      },
-      {
-        "n": 2,
-        "text": "They bound Him, led Him away, and handed Him over to Pilate the governor."
-      },
-      {
-        "n": 3,
-        "text": "When Judas, who had betrayed Him, saw that Jesus was condemned, he was filled with remorse. He returned the thirty silver coins to the chief priests and elders."
-      },
-      {
-        "n": 4,
-        "text": "Judas said: I have sinned, for I have betrayed innocent blood. They replied: What is that to us? That is your responsibility."
-      },
-      {
-        "n": 5,
-        "text": "Judas threw the silver coins into the temple and left. Then he went away and hanged himself."
-      },
-      {
-        "n": 6,
-        "text": "The chief priests picked up the coins and said: It is not lawful to put this into the treasury, since it is blood money."
-      },
-      {
-        "n": 7,
-        "text": "So they decided to use the money to buy the potter's field as a burial place for foreigners."
-      },
-      {
-        "n": 8,
-        "text": "That is why it has been called the Field of Blood to this day."
-      },
-      {
-        "n": 9,
-        "text": "Then what was spoken through Jeremiah the prophet was fulfilled: They took the thirty silver coins, the price set on Him by the people of Israel,"
-      },
-      {
-        "n": 10,
-        "text": "And they used them to buy the potter's field, just as the Lord commanded me."
-      },
-      {
-        "n": 11,
-        "text": "Jesus stood before the governor, and the governor asked Him: Are you the king of the Jews? Jesus said: You have said so."
-      },
-      {
-        "n": 12,
-        "text": "When the chief priests and elders brought charges against Him, He gave no answer."
-      },
-      {
-        "n": 13,
-        "text": "Then Pilate asked Him: Do you not hear how many charges they are bringing against you?"
-      },
-      {
-        "n": 14,
-        "text": "But Jesus made no reply, not even to a single charge, and the governor was greatly amazed."
-      },
-      {
-        "n": 15,
-        "text": "Now it was the governor's custom at the festival to release a prisoner chosen by the crowd."
-      },
-      {
-        "n": 16,
-        "text": "At that time they had a well-known prisoner named Barabbas."
-      },
-      {
-        "n": 17,
-        "text": "So when the crowd had gathered, Pilate asked them: Which one do you want me to release to you: Barabbas, or Jesus who is called the Christ?"
-      },
-      {
-        "n": 18,
-        "text": "He knew it was out of envy that they had handed Jesus over to him."
-      },
-      {
-        "n": 19,
-        "text": "While Pilate sat upon the judge's bench, his wife sent him a message: Do not harm that innocent man who stands on trial before you today. Today I suffered terrible, painful nightmares in a dream all because of Him."
-      },
-      {
-        "n": 20,
-        "text": "But the chief priests and elders persuaded the crowd to ask for Barabbas and to have Jesus put to death."
-      },
-      {
-        "n": 21,
-        "text": "The governor asked them: Which of the two do you want me to release to you? Barabbas, they answered."
-      },
-      {
-        "n": 22,
-        "text": "Pilate asked: Then what should I do with Jesus who is called the Christ? They all answered: Crucify Him!"
-      },
-      {
-        "n": 23,
-        "text": "Why? What crime has He committed? Pilate asked. But they shouted all the louder: Crucify Him!"
-      },
-      {
-        "n": 24,
-        "text": "When Pilate saw that he was accomplishing nothing and that a riot was starting instead, he took water. He washed his hands in front of the crowd and said: I am innocent of this man's blood. It is your responsibility!"
-      },
-      {
-        "n": 25,
-        "text": "All the people answered: Let His blood be on us and on our children."
-      },
-      {
-        "n": 26,
-        "text": "Then Pilate released Barabbas to them. But he had Jesus whipped, and handed Him over to be crucified."
-      },
-      {
-        "n": 27,
-        "text": "Then the governor's soldiers took Jesus into the governor's headquarters and gathered the whole company of soldiers around Him."
-      },
-      {
-        "n": 28,
-        "text": "They stripped Him and put a scarlet robe on Him,"
-      },
-      {
-        "n": 29,
-        "text": "And they twisted together a crown of thorns and put it on His head. They put a staff in His right hand and knelt in front of Him and mocked Him, saying: Hail, king of the Jews!"
-      },
-      {
-        "n": 30,
-        "text": "They spit on Him and took the staff and struck Him on the head again and again."
-      },
-      {
-        "n": 31,
-        "text": "After they had mocked Him, they took off the robe and put His own clothes back on Him. Then they led Him away to crucify Him."
-      },
-      {
-        "n": 32,
-        "text": "As they were going out, they found a man from Cyrene named Simon, and they forced him to carry the cross."
-      },
-      {
-        "n": 33,
-        "text": "They came to a place called Golgotha, which means the Place of the Skull."
-      },
+      { "n": 1, "text": "When the morning came, all the chief priests and elders of the people took counsel (made plans) against Jesus to put Him to death." },
+      { "n": 2, "text": "When they had bound (tied up) Jesus, they led Him away, and delivered (handed) Him to Pontius Pilate the governor." },
+      { "n": 3, "text": "Then Judas, who had betrayed (handed over) Jesus, saw that Jesus was condemned (judged guilty). Judas repented himself (was sorry), and brought back the thirty pieces of silver to the chief priests and elders." },
+      { "n": 4, "text": "Judas said: I have sinned, because I have betrayed (handed over) the innocent blood. They said: What is that to us? See to that yourself." },
+      { "n": 5, "text": "Judas threw down the pieces of silver in the temple, and left. He went and hanged himself." },
+      { "n": 6, "text": "The chief priests took the silver pieces, and said: It is not lawful (allowed by the law) to put them into the treasury (temple money box), because it is the price of blood." },
+      { "n": 7, "text": "They took counsel (made plans), and with the silver they bought the potter's field, to bury strangers in." },
+      { "n": 8, "text": "So that field was called The field of blood, to this day." },
+      { "n": 9, "text": "Then what was spoken by Jeremy (Jeremiah) the prophet was fulfilled (came true). He said: And they took the thirty pieces of silver, the price of Him that was valued, whom the children of Israel valued." },
+      { "n": 10, "text": "And they gave them for the potter's field, as the Lord appointed (told) me." },
+      { "n": 11, "text": "Jesus stood before the governor. The governor asked Him: Are You the King of the Jews? Jesus said to him: You say it." },
+      { "n": 12, "text": "When Jesus was accused by the chief priests and elders, He answered nothing." },
+      { "n": 13, "text": "Then Pilate said to Jesus: Do You not hear how many things they witness against You?" },
+      { "n": 14, "text": "But Jesus answered him not even one word. So the governor marvelled (was amazed) greatly." },
+      { "n": 15, "text": "Now at that feast the governor was wont (used) to release to the people one prisoner, whoever they wanted." },
+      { "n": 16, "text": "They had then a notable (well-known) prisoner, called Barabbas." },
+      { "n": 17, "text": "So when they were gathered together, Pilate said to them: Who do you want me to release to you? Barabbas, or Jesus who is called Christ?" },
+      { "n": 18, "text": "For Pilate knew that because of envy (jealousy) they had delivered (handed) Jesus over." },
+      { "n": 19, "text": "When Pilate was set down on the judgment seat, his wife sent a message to him. She said: Have nothing to do with that just (good and innocent) man. For I have suffered many things this day in a dream because of Him." },
+      { "n": 20, "text": "But the chief priests and elders persuaded the multitude (crowd) to ask for Barabbas, and to destroy Jesus." },
+      { "n": 21, "text": "The governor answered them: Which of the twain (two) do you want me to release to you? They said: Barabbas." },
+      { "n": 22, "text": "Pilate said to them: What will I do then with Jesus who is called Christ? They all said to him: Let Him be crucified (nailed to a cross)." },
+      { "n": 23, "text": "The governor said: Why, what evil has He done? But they cried out even more: Let Him be crucified (nailed to a cross)." },
+      { "n": 24, "text": "When Pilate saw that he could prevail (win) nothing, but that a tumult (riot) was starting instead, he took water, and washed his hands before the multitude (crowd). Pilate said: I am innocent of the blood of this just (good and innocent) person. See to it yourselves." },
+      { "n": 25, "text": "Then all the people answered: His blood be on us, and on our children." },
+      { "n": 26, "text": "Then Pilate released Barabbas to them. When he had scourged (whipped) Jesus, he delivered (handed) Him to be crucified (nailed to a cross)." },
+      { "n": 27, "text": "Then the soldiers of the governor took Jesus into the common hall (the governor's hall). They gathered to Him the whole band (group) of soldiers." },
+      { "n": 28, "text": "They stripped Him, and put a scarlet (bright red) robe on Him." },
+      { "n": 29, "text": "When they had platted (woven) a crown of thorns, they put it on His head, and a reed (stick) in His right hand. They bowed the knee before Him, and mocked Him. They said: Hail (greetings), King of the Jews!" },
+      { "n": 30, "text": "They spit on Him, and took the reed (stick), and smote (struck) Him on the head." },
+      { "n": 31, "text": "After they had mocked Him, they took the robe off Him, and put His own raiment (clothes) on Him. And they led Him away to crucify (nail to a cross) Him." },
+      { "n": 32, "text": "As they came out, they found a man of Cyrene, named Simon. They compelled (forced) him to bear (carry) His cross." },
+      { "n": 33, "text": "They came to a place called Golgotha, that is to say, a place of a skull." },
       {
         "n": 34,
         "text": "There they offered Jesus wine mixed with gall to drink, but after tasting it, He refused to drink it."
