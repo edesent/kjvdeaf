@@ -227,6 +227,12 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - virgins (young women not yet married); vessels (jars) -- Matthew 25:4; tarried (was slow to come); slumbered (got sleepy); trimmed (got ready) -- of lamps
   - talent / talents (a huge amount of money / huge amounts of money); several (own); reckoned (settled the money); reap (harvest); sown (planted); strawed (scattered seed)
   - slothful (lazy); exchangers (bankers); usury (interest); unprofitable (useless); inasmuch as (since); athirst (thirsty)
+  - passover (feast of freedom from Egypt); consulted (made plans); subtilty (trickery); uproar (riot); alabaster box (a stone jar); ointment (perfumed oil)
+  - memorial (a way to remember); covenanted (agreed); unleavened bread (bread made without yeast); appointed (told); new testament (new agreement) -- Matthew 26:28; remission (forgiveness)
+  - cock (rooster); deny (say you do not know) -- of Peter; thrice (three times); heavy (troubled) -- Matthew 26:37; tarry (stay); nevertheless (but)
+  - staves (clubs) -- of a mob; hold fast (tight); hail (greetings); legions (armies); afar off (from a distance); council (Jewish court) -- Matthew 26:59
+  - adjure (command); hereafter (from now on); rent (tore); guilty of death (deserves to die); buffeted (punched); prophesy (tell us by God's power) -- Matthew 26:68
+  - without (outside); damsel / maid (servant girl) -- Matthew 26:69-71; bewrays (gives away); swear (make oaths); crew (crowed)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
