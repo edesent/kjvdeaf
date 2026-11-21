@@ -599,164 +599,47 @@
   "15": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his' rendered gender-neutral in v4-6. V37 restores 'large baskets' (Greek spyrides) to distinguish from the smaller 'baskets' (kophinoi) used in the 5,000 feeding in chapter 14 -- a deliberate distinction in the Greek marking this as a separate, largely Gentile feeding, which the same English word for both would lose.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. leaving out \"or his mother\" in 15:6, \"draweth nigh unto me with their mouth\" in 15:8, and using \"Magadan\" for \"Magdala\" in 15:39), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, with generic 'he/his' rendered gender-neutral in v4-6. V37 keeps the KJV word 'baskets' and explains it as 'large hampers' (Greek spyrides), kept distinct from the 'small hand-baskets' (kophinoi) of 14:20.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Then some Pharisees and teachers of the law came to Jesus from Jerusalem and asked:"
-      },
-      {
-        "n": 2,
-        "text": "Why do Your disciples break the teaching of the elders? They do not wash their hands before they eat."
-      },
-      {
-        "n": 3,
-        "text": "Jesus answered: And why do you break the command of God for the sake of your own teaching?"
-      },
-      {
-        "n": 4,
-        "text": "For God said: Honor your father and mother. And: Anyone who curses a father or mother must be put to death."
-      },
-      {
-        "n": 5,
-        "text": "But you say that a person may tell that person's father or mother: Whatever help you might have received from me is now a gift given to God."
-      },
-      {
-        "n": 6,
-        "text": "In that way that person does not have to honor a father or mother. So you cancel the word of God for the sake of your own teaching."
-      },
-      {
-        "n": 7,
-        "text": "You pretenders! Isaiah was right when he spoke about you:"
-      },
-      {
-        "n": 8,
-        "text": "These people honor me with their lips, but their hearts are far away from me."
-      },
-      {
-        "n": 9,
-        "text": "Their worship of me means nothing. They teach human rules as if they were God's commands."
-      },
-      {
-        "n": 10,
-        "text": "Jesus called the crowd to Him and said: Listen and understand."
-      },
-      {
-        "n": 11,
-        "text": "It is not what goes into the mouth that makes a person unclean. It is what comes out of the mouth that makes a person unclean."
-      },
-      {
-        "n": 12,
-        "text": "Then the disciples came to Him and said: Do you know that the Pharisees were offended when they heard this?"
-      },
-      {
-        "n": 13,
-        "text": "Jesus answered: Every plant that my heavenly Father has not planted will be pulled up by the roots."
-      },
-      {
-        "n": 14,
-        "text": "Leave them alone. They are blind guides. And if a blind person leads a blind person, both will fall into a pit."
-      },
-      {
-        "n": 15,
-        "text": "Peter said: Explain this teaching story to us."
-      },
-      {
-        "n": 16,
-        "text": "Jesus asked: Do you still not understand?"
-      },
-      {
-        "n": 17,
-        "text": "Do you not see that whatever goes into the mouth goes into the stomach and then passes out of the body?"
-      },
-      {
-        "n": 18,
-        "text": "But the things that come out of the mouth come from the heart, and these make a person unclean."
-      },
-      {
-        "n": 19,
-        "text": "For out of the heart come evil thoughts, murder, adultery, sexual sin, stealing, lying, and insulting God."
-      },
-      {
-        "n": 20,
-        "text": "These are the things that make a person unclean. But eating with unwashed hands does not make a person unclean."
-      },
-      {
-        "n": 21,
-        "text": "Then Jesus left that place and went away to the area of Tyre and Sidon."
-      },
-      {
-        "n": 22,
-        "text": "A woman from Canaan who lived in that area came to Him, crying out: Lord, Son of David, have mercy on me! My daughter is suffering terribly from a demon."
-      },
-      {
-        "n": 23,
-        "text": "Jesus did not answer her a word. So His disciples came and begged Him: Send her away, for she keeps crying out after us."
-      },
-      {
-        "n": 24,
-        "text": "Jesus answered: I was sent only to the lost sheep of Israel."
-      },
-      {
-        "n": 25,
-        "text": "But the woman came and knelt before Him. She said: Lord, help me!"
-      },
-      {
-        "n": 26,
-        "text": "Jesus replied: It is not right to take the children's bread and throw it to the dogs."
-      },
-      {
-        "n": 27,
-        "text": "She said: Yes, Lord, but even the dogs eat the crumbs that fall from their masters' table."
-      },
-      {
-        "n": 28,
-        "text": "Then Jesus answered her: Woman, your faith is great! What you want will be done for you. And her daughter was healed at that very hour."
-      },
-      {
-        "n": 29,
-        "text": "Jesus left there and went along the Sea of Galilee. Then He went up on a mountain and sat down."
-      },
-      {
-        "n": 30,
-        "text": "Large crowds came to Him, bringing the lame, the blind, those who could not speak, the crippled, and many others. They laid them at Jesus' feet, and He healed them."
-      },
-      {
-        "n": 31,
-        "text": "The people were amazed when they saw those who could not speak now speaking, the crippled made well, the lame walking, and the blind seeing. And they praised the God of Israel."
-      },
-      {
-        "n": 32,
-        "text": "Then Jesus called His disciples to Him and said: I feel sorry for these people. They have been with me three days now and have nothing to eat. I do not want to send them away hungry, or they may faint on the way."
-      },
-      {
-        "n": 33,
-        "text": "His disciples answered: Where could we get enough bread in this lonely place to feed such a large crowd?"
-      },
-      {
-        "n": 34,
-        "text": "Jesus asked: How many loaves do you have? They answered: Seven, and a few small fish."
-      },
-      {
-        "n": 35,
-        "text": "Jesus told the crowd to sit down on the ground."
-      },
-      {
-        "n": 36,
-        "text": "Then Jesus took the seven loaves and the fish, gave thanks, broke them, and gave them to the disciples, and the disciples gave them to the people."
-      },
-      {
-        "n": 37,
-        "text": "They all ate and were full. Afterward the disciples picked up seven large provision hampers of leftover pieces."
-      },
-      {
-        "n": 38,
-        "text": "Four thousand men ate, besides women and children."
-      },
-      {
-        "n": 39,
-        "text": "After Jesus had sent the crowd away, He got into the boat and went to the area of Magadan."
-      }
+      { "n": 1, "text": "Then scribes (teachers of the law) and Pharisees who were from Jerusalem came to Jesus. They said:" },
+      { "n": 2, "text": "Why do Your disciples transgress (break) the tradition (handed-down rules) of the elders? For they do not wash their hands when they eat bread." },
+      { "n": 3, "text": "But Jesus answered them: Why do you also transgress (break) the commandment of God by your tradition (handed-down rules)?" },
+      { "n": 4, "text": "For God commanded: Honour (respect) your father and mother. And: Whoever curses father or mother, let that person die the death (surely be put to death)." },
+      { "n": 5, "text": "But you say: Whoever says to their father or their mother, It is a gift (given to God), whatever help you might have had from me," },
+      { "n": 6, "text": "And does not honour (respect) their father or their mother, that person will be free. So you have made the commandment of God of none effect (worthless) by your tradition (handed-down rules)." },
+      { "n": 7, "text": "You hypocrites (pretenders), Esaias (Isaiah) prophesied (spoke God's message) well about you. Isaiah said:" },
+      { "n": 8, "text": "This people draws nigh (comes near) to Me with their mouth, and honours (respects) Me with their lips. But their heart is far from Me." },
+      { "n": 9, "text": "But in vain (for nothing) they worship Me, teaching for doctrines (teachings) the commandments of men." },
+      { "n": 10, "text": "Jesus called the multitude (crowd) and said to them: Hear, and understand." },
+      { "n": 11, "text": "What goes into the mouth does not defile (make unclean) a man. But what comes out of the mouth, this defiles (makes unclean) a man." },
+      { "n": 12, "text": "Then His disciples came and said to Jesus: Do You know that the Pharisees were offended (upset) after they heard this saying?" },
+      { "n": 13, "text": "But Jesus answered: Every plant that My heavenly Father has not planted will be rooted up." },
+      { "n": 14, "text": "Let them alone. They are blind leaders of the blind. And if the blind lead the blind, both will fall into the ditch." },
+      { "n": 15, "text": "Then Peter answered Jesus: Declare (explain) to us this parable (story that teaches a lesson)." },
+      { "n": 16, "text": "Jesus said: Are you also still without understanding?" },
+      { "n": 17, "text": "Do you not yet understand? Whatever enters in at the mouth goes into the belly (stomach), and is thrown out into the draught (toilet)." },
+      { "n": 18, "text": "But the things that come out of the mouth come from the heart. And they defile (make unclean) the man." },
+      { "n": 19, "text": "For out of the heart come evil thoughts, murders, adulteries (being unfaithful in marriage), fornications (sexual sins), thefts, false witness (lies about others), blasphemies (speaking against God)." },
+      { "n": 20, "text": "These are the things that defile (make unclean) a man. But to eat with unwashen hands does not defile (make unclean) a man." },
+      { "n": 21, "text": "Then Jesus went from there, and left for the coasts (land) of Tyre and Sidon." },
+      { "n": 22, "text": "And look, a woman of Canaan came out of the same coasts (land). She cried to Jesus: Have mercy on me, O Lord, You Son of David. My daughter is grievously vexed (badly troubled) with a devil (demon)." },
+      { "n": 23, "text": "But Jesus did not answer her a word. His disciples came and besought (begged) Jesus: Send her away, for she cries after us." },
+      { "n": 24, "text": "But Jesus answered: I am not sent except to the lost sheep of the house of Israel." },
+      { "n": 25, "text": "Then she came and worshipped Jesus. She said: Lord, help me." },
+      { "n": 26, "text": "But Jesus answered: It is not meet (right) to take the children's bread and throw it to dogs." },
+      { "n": 27, "text": "She said: Truth, Lord. Yet the dogs eat of the crumbs that fall from their masters' table." },
+      { "n": 28, "text": "Then Jesus answered her: O woman, great is your faith. Let it be done for you just as you want. And her daughter was made whole (healed) from that very hour." },
+      { "n": 29, "text": "Jesus left there, and came nigh (near) to the sea of Galilee. Jesus went up into a mountain, and sat down there." },
+      { "n": 30, "text": "Great multitudes (large crowds) came to Jesus. They had with them people who were lame (could not walk well), blind, dumb (could not speak), maimed (missing or crippled body parts), and many others. They laid them down at Jesus' feet, and He healed them." },
+      { "n": 31, "text": "So the multitude (crowd) wondered (were amazed) when they saw the dumb (those who could not speak) speak, the maimed (crippled) made whole (healed), the lame (those who could not walk well) walk, and the blind see. And they glorified (praised) the God of Israel." },
+      { "n": 32, "text": "Then Jesus called His disciples to Him and said: I have compassion (deep pity) on the multitude (crowd). They have stayed with Me now three days, and have nothing to eat. I will not send them away fasting (without food), or they may faint (pass out) on the way." },
+      { "n": 33, "text": "His disciples said to Jesus: Where could we get so much bread in the wilderness (desert), to fill so great a multitude (crowd)?" },
+      { "n": 34, "text": "Jesus said to them: How many loaves (of bread) do you have? They said: Seven, and a few little fishes." },
+      { "n": 35, "text": "Jesus commanded the multitude (crowd) to sit down on the ground." },
+      { "n": 36, "text": "Jesus took the seven loaves and the fishes, and gave thanks. He broke them, and gave to His disciples. And the disciples gave to the multitude." },
+      { "n": 37, "text": "They all ate, and were filled. They took up seven baskets (large hampers) full of the broken meat (leftover food) that was left." },
+      { "n": 38, "text": "Those who ate were four thousand men, besides women and children." },
+      { "n": 39, "text": "Jesus sent away the multitude (crowd), and took ship (got into a boat), and came into the coasts (land) of Magdala." }
     ]
   },
   "16": {
