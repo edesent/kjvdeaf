@@ -2,1304 +2,395 @@
   "1": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Long ago, God spoke to our ancestors many times. He used the prophets to speak in many different ways."
-      },
-      {
-        "n": 2,
-        "text": "Now, in these final days, God has spoken directly to us through His Son! God appointed His Son to inherit everything in existence. Through the Son, God created the entire universe!"
-      },
-      {
-        "n": 3,
-        "text": "The Son radiates the brilliant brightness of God's glory! He shows us the exact nature of who God is. The Son holds the whole universe together by His powerful word! He washed away our dirty sins and made us completely clean. Then He sat down at the right hand of the supreme Majesty in heaven!"
-      },
-      {
-        "n": 4,
-        "text": "So the Son became as much greater than the angels as the name He was given is greater than theirs."
-      },
-      {
-        "n": 5,
-        "text": "For to which of the angels did God ever say: You are my Son; today I have become your Father? Or: I will be His Father, and He will be my Son?"
-      },
-      {
-        "n": 6,
-        "text": "And again, when God brings His firstborn Son into the world, He says: Let all God's angels worship Him."
-      },
-      {
-        "n": 7,
-        "text": "Concerning the angels, God says: He makes His angels fast winds. He makes His servants blazing flames of fire!"
-      },
-      {
-        "n": 8,
-        "text": "But God says to the Son: Your royal throne, O God, will last forever! You rule Your kingdom with complete justice and fairness."
-      },
-      {
-        "n": 9,
-        "text": "You love what is right, and You hate what is wicked. So God, Your God, anointed You with overflowing joy above all others!"
-      },
-      {
-        "n": 10,
-        "text": "He also says: In the beginning, Lord, you made the earth, and the heavens are the work of your hands."
-      },
-      {
-        "n": 11,
-        "text": "The earth and heavens will wear out and decay like old clothes. You will roll them up like an old coat!"
-      },
-      {
-        "n": 12,
-        "text": "You will discard them like worn-out garments. They will disappear, but You will remain forever. You never change, and Your years will never end!"
-      },
-      {
-        "n": 13,
-        "text": "And to which of the angels did God ever say: Sit at my right hand until I put your enemies under your feet?"
-      },
-      {
-        "n": 14,
-        "text": "What are the angels? All angels are serving spirits sent out by God. They help the people who will inherit eternal salvation!"
-      }
+      { "n": 1, "text": "God, who at many times and in many ways spoke in time past to the fathers by the prophets," },
+      { "n": 2, "text": "Has in these last days spoken to us by His Son. God has appointed the Son heir of all things. By the Son also God made the worlds." },
+      { "n": 3, "text": "The Son is the brightness of God's glory, and the express image (exact picture) of His person. The Son upholds all things by the word of His power. When He had by Himself purged (washed away) our sins, He sat down on the right hand of the Majesty on high." },
+      { "n": 4, "text": "He is made so much better than the angels, as He has by inheritance received a more excellent name than they have." },
+      { "n": 5, "text": "For to which of the angels did God ever say: You are My Son, this day have I begotten You (become Your Father)? And again: I will be to Him a Father, and He will be to Me a Son?" },
+      { "n": 6, "text": "And again, when God brings in the firstbegotten (firstborn) into the world, He says: And let all the angels of God worship Him." },
+      { "n": 7, "text": "And about the angels God says: He makes His angels spirits, and His ministers (servants) a flame of fire." },
+      { "n": 8, "text": "But to the Son God says: Your throne, O God, is forever and ever. A sceptre (king's rod) of righteousness (what is right) is the sceptre (king's rod) of Your kingdom." },
+      { "n": 9, "text": "You have loved righteousness (what is right), and hated iniquity (sin). So God, even Your God, has anointed You with the oil of gladness above Your fellows (companions)." },
+      { "n": 10, "text": "And: You, Lord, in the beginning laid the foundation of the earth. And the heavens are the works of Your hands." },
+      { "n": 11, "text": "They will perish, but You remain. And they all will grow old like a garment (piece of clothing)." },
+      { "n": 12, "text": "And like a vesture (robe) You will fold them up, and they will be changed. But You are the same, and Your years will not fail (end)." },
+      { "n": 13, "text": "But to which of the angels did God ever say: Sit on My right hand, until I make Your enemies Your footstool?" },
+      { "n": 14, "text": "Are they not all ministering (serving) spirits, sent out to minister (serve) for those who will be heirs of salvation?" }
     ]
   },
   "2": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, and reviewed for English-ASL clarity. Rewritten for active voice and short (8-15 word) sentences per this site's 5th-grade readability standard. Covers the warning against drifting from the message, and Jesus's identification with humanity in suffering, death, and temptation so He could become a merciful high priest. All pronouns referring to God and Jesus are capitalized per this site's standard; v6-8's quotation of Psalm 8 stays lowercase as originally about humanity in general, with the explicit shift to Jesus specifically beginning at v9.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V16 follows the KJV: Jesus took on Him the seed of Abraham (became human), not 'helps'.",
     "verses": [
-      {
-        "n": 1,
-        "text": "We must hold tightly to the truth we heard! We must never slip and drift past our safe harbor."
-      },
-      {
-        "n": 2,
-        "text": "God gave His message to us through angels. That message held firm. God punished every sin and every act of disobedience fairly."
-      },
-      {
-        "n": 3,
-        "text": "So how will we escape if we ignore such a great salvation? The Lord Himself first announced this salvation. Those who heard Him proved it was true to us."
-      },
-      {
-        "n": 4,
-        "text": "God also proved it was true. He did this through signs, wonders, and all kinds of miracles. God also gave gifts through the Holy Spirit, just as He chose."
-      },
-      {
-        "n": 5,
-        "text": "God did not put the world to come under the control of angels. We are talking about that future world."
-      },
-      {
-        "n": 6,
-        "text": "Instead, somewhere the Scripture says: What is man, that you think of him? What is the son of man, that you care for him?"
-      },
-      {
-        "n": 7,
-        "text": "You made him a little lower than the angels. You crowned him with glory and honor,"
-      },
-      {
-        "n": 8,
-        "text": "You put everything under his control. God left nothing outside his control. But right now, we do not yet see everything under his control."
-      },
-      {
-        "n": 9,
-        "text": "But we do see Jesus. For a short time, God placed Jesus lower than the angels. Jesus took on a human body and suffered death. By God's grace, He fully experienced death for every single person! Now God has crowned Him with radiant glory and supreme honor!"
-      },
-      {
-        "n": 10,
-        "text": "God is the reason for everything, and everything exists through Him. God wanted to bring many children into His glory. So it was right for God to make Jesus, the leader of their salvation, perfect through suffering."
-      },
-      {
-        "n": 11,
-        "text": "Jesus makes people holy. Those who are made holy belong to the same family as Jesus. That is why Jesus is not ashamed to call them brothers and sisters."
-      },
-      {
-        "n": 12,
-        "text": "He says: I will tell my brothers and sisters about you; in the meeting of your people I will sing your praises."
-      },
-      {
-        "n": 13,
-        "text": "And again: I will put my trust in Him. And again: Here am I, and the children God has given me."
-      },
-      {
-        "n": 14,
-        "text": "God's children have physical bodies made of flesh and blood. So Jesus took on that same physical human body! Through His physical death, Jesus broke the power of the devil. The devil held the terrifying power of death."
-      },
-      {
-        "n": 15,
-        "text": "People spent their entire lives chained as slaves to the fear of dying. Jesus smashed those chains and set them completely free!"
-      },
-      {
-        "n": 16,
-        "text": "Jesus does not help angels. He helps the descendants of Abraham instead."
-      },
-      {
-        "n": 17,
-        "text": "Jesus had to become like His brothers and sisters in every single way. This allowed Him to serve as our merciful and faithful high priest before God. He offered the sacrifice that wiped away all the people's sins!"
-      },
-      {
-        "n": 18,
-        "text": "Jesus Himself suffered painful trials when Satan tempted Him. Therefore, He is able to step in and rescue us whenever we face temptation!"
-      }
+      { "n": 1, "text": "So we should give the more earnest heed (careful attention) to the things which we have heard, so that at no time we let them slip." },
+      { "n": 2, "text": "For if the word spoken by angels was stedfast (firm), and every transgression (breaking of the law) and disobedience received a just recompence of reward (fair punishment)," },
+      { "n": 3, "text": "How will we escape, if we neglect so great salvation? It first began to be spoken by the Lord. And it was confirmed (proven true) to us by those who heard Him." },
+      { "n": 4, "text": "God also bore them witness, both with signs and wonders, and with many kinds of miracles, and gifts of the Holy Spirit, as God willed." },
+      { "n": 5, "text": "For God has not put into subjection (under the control of) the angels the world to come, which we speak about." },
+      { "n": 6, "text": "But one in a certain place testified (spoke as a witness), saying: What is man, that You are mindful (thinking) of him? Or the son of man, that You visit (care for) him?" },
+      { "n": 7, "text": "You made him a little lower than the angels. You crowned him with glory and honor, and set him over the works of Your hands." },
+      { "n": 8, "text": "You have put all things in subjection (under the control) under his feet. For in that God put all in subjection (under control) under him, He left nothing that is not put under him. But now we do not yet see all things put under him." },
+      { "n": 9, "text": "But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honor. By the grace of God, Jesus should taste death for every man." },
+      { "n": 10, "text": "For it became (was fitting for) God, for whom are all things, and by whom are all things, in bringing many sons to glory, to make the captain (leader) of their salvation perfect (complete) through sufferings." },
+      { "n": 11, "text": "For both the One who sanctifies (makes holy) and those who are sanctified (made holy) are all of one. For this reason Jesus is not ashamed to call them brothers," },
+      { "n": 12, "text": "Saying: I will declare (tell) Your name to My brothers. In the middle of the church I will sing praise to You." },
+      { "n": 13, "text": "And again: I will put My trust in Him. And again: Look, I and the children whom God has given Me." },
+      { "n": 14, "text": "So since the children are partakers (sharers) of flesh and blood, Jesus Himself likewise took part of the same. He did this so that through death He might destroy the one who had the power of death, that is, the devil." },
+      { "n": 15, "text": "And He did this to deliver (set free) those who through fear of death were all their lifetime subject to bondage (slavery)." },
+      { "n": 16, "text": "For truly Jesus did not take on Him the nature of angels. But He took on Him the seed of Abraham (became a human being)." },
+      { "n": 17, "text": "So in all things it behoved (was right for) Jesus to be made like His brothers. Then He might be a merciful and faithful high priest in things pertaining to God, to make reconciliation (bring back to God) for the sins of the people." },
+      { "n": 18, "text": "For in that Jesus Himself has suffered being tempted, He is able to succour (help) those who are tempted." }
     ]
   },
   "3": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Holy brothers and sisters, God called you to share in heavenly blessings. Look closely and think carefully about Jesus! He is the Apostle and High Priest of the faith we confess."
-      },
-      {
-        "n": 2,
-        "text": "Jesus was faithful to the God who appointed Him, just as Moses was faithful in all God's house."
-      },
-      {
-        "n": 3,
-        "text": "But Jesus deserves more glory than Moses, just as the builder of a house deserves more honor than the house itself."
-      },
-      {
-        "n": 4,
-        "text": "Every house is built by someone, but God is the builder of everything."
-      },
-      {
-        "n": 5,
-        "text": "Moses was faithful as a servant inside God's entire household. He pointed to the things God would say later."
-      },
-      {
-        "n": 6,
-        "text": "Christ rules faithfully as the Son over God's own family! And we are His spiritual house if we hold tightly to our bold courage and the hope we are proud of."
-      },
-      {
-        "n": 7,
-        "text": "So, as the Holy Spirit says: Today, if you hear His voice,"
-      },
-      {
-        "n": 8,
-        "text": "Do not close your minds and become stubborn against God! Do not act like your ancestors when they rebelled in the dry desert."
-      },
-      {
-        "n": 9,
-        "text": "There your ancestors tested me and tried me, even though for forty years they saw what I did."
-      },
-      {
-        "n": 10,
-        "text": "That is why I was angry with that generation. I said: Their hearts are always going the wrong way, and they have not known my ways."
-      },
-      {
-        "n": 11,
-        "text": "In my anger I swore an oath: They will never enter my land of peaceful rest!"
-      },
-      {
-        "n": 12,
-        "text": "So be careful, brothers and sisters, that none of you has a sinful, unbelieving heart that turns away from the living God."
-      },
-      {
-        "n": 13,
-        "text": "Instead, encourage one another every day, every day that is still called Today. Do not let the lies of sin make your hearts stubborn and closed."
-      },
-      {
-        "n": 14,
-        "text": "We share in Christ if we hold firmly to the end the confidence we had at the start."
-      },
-      {
-        "n": 15,
-        "text": "As the Scripture says: Today, if you hear His voice, do not close your minds and become stubborn, the way you did when you turned against God."
-      },
-      {
-        "n": 16,
-        "text": "Who were those who heard and turned against God? Were they not all the people Moses led out of Egypt?"
-      },
-      {
-        "n": 17,
-        "text": "And with whom was God angry for forty years? Was it not with those who sinned, whose bodies fell dead in the desert?"
-      },
-      {
-        "n": 18,
-        "text": "And to whom did God promise that they would never enter His land of peaceful rest? Was it not to those who disobeyed?"
-      },
-      {
-        "n": 19,
-        "text": "They were locked out because they refused to believe!"
-      }
+      { "n": 1, "text": "So, holy brothers, partakers (sharers) of the heavenly calling, consider the Apostle and High Priest of our profession (what we say we believe), Christ Jesus." },
+      { "n": 2, "text": "Christ Jesus was faithful to God who appointed Him, as Moses also was faithful in all his house." },
+      { "n": 3, "text": "For this man Jesus was counted worthy of more glory than Moses, just as the one who has built the house has more honor than the house." },
+      { "n": 4, "text": "For every house is built by some man. But the One who built all things is God." },
+      { "n": 5, "text": "And Moses truly was faithful in all his house, as a servant, for a testimony (witness) of the things which were to be spoken after." },
+      { "n": 6, "text": "But Christ was faithful as a Son over His own house. We are His house, if we hold fast the confidence and the rejoicing of the hope firm to the end." },
+      { "n": 7, "text": "So, as the Holy Spirit says: Today if you will hear His voice," },
+      { "n": 8, "text": "Do not harden your hearts, as in the provocation (making God angry), in the day of temptation in the wilderness (desert)." },
+      { "n": 9, "text": "There your fathers tempted (tested) Me, proved (tested) Me, and saw My works forty years." },
+      { "n": 10, "text": "So I was grieved with that generation, and said: They always err (go wrong) in their heart. And they have not known My ways." },
+      { "n": 11, "text": "So I swore in My wrath (anger): They will not enter into My rest." },
+      { "n": 12, "text": "Take heed (be careful), brothers, so that there is not in any of you an evil heart of unbelief, in departing from the living God." },
+      { "n": 13, "text": "But exhort (encourage) one another daily, while it is called Today. Do this so that none of you is hardened through the deceitfulness (lies) of sin." },
+      { "n": 14, "text": "For we are made partakers (sharers) of Christ, if we hold the beginning of our confidence stedfast (firm) to the end." },
+      { "n": 15, "text": "While it is said: Today if you will hear His voice, do not harden your hearts, as in the provocation (making God angry)." },
+      { "n": 16, "text": "For some, when they had heard, did provoke (make God angry). But not all who came out of Egypt by Moses." },
+      { "n": 17, "text": "But with whom was God grieved forty years? Was it not with those who had sinned, whose carcases (dead bodies) fell in the wilderness (desert)?" },
+      { "n": 18, "text": "And to whom did God swear that they would not enter into His rest, but to those who did not believe?" },
+      { "n": 19, "text": "So we see that they could not enter in because of unbelief." }
     ]
   },
   "4": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "God's promise of entering His place of peaceful rest still stands! Let us be careful that none of you fails to reach it."
-      },
-      {
-        "n": 2,
-        "text": "For the good news was preached to us, just as it was to them. But the message they heard did them no good, because they did not join it with faith."
-      },
-      {
-        "n": 3,
-        "text": "We who have believed do enter that rest. As God said: So in my anger I made a promise: They will never enter my rest. And yet God's work was finished from the time He made the world."
-      },
-      {
-        "n": 4,
-        "text": "Somewhere the Scripture speaks about the seventh day like this: And on the seventh day God rested from all His work."
-      },
-      {
-        "n": 5,
-        "text": "And again, in the verse above, God says: They will never enter my rest."
-      },
-      {
-        "n": 6,
-        "text": "So it is still true that some will enter that rest. But those who first heard the good news did not enter, because they did not obey."
-      },
-      {
-        "n": 7,
-        "text": "So God again set a certain day, calling it Today. Long afterward, He spoke through David the words already quoted: Today, if you hear His voice, do not harden your hearts."
-      },
-      {
-        "n": 8,
-        "text": "For if Joshua had given them rest, God would not have spoken later about another day."
-      },
-      {
-        "n": 9,
-        "text": "A true Sabbath rest of peace remains for God's holy people."
-      },
-      {
-        "n": 10,
-        "text": "For anyone who enters God's rest also rests from their own work, just as God rested from His."
-      },
-      {
-        "n": 11,
-        "text": "So let us do our best to enter that rest, so that no one will fall by following the same example of disobedience."
-      },
-      {
-        "n": 12,
-        "text": "The word of God is living, active, and full of power! It is sharper than any two-edged surgical sword. It slices deep between our innermost soul and spirit. It cuts down into joints and deep marrow. It exposes and judges the secret thoughts and motives of our hearts!"
-      },
-      {
-        "n": 13,
-        "text": "Nothing in all creation can hide from God's sight! Everything stands naked and fully exposed before His eyes. And He is the Judge to whom we must give account."
-      },
-      {
-        "n": 14,
-        "text": "We have a supreme high priest who passed through the heavens. He is Jesus, the Son of God! Let us hold tightly to the faith we confess."
-      },
-      {
-        "n": 15,
-        "text": "Our high priest understands every one of our human weaknesses. Satan tempted Him in every way we are tempted. Yet Jesus never committed a single sin!"
-      },
-      {
-        "n": 16,
-        "text": "So let us walk boldly up to God's royal throne of grace! There we will receive mercy and find grace to help us in our time of need."
-      }
+      { "n": 1, "text": "So let us fear, because a promise is left to us of entering into God's rest. Let us fear that any of you should seem to come short of it." },
+      { "n": 2, "text": "For the gospel (good news) was preached to us, as well as to them. But the word preached did not profit (help) them, because it was not mixed with faith in those who heard it." },
+      { "n": 3, "text": "For we who have believed do enter into rest. As God said: As I have sworn in My wrath (anger), if they will enter into My rest (they will not enter). Yet the works were finished from the foundation of the world." },
+      { "n": 4, "text": "For God spoke in a certain place about the seventh day like this: And God rested on the seventh day from all His works." },
+      { "n": 5, "text": "And in this place again: If they will enter into My rest (they will not enter)." },
+      { "n": 6, "text": "So it remains that some must enter into it. And those to whom it was first preached did not enter in because of unbelief." },
+      { "n": 7, "text": "Again, God limits (sets) a certain day, saying in David: Today, after so long a time. As it is said: Today if you will hear His voice, do not harden your hearts." },
+      { "n": 8, "text": "For if Jesus (Joshua) had given them rest, then God would not afterward have spoken of another day." },
+      { "n": 9, "text": "So there remains a rest to the people of God." },
+      { "n": 10, "text": "For the one who has entered into God's rest, he also has ceased (stopped) from his own works, as God did from His." },
+      { "n": 11, "text": "So let us labor (work hard) to enter into that rest, so that no one falls after the same example of unbelief." },
+      { "n": 12, "text": "For the word of God is quick (living) and powerful, and sharper than any twoedged sword. It pierces even to the dividing apart of soul and spirit, and of the joints and marrow. It is a discerner (judge) of the thoughts and intents (plans) of the heart." },
+      { "n": 13, "text": "There is not any creature that is not manifest (seen clearly) in God's sight. But all things are naked and opened to the eyes of God, with whom we have to do." },
+      { "n": 14, "text": "So since we have a great high priest, who has passed into the heavens, Jesus the Son of God, let us hold fast our profession (what we say we believe)." },
+      { "n": 15, "text": "For we do not have a high priest who cannot be touched with the feeling of our infirmities (weaknesses). But He was in all points tempted like we are, yet without sin." },
+      { "n": 16, "text": "So let us come boldly to the throne of grace, so that we may obtain (receive) mercy, and find grace to help in time of need." }
     ]
   },
   "5": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Every high priest is chosen from among the people and is appointed to act for them before God. He offers gifts and sacrifices for sins."
-      },
-      {
-        "n": 2,
-        "text": "He is able to be gentle with those who are ignorant and who go the wrong way, because he himself is weak too."
-      },
-      {
-        "n": 3,
-        "text": "That is why he has to offer sacrifices for his own sins as well as for the sins of the people."
-      },
-      {
-        "n": 4,
-        "text": "And no one takes this honor for himself. He must be called by God, just as Aaron was."
-      },
-      {
-        "n": 5,
-        "text": "In the same way, Christ did not take on Himself the glory of becoming a high priest. God gave it to Him, saying: You are my Son; today I have become your Father."
-      },
-      {
-        "n": 6,
-        "text": "And in another place God says: You are a royal priest forever, like the priestly pattern of Melchizedek!"
-      },
-      {
-        "n": 7,
-        "text": "During His physical life on earth, Jesus offered desperate prayers. He cried out loud with agonizing tears to God! God had the power to rescue Him from death. And God heard His prayer because of His deep, reverent submission."
-      },
-      {
-        "n": 8,
-        "text": "Even though He was the Son, Jesus learned obedience from what He suffered."
-      },
-      {
-        "n": 9,
-        "text": "Jesus completed His earthly mission through suffering. He became the source of eternal salvation for everyone who obeys Him!"
-      },
-      {
-        "n": 10,
-        "text": "And God named Him a high priest in the priestly pattern of Melchizedek."
-      },
-      {
-        "n": 11,
-        "text": "We have so much more to teach you about Melchizedek! But it is hard to explain because your minds have become sluggish and dull."
-      },
-      {
-        "n": 12,
-        "text": "By this time, you should already be mature teachers. Instead, you need someone to teach you the basic baby steps again! You still need baby milk, not solid meat!"
-      },
-      {
-        "n": 13,
-        "text": "Anyone who drinks only milk is still an infant. Babies do not understand righteous living."
-      },
-      {
-        "n": 14,
-        "text": "Solid meat is for mature adults who train their senses to know right from wrong!"
-      }
+      { "n": 1, "text": "For every high priest taken from among men is ordained (appointed) for men in things pertaining to God. He offers both gifts and sacrifices for sins." },
+      { "n": 2, "text": "He can have compassion on the ignorant (those who do not know), and on those who are out of the way, because he himself also is compassed (surrounded) with infirmity (weakness)." },
+      { "n": 3, "text": "And because of this weakness he ought to offer for sins, as for the people, so also for himself." },
+      { "n": 4, "text": "And no man takes this honor to himself, but the one who is called by God, as Aaron was." },
+      { "n": 5, "text": "So also Christ did not glorify Himself to be made a high priest. But God glorified Him, who said to Him: You are My Son, today have I begotten You (become Your Father)." },
+      { "n": 6, "text": "As God says also in another place: You are a priest forever after the order of Melchisedec." },
+      { "n": 7, "text": "In the days of His flesh (life on earth), Christ offered up prayers and supplications (humble requests) with strong crying and tears to God, who was able to save Him from death. And He was heard because He feared (honored God)." },
+      { "n": 8, "text": "Though He was a Son, yet He learned obedience by the things which He suffered." },
+      { "n": 9, "text": "And being made perfect (complete), He became the author (source) of eternal salvation to all who obey Him." },
+      { "n": 10, "text": "He was called by God a high priest after the order of Melchisedec." },
+      { "n": 11, "text": "About Him we have many things to say, and hard to explain, since you are dull of hearing (slow to understand)." },
+      { "n": 12, "text": "For when for the time you should be teachers, you need someone to teach you again the first principles (basic lessons) of the oracles (words) of God. You have become such as need milk, and not strong meat (solid food)." },
+      { "n": 13, "text": "For every one who uses milk is unskilful in the word of righteousness (being right with God). For he is a babe (baby)." },
+      { "n": 14, "text": "But strong meat (solid food) belongs to those who are of full age (grown up). By reason of use, they have their senses exercised (trained) to discern (tell apart) both good and evil." }
     ]
   },
   "6": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Let us move beyond basic beginner lessons about Christ! Let us press forward into spiritual maturity. We must stop laying the foundation over and over again. That foundation includes turning away from deeds leading to death."
-      },
-      {
-        "n": 2,
-        "text": "It includes faith in God and teachings about washings. It includes laying hands on people, resurrection, and eternal judgment."
-      },
-      {
-        "n": 3,
-        "text": "And with God's help, we will move forward!"
-      },
-      {
-        "n": 4,
-        "text": "Think about those people who deliberately abandon the faith. They once saw and understood the light of truth. They directly tasted the sweet heavenly gift of salvation. They truly shared in the power of the Holy Spirit!"
-      },
-      {
-        "n": 5,
-        "text": "They tasted the goodness of God's word and future powers. Yet they turned around and completely fell away!"
-      },
-      {
-        "n": 6,
-        "text": "It is impossible to bring those people back to repentance. Why? They are nailing God's Son to the cross all over again! They are holding Him up to public disgrace and mocking Him!"
-      },
-      {
-        "n": 7,
-        "text": "Good soil soaks up the frequent rain pouring down on it. It produces a rich harvest for the hardworking farmer. God pours His blessing over land like that!"
-      },
-      {
-        "n": 8,
-        "text": "Other soil produces only prickly thorns, briars, and weeds. That useless land is under a curse and will burn with fire!"
-      },
-      {
-        "n": 9,
-        "text": "Dear friends, even though we talk like this, we are sure of better things in your case, things that come with salvation."
-      },
-      {
-        "n": 10,
-        "text": "God is not unfair. He will not forget your work and the love you have shown Him as you helped His people, and as you keep on helping them."
-      },
-      {
-        "n": 11,
-        "text": "We want each of you to keep showing this same effort to the very end, so that you will be sure of your hope."
-      },
-      {
-        "n": 12,
-        "text": "We do not want you to become lazy. Instead, be like those who, through faith and patience, receive what God promised."
-      },
-      {
-        "n": 13,
-        "text": "When God made His promise to Abraham, He swore by Himself, because there was no one greater to swear by."
-      },
-      {
-        "n": 14,
-        "text": "He said: I will surely bless you and give you many descendants."
-      },
-      {
-        "n": 15,
-        "text": "And so, after waiting patiently, Abraham received what was promised."
-      },
-      {
-        "n": 16,
-        "text": "People swear by someone greater than themselves, and the oath settles every argument."
-      },
-      {
-        "n": 17,
-        "text": "God wanted to make His unbreakable promise crystal clear to His heirs. He guaranteed His promise with a solemn oath!"
-      },
-      {
-        "n": 18,
-        "text": "God cannot lie, and His oath can never change. We ran to God for safety, and these truths give us mighty courage!"
-      },
-      {
-        "n": 19,
-        "text": "We hold this hope as an unbreakable anchor for our souls. This spiritual anchor hooks securely behind the heavenly temple curtain!"
-      },
-      {
-        "n": 20,
-        "text": "Jesus has already gone inside that sacred place for us. He serves there forever as our high priest, like Melchizedek!"
-      }
+      { "n": 1, "text": "So leaving the principles (first lessons) of the doctrine (teaching) of Christ, let us go on to perfection (being fully grown). Let us not lay again the foundation of repentance (a change of heart) from dead works, and of faith toward God," },
+      { "n": 2, "text": "Of the doctrine (teaching) of baptisms, and of laying on of hands, and of resurrection (rising) of the dead, and of eternal judgment." },
+      { "n": 3, "text": "And this we will do, if God permits (allows)." },
+      { "n": 4, "text": "For it is impossible for those who were once enlightened (given light), and have tasted of the heavenly gift, and were made partakers (sharers) of the Holy Spirit," },
+      { "n": 5, "text": "And have tasted the good word of God, and the powers of the world to come," },
+      { "n": 6, "text": "If they fall away, to renew (bring) them again to repentance (a change of heart). For they crucify (put to death on a cross) the Son of God afresh (again) for themselves, and put Him to an open shame." },
+      { "n": 7, "text": "For the earth which drinks in the rain that comes often on it, and brings out plants that are good for those by whom it is dressed (farmed), receives blessing from God." },
+      { "n": 8, "text": "But that which bears thorns and briers is rejected, and is near to cursing. Its end is to be burned." },
+      { "n": 9, "text": "But, beloved (dear friends), we are persuaded of better things of you, and things that go with salvation, though we speak like this." },
+      { "n": 10, "text": "For God is not unrighteous (unfair) to forget your work and labor of love. You have showed this love toward God's name, in that you have ministered (served) to the saints (holy people), and still do minister (serve)." },
+      { "n": 11, "text": "And we desire that every one of you show the same diligence (hard work) to the full assurance (being sure) of hope to the end." },
+      { "n": 12, "text": "Then you will not be slothful (lazy), but followers of those who through faith and patience inherit the promises." },
+      { "n": 13, "text": "For when God made promise to Abraham, because He could swear by no one greater, He swore by Himself," },
+      { "n": 14, "text": "Saying: Surely blessing I will bless you, and multiplying I will multiply you." },
+      { "n": 15, "text": "And so, after Abraham had patiently endured, he obtained (received) the promise." },
+      { "n": 16, "text": "For men truly swear by the greater. And an oath for confirmation (proof) is to them an end of all strife (arguing)." },
+      { "n": 17, "text": "In this way God, wanting to show more abundantly (clearly) to the heirs of promise the immutability (never changing) of His counsel (plan), confirmed (made it sure) by an oath." },
+      { "n": 18, "text": "This was so that by two immutable (never changing) things, in which it was impossible for God to lie, we might have a strong consolation (comfort). We have fled for refuge (safety) to lay hold on the hope set before us." },
+      { "n": 19, "text": "We have this hope as an anchor of the soul, both sure and stedfast (firm). It enters into that which is within the veil (curtain)." },
+      { "n": 20, "text": "There the forerunner (one who goes first) has entered for us, that is Jesus, made a high priest forever after the order of Melchisedec." }
     ]
   },
   "7": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "This Melchizedek was king of Salem and a priest of God Most High. He met Abraham as Abraham was returning from defeating the kings, and he blessed Abraham."
-      },
-      {
-        "n": 2,
-        "text": "And Abraham gave him a tenth of everything. First, the name Melchizedek means king of what is right. Also, king of Salem means king of peace."
-      },
-      {
-        "n": 3,
-        "text": "We have no record of his father, his mother, or his family, and no record of his birth or his death. Like the Son of God, he remains a priest forever."
-      },
-      {
-        "n": 4,
-        "text": "Think how great Melchizedek was! Even Abraham, the great ancestor, gave Melchizedek a tenth part of all the captured battle riches!"
-      },
-      {
-        "n": 5,
-        "text": "The law commands the priests from Levi's family to collect a tenth from the people. They collect it from their own relatives. Those relatives are also descendants of Abraham."
-      },
-      {
-        "n": 6,
-        "text": "But Melchizedek was not a descendant of Levi, yet he collected a tenth from Abraham and blessed the man who had God's promises."
-      },
-      {
-        "n": 7,
-        "text": "And there is no question that the greater person blesses the lesser."
-      },
-      {
-        "n": 8,
-        "text": "In the one case, the tenth is collected by priests who die. But in the other case, it is collected by Melchizedek, who is said to be still living."
-      },
-      {
-        "n": 9,
-        "text": "You could say that Levi also paid a tenth to Melchizedek through Abraham."
-      },
-      {
-        "n": 10,
-        "text": "Why? Levi was not born yet. He still existed inside the genetic seed of his ancestor Abraham!"
-      },
-      {
-        "n": 11,
-        "text": "The old Law was based on the Levitical priesthood. Could that human priesthood make people spiritually complete? No! If it could, why would God need to appoint a different priest? Why would He need a priest like Melchizedek instead of Aaron?"
-      },
-      {
-        "n": 12,
-        "text": "For when the priesthood is changed, the law must be changed too."
-      },
-      {
-        "n": 13,
-        "text": "The one we are talking about belonged to a different tribe, and no one from that tribe has ever served at the altar."
-      },
-      {
-        "n": 14,
-        "text": "It is clear that our Lord came from the tribe of Judah, and Moses said nothing about priests coming from that tribe."
-      },
-      {
-        "n": 15,
-        "text": "And this becomes even clearer: another priest like Melchizedek has appeared,"
-      },
-      {
-        "n": 16,
-        "text": "one who became a priest not because of a rule about human ancestry, but because of the power of a life that cannot be destroyed."
-      },
-      {
-        "n": 17,
-        "text": "For the Scripture says about Him: You are a priest forever, in the line of Melchizedek."
-      },
-      {
-        "n": 18,
-        "text": "So the old rule is set aside, because it was weak and useless."
-      },
-      {
-        "n": 19,
-        "text": "(The law never made anything perfect.) And a better hope is brought in, by which we come near to God."
-      },
-      {
-        "n": 20,
-        "text": "And it did not happen without an oath! Others became priests without any oath,"
-      },
-      {
-        "n": 21,
-        "text": "but Jesus became a priest with an oath. God said to Him: The Lord has sworn and will not change His mind. You are a priest forever."
-      },
-      {
-        "n": 22,
-        "text": "Because of this oath, Jesus is the guarantee of a better agreement."
-      },
-      {
-        "n": 23,
-        "text": "There were hundreds of Levitical priests over time. Death stopped each of them from continuing their work! Death ended their ministry."
-      },
-      {
-        "n": 24,
-        "text": "Jesus lives forever, so His priesthood never ends!"
-      },
-      {
-        "n": 25,
-        "text": "He is able to save completely everyone who comes to God through Him. He lives forever to stand before God and plead on our behalf!"
-      },
-      {
-        "n": 26,
-        "text": "This is the kind of high priest we needed: holy, blameless, pure, set apart from sinners, and lifted higher than the heavens."
-      },
-      {
-        "n": 27,
-        "text": "Unlike the other high priests, He does not need to offer sacrifices day after day. They offered sacrifices first for their own sins and then for the sins of the people. He did this once for all when He offered Himself."
-      },
-      {
-        "n": 28,
-        "text": "The law appoints as high priests men who are weak. But the oath, which came after the law, appointed the Son, who has been made perfect forever."
-      }
+      { "n": 1, "text": "For this Melchisedec, king of Salem, priest of the most high God, met Abraham returning from the slaughter of the kings, and blessed him." },
+      { "n": 2, "text": "Abraham also gave him a tenth part of all. Melchisedec is first, by the meaning of his name, King of righteousness (what is right). And after that also King of Salem, which is, King of peace." },
+      { "n": 3, "text": "He is without father, without mother, without descent (family record), having neither beginning of days, nor end of life. But he is made like the Son of God, and remains a priest continually." },
+      { "n": 4, "text": "Now consider how great this man was, to whom even the patriarch (forefather) Abraham gave the tenth of the spoils (war treasure)." },
+      { "n": 5, "text": "And truly those of the sons of Levi who receive the office of the priesthood have a commandment to take tithes (a tenth) of the people according to the law. That is, from their brothers, though they come out of the loins (body) of Abraham." },
+      { "n": 6, "text": "But Melchisedec, whose descent (family line) is not counted from them, received tithes (a tenth) from Abraham, and blessed Abraham, who had the promises." },
+      { "n": 7, "text": "And without any doubt, the less is blessed by the better." },
+      { "n": 8, "text": "And here men that die receive tithes (a tenth). But there he receives them, of whom it is witnessed that he lives." },
+      { "n": 9, "text": "And as I may so say, Levi also, who receives tithes (a tenth), paid tithes (a tenth) in Abraham." },
+      { "n": 10, "text": "For Levi was still in the loins (body) of his father Abraham, when Melchisedec met him." },
+      { "n": 11, "text": "So if perfection (being made complete) were by the Levitical priesthood (for under it the people received the law), what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?" },
+      { "n": 12, "text": "For when the priesthood is changed, there is made of necessity a change also of the law." },
+      { "n": 13, "text": "For the One of whom these things are spoken belongs to another tribe, of which no man gave attendance (served) at the altar." },
+      { "n": 14, "text": "For it is evident (clear) that our Lord came out of Judah. Moses spoke nothing about priesthood for that tribe." },
+      { "n": 15, "text": "And it is still far more evident (clear). For after the likeness (looking like) of Melchisedec there rises another priest," },
+      { "n": 16, "text": "Who is made, not after the law of a carnal (fleshly) commandment, but after the power of an endless life." },
+      { "n": 17, "text": "For God testifies (speaks as a witness): You are a priest forever after the order of Melchisedec." },
+      { "n": 18, "text": "For there is truly a disannulling (setting aside) of the commandment going before, because of its weakness and unprofitableness (being useless)." },
+      { "n": 19, "text": "For the law made nothing perfect (complete). But the bringing in of a better hope did. By this hope we draw near to God." },
+      { "n": 20, "text": "And it was not without an oath that Jesus was made priest." },
+      { "n": 21, "text": "For those priests were made without an oath. But this priest was made with an oath, by God who said to Him: The Lord swore and will not repent (change His mind): You are a priest forever after the order of Melchisedec." },
+      { "n": 22, "text": "By so much was Jesus made a surety (guarantee) of a better testament (agreement)." },
+      { "n": 23, "text": "And truly they were many priests, because they were not allowed to continue because of death." },
+      { "n": 24, "text": "But this Man, because He continues forever, has an unchangeable priesthood." },
+      { "n": 25, "text": "So He is able also to save them to the uttermost (completely) who come to God by Him. For He ever lives to make intercession (prays to God) for them." },
+      { "n": 26, "text": "For such a high priest became (was right for) us. He is holy, harmless, undefiled (pure), separate from sinners, and made higher than the heavens." },
+      { "n": 27, "text": "He does not need daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's. For He did this once, when He offered up Himself." },
+      { "n": 28, "text": "For the law makes men high priests who have infirmity (weakness). But the word of the oath, which was after the law, makes the Son, who is consecrated (set apart) forevermore." }
     ]
   },
   "8": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Here is the main point of what we are saying: We have a high priest like this. He sat down at the right hand of the throne of the Majesty in heaven."
-      },
-      {
-        "n": 2,
-        "text": "He serves inside the true, sacred sanctuary of heaven! The Lord Himself built this holy place, not human hands."
-      },
-      {
-        "n": 3,
-        "text": "Every high priest is appointed to offer gifts and sacrifices, so this high priest also had to have something to offer."
-      },
-      {
-        "n": 4,
-        "text": "If He were on earth, He would not be a priest at all, since there are already priests who offer the gifts the law requires."
-      },
-      {
-        "n": 5,
-        "text": "Earthly priests serve in a sanctuary that is only a shadow. It is just a faint copy of the real sanctuary in heaven! God warned Moses when he prepared to build the earthly tent: Make sure you follow the exact blueprint I showed you on Mount Sinai!"
-      },
-      {
-        "n": 6,
-        "text": "But the work Jesus has been given is far greater, just as the agreement He brings is better, because it is built on better promises."
-      },
-      {
-        "n": 7,
-        "text": "For if there had been nothing wrong with that first agreement, there would have been no need for a second one."
-      },
-      {
-        "n": 8,
-        "text": "But God found fault with the people. He said: The days are coming when I will make a brand-new agreement with the people of Israel and the people of Judah!"
-      },
-      {
-        "n": 9,
-        "text": "It will not be like the agreement I made with their ancestors. Back then, I took them gently by the hand to lead them out of Egypt. Yet they broke my agreement, so I turned away from them."
-      },
-      {
-        "n": 10,
-        "text": "Here is the new agreement I will make with them: I will place my laws directly into their minds! I will engrave my laws upon their very hearts. I will be their God, and they will be my holy people!"
-      },
-      {
-        "n": 11,
-        "text": "No one will need to teach their neighbor, saying: Know the Lord. For everyone will know me personally, from the least to the greatest!"
-      },
-      {
-        "n": 12,
-        "text": "I will show mercy and wipe away their wicked sins. I will remember their rebellious deeds no more!"
-      },
-      {
-        "n": 13,
-        "text": "By calling this agreement new, God declared the first one obsolete. Whatever becomes old and worn out will soon vanish completely!"
-      }
+      { "n": 1, "text": "Now of the things which we have spoken this is the sum (main point): We have such a high priest, who is set on the right hand of the throne of the Majesty in the heavens." },
+      { "n": 2, "text": "He is a minister (servant) of the sanctuary (holy place), and of the true tabernacle (tent), which the Lord pitched (set up), and not man." },
+      { "n": 3, "text": "For every high priest is ordained (appointed) to offer gifts and sacrifices. So it is necessary that this Man have something also to offer." },
+      { "n": 4, "text": "For if He were on earth, He should not be a priest, seeing that there are priests who offer gifts according to the law." },
+      { "n": 5, "text": "They serve the example and shadow of heavenly things. As Moses was admonished (warned) by God when he was about to make the tabernacle (tent): For, see, God says, that you make all things according to the pattern showed to you in the mount (mountain)." },
+      { "n": 6, "text": "But now Jesus has obtained a more excellent ministry (service). By how much also He is the mediator (go-between) of a better agreement, which was established on better promises." },
+      { "n": 7, "text": "For if that first agreement had been faultless, then no place would have been sought for the second." },
+      { "n": 8, "text": "For finding fault with them, God says: Look, the days come, says the Lord, when I will make a new agreement with the house of Israel and with the house of Judah." },
+      { "n": 9, "text": "It will not be according to the agreement that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt. Because they did not continue in My agreement, I did not regard (care for) them, says the Lord." },
+      { "n": 10, "text": "For this is the agreement that I will make with the house of Israel after those days, says the Lord: I will put My laws into their mind, and write them in their hearts. And I will be to them a God, and they will be to Me a people." },
+      { "n": 11, "text": "And they will not teach every man his neighbor, and every man his brother, saying: Know the Lord. For all will know Me, from the least to the greatest." },
+      { "n": 12, "text": "For I will be merciful to their unrighteousness (wrong), and their sins and their iniquities (sins) I will remember no more." },
+      { "n": 13, "text": "In that God says, A new agreement, He has made the first old. Now what decays and grows old is ready to vanish away." }
     ]
   },
   "9": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V16-17 'testament' explained as a will.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Now the first agreement had rules for worship and a holy place here on earth."
-      },
-      {
-        "n": 2,
-        "text": "The first sacred room was called the Holy Place. Inside stood the golden lampstand, the table, and the sacred bread."
-      },
-      {
-        "n": 3,
-        "text": "Behind the heavy second curtain hung the Most Holy Place."
-      },
-      {
-        "n": 4,
-        "text": "Inside stood the gold incense altar and the gold-covered Box of the Agreement. Inside the box lay the gold jar of manna. It also held Aaron's budding rod and the stone tablets of the Law."
-      },
-      {
-        "n": 5,
-        "text": "Above the chest, winged cherubim spread their wings over the mercy seat! But we cannot talk about all of this in detail now."
-      },
-      {
-        "n": 6,
-        "text": "When everything was set up like this, the priests went regularly into the first room to do their work."
-      },
-      {
-        "n": 7,
-        "text": "But only the high priest went into the second room. He went only once a year. He never went without blood. He offered that blood for himself. He also offered it for the sins the people had done without knowing."
-      },
-      {
-        "n": 8,
-        "text": "The Holy Spirit was showing by this that the way into the Most Holy Place had not yet been opened while the first tent was still standing."
-      },
-      {
-        "n": 9,
-        "text": "This is a picture for the present time. It shows that the gifts and sacrifices being offered could not clear the conscience of the worshiper."
-      },
-      {
-        "n": 10,
-        "text": "They were only about food and drink and various washings. These were outward rules that applied until the time when God would set things right."
-      },
-      {
-        "n": 11,
-        "text": "But Christ came as the high priest of the good things that are now here. He went through the greater and more perfect tent, one not made by human hands, that is, not part of this created world."
-      },
-      {
-        "n": 12,
-        "text": "He did not enter by the blood of goats and calves. He entered the Most Holy Place once for all by His own blood, and so He set us free forever."
-      },
-      {
-        "n": 13,
-        "text": "Priests sprinkled the blood of goats and bulls on dirty people. They sprinkled ashes of a young cow to make skin outwardly clean."
-      },
-      {
-        "n": 14,
-        "text": "How much more will the precious blood of Christ cleanse us! Through the eternal Spirit, Christ offered Himself spotless to God. His blood wipes our guilty conscience clean from dead religious rituals! Now we are truly free to serve the living God!"
-      },
-      {
-        "n": 15,
-        "text": "This is why Christ is the go-between of a new agreement. He died to set people free from the sins they committed under the first agreement. So those whom God has called may receive the eternal inheritance He promised."
-      },
-      {
-        "n": 16,
-        "text": "Consider how a legal will works. A will requires proof that the person who wrote it has died."
-      },
-      {
-        "n": 17,
-        "text": "A will only goes into effect after death occurs. It has zero legal power while the person still lives!"
-      },
-      {
-        "n": 18,
-        "text": "That is why even the first agreement required blood to ratify it."
-      },
-      {
-        "n": 19,
-        "text": "When Moses had announced every command of the law to all the people, Then he took the blood of calves and goats. He also took water, red wool, and a hyssop branch. He sprinkled the scroll and all the people."
-      },
-      {
-        "n": 20,
-        "text": "He said: This is the blood of the agreement that God has commanded you to keep."
-      },
-      {
-        "n": 21,
-        "text": "In the same way, he sprinkled with the blood both the tent and everything used in worship."
-      },
-      {
-        "n": 22,
-        "text": "In fact, the law requires that almost everything be cleansed with blood, and without the shedding of blood there is no forgiveness."
-      },
-      {
-        "n": 23,
-        "text": "So the copies of the heavenly things had to be made clean with these sacrifices. But the heavenly things themselves needed better sacrifices than these."
-      },
-      {
-        "n": 24,
-        "text": "For Christ did not enter a holy place made by human hands, which is only a copy of the true one. He entered heaven itself, to appear now before God for us."
-      },
-      {
-        "n": 25,
-        "text": "The earthly high priest enters the Most Holy Place every year. He enters repeatedly carrying animal blood that is not his own."
-      },
-      {
-        "n": 26,
-        "text": "Christ does not need to offer Himself again and again! If He did, He would have suffered death repeatedly since creation. Instead, Christ appeared once for all time at the culmination of the ages. He wiped away sin forever by sacrificing Himself!"
-      },
-      {
-        "n": 27,
-        "text": "Human beings are appointed to die once, and then face God's judgment."
-      },
-      {
-        "n": 28,
-        "text": "In the same way, Christ was sacrificed once to carry away the sins of many! And He will appear a second time, not to deal with sin, but to bring salvation to those who are waiting for Him."
-      }
+      { "n": 1, "text": "Then truly the first agreement had also ordinances (rules) of divine service, and an earthly sanctuary (holy place)." },
+      { "n": 2, "text": "For there was a tabernacle (tent) made. In the first part was the candlestick (lampstand), and the table, and the shewbread (holy bread). This is called the sanctuary (holy place)." },
+      { "n": 3, "text": "And after the second veil (curtain), there was the part of the tabernacle (tent) which is called the Holiest of all." },
+      { "n": 4, "text": "It had the golden censer (incense holder), and the Box of the Agreement covered all around with gold. In it was the golden pot that had manna, and Aaron's rod that budded, and the tables (tablets) of the agreement." },
+      { "n": 5, "text": "And over it were the cherubims (angels) of glory shadowing the mercyseat (the lid of the Box). We cannot now speak about these things one by one." },
+      { "n": 6, "text": "Now when these things were made ready like this, the priests always went into the first part of the tabernacle (tent), doing the service of God." },
+      { "n": 7, "text": "But into the second part went the high priest alone once every year. He did not go without blood, which he offered for himself, and for the errors (sins) of the people." },
+      { "n": 8, "text": "The Holy Spirit shows by this that the way into the holiest of all was not yet made manifest (shown clearly), while the first tabernacle (tent) was still standing." },
+      { "n": 9, "text": "That tent was a figure (picture) for the time then present. In it were offered both gifts and sacrifices that could not make the one who did the service perfect (complete), as pertaining to the conscience." },
+      { "n": 10, "text": "These stood only in meats (foods) and drinks, and different washings, and carnal (fleshly) ordinances (rules), laid on them until the time of reformation (setting things right)." },
+      { "n": 11, "text": "But Christ came a high priest of good things to come, by a greater and more perfect tabernacle (tent), not made with hands, that is to say, not of this building." },
+      { "n": 12, "text": "Christ did not enter by the blood of goats and calves, but by His own blood. He entered in once into the holy place, having obtained eternal redemption (being bought back and set free) for us." },
+      { "n": 13, "text": "For if the blood of bulls and of goats, and the ashes of a heifer (young cow) sprinkling the unclean, sanctifies (makes holy) to the purifying (cleaning) of the flesh," },
+      { "n": 14, "text": "How much more will the blood of Christ, who through the eternal Spirit offered Himself without spot to God, purge (clean) your conscience from dead works to serve the living God?" },
+      { "n": 15, "text": "And for this reason Christ is the mediator (go-between) of the new testament (agreement). By means of death, for the redemption (buying back and setting free) of the transgressions (breaking of the law) that were under the first testament (agreement), those who are called might receive the promise of eternal inheritance." },
+      { "n": 16, "text": "For where a testament (will) is, there must also of necessity be the death of the testator (the one who made the will)." },
+      { "n": 17, "text": "For a testament (will) is of force (works) after men are dead. Otherwise it is of no strength at all while the testator (the one who made the will) lives." },
+      { "n": 18, "text": "So neither the first testament (agreement) was dedicated without blood." },
+      { "n": 19, "text": "For when Moses had spoken every commandment to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop (a plant). And he sprinkled both the book and all the people," },
+      { "n": 20, "text": "Saying: This is the blood of the testament (agreement) which God has commanded you." },
+      { "n": 21, "text": "Also he sprinkled with blood both the tabernacle (tent) and all the vessels (dishes) of the ministry (service)." },
+      { "n": 22, "text": "And almost all things are by the law purged (made clean) with blood. And without shedding of blood is no remission (forgiveness)." },
+      { "n": 23, "text": "So it was necessary that the patterns (copies) of things in the heavens should be purified (made clean) with these. But the heavenly things themselves are purified with better sacrifices than these." },
+      { "n": 24, "text": "For Christ has not entered into the holy places made with hands, which are the figures (copies) of the true. But He entered into heaven itself, now to appear in the presence of God for us." },
+      { "n": 25, "text": "And He did not enter to offer Himself often, as the high priest enters into the holy place every year with blood of others." },
+      { "n": 26, "text": "For then He must often have suffered since the foundation of the world. But now once in the end of the world He has appeared to put away sin by the sacrifice of Himself." },
+      { "n": 27, "text": "And as it is appointed to men once to die, but after this the judgment," },
+      { "n": 28, "text": "So Christ was once offered to bear the sins of many. And to those who look for Him He will appear the second time without sin to salvation." }
     ]
   },
   "10": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "The Law was only a faint shadow of the good things coming. It was not the solid reality itself! Year after year, priests offer the exact same animal sacrifices. Yet those sacrifices can never make the worshipers spiritually complete."
-      },
-      {
-        "n": 2,
-        "text": "If they could, priests would have stopped offering them long ago! Worshipers would have been cleansed once, with zero guilty feelings left."
-      },
-      {
-        "n": 3,
-        "text": "Instead, those yearly sacrifices only remind people of their sins!"
-      },
-      {
-        "n": 4,
-        "text": "The blood of bulls and goats can never take away sins."
-      },
-      {
-        "n": 5,
-        "text": "So when Christ came into the world, He said: You did not want sacrifices and offerings, but you prepared a body for me."
-      },
-      {
-        "n": 6,
-        "text": "You were not pleased with burnt offerings and sin offerings."
-      },
-      {
-        "n": 7,
-        "text": "Then I said: Here I am. It is written about me in the scroll. I have come to do your will, O God."
-      },
-      {
-        "n": 8,
-        "text": "First He said: You did not want sacrifices and offerings, burnt offerings and sin offerings. You were not pleased with them, even though the law required them."
-      },
-      {
-        "n": 9,
-        "text": "Then He said: Here I am; I have come to do your will. So God sets aside the first to put the second in its place."
-      },
-      {
-        "n": 10,
-        "text": "And because of God's will, we have been made holy through the offering of the body of Jesus Christ once for all."
-      },
-      {
-        "n": 11,
-        "text": "Day after day, every earthly priest stands and does his duty. He repeatedly offers the same sacrifices that can never remove sins!"
-      },
-      {
-        "n": 12,
-        "text": "But Jesus offered one single sacrifice for sins for all time. Then He sat down at the right hand of God!"
-      },
-      {
-        "n": 13,
-        "text": "Now He waits until His enemies are made His footstool."
-      },
-      {
-        "n": 14,
-        "text": "By that one offering, He made His holy people complete forever!"
-      },
-      {
-        "n": 15,
-        "text": "The Holy Spirit also tells us this. First He says:"
-      },
-      {
-        "n": 16,
-        "text": "This is the agreement I will make with them after that time, says the Lord. I will put my laws in their hearts. I will write them in their minds."
-      },
-      {
-        "n": 17,
-        "text": "Then He adds: I will remember their sins and wrong deeds no more."
-      },
-      {
-        "n": 18,
-        "text": "And where these have been forgiven, there is no longer any need to offer sacrifice for sin."
-      },
-      {
-        "n": 19,
-        "text": "Brothers and sisters, we have bold confidence to enter the Most Holy Place! We enter directly by the blood of Jesus."
-      },
-      {
-        "n": 20,
-        "text": "He opened a brand-new, life-giving way for us through the curtain. That curtain is His own physical body, torn open for us!"
-      },
-      {
-        "n": 21,
-        "text": "We have a supreme high priest who rules over God's household."
-      },
-      {
-        "n": 22,
-        "text": "So let us draw near to God with sincere hearts and full assurance! His blood sprinkled our hearts clean from a guilty conscience. Our bodies have been washed with pure water."
-      },
-      {
-        "n": 23,
-        "text": "Let us hold tightly to the hope we say we have, without wavering, because the One who promised is faithful."
-      },
-      {
-        "n": 24,
-        "text": "And let us think about how we can stir up one another to love and good works."
-      },
-      {
-        "n": 25,
-        "text": "Let us not give up meeting together, as some are in the habit of doing. Instead, let us encourage one another, all the more as you see the day coming."
-      },
-      {
-        "n": 26,
-        "text": "If we keep on sinning on purpose after we have come to know the truth, then there is no longer any sacrifice that can cover those sins."
-      },
-      {
-        "n": 27,
-        "text": "There is only a terrible fear of judgment and of a raging fire that will destroy God's enemies."
-      },
-      {
-        "n": 28,
-        "text": "Anyone who broke the law of Moses died without mercy on the word of two or three witnesses."
-      },
-      {
-        "n": 29,
-        "text": "Think how much worse the punishment will be for rebellious traitors! They have stomped the Son of God under their feet! They treated the blood of God's agreement as filthy and unholy. Yet that very blood was what set them apart! Worse still, they insulted and spit upon the Holy Spirit of grace!"
-      },
-      {
-        "n": 30,
-        "text": "For we know the One who said: It is mine to pay back; I will repay. And again: The Lord will judge His people."
-      },
-      {
-        "n": 31,
-        "text": "It is a terrible thing to fall into the hands of the living God."
-      },
-      {
-        "n": 32,
-        "text": "Remember the earlier days when you first received God's light. You endured a fierce contest filled with painful suffering!"
-      },
-      {
-        "n": 33,
-        "text": "Sometimes mobs shamed and attacked you in public. Other times you stood shoulder to shoulder with persecuted believers."
-      },
-      {
-        "n": 34,
-        "text": "You showed deep compassion to brothers locked in prison. When enemies stole your homes and possessions, you accepted it with joy! You knew you possessed far better and lasting heavenly riches."
-      },
-      {
-        "n": 35,
-        "text": "So do not throw away your confidence; it will be greatly rewarded."
-      },
-      {
-        "n": 36,
-        "text": "You need to keep going, so that after you have done the will of God, you will receive what He has promised."
-      },
-      {
-        "n": 37,
-        "text": "For, in just a little while: The one who is coming will come and will not delay."
-      },
-      {
-        "n": 38,
-        "text": "And: The person who is right with me will live by faith. But if they turn back, I will not be pleased with them."
-      },
-      {
-        "n": 39,
-        "text": "But we are not those who turn back and are lost. We are those who believe and are saved."
-      }
+      { "n": 1, "text": "For the law, having a shadow of good things to come, and not the very image of the things, can never with those sacrifices make the comers to it perfect (complete). The priests offered those sacrifices year by year continually." },
+      { "n": 2, "text": "For then would they not have stopped being offered? Because the worshippers once purged (made clean) should have had no more conscience of sins." },
+      { "n": 3, "text": "But in those sacrifices there is a remembrance again made of sins every year." },
+      { "n": 4, "text": "For it is not possible that the blood of bulls and of goats should take away sins." },
+      { "n": 5, "text": "So when Christ comes into the world, He says: Sacrifice and offering You did not want, but You have prepared a body for Me." },
+      { "n": 6, "text": "In burnt offerings and sacrifices for sin You have had no pleasure." },
+      { "n": 7, "text": "Then I said: Look, I come (in the volume (scroll) of the book it is written of Me), to do Your will, O God." },
+      { "n": 8, "text": "Above, when He said: Sacrifice and offering and burnt offerings and offering for sin You did not want, nor had pleasure in them, which are offered by the law," },
+      { "n": 9, "text": "Then He said: Look, I come to do Your will, O God. He takes away the first, so that He may establish the second." },
+      { "n": 10, "text": "By the which will we are sanctified (made holy) through the offering of the body of Jesus Christ once for all." },
+      { "n": 11, "text": "And every priest stands daily ministering (serving), and offering often the same sacrifices, which can never take away sins." },
+      { "n": 12, "text": "But this Man, after He had offered one sacrifice for sins forever, sat down on the right hand of God." },
+      { "n": 13, "text": "From now on He is expecting (waiting) until His enemies are made His footstool." },
+      { "n": 14, "text": "For by one offering He has perfected (made complete) forever those who are sanctified (made holy)." },
+      { "n": 15, "text": "And the Holy Spirit also is a witness to us. For after He had said before:" },
+      { "n": 16, "text": "This is the agreement that I will make with them after those days, says the Lord: I will put My laws into their hearts, and in their minds I will write them." },
+      { "n": 17, "text": "And their sins and iniquities (sins) I will remember no more." },
+      { "n": 18, "text": "Now where remission (forgiveness) of these is, there is no more offering for sin." },
+      { "n": 19, "text": "So, brothers, having boldness to enter into the holiest by the blood of Jesus," },
+      { "n": 20, "text": "By a new and living way, which He has consecrated (opened) for us, through the veil (curtain), that is to say, His flesh," },
+      { "n": 21, "text": "And having a high priest over the house of God," },
+      { "n": 22, "text": "Let us draw near with a true heart in full assurance (sureness) of faith. Let us have our hearts sprinkled from an evil conscience, and our bodies washed with pure water." },
+      { "n": 23, "text": "Let us hold fast the profession (what we say we believe) of our faith without wavering (moving). For God who promised is faithful." },
+      { "n": 24, "text": "And let us consider one another to provoke (stir up) to love and to good works." },
+      { "n": 25, "text": "Do not forsake (stop) the assembling (meeting) of ourselves together, as the manner (habit) of some is. But exhort (encourage) one another, and so much the more, as you see the day approaching (coming near)." },
+      { "n": 26, "text": "For if we sin wilfully (on purpose) after we have received the knowledge of the truth, there remains no more sacrifice for sins," },
+      { "n": 27, "text": "But a certain fearful looking for of judgment and fiery indignation (anger), which will devour (eat up) the adversaries (enemies)." },
+      { "n": 28, "text": "Whoever despised (rejected) Moses' law died without mercy under two or three witnesses." },
+      { "n": 29, "text": "How much worse punishment, do you suppose, will that one be thought worthy of, who has trodden under foot the Son of God? He has counted the blood of the agreement, with which he was sanctified (made holy), an unholy thing. And he has done despite (insulted) to the Spirit of grace." },
+      { "n": 30, "text": "For we know the One who has said: Vengeance (paying back) belongs to Me, I will recompense (pay back), says the Lord. And again: The Lord will judge His people." },
+      { "n": 31, "text": "It is a fearful thing to fall into the hands of the living God." },
+      { "n": 32, "text": "But call to remembrance the former days. After you were illuminated (given light), you endured a great fight of afflictions (troubles)." },
+      { "n": 33, "text": "Partly you were made a gazingstock (public show) both by reproaches (insults) and afflictions (troubles). And partly you became companions of those who were treated like that." },
+      { "n": 34, "text": "For you had compassion on me in my bonds (chains). And you took joyfully the spoiling (taking) of your goods, knowing in yourselves that you have in heaven a better and an enduring (lasting) substance (possession)." },
+      { "n": 35, "text": "So do not cast away your confidence, which has great recompence of reward." },
+      { "n": 36, "text": "For you have need of patience, so that after you have done the will of God, you might receive the promise." },
+      { "n": 37, "text": "For yet a little while, and the One who will come will come, and will not tarry (wait)." },
+      { "n": 38, "text": "Now the just (those who are right with God) will live by faith. But if any man draws back, My soul will have no pleasure in him." },
+      { "n": 39, "text": "But we are not of those who draw back to perdition (destruction). But we are of those who believe to the saving of the soul." }
     ]
   },
   "11": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Faith is being completely sure of what we hope for. Faith is being rock-solid certain of realities we cannot see!"
-      },
-      {
-        "n": 2,
-        "text": "This is what the people of long ago were praised for."
-      },
-      {
-        "n": 3,
-        "text": "By faith we understand that the universe was made by God's word, so that what we see was made out of what cannot be seen."
-      },
-      {
-        "n": 4,
-        "text": "By faith Abel offered God a better sacrifice than Cain did. By his faith Abel was accepted as a good man, because God accepted his gifts. And even though Abel is dead, by his faith he still speaks."
-      },
-      {
-        "n": 5,
-        "text": "By faith Enoch was taken up so that he did not die. He could not be found, because God had taken him. Before he was taken, he was praised as one who pleased God."
-      },
-      {
-        "n": 6,
-        "text": "And without faith it is impossible to please God. Anyone who comes to God must believe that He exists and that He rewards those who sincerely look for Him."
-      },
-      {
-        "n": 7,
-        "text": "God warned Noah about catastrophic events no human had ever seen. By faith, Noah believed God with holy reverence! He built a massive wooden ark to save his family. Through his faith, Noah condemned the wicked world. He inherited the righteousness that comes only by faith!"
-      },
-      {
-        "n": 8,
-        "text": "By faith Abraham obeyed when God called him to go to a place he would later receive as his own. He set out, even though he did not know where he was going."
-      },
-      {
-        "n": 9,
-        "text": "By faith he lived as a stranger in the land God had promised him. He lived in tents, and so did Isaac and Jacob, who shared the same promise."
-      },
-      {
-        "n": 10,
-        "text": "For Abraham was looking forward to the city with foundations, whose builder and maker is God."
-      },
-      {
-        "n": 11,
-        "text": "By faith Abraham and Sarah were given the power to have a child. Sarah herself was too old. They trusted the One who had made the promise."
-      },
-      {
-        "n": 12,
-        "text": "And so from this one man, who was as good as dead, came many descendants. They were as many as the stars in the sky. They were as countless as the sand on the seashore."
-      },
-      {
-        "n": 13,
-        "text": "All these faithful champions died still trusting God. They did not receive the final promises while living on earth. They only saw those promises shining from far away! They openly confessed they were temporary foreigners and nomads on earth."
-      },
-      {
-        "n": 14,
-        "text": "People who say such things show that they are looking for a country of their own."
-      },
-      {
-        "n": 15,
-        "text": "If they had been thinking of the country they had left, they could have gone back."
-      },
-      {
-        "n": 16,
-        "text": "They were longing for a far better heavenly homeland! Therefore, God is not ashamed to be called their God. He has prepared a magnificent eternal city for them!"
-      },
-      {
-        "n": 17,
-        "text": "By faith Abraham, when God tested him, offered Isaac as a sacrifice. He who had received the promises was ready to offer his only son,"
-      },
-      {
-        "n": 18,
-        "text": "even though God had told him: Your descendants will come through Isaac."
-      },
-      {
-        "n": 19,
-        "text": "Abraham reasoned that God could even raise the dead. And in a way, he did receive Isaac back from death."
-      },
-      {
-        "n": 20,
-        "text": "By faith Isaac blessed Jacob and Esau as he spoke about their future."
-      },
-      {
-        "n": 21,
-        "text": "By faith Jacob, when he was dying, blessed each of Joseph's sons. He worshiped God as he leaned on the top of his staff."
-      },
-      {
-        "n": 22,
-        "text": "By faith Joseph, near the end of his life, spoke about the time when the people of Israel would leave Egypt. He also gave instructions about his bones."
-      },
-      {
-        "n": 23,
-        "text": "By faith Moses' parents hid him for three months after he was born. They saw he was a beautiful child. They were not afraid of the king's command."
-      },
-      {
-        "n": 24,
-        "text": "By faith Moses, when he had grown up, refused to be known as the son of Pharaoh's daughter."
-      },
-      {
-        "n": 25,
-        "text": "He chose to suffer along with the people of God rather than to enjoy the pleasures of sin for a short time."
-      },
-      {
-        "n": 26,
-        "text": "He thought it was worth more to be insulted for Christ than to have all the treasures of Egypt, because he was looking ahead to his reward."
-      },
-      {
-        "n": 27,
-        "text": "By faith he left Egypt, not afraid of the king's anger. He kept going, as if he could see the God who cannot be seen."
-      },
-      {
-        "n": 28,
-        "text": "By faith, Moses established the Passover. He sprinkled lamb's blood over the doorposts! This stopped the destroying angel from killing Israel's firstborn sons."
-      },
-      {
-        "n": 29,
-        "text": "By faith, the people marched straight through the Red Sea on dry ground! When the pursuing Egyptian army tried to follow, the sea drowned them."
-      },
-      {
-        "n": 30,
-        "text": "By faith, the massive walls of Jericho collapsed flat! The people had marched around those walls for seven days."
-      },
-      {
-        "n": 31,
-        "text": "By faith, Rahab the prostitute did not die with the rebels. She had welcomed the Israelite spies in peaceful friendship!"
-      },
-      {
-        "n": 32,
-        "text": "What more should I say? I do not have time to tell about Gideon, Barak, Samson, and Jephthah, or about David, Samuel, and the prophets."
-      },
-      {
-        "n": 33,
-        "text": "Through faith they conquered kingdoms, did what was right, and received what God promised. They shut the mouths of lions,"
-      },
-      {
-        "n": 34,
-        "text": "put out raging fires, and escaped being killed by the sword. They were weak, but they were made strong. They became powerful in battle and drove back enemy armies."
-      },
-      {
-        "n": 35,
-        "text": "Women received back their loved ones, raised from death. Enemies tortured believers, yet they refused to compromise for freedom! They wanted to rise again to a far better resurrection."
-      },
-      {
-        "n": 36,
-        "text": "Cruel mobs mocked them and whipped their bodies. Soldiers chained them and threw them into dark dungeons."
-      },
-      {
-        "n": 37,
-        "text": "Persecutors stoned them with heavy rocks. They sawed them in two and murdered them with swords!"
-      },
-      {
-        "n": 38,
-        "text": "They wandered in deserts and mountains, wearing ragged animal skins. They hid in wild caves and dark holes in the dirt. The world was not worthy of holy people like them!"
-      },
-      {
-        "n": 39,
-        "text": "All these people were praised for their faith, yet none of them received what God had promised."
-      },
-      {
-        "n": 40,
-        "text": "God had planned something better for us, so that they would not be made perfect without us."
-      }
+      { "n": 1, "text": "Now faith is the substance (what is sure) of things hoped for, the evidence (proof) of things not seen." },
+      { "n": 2, "text": "For by faith the elders obtained a good report." },
+      { "n": 3, "text": "Through faith we understand that the worlds were framed (made) by the word of God. So the things which are seen were not made of things which do appear." },
+      { "n": 4, "text": "By faith Abel offered to God a more excellent sacrifice than Cain. By it Abel obtained witness that he was righteous (right with God), God testifying (being a witness) of his gifts. And by it Abel, being dead, still speaks." },
+      { "n": 5, "text": "By faith Enoch was translated (taken up) so that he should not see death. And he was not found, because God had translated (taken) him. For before his translation (being taken up) he had this testimony (witness), that he pleased God." },
+      { "n": 6, "text": "But without faith it is impossible to please God. For whoever comes to God must believe that God is, and that God is a rewarder of those who diligently seek Him." },
+      { "n": 7, "text": "By faith Noah, being warned by God of things not seen yet, moved with fear, prepared an ark (big boat) to save his house (family). By the ark he condemned (judged guilty) the world, and became heir of the righteousness (being right with God) which is by faith." },
+      { "n": 8, "text": "By faith Abraham, when he was called to go out into a place which he would later receive for an inheritance, obeyed. And he went out, not knowing where he went." },
+      { "n": 9, "text": "By faith Abraham sojourned (lived as a stranger) in the land of promise, as in a strange country. He dwelt (lived) in tabernacles (tents) with Isaac and Jacob, the heirs with him of the same promise." },
+      { "n": 10, "text": "For Abraham looked for a city which has foundations, whose builder and maker is God." },
+      { "n": 11, "text": "Through faith also Sara herself received strength to conceive seed. And she gave birth to a child when she was past age, because she judged God faithful who had promised." },
+      { "n": 12, "text": "So there sprang from one man, and him as good as dead, as many as the stars of the sky in number, and as the sand which is by the sea shore, too many to count." },
+      { "n": 13, "text": "These all died in faith, not having received the promises. But they had seen the promises far off, and were persuaded of them, and embraced (welcomed) them. And they confessed (said) that they were strangers and pilgrims (travelers) on the earth." },
+      { "n": 14, "text": "For those who say such things declare plainly that they seek a country." },
+      { "n": 15, "text": "And truly, if they had been thinking of that country from which they came out, they might have had opportunity to have returned." },
+      { "n": 16, "text": "But now they desire a better country, that is, a heavenly one. So God is not ashamed to be called their God. For He has prepared for them a city." },
+      { "n": 17, "text": "By faith Abraham, when he was tried (tested), offered up Isaac. And the one who had received the promises offered up his only begotten son," },
+      { "n": 18, "text": "Of whom it was said: In Isaac will your seed be called." },
+      { "n": 19, "text": "Abraham accounted (judged) that God was able to raise Isaac up, even from the dead. And from there also Abraham received him back in a figure (picture)." },
+      { "n": 20, "text": "By faith Isaac blessed Jacob and Esau about things to come." },
+      { "n": 21, "text": "By faith Jacob, when he was dying, blessed both the sons of Joseph. And Jacob worshipped, leaning on the top of his staff (walking stick)." },
+      { "n": 22, "text": "By faith Joseph, when he died, made mention of the departing of the children of Israel. And he gave commandment about his bones." },
+      { "n": 23, "text": "By faith Moses, when he was born, was hid three months by his parents, because they saw he was a proper (beautiful) child. And they were not afraid of the king's commandment." },
+      { "n": 24, "text": "By faith Moses, when he was grown up, refused to be called the son of Pharaoh's daughter." },
+      { "n": 25, "text": "He chose rather to suffer affliction (trouble) with the people of God, than to enjoy the pleasures of sin for a season (short time)." },
+      { "n": 26, "text": "He esteemed (counted) the reproach (shame) of Christ greater riches than the treasures in Egypt. For he had respect (looked) to the recompence of the reward." },
+      { "n": 27, "text": "By faith Moses forsook (left) Egypt, not fearing the wrath (anger) of the king. For he endured, as seeing Him who is invisible." },
+      { "n": 28, "text": "Through faith Moses kept the passover (Passover), and the sprinkling of blood, so that the one who destroyed the firstborn would not touch them." },
+      { "n": 29, "text": "By faith they passed through the Red sea as by dry land. When the Egyptians tried to do the same, they were drowned." },
+      { "n": 30, "text": "By faith the walls of Jericho fell down, after they were circled around for seven days." },
+      { "n": 31, "text": "By faith the harlot (prostitute) Rahab did not perish with those who did not believe, when she had received the spies with peace." },
+      { "n": 32, "text": "And what more will I say? For the time would fail me to tell of Gideon, and of Barak, and of Samson, and of Jephthah. Also of David, and Samuel, and of the prophets." },
+      { "n": 33, "text": "Through faith they subdued (defeated) kingdoms, worked righteousness (what is right), obtained promises, and stopped the mouths of lions." },
+      { "n": 34, "text": "They quenched (put out) the violence of fire, escaped the edge of the sword, and out of weakness were made strong. They became valiant (brave) in fight, and turned to flight the armies of the aliens (foreigners)." },
+      { "n": 35, "text": "Women received their dead raised to life again. And others were tortured, not accepting deliverance (being set free), so that they might obtain a better resurrection (rising from the dead)." },
+      { "n": 36, "text": "And others had trial of cruel mockings and scourgings (whippings). Yes, also of bonds (chains) and imprisonment." },
+      { "n": 37, "text": "They were stoned. They were sawn in pieces. They were tempted. They were slain with the sword. They wandered about in sheepskins and goatskins, being destitute (very poor), afflicted (made to suffer), tormented." },
+      { "n": 38, "text": "The world was not worthy of them. They wandered in deserts, and in mountains, and in dens and caves of the earth." },
+      { "n": 39, "text": "And these all, having obtained a good report through faith, did not receive the promise." },
+      { "n": 40, "text": "God had provided some better thing for us, so that they without us should not be made perfect (complete)." }
     ]
   },
   "12": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "A massive stadium crowd of faithful witnesses surrounds us! So let us strip off every heavy weight that slows us down. Let us cast off the sin that trips our feet! Let us run with endurance the long race marked out for us."
-      },
-      {
-        "n": 2,
-        "text": "Keep your eyes fixed firmly on Jesus! He is the champion who pioneered our faith and finished it. Jesus saw the glorious joy waiting ahead of Him. So He endured the agony of the cross and ignored its public shame! Now He sits in supreme honor at the right hand of God's throne."
-      },
-      {
-        "n": 3,
-        "text": "Think about Jesus, who put up with such hatred from sinful people, so that you will not grow tired and lose heart."
-      },
-      {
-        "n": 4,
-        "text": "In your fight against sin, you have not yet had to give your blood."
-      },
-      {
-        "n": 5,
-        "text": "And you have forgotten the encouraging words God speaks to you as His children: My child, do not treat the Lord's discipline lightly. Do not lose heart when He corrects you!"
-      },
-      {
-        "n": 6,
-        "text": "For the Lord disciplines every single person He loves. He trains everyone He accepts as His true child."
-      },
-      {
-        "n": 7,
-        "text": "Endure your hardships as loving fatherly training. God is treating you as His beloved sons and daughters! For what child is never corrected by their father?"
-      },
-      {
-        "n": 8,
-        "text": "If you are not corrected (and everyone is corrected), then you are not really His children at all."
-      },
-      {
-        "n": 9,
-        "text": "Besides, our human fathers corrected us, and we respected them for it. How much more should we obey our spiritual Father and live!"
-      },
-      {
-        "n": 10,
-        "text": "Our fathers corrected us for a little while, as they thought best. But God corrects us for our good, so that we may share in His holiness."
-      },
-      {
-        "n": 11,
-        "text": "No discipline feels pleasant while it happens; it feels painful! Later on, it produces a peaceful harvest of righteous living."
-      },
-      {
-        "n": 12,
-        "text": "So strengthen your tired arms and your weak knees."
-      },
-      {
-        "n": 13,
-        "text": "Make straight paths for your feet, so that the lame foot will not be put out of joint, but rather healed."
-      },
-      {
-        "n": 14,
-        "text": "Do everything you can to live in peace with everyone, and to be holy. Without holiness no one will see the Lord."
-      },
-      {
-        "n": 15,
-        "text": "Be careful that no one misses out on God's grace, and that no bitter root grows up to cause trouble and to harm many."
-      },
-      {
-        "n": 16,
-        "text": "Make sure no one is sexually immoral or godless like Esau, who sold his rights as the oldest son for a single meal."
-      },
-      {
-        "n": 17,
-        "text": "As you know, later, when he wanted to receive the blessing, he was turned away. He could not undo what he had done, even though he begged for the blessing with tears."
-      },
-      {
-        "n": 18,
-        "text": "You have not come to a terrifying earthly mountain like Mount Sinai. That mountain blazed with roaring fire, pitch darkness, and howling storms."
-      },
-      {
-        "n": 19,
-        "text": "A deafening trumpet blasted, and a voice spoke thunderous words. The people trembled and begged not to hear another word!"
-      },
-      {
-        "n": 20,
-        "text": "They could not bear the command: If even an animal touches the mountain, it must be stoned."
-      },
-      {
-        "n": 21,
-        "text": "The sight was so terrifying that Moses said: I am trembling with fear."
-      },
-      {
-        "n": 22,
-        "text": "Instead, you have arrived at holy Mount Zion! You have come to the city of the living God, the heavenly Jerusalem. You have joined thousands upon thousands of angels celebrating with joy!"
-      },
-      {
-        "n": 23,
-        "text": "You have come to the gathered church of God's firstborn children. Their names are written in the official records of heaven! You have come to God, the righteous Judge of all humanity, and to the spirits of good people who have been made perfect."
-      },
-      {
-        "n": 24,
-        "text": "You have come to Jesus, the mediator of the new agreement! His sprinkled blood speaks words of forgiveness, not revenge like Abel's blood!"
-      },
-      {
-        "n": 25,
-        "text": "See that you do not refuse the One who is speaking. The people on earth refused the One who warned them. They did not escape. Now He warns us from heaven. How much less will we escape if we turn away from Him?"
-      },
-      {
-        "n": 26,
-        "text": "Back then, God's voice shook the physical earth. Now He makes a greater promise: I will shake the heavens and earth!"
-      },
-      {
-        "n": 27,
-        "text": "God will shake and remove all temporary, created things. Then only what cannot be shaken will remain standing!"
-      },
-      {
-        "n": 28,
-        "text": "We are receiving an eternal kingdom that can never be shaken! So let us overflow with deep thanksgiving. Let us worship God with holy awe and reverent wonder."
-      },
-      {
-        "n": 29,
-        "text": "For our God is an all-consuming fire!"
-      }
+      { "n": 1, "text": "So since we also are surrounded with so great a cloud of witnesses, let us lay aside every weight, and the sin which so easily besets (wraps around) us. And let us run with patience the race that is set before us," },
+      { "n": 2, "text": "Looking to Jesus, the author (beginner) and finisher of our faith. For the joy that was set before Him, Jesus endured the cross, despising (thinking nothing of) the shame. And He is set down at the right hand of the throne of God." },
+      { "n": 3, "text": "For consider Jesus, who endured such contradiction (attacks) of sinners against Himself, so that you do not become wearied and faint (lose heart) in your minds." },
+      { "n": 4, "text": "You have not yet resisted to the point of blood, striving against sin." },
+      { "n": 5, "text": "And you have forgotten the exhortation (encouragement) which speaks to you as to children: My son, do not despise (look down on) the chastening (correction) of the Lord, and do not faint (lose heart) when you are rebuked (corrected) by Him." },
+      { "n": 6, "text": "For whom the Lord loves He chastens (corrects). And He scourges (whips) every son whom He receives." },
+      { "n": 7, "text": "If you endure chastening (correction), God deals with you as with sons. For what son is he whom the father does not chasten (correct)?" },
+      { "n": 8, "text": "But if you are without chastisement (correction), of which all are partakers (sharers), then you are bastards (children not of the family), and not sons." },
+      { "n": 9, "text": "Also we have had fathers of our flesh (earthly fathers) who corrected us, and we gave them reverence (respect). Should we not much rather be in subjection (obey) the Father of spirits, and live?" },
+      { "n": 10, "text": "For they truly for a few days chastened (corrected) us as they thought best. But God corrects us for our profit (good), so that we might be partakers (sharers) of His holiness." },
+      { "n": 11, "text": "Now no chastening (correction) for the present seems to be joyous, but grievous (painful). But afterward it yields the peaceable fruit of righteousness (being right with God) to those who are exercised (trained) by it." },
+      { "n": 12, "text": "So lift up the hands which hang down, and the feeble (weak) knees." },
+      { "n": 13, "text": "And make straight paths for your feet, so that what is lame is not turned out of the way, but let it rather be healed." },
+      { "n": 14, "text": "Follow peace with all men, and holiness. Without holiness no man will see the Lord." },
+      { "n": 15, "text": "Look diligently (carefully) in case any man fails of the grace of God. Look out in case any root of bitterness springing up troubles you, and by it many are defiled (made unclean)." },
+      { "n": 16, "text": "Look out in case there is any fornicator (person who does sexual sin), or profane (unholy) person, like Esau. For one morsel of meat (one meal) Esau sold his birthright (rights of the firstborn son)." },
+      { "n": 17, "text": "For you know how afterward, when Esau wanted to inherit the blessing, he was rejected. For he found no place of repentance (change of mind), though he sought it carefully with tears." },
+      { "n": 18, "text": "For you have not come to the mount (mountain) that might be touched, and that burned with fire, nor to blackness, and darkness, and tempest (storm)," },
+      { "n": 19, "text": "And the sound of a trumpet, and the voice of words. Those who heard that voice begged that the word should not be spoken to them any more." },
+      { "n": 20, "text": "For they could not endure what was commanded: And if so much as a beast touches the mountain, it will be stoned, or thrust through with a dart (spear)." },
+      { "n": 21, "text": "And so terrible was the sight, that Moses said: I exceedingly fear and quake (shake)." },
+      { "n": 22, "text": "But you have come to mount Sion (Zion), and to the city of the living God, the heavenly Jerusalem, and to an innumerable (too many to count) company of angels," },
+      { "n": 23, "text": "To the general assembly (great gathering) and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect (complete)," },
+      { "n": 24, "text": "And to Jesus the mediator (go-between) of the new agreement, and to the blood of sprinkling, that speaks better things than the blood of Abel." },
+      { "n": 25, "text": "See that you do not refuse the One who speaks. For if they did not escape who refused the one who spoke on earth, much more we will not escape, if we turn away from the One who speaks from heaven." },
+      { "n": 26, "text": "God's voice then shook the earth. But now He has promised, saying: Yet once more I shake not the earth only, but also heaven." },
+      { "n": 27, "text": "And this word, Yet once more, shows the removing of those things that are shaken, as of things that are made. This is so that those things which cannot be shaken may remain." },
+      { "n": 28, "text": "So since we receive a kingdom which cannot be moved, let us have grace. By grace we may serve God acceptably with reverence (respect) and godly fear." },
+      { "n": 29, "text": "For our God is a consuming fire." }
     ]
   },
   "13": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Keep on loving each other as brothers and sisters."
-      },
-      {
-        "n": 2,
-        "text": "Do not forget to welcome strangers, for by doing this some people have welcomed angels without knowing it."
-      },
-      {
-        "n": 3,
-        "text": "Remember those in prison, as if you were in prison with them. Remember those who are mistreated, since you also have bodies that can suffer."
-      },
-      {
-        "n": 4,
-        "text": "Marriage should be honored by everyone, and husbands and wives should be faithful to each other. God will judge those who are sexually immoral and those who are unfaithful in marriage."
-      },
-      {
-        "n": 5,
-        "text": "Keep your lives free from the love of money. Be happy with what you have. God has said: I will never leave you. I will never give up on you."
-      },
-      {
-        "n": 6,
-        "text": "So we can say with confidence: The Lord is my helper; I will not be afraid. What can anyone do to me?"
-      },
-      {
-        "n": 7,
-        "text": "Remember your leaders, who spoke God's word to you. Think about how their lives turned out, and copy their faith."
-      },
-      {
-        "n": 8,
-        "text": "Jesus Christ is the same yesterday, today, and forever."
-      },
-      {
-        "n": 9,
-        "text": "Do not be pulled away by all kinds of strange teachings. It is good for the heart to be made strong by grace, not by rules about food, which have never helped those who follow them."
-      },
-      {
-        "n": 10,
-        "text": "We have an altar, and the priests who serve at the tent have no right to eat from it."
-      },
-      {
-        "n": 11,
-        "text": "The high priest brings the blood of animals into the Most Holy Place as an offering for sin. But the bodies of those animals are burned outside the camp."
-      },
-      {
-        "n": 12,
-        "text": "In the same way, Jesus also suffered outside the city gate, to make the people holy through His own blood."
-      },
-      {
-        "n": 13,
-        "text": "So let us go out to Him outside the camp and carry the shame He carried."
-      },
-      {
-        "n": 14,
-        "text": "For here we have no city that lasts, but we are looking for the city that is coming."
-      },
-      {
-        "n": 15,
-        "text": "So through Jesus let us always offer to God a sacrifice of praise, the words of our lips that thank His name."
-      },
-      {
-        "n": 16,
-        "text": "And do not forget to do good and to share with others, for these are the kinds of sacrifices that please God."
-      },
-      {
-        "n": 17,
-        "text": "Obey your leaders and follow their lead, because they watch over you as people who must give an account to God. Obey them so that their work will be a joy, not a heavy burden, for that would be no help to you."
-      },
-      {
-        "n": 18,
-        "text": "Pray for us. We are sure that we have a clear conscience and want to live honestly in every way."
-      },
-      {
-        "n": 19,
-        "text": "And I beg you especially to pray that I will be brought back to you soon."
-      },
-      {
-        "n": 20,
-        "text": "Now may the God of peace, who brought back from death our Lord Jesus, the great Shepherd of the sheep, through the blood of the eternal agreement,"
-      },
-      {
-        "n": 21,
-        "text": "give you everything good you need to do His will. And may God do in us what pleases Him, through Jesus Christ. To Him be glory forever and ever. Amen."
-      },
-      {
-        "n": 22,
-        "text": "Brothers and sisters, I beg you to put up with this message of encouragement, for I have written to you only a short letter."
-      },
-      {
-        "n": 23,
-        "text": "I want you to know that our brother Timothy has been set free. If he comes soon, I will bring him with me when I see you."
-      },
-      {
-        "n": 24,
-        "text": "Greet all your leaders and all God's people. The believers from Italy send you their greetings."
-      },
-      {
-        "n": 25,
-        "text": "May grace be with you all. Amen."
-      }
+      { "n": 1, "text": "Let brotherly love continue." },
+      { "n": 2, "text": "Do not be forgetful to entertain strangers. For by doing this some have entertained angels without knowing it." },
+      { "n": 3, "text": "Remember those who are in bonds (chains), as bound with them. And remember those who suffer adversity (hard things), since you yourselves are also in the body." },
+      { "n": 4, "text": "Marriage is honorable in all, and the bed undefiled (kept pure). But whoremongers (people who do sexual sin) and adulterers (people who have sex with someone else's husband or wife) God will judge." },
+      { "n": 5, "text": "Let your conversation (way of life) be without covetousness (wanting what belongs to others). And be content with such things as you have. For God has said: I will never leave you, nor forsake (abandon) you." },
+      { "n": 6, "text": "So we may boldly say: The Lord is my helper, and I will not fear what man will do to me." },
+      { "n": 7, "text": "Remember those who have the rule (lead) over you, who have spoken to you the word of God. Follow their faith, considering the end of their conversation (way of life)." },
+      { "n": 8, "text": "Jesus Christ the same yesterday, and today, and forever." },
+      { "n": 9, "text": "Do not be carried about with different and strange doctrines (teachings). For it is a good thing that the heart be established (made strong) with grace, not with meats (foods). Those who have been occupied in meats (foods) have not been profited (helped)." },
+      { "n": 10, "text": "We have an altar, from which those who serve the tabernacle (tent) have no right to eat." },
+      { "n": 11, "text": "For the bodies of those beasts, whose blood is brought into the sanctuary (holy place) by the high priest for sin, are burned outside the camp." },
+      { "n": 12, "text": "So Jesus also, so that He might sanctify (make holy) the people with His own blood, suffered outside the gate." },
+      { "n": 13, "text": "So let us go out to Him outside the camp, bearing (carrying) His reproach (shame)." },
+      { "n": 14, "text": "For here we have no continuing city, but we seek one to come." },
+      { "n": 15, "text": "So by Him let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to His name." },
+      { "n": 16, "text": "But to do good and to communicate (share), do not forget. For with such sacrifices God is well pleased." },
+      { "n": 17, "text": "Obey those who have the rule (lead) over you, and submit yourselves. For they watch for your souls, as those who must give account. Let them do it with joy, and not with grief. For that would be unprofitable (no help) for you." },
+      { "n": 18, "text": "Pray for us. For we trust we have a good conscience, in all things willing to live honestly." },
+      { "n": 19, "text": "But I beg you the more to do this, so that I may be restored to you sooner." },
+      { "n": 20, "text": "Now may the God of peace, who brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting agreement," },
+      { "n": 21, "text": "Make you perfect (complete) in every good work to do His will. May He work in you what is well pleasing in His sight, through Jesus Christ. To Him be glory forever and ever. Amen." },
+      { "n": 22, "text": "And I beg you, brothers, suffer (put up with) the word of exhortation (encouragement). For I have written a letter to you in few words." },
+      { "n": 23, "text": "Know that our brother Timothy is set at liberty (set free). If he comes shortly, I will see you with him." },
+      { "n": 24, "text": "Salute (greet) all those who have the rule (lead) over you, and all the saints (holy people). Those of Italy salute (greet) you." },
+      { "n": 25, "text": "Grace be with you all. Amen." }
     ]
   }
 }
