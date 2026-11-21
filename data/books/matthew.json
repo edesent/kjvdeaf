@@ -126,200 +126,56 @@
   "5": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'his' rendered gender-neutral in v22. 'Hell' in v22, v29-30 correctly refers to Gehenna (the NT concept of judgment), not sheol/Hades, so it is kept as-is per the site's standard.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences): v22 restores 'without a cause,' v27 'by them of old time,' v47 'publicans.' Simple, Deaf-friendly reading level with hard KJV words explained in parentheses. 'Hell' in v22, 29-30 is Gehenna, kept as 'hell.'",
     "verses": [
-      {
-        "n": 1,
-        "text": "When Jesus saw the crowds, He went up on a mountainside and sat down. His disciples came to Him,"
-      },
-      {
-        "n": 2,
-        "text": "And Jesus began to teach them. He said:"
-      },
-      {
-        "n": 3,
-        "text": "Blessed are those who know they are spiritually poor, because the kingdom of heaven belongs to them."
-      },
-      {
-        "n": 4,
-        "text": "Blessed are those who are sad, because God will comfort them."
-      },
-      {
-        "n": 5,
-        "text": "Blessed are the gentle, because they will receive the earth as their own."
-      },
-      {
-        "n": 6,
-        "text": "Blessed are those who hunger and thirst to do what is right, because they will be satisfied."
-      },
-      {
-        "n": 7,
-        "text": "Blessed are those who show mercy, because they will be shown mercy."
-      },
-      {
-        "n": 8,
-        "text": "Blessed are those whose hearts are pure, because they will see God."
-      },
-      {
-        "n": 9,
-        "text": "Blessed are those who make peace, because they will be called children of God."
-      },
-      {
-        "n": 10,
-        "text": "Blessed are those who are treated badly for doing right, because the kingdom of heaven belongs to them."
-      },
-      {
-        "n": 11,
-        "text": "Blessed are you when people insult you, treat you badly, and tell all kinds of lies about you because you follow me."
-      },
-      {
-        "n": 12,
-        "text": "Be glad and full of joy, because a great reward is waiting for you in heaven. People treated the prophets who lived long ago in the same way."
-      },
-      {
-        "n": 13,
-        "text": "You are the salt of the earth. But if salt loses its taste, how can it be made salty again? It is no longer good for anything, except to be thrown out and walked on by people."
-      },
-      {
-        "n": 14,
-        "text": "You are the light of the world. A city built on a hill cannot be hidden."
-      },
-      {
-        "n": 15,
-        "text": "People do not light a lamp and put it under a bowl. They put it on a stand, where it gives light to everyone in the house."
-      },
-      {
-        "n": 16,
-        "text": "In the same way, let your light shine in front of others, so they can see the good things you do and praise your Father in heaven."
-      },
-      {
-        "n": 17,
-        "text": "Do not think I have come to do away with the law of Moses or the writings of the prophets. I have not come to do away with them, but to fulfill them."
-      },
-      {
-        "n": 18,
-        "text": "I tell you the truth, until heaven and earth disappear, not even the smallest letter or mark will disappear from the law until everything has come true."
-      },
-      {
-        "n": 19,
-        "text": "So whoever breaks one of the least of these commands and teaches others to do the same will be called least in the kingdom of heaven. But whoever obeys these commands and teaches others to do the same will be called great in the kingdom of heaven."
-      },
-      {
-        "n": 20,
-        "text": "I tell you: you must do what is right better than the teachers of the law and the Pharisees do. Otherwise, you will never enter the kingdom of heaven."
-      },
-      {
-        "n": 21,
-        "text": "You have heard that people long ago were told: Do not murder, and anyone who murders will be judged."
-      },
-      {
-        "n": 22,
-        "text": "But I tell you, anyone who is angry with a brother or sister will be judged. Anyone who insults a brother or sister will have to answer to the court. And anyone who says, You fool! will be in danger of the fire of hell."
-      },
-      {
-        "n": 23,
-        "text": "So if you are offering your gift at the altar and there remember that your brother has something against you,"
-      },
-      {
-        "n": 24,
-        "text": "Leave your gift there in front of the altar. First go and make peace with your brother, and then come and offer your gift."
-      },
-      {
-        "n": 25,
-        "text": "Make peace quickly with someone who is taking you to court. Do it while you are still on the way. Otherwise, he may hand you over to the judge. The judge may hand you over to the officer, and you may be thrown into prison."
-      },
-      {
-        "n": 26,
-        "text": "I tell you the truth, you will not get out until you have paid the last penny."
-      },
-      {
-        "n": 27,
-        "text": "You have heard that it was said: Do not commit adultery."
-      },
-      {
-        "n": 28,
-        "text": "But I tell you, anyone who looks at a woman and wants to sin with her has already committed adultery with her in his heart."
-      },
-      {
-        "n": 29,
-        "text": "If your right eye causes you to sin, take it out and throw it away. It is better to lose one part of your body than for your whole body to be thrown into hell."
-      },
-      {
-        "n": 30,
-        "text": "And if your right hand causes you to sin, cut it off and throw it away. It is better to lose one part of your body than for your whole body to go into hell."
-      },
-      {
-        "n": 31,
-        "text": "It was also said: Anyone who divorces his wife must give her a written notice of divorce."
-      },
-      {
-        "n": 32,
-        "text": "But I tell you, anyone who divorces his wife, except for sexual sin, causes her to commit adultery. And anyone who marries a divorced woman commits adultery."
-      },
-      {
-        "n": 33,
-        "text": "Again, you have heard that people long ago were told: Do not break your promise, but keep the promises you make to the Lord."
-      },
-      {
-        "n": 34,
-        "text": "But I tell you, do not make promises by swearing at all: not by heaven, because it is God's throne,"
-      },
-      {
-        "n": 35,
-        "text": "Or by the earth, because it is the place where God rests His feet, or by Jerusalem, because it is the city of the great King."
-      },
-      {
-        "n": 36,
-        "text": "And do not swear by your head, because you cannot make even one hair white or black."
-      },
-      {
-        "n": 37,
-        "text": "Just let your yes be yes and your no be no. Anything more than this comes from the evil one."
-      },
-      {
-        "n": 38,
-        "text": "You have heard that it was said: An eye for an eye, and a tooth for a tooth."
-      },
-      {
-        "n": 39,
-        "text": "But I tell you, do not fight back against someone who is evil. If anyone slaps you on the right cheek, turn the other cheek to him too."
-      },
-      {
-        "n": 40,
-        "text": "If anyone wants to sue you and take your shirt, let him have your coat as well."
-      },
-      {
-        "n": 41,
-        "text": "If anyone forces you to go one mile, go with him two miles."
-      },
-      {
-        "n": 42,
-        "text": "Give to the one who asks you, and do not turn away from the one who wants to borrow from you."
-      },
-      {
-        "n": 43,
-        "text": "You have heard that it was said: Love your neighbor and hate your enemy."
-      },
-      {
-        "n": 44,
-        "text": "But I tell you, love your enemies. Bless those who curse you. Do good to those who hate you. And pray for those who treat you badly and hurt you."
-      },
-      {
-        "n": 45,
-        "text": "Then you will be children of your Father in heaven. He makes His sun rise on the evil and the good, and He sends rain on those who do right and those who do wrong."
-      },
-      {
-        "n": 46,
-        "text": "If you love only those who love you, what reward will you get? Even the tax collectors do that."
-      },
-      {
-        "n": 47,
-        "text": "And if you are kind only to your friends, what are you doing more than others? Even people who do not know God do that."
-      },
-      {
-        "n": 48,
-        "text": "So be perfect, just as your Father in heaven is perfect."
-      }
+      { "n": 1, "text": "Jesus saw the crowds of people, and He went up into a mountain. When He sat down, His disciples came to Him." },
+      { "n": 2, "text": "Jesus opened His mouth and taught them. Jesus said:" },
+      { "n": 3, "text": "Blessed are the poor in spirit (humble before God), for theirs is the kingdom of heaven." },
+      { "n": 4, "text": "Blessed are those who mourn (are very sad), for they will be comforted." },
+      { "n": 5, "text": "Blessed are the meek (gentle), for they will inherit the earth." },
+      { "n": 6, "text": "Blessed are those who hunger and thirst after righteousness (being right with God), for they will be filled." },
+      { "n": 7, "text": "Blessed are the merciful, for they will receive mercy." },
+      { "n": 8, "text": "Blessed are the pure in heart, for they will see God." },
+      { "n": 9, "text": "Blessed are the peacemakers, for they will be called the children of God." },
+      { "n": 10, "text": "Blessed are those who are persecuted (attacked) for righteousness' (being right with God) sake, for theirs is the kingdom of heaven." },
+      { "n": 11, "text": "Blessed are you when people revile (insult) you and persecute (attack) you, and say all kinds of evil against you falsely, for My sake." },
+      { "n": 12, "text": "Rejoice, and be very glad, for your reward in heaven is great. For that is how they persecuted (attacked) the prophets who were before you." },
+      { "n": 13, "text": "You are the salt of the earth. But if the salt has lost its savor (taste), how can it be made salty again? From then on it is good for nothing, except to be thrown out and walked on by people." },
+      { "n": 14, "text": "You are the light of the world. A city that is set on a hill cannot be hidden." },
+      { "n": 15, "text": "People do not light a candle and put it under a bushel (basket). They put it on a candlestick (lamp stand), and it gives light to everyone in the house." },
+      { "n": 16, "text": "Let your light shine before people in the same way. Then they may see your good works, and glorify your Father who is in heaven." },
+      { "n": 17, "text": "Do not think that I have come to destroy the law or the prophets. I have not come to destroy, but to fulfill." },
+      { "n": 18, "text": "For truly I say to you: Until heaven and earth pass away, one jot (smallest letter) or one tittle (smallest mark) will in no way pass from the law, until all is fulfilled." },
+      { "n": 19, "text": "So whoever breaks one of the least of these commandments, and teaches people to do so, will be called least in the kingdom of heaven. But whoever does them and teaches them will be called great in the kingdom of heaven." },
+      { "n": 20, "text": "For I say to you: Unless your righteousness (being right with God) is greater than the righteousness of the scribes (teachers of the law) and Pharisees, you will in no way enter into the kingdom of heaven." },
+      { "n": 21, "text": "You have heard that it was said by them of old time: You shall not kill. And whoever kills will be in danger of the judgment." },
+      { "n": 22, "text": "But I say to you: Whoever is angry with their brother without a cause will be in danger of the judgment. Whoever says to their brother, Raca (worthless), will be in danger of the council (court). But whoever says, You fool, will be in danger of hell fire." },
+      { "n": 23, "text": "So if you bring your gift to the altar, and there you remember that your brother has something against you," },
+      { "n": 24, "text": "leave your gift there before the altar, and go your way. First be reconciled (make peace) with your brother, and then come and offer your gift." },
+      { "n": 25, "text": "Agree with your adversary (the one taking you to court) quickly, while you are on the way with him. Otherwise the adversary may hand you to the judge, and the judge may hand you to the officer, and you will be thrown into prison." },
+      { "n": 26, "text": "Truly I say to you: You will in no way come out of there until you have paid the last farthing (smallest coin)." },
+      { "n": 27, "text": "You have heard that it was said by them of old time: You shall not commit adultery." },
+      { "n": 28, "text": "But I say to you: Whoever looks on a woman to lust (wrongly desire) after her has already committed adultery with her in his heart." },
+      { "n": 29, "text": "If your right eye offends you (causes you to sin), pluck it out and throw it away from you. It is better for you that one of your body parts should perish, than for your whole body to be thrown into hell." },
+      { "n": 30, "text": "And if your right hand offends you (causes you to sin), cut it off and throw it away from you. It is better for you that one of your body parts should perish, than for your whole body to be thrown into hell." },
+      { "n": 31, "text": "It has been said: Whoever puts away (divorces) his wife, let him give her a writing of divorcement (written divorce paper)." },
+      { "n": 32, "text": "But I say to you: Whoever puts away (divorces) his wife, except for the cause of fornication (sexual sin), causes her to commit adultery. And whoever marries her that is divorced commits adultery." },
+      { "n": 33, "text": "Again, you have heard that it was said by them of old time: You shall not forswear yourself (break a promise to God), but you shall keep your oaths (promises) to the Lord." },
+      { "n": 34, "text": "But I say to you: Swear not at all. Do not swear by heaven, for it is God's throne." },
+      { "n": 35, "text": "Do not swear by the earth, for it is His footstool. Do not swear by Jerusalem, for it is the city of the great King." },
+      { "n": 36, "text": "Do not swear by your head, because you cannot make one hair white or black." },
+      { "n": 37, "text": "But let your communication (speaking) be: Yes, yes; No, no. For whatever is more than these comes from evil." },
+      { "n": 38, "text": "You have heard that it has been said: An eye for an eye, and a tooth for a tooth." },
+      { "n": 39, "text": "But I say to you: Do not resist evil. Whoever hits you on your right cheek, turn to him the other cheek also." },
+      { "n": 40, "text": "If anyone takes you to court and takes away your coat, let him have your cloak (outer coat) also." },
+      { "n": 41, "text": "Whoever forces you to go a mile, go with him two miles." },
+      { "n": 42, "text": "Give to anyone who asks you. And from anyone who wants to borrow from you, do not turn away." },
+      { "n": 43, "text": "You have heard that it has been said: You shall love your neighbor, and hate your enemy." },
+      { "n": 44, "text": "But I say to you: Love your enemies. Bless those who curse you. Do good to those who hate you. And pray for those who despitefully use (mistreat) you and persecute (attack) you." },
+      { "n": 45, "text": "Then you may be the children of your Father who is in heaven. For He makes His sun rise on the evil and on the good. And He sends rain on the just and on the unjust." },
+      { "n": 46, "text": "For if you love those who love you, what reward do you have? Do not even the publicans (tax collectors) do the same?" },
+      { "n": 47, "text": "And if you greet your brothers only, what do you do more than others? Do not even the publicans (tax collectors) do so?" },
+      { "n": 48, "text": "So be perfect, even as your Father who is in heaven is perfect." }
     ]
   },
   "6": {
