@@ -201,10 +201,11 @@ Convert generic "he/his/him" (referring to "anyone," "whoever," "a person," "a p
 ## Capitalization
 Every verse must start with a capital letter, including continuation verses that begin mid-sentence in the KJV (e.g. "and," "who," "for").
 
-## Hell vs. the grave
-- Hebrew *sheol* / Greek *Hades* → "the grave"
+## Hell vs. the grave (updated -- follow the KJV word)
+- Hebrew *sheol* / Greek *Hades* → use whatever word the KJV uses in that verse: where the KJV says "hell," write **hell** with no parentheses (e.g. Matthew 11:23 "brought down to hell"); where it says "grave" or "pit," keep that word.
 - Greek *Gehenna* (NT judgment/fire imagery) → "hell" (kept as-is)
 - 2 Peter 2:4's *Tartarus* → "hell" (kept as-is)
+- (This replaces the earlier rule that changed every *sheol*/*Hades* to "the grave.")
 
 ## Word-level consistency across the whole book
 When a specific term matters (e.g. the Greek uses two different words for "baskets" — *kophinoi*, small hand-baskets, at the feeding of the 5,000, vs. *spyrides*, large provision hampers, at the feeding of the 4,000), preserve that same distinction consistently everywhere it appears, including in parallel passages across different books (Matthew/Mark) and in places where Jesus himself references both events (Matthew 16:9-10, Mark 8:19-20).
