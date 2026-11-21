@@ -165,6 +165,12 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - upbraid (scold); woe (great trouble); sackcloth (rough cloth worn when sorry); exalted (lifted up)
   - prudent (clever); babes (little children); labour (work hard); heavy laden (carry heavy loads)
   - yoke (wooden bar for working together); lowly (humble); burden (load)
+  - corn (grain); ears of corn (heads of grain); sabbath day (day of rest); lawful (allowed by the law); shewbread (holy bread set before God)
+  - profane (break the rules of); withered (dried up and useless); council (meeting) -- a plotting meeting; withdrew (went away); charged (strongly told)
+  - beloved (dearly loved); judgment (what is right) -- Matthew 12:18, 20; strive (fight); bruised reed (bent grass); smoking flax (a weak, smoking lamp wick)
+  - desolation (ruin); spoil (steal / rob) -- of goods; blasphemy (speaking against God); generation of vipers (children of poisonous snakes)
+  - abundance (overflow); idle (careless); give account (answer); adulterous (unfaithful to God); Jonas (Jonah)
+  - garnished (decorated); brethren (brothers)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
