@@ -171,6 +171,14 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - desolation (ruin); spoil (steal / rob) -- of goods; blasphemy (speaking against God); generation of vipers (children of poisonous snakes)
   - abundance (overflow); idle (careless); give account (answer); adulterous (unfaithful to God); Jonas (Jonah)
   - garnished (decorated); brethren (brothers)
+  - parables (stories that teach a lesson); sower (a man planting seed); sow (plant seed); way side (along the path); fowls (birds); devoured (ate)
+  - earth (soil) -- of seed; scorched (burned); withered (dried up); brought forth (produced); hundredfold (100 times as much)
+  - abundance (more than enough); perceive (understand what you see); waxed gross (has become hard and dull); converted (turn back to God)
+  - the wicked one (the devil); care (worry); deceitfulness (lies); unfruitful (has no fruit); offended (falls away) -- Matthew 13:21
+  - tares (weeds); blade (plant); householder (owner of the house); reapers (workers who cut the grain)
+  - least (smallest); herbs (garden plants); lodge (rest); leaven (yeast); meal (flour); declare (explain); foundation (beginning)
+  - wailing (loud crying); merchant (a man who buys and sells); goodly (beautiful); vessels (baskets); sever (separate); instructed (taught)
+  - own country (hometown); offended in Him (turned away from Him); honour (respect)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
