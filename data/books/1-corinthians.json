@@ -394,60 +394,21 @@
   "13": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "If I speak in the languages of people and even of angels, but do not have love, I am only a noisy gong or a clanging cymbal."
-      },
-      {
-        "n": 2,
-        "text": "I may have the gift of prophecy. I may understand all secrets and all knowledge. I may have faith strong enough to move mountains. But if I do not have love, I am nothing."
-      },
-      {
-        "n": 3,
-        "text": "If I give away everything I own, and even give my body to be burned, but do not have love, I gain nothing."
-      },
-      {
-        "n": 4,
-        "text": "Love is patient and kind. Love is not jealous. It does not brag, and it is not proud."
-      },
-      {
-        "n": 5,
-        "text": "It is not rude. It does not look out only for itself. It does not get angry easily, and it keeps no record of wrongs."
-      },
-      {
-        "n": 6,
-        "text": "Love is not glad about evil, but is glad about the truth."
-      },
-      {
-        "n": 7,
-        "text": "Love always protects, always trusts, always hopes, and always keeps going."
-      },
-      {
-        "n": 8,
-        "text": "Love never ends. But prophecies will stop, other languages will cease, and knowledge will pass away."
-      },
-      {
-        "n": 9,
-        "text": "For we know only a part, and we prophesy only a part."
-      },
-      {
-        "n": 10,
-        "text": "But when what is perfect comes, what is only a part will pass away."
-      },
-      {
-        "n": 11,
-        "text": "When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I grew up, I put childish ways behind me."
-      },
-      {
-        "n": 12,
-        "text": "For now we see only a dim picture, as in a poor mirror. But then we will see face to face. Now I know only a part; then I will know fully, just as I am fully known."
-      },
-      {
-        "n": 13,
-        "text": "So these three remain: faith, hope, and love. But the greatest of these is love."
-      }
+      { "n": 1, "text": "Though I speak with the tongues (languages) of men and of angels, and have not charity (love), I have become like sounding brass or a tinkling cymbal (an empty noise)." },
+      { "n": 2, "text": "And though I have the gift of prophecy (speaking God's message), and understand all mysteries (secrets) and all knowledge, and though I have all faith, so that I could move mountains, and have not charity (love), I am nothing." },
+      { "n": 3, "text": "And though I give all my goods to feed the poor, and though I give my body to be burned, and have not charity (love), it profits (helps) me nothing." },
+      { "n": 4, "text": "Charity (love) suffers long (is patient), and is kind. Charity (love) does not envy (feel jealous). Charity (love) does not vaunt itself (brag), and is not puffed up (proud)." },
+      { "n": 5, "text": "Charity (love) does not behave in an unseemly (rude) way. It does not seek its own way. It is not easily provoked (made angry). It thinks no evil." },
+      { "n": 6, "text": "It does not rejoice in iniquity (sin), but rejoices in the truth." },
+      { "n": 7, "text": "It bears all things, believes all things, hopes all things, and endures all things." },
+      { "n": 8, "text": "Charity (love) never fails. But where there are prophecies, they will fail. Where there are tongues (languages), they will cease (stop). Where there is knowledge, it will vanish away." },
+      { "n": 9, "text": "For we know in part, and we prophesy (speak God's message) in part." },
+      { "n": 10, "text": "But when that which is perfect (complete) has come, then that which is in part will be done away." },
+      { "n": 11, "text": "When I was a child, I spoke as a child. I understood as a child. I thought as a child. But when I became a man, I put away childish things." },
+      { "n": 12, "text": "For now we see through a glass (mirror), darkly (not clearly). But then we will see face to face. Now I know in part. But then I will know, even as I am known." },
+      { "n": 13, "text": "And now faith, hope, and charity (love) abide (remain), these three. But the greatest of these is charity (love)." }
     ]
   },
   "14": {
