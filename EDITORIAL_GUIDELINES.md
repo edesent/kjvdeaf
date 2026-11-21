@@ -195,6 +195,10 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - transfigured (changed in appearance); tabernacles (tents); overshadowed (covered); sore (very); arise (get up)
   - restore (make right again); listed (wanted); lunatick (has seizures); sore vexed (suffers badly); perverse (twisted); suffer (put up with) -- Matthew 17:17
   - remove (move); yonder (that); abode (stayed); exceeding (very); tribute (tax); custom (taxes); prevented (spoke first to) -- Matthew 17:25
+  - converted (turned around) -- Matthew 18:3; offend (cause to sin); offences (things that cause sin); millstone (large heavy stone); halt (crippled)
+  - despise (look down on); behold (see); gone astray (wandered away); perish (be lost) -- of little ones; trespass (do wrong); established (proven true); neglect (refuse)
+  - take account (settle the money owed); reckon (count up what was owed); talents (a huge amount of money); pence (a small amount of money)
+  - lord (master) -- in parables; loosed (set free); wroth (very angry); tormentors (jailers who punish)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
