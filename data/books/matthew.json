@@ -714,148 +714,43 @@
   "18": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Generic 'he/his' rendered gender-neutral throughout. V6's 'huge millstone' reflects the Greek's specific meaning (a heavy millstone turned by a donkey, not a small hand-mill). This chapter was previously missing from the site entirely.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text in places, e.g. leaving out \"their trespasses\" in 18:35 and \"Lord\" in 18:26, and it added words in 18:6), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, with generic 'he/his/himself' rendered gender-neutral in v4, v6.",
     "verses": [
-      {
-        "n": 1,
-        "text": "At that time the disciples came to Jesus and asked: Who is the greatest in the kingdom of heaven?"
-      },
-      {
-        "n": 2,
-        "text": "Jesus called a little child to Him and stood the child among them."
-      },
-      {
-        "n": 3,
-        "text": "Jesus said: I tell you the truth, unless you change and become like little children, you will never enter the kingdom of heaven."
-      },
-      {
-        "n": 4,
-        "text": "So whoever humbles themselves like this little child is the greatest in the kingdom of heaven."
-      },
-      {
-        "n": 5,
-        "text": "And whoever welcomes a little child like this in my name welcomes me."
-      },
-      {
-        "n": 6,
-        "text": "Suppose someone leads one of these believing little ones into sin. It would be better to hang a giant millstone around their neck. Then people should drown that guilty person deep in the ocean!"
-      },
-      {
-        "n": 7,
-        "text": "How terrible for the world because of the things that cause people to sin! Such things must come, but how terrible for the person who causes them to come!"
-      },
-      {
-        "n": 8,
-        "text": "If your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life crippled or lame than to have two hands or two feet and be thrown into the eternal fire."
-      },
-      {
-        "n": 9,
-        "text": "And if your eye causes you to sin, take it out and throw it away. It is better for you to enter life with one eye than to have two eyes and be thrown into the fire of hell."
-      },
-      {
-        "n": 10,
-        "text": "See that you do not look down on one of these little ones. I tell you, their angels in heaven always see the face of my Father in heaven."
-      },
-      {
-        "n": 11,
-        "text": "For the Son of Man came to save what was lost."
-      },
-      {
-        "n": 12,
-        "text": "What do you think? A man has a hundred sheep, and one wanders away. Will he not leave the ninety-nine on the hillside? Will he not go look for the one that wandered off?"
-      },
-      {
-        "n": 13,
-        "text": "And if he finds it, I tell you the truth, he is happier about that one sheep than about the ninety-nine that did not wander away."
-      },
-      {
-        "n": 14,
-        "text": "In the same way, your Father in heaven does not want any of these little ones to be lost."
-      },
-      {
-        "n": 15,
-        "text": "If your brother or sister sins against you, go and point out the fault, just between the two of you. If they listen to you, you have won them back."
-      },
-      {
-        "n": 16,
-        "text": "But if they will not listen, take one or two others with you. Then every matter may be established by the testimony of two or three witnesses."
-      },
-      {
-        "n": 17,
-        "text": "If they refuse to listen to them, tell it to the church. And if they refuse to listen even to the church, treat them as you would a pagan or a tax collector."
-      },
-      {
-        "n": 18,
-        "text": "I tell you the truth: whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven."
-      },
-      {
-        "n": 19,
-        "text": "Again, I tell you, if two of you on earth agree about anything you ask for, it will be done for you by my Father in heaven."
-      },
-      {
-        "n": 20,
-        "text": "For where two or three come together in my name, I am there with them."
-      },
-      {
-        "n": 21,
-        "text": "Then Peter came to Jesus and asked: Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?"
-      },
-      {
-        "n": 22,
-        "text": "Jesus answered: I tell you, not seven times, but seventy times seven."
-      },
-      {
-        "n": 23,
-        "text": "That is why the kingdom of heaven is like a king who wanted to settle accounts with his servants."
-      },
-      {
-        "n": 24,
-        "text": "As he began the settlement, a man was brought to him who owed ten thousand bags of gold."
-      },
-      {
-        "n": 25,
-        "text": "The man was not able to pay. So the master ordered that he and his wife and his children and everything he had be sold to pay the debt."
-      },
-      {
-        "n": 26,
-        "text": "The servant fell on his knees and begged him: Be patient with me, and I will pay back everything."
-      },
-      {
-        "n": 27,
-        "text": "The master felt sorry for the servant, released him, and forgave the debt."
-      },
-      {
-        "n": 28,
-        "text": "But when that servant went out, he found a fellow servant who owed him a hundred silver coins. He grabbed him and began to choke him, saying: Pay back what you owe me!"
-      },
-      {
-        "n": 29,
-        "text": "His fellow servant fell down and begged him: Be patient with me, and I will pay you back."
-      },
-      {
-        "n": 30,
-        "text": "But the first servant refused. Instead, he went and had the man thrown into prison until he could pay the debt."
-      },
-      {
-        "n": 31,
-        "text": "When the other servants saw what had happened, they were very upset, and they went and told their master everything that had happened."
-      },
-      {
-        "n": 32,
-        "text": "Then the master called the servant in and said: You wicked servant! I forgave you all that debt because you begged me to."
-      },
-      {
-        "n": 33,
-        "text": "Should you not have had mercy on your fellow servant, just as I had mercy on you?"
-      },
-      {
-        "n": 34,
-        "text": "In anger, his master handed him over to be tortured until he could pay back everything he owed."
-      },
-      {
-        "n": 35,
-        "text": "This is how my heavenly Father will treat each of you unless you forgive your brother or sister from your heart."
-      }
+      { "n": 1, "text": "At the same time the disciples came to Jesus. They said: Who is the greatest in the kingdom of heaven?" },
+      { "n": 2, "text": "Jesus called a little child to Him, and set the child in the middle of them." },
+      { "n": 3, "text": "Jesus said: Truly I say to you: Unless you are converted (turned around), and become like little children, you will not enter into the kingdom of heaven." },
+      { "n": 4, "text": "So whoever humbles themselves like this little child, that person is greatest in the kingdom of heaven." },
+      { "n": 5, "text": "And whoever receives one such little child in My name receives Me." },
+      { "n": 6, "text": "But whoever offends (causes to sin) one of these little ones who believe in Me, it would be better for that person to have a millstone (large heavy stone) hung around their neck, and be drowned in the depth of the sea." },
+      { "n": 7, "text": "Woe (great trouble) to the world because of offences (things that cause sin)! For offences (things that cause sin) must come. But woe (great trouble) to that man by whom the offence comes!" },
+      { "n": 8, "text": "So if your hand or your foot offends you (causes you to sin), cut them off, and throw them away from you. It is better for you to enter into life halt (crippled) or maimed (missing a body part), than to have two hands or two feet and be thrown into everlasting fire." },
+      { "n": 9, "text": "And if your eye offends you (causes you to sin), pluck it out, and throw it away from you. It is better for you to enter into life with one eye, than to have two eyes and be thrown into hell fire." },
+      { "n": 10, "text": "Take heed (be careful) that you do not despise (look down on) one of these little ones. For I say to you: In heaven their angels always behold (see) the face of My Father who is in heaven." },
+      { "n": 11, "text": "For the Son of Man has come to save what was lost." },
+      { "n": 12, "text": "What do you think? If a man has a hundred sheep, and one of them has gone astray (wandered away), does he not leave the ninety-nine, and go into the mountains, and seek the one that has gone astray (wandered away)?" },
+      { "n": 13, "text": "And if he finds it, truly I say to you: He rejoices more over that sheep than over the ninety-nine that did not go astray." },
+      { "n": 14, "text": "In the same way, it is not the will of your Father who is in heaven that one of these little ones should perish (be lost)." },
+      { "n": 15, "text": "If your brother trespasses (does wrong) against you, go and tell him his fault between you and him alone. If he hears you, you have gained your brother." },
+      { "n": 16, "text": "But if he will not hear you, then take with you one or two more. So in the mouth of two or three witnesses every word may be established (proven true)." },
+      { "n": 17, "text": "If he neglects (refuses) to hear them, tell it to the church. But if he neglects (refuses) to hear the church, let him be to you as a heathen (person who does not know God) and a publican (tax collector)." },
+      { "n": 18, "text": "Truly I say to you: Whatever you bind (forbid) on earth will be bound in heaven. And whatever you loose (allow) on earth will be loosed in heaven." },
+      { "n": 19, "text": "Again I say to you: If two of you agree on earth about anything that they ask, it will be done for them by My Father who is in heaven." },
+      { "n": 20, "text": "For where two or three are gathered together in My name, there I am in the middle of them." },
+      { "n": 21, "text": "Then Peter came to Jesus and said: Lord, how often will my brother sin against me, and I forgive him? Up to seven times?" },
+      { "n": 22, "text": "Jesus said to Peter: I do not say to you, up to seven times. But up to seventy times seven." },
+      { "n": 23, "text": "So the kingdom of heaven is like a certain king who wanted to take account (settle the money owed) with his servants." },
+      { "n": 24, "text": "When the king had begun to reckon (count up what was owed), one servant was brought to him who owed him ten thousand talents (a huge amount of money)." },
+      { "n": 25, "text": "But the servant did not have enough to pay. So his lord (master) commanded him to be sold, and his wife, and children, and all that he had, and payment to be made." },
+      { "n": 26, "text": "So the servant fell down and worshipped (bowed down to) him. The servant said: Lord, have patience with me, and I will pay you all." },
+      { "n": 27, "text": "Then the lord (master) of that servant was moved with compassion (deep pity). He loosed (set free) the servant, and forgave him the debt." },
+      { "n": 28, "text": "But that same servant went out and found one of his fellowservants, who owed him a hundred pence (a small amount of money). He laid hands on him, and took him by the throat. He said: Pay me what you owe." },
+      { "n": 29, "text": "His fellowservant fell down at his feet, and besought (begged) him: Have patience with me, and I will pay you all." },
+      { "n": 30, "text": "But he would not. He went and threw him into prison, until he would pay the debt." },
+      { "n": 31, "text": "When his fellowservants saw what was done, they were very sorry. They came and told their lord (master) all that was done." },
+      { "n": 32, "text": "Then his lord (master) called him, and said to him: O you wicked servant, I forgave you all that debt, because you desired (begged) me." },
+      { "n": 33, "text": "Should you not also have had compassion (pity) on your fellowservant, just as I had pity on you?" },
+      { "n": 34, "text": "His lord (master) was wroth (very angry), and delivered (handed) him to the tormentors (jailers who punish), until he would pay all that was due to him." },
+      { "n": 35, "text": "So My heavenly Father will also do to you, if you do not forgive from your hearts every one his brother their trespasses (wrongs)." }
     ]
   },
   "19": {
