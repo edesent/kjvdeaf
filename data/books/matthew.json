@@ -940,164 +940,47 @@
   "23": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. dropping \"even Christ\" in 23:8 and \"grievous to be borne\" in 23:4, and it added words in 23:35 and 23:37 such as 'bronze altar' and 'in love'), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, with generic 'he/himself' rendered gender-neutral in v12, v15-18.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Then Jesus spoke to the crowds and to His disciples:"
-      },
-      {
-        "n": 2,
-        "text": "The teachers of the law and the Pharisees sit in Moses' seat."
-      },
-      {
-        "n": 3,
-        "text": "So you must be careful to do everything they tell you. But do not do what they do, because they do not practice what they preach."
-      },
-      {
-        "n": 4,
-        "text": "They tie up heavy loads and put them on people's shoulders, but they themselves are not willing to lift a finger to move them."
-      },
-      {
-        "n": 5,
-        "text": "Everything they do is done for people to see. They make their prayer boxes wide and the tassels on their clothes long."
-      },
-      {
-        "n": 6,
-        "text": "They love the place of honor at banquets and the most important seats in the synagogues."
-      },
-      {
-        "n": 7,
-        "text": "They love to be greeted in the marketplaces and to have people call them Rabbi."
-      },
-      {
-        "n": 8,
-        "text": "But you must not be called Rabbi, because you have one Teacher, and you are all brothers and sisters."
-      },
-      {
-        "n": 9,
-        "text": "Do not call anyone on earth your father, because you have one Father, and He is in heaven."
-      },
-      {
-        "n": 10,
-        "text": "Nor should you be called teacher, because you have one Teacher, the Christ."
-      },
-      {
-        "n": 11,
-        "text": "The greatest among you will be your servant."
-      },
-      {
-        "n": 12,
-        "text": "Whoever exalts themselves will be humbled, and whoever humbles themselves will be exalted."
-      },
-      {
-        "n": 13,
-        "text": "How terrible it will be for you, teachers of the law and Pharisees, you hypocrites! You shut the door of the kingdom of heaven in people's faces. You yourselves do not enter, and you will not let those who wish to enter go in."
-      },
-      {
-        "n": 14,
-        "text": "How terrible it will be for you, teachers of the law and Pharisees, you hypocrites! You take advantage of widows and rob them of their houses, and to cover it up you make long, showy prayers. So you will receive an even greater punishment."
-      },
-      {
-        "n": 15,
-        "text": "How terrible it will be for you, teachers of the law and Pharisees, you hypocrites! You cross land and sea to win one person to your beliefs. When you succeed, you make that person twice as much a child of hell as you are."
-      },
-      {
-        "n": 16,
-        "text": "How terrible it will be for you, blind guides! You say: If anyone swears by the temple, that means nothing. But if anyone swears by the gold in the temple, that person is bound by the oath."
-      },
-      {
-        "n": 17,
-        "text": "You blind fools! Which is more important, the gold, or the temple that makes the gold sacred?"
-      },
-      {
-        "n": 18,
-        "text": "You also say: If anyone swears by the altar, that means nothing. But if anyone swears by the gift on the altar, that person is bound by the oath."
-      },
-      {
-        "n": 19,
-        "text": "You blind ones! Which is more important, the gift, or the altar that makes the gift sacred?"
-      },
-      {
-        "n": 20,
-        "text": "So anyone who swears by the altar swears by it and by everything on it."
-      },
-      {
-        "n": 21,
-        "text": "And anyone who swears by the temple swears by it and by the One who lives in it."
-      },
-      {
-        "n": 22,
-        "text": "And anyone who swears by heaven swears by God's throne and by the One who sits on it."
-      },
-      {
-        "n": 23,
-        "text": "How terrible it will be for you, teachers of the law and Pharisees, you hypocrites! You give a tenth of your mint, dill, and cumin, but you have neglected the more important matters of the law: justice, mercy, and faithfulness. You should have practiced these without neglecting the others."
-      },
-      {
-        "n": 24,
-        "text": "You blind guides! You strain out a gnat but swallow a camel."
-      },
-      {
-        "n": 25,
-        "text": "How terrible it will be for you, teachers of the law and Pharisees, you hypocrites! You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence."
-      },
-      {
-        "n": 26,
-        "text": "Blind Pharisee! First clean the inside of the cup and dish, and then the outside will be clean too."
-      },
-      {
-        "n": 27,
-        "text": "How terrible it will be for you, teachers of the law and Pharisees, you hypocrites! You are like whitewashed tombs, which look beautiful on the outside but on the inside are full of the bones of the dead and everything unclean."
-      },
-      {
-        "n": 28,
-        "text": "In the same way, on the outside you appear righteous to others, but on the inside you are full of hypocrisy and wickedness."
-      },
-      {
-        "n": 29,
-        "text": "How terrible it will be for you, teachers of the law and Pharisees, you hypocrites! You build tombs for the prophets and decorate the graves of the righteous."
-      },
-      {
-        "n": 30,
-        "text": "And you say: If we had lived in the days of our ancestors, we would not have joined them. We would not have helped shed the blood of the prophets."
-      },
-      {
-        "n": 31,
-        "text": "So you testify against yourselves that you are the descendants of those who murdered the prophets."
-      },
-      {
-        "n": 32,
-        "text": "Go ahead, then, and finish what your ancestors started!"
-      },
-      {
-        "n": 33,
-        "text": "You snakes! You family of vipers! How will you escape being condemned to hell?"
-      },
-      {
-        "n": 34,
-        "text": "That is why I am sending you prophets, wise people, and teachers. Some of them you will kill and crucify. Others you will whip in your synagogues and chase from town to town."
-      },
-      {
-        "n": 35,
-        "text": "The guilt for all innocent blood shed on earth will hit you. This includes good Abel all the way to the prophet Zechariah's death. You murdered Zechariah right between God's holy temple and the bronze altar!"
-      },
-      {
-        "n": 36,
-        "text": "I tell you the truth, all this will come upon this generation."
-      },
-      {
-        "n": 37,
-        "text": "Jerusalem, Jerusalem! You kill the prophets and stone messengers God sends you! How often I wanted to gather all your children together in love! I wanted to protect you like a mother hen shelters her chicks. But you were stubborn and refused to let me care for you!"
-      },
-      {
-        "n": 38,
-        "text": "Look, your house is left to you empty and abandoned."
-      },
-      {
-        "n": 39,
-        "text": "For I tell you, you will not see me again until you say: Blessed is He who comes in the name of the Lord."
-      }
+      { "n": 1, "text": "Then Jesus spoke to the multitude (crowd), and to His disciples." },
+      { "n": 2, "text": "Jesus said: The scribes (teachers of the law) and the Pharisees sit in Moses' seat (teach Moses' law)." },
+      { "n": 3, "text": "So whatever they bid (tell) you to observe (keep), that observe and do. But do not do what they do. For they say, and do not do." },
+      { "n": 4, "text": "For they bind (tie up) heavy burdens (loads) that are grievous (hard) to be borne (carried), and lay them on men's shoulders. But they themselves will not move them with one of their fingers." },
+      { "n": 5, "text": "But they do all their works to be seen by men. They make broad (wide) their phylacteries (little boxes holding Bible verses, worn on the body), and enlarge the borders (fringes) of their garments (clothes)." },
+      { "n": 6, "text": "They love the uppermost rooms (best places) at feasts, and the chief (best) seats in the synagogues (meeting houses)." },
+      { "n": 7, "text": "And they love greetings in the markets, and to be called by men: Rabbi, Rabbi (Teacher, Teacher)." },
+      { "n": 8, "text": "But do not be called Rabbi (Teacher). For one is your Master (Teacher), even Christ. And all of you are brethren (brothers)." },
+      { "n": 9, "text": "And call no man your father on the earth. For one is your Father, who is in heaven." },
+      { "n": 10, "text": "Do not be called masters (teachers). For one is your Master (Teacher), even Christ." },
+      { "n": 11, "text": "But whoever is greatest among you will be your servant." },
+      { "n": 12, "text": "Whoever exalts (lifts up) themselves will be abased (brought low). And whoever humbles themselves will be exalted (lifted up)." },
+      { "n": 13, "text": "But woe (great trouble) to you, scribes (teachers of the law) and Pharisees, hypocrites (pretenders)! For you shut up the kingdom of heaven against men. You do not go in yourselves, and you do not let those who are entering go in." },
+      { "n": 14, "text": "Woe (great trouble) to you, scribes (teachers of the law) and Pharisees, hypocrites (pretenders)! For you devour (eat up) widows' houses, and for a pretence (to look good) make long prayers. So you will receive the greater damnation (punishment)." },
+      { "n": 15, "text": "Woe (great trouble) to you, scribes (teachers of the law) and Pharisees, hypocrites (pretenders)! For you go around sea and land to make one proselyte (convert). When that person is made, you make them twofold (two times) more the child of hell than yourselves." },
+      { "n": 16, "text": "Woe (great trouble) to you, you blind guides! You say: Whoever swears by the temple, it is nothing. But whoever swears by the gold of the temple, that person is a debtor (bound by the promise)!" },
+      { "n": 17, "text": "You fools and blind! For which is greater, the gold, or the temple that sanctifies (makes holy) the gold?" },
+      { "n": 18, "text": "And you say: Whoever swears by the altar, it is nothing. But whoever swears by the gift that is on it, that person is guilty (bound by the promise)." },
+      { "n": 19, "text": "You fools and blind! For which is greater, the gift, or the altar that sanctifies (makes holy) the gift?" },
+      { "n": 20, "text": "So whoever swears by the altar, swears by it, and by all things on it." },
+      { "n": 21, "text": "And whoever swears by the temple, swears by it, and by Him who dwells (lives) in it." },
+      { "n": 22, "text": "And whoever swears by heaven, swears by the throne of God, and by Him who sits on it." },
+      { "n": 23, "text": "Woe (great trouble) to you, scribes (teachers of the law) and Pharisees, hypocrites (pretenders)! For you pay tithe (a tenth part) of mint and anise and cummin (small garden herbs). But you have left undone the weightier (more important) matters of the law: judgment (fairness), mercy, and faith. These you ought to have done, and not to leave the other undone." },
+      { "n": 24, "text": "You blind guides, who strain at (strain out) a gnat (tiny bug), and swallow a camel!" },
+      { "n": 25, "text": "Woe (great trouble) to you, scribes (teachers of the law) and Pharisees, hypocrites (pretenders)! For you make clean the outside of the cup and of the platter (plate). But inside they are full of extortion (stealing by force) and excess (no self-control)." },
+      { "n": 26, "text": "You blind Pharisee, first clean what is inside the cup and platter (plate), so that the outside of them may be clean also." },
+      { "n": 27, "text": "Woe (great trouble) to you, scribes (teachers of the law) and Pharisees, hypocrites (pretenders)! For you are like whited sepulchres (tombs painted white). They indeed look beautiful on the outside, but inside they are full of dead men's bones, and of all uncleanness." },
+      { "n": 28, "text": "In the same way, you also look righteous (right with God) to men on the outside. But inside you are full of hypocrisy (pretending) and iniquity (sin)." },
+      { "n": 29, "text": "Woe (great trouble) to you, scribes (teachers of the law) and Pharisees, hypocrites (pretenders)! Because you build the tombs of the prophets, and garnish (decorate) the sepulchres (tombs) of the righteous." },
+      { "n": 30, "text": "And you say: If we had been in the days of our fathers, we would not have been partakers (sharers) with them in the blood of the prophets." },
+      { "n": 31, "text": "So you are witnesses against yourselves, that you are the children of those who killed the prophets." },
+      { "n": 32, "text": "Fill up then the measure (the full amount) of your fathers." },
+      { "n": 33, "text": "You serpents (snakes), you generation of vipers (children of poisonous snakes), how can you escape the damnation (punishment) of hell?" },
+      { "n": 34, "text": "So look, I send to you prophets, and wise men, and scribes (teachers of the law). Some of them you will kill and crucify (nail to a cross). And some of them you will scourge (whip) in your synagogues (meeting houses), and persecute (attack) them from city to city." },
+      { "n": 35, "text": "So upon you may come all the righteous blood shed on the earth, from the blood of righteous Abel to the blood of Zacharias son of Barachias, whom you slew (killed) between the temple and the altar." },
+      { "n": 36, "text": "Truly I say to you: All these things will come upon this generation (people living now)." },
+      { "n": 37, "text": "O Jerusalem, Jerusalem, you who kill the prophets, and stone those who are sent to you! How often would I have gathered your children together, even as a hen gathers her chickens under her wings, and you would not!" },
+      { "n": 38, "text": "Look, your house is left to you desolate (empty and ruined)." },
+      { "n": 39, "text": "For I say to you: You will not see Me from now on, until you say: Blessed is He who comes in the name of the Lord." }
     ]
   },
   "26": {
