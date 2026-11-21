@@ -128,6 +128,20 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - ministered to (served)
   - synagogues (meeting houses)
   - devils (demons); lunatic (had seizures); palsy (could not move their bodies)
+  - poor in spirit (humble before God); mourn (are very sad); meek (gentle)
+  - revile (insult); savor (taste); bushel (basket); candlestick (lamp stand)
+  - jot (smallest letter); tittle (smallest mark)
+  - Raca (worthless); council (court); adversary (the one taking you to court); farthing (smallest coin)
+  - offends you (causes you to sin); put away (divorce)
+  - forswear yourself (break a promise to God); oaths (promises); communication (speaking)
+  - despitefully use (mistreat); publicans (tax collectors)
+  - alms (gifts to the poor); hypocrites (pretenders); vain repetitions (the same empty words again and again)
+  - hallowed (holy); debts (sins); debtors (those who sin against us)
+  - anoint (put oil on); single (clear and focused) -- of the eye
+  - mammon (money); take no thought (do not worry); cubit (about 18 inches)
+  - mote (speck of dust); beam (big piece of wood); swine (pigs); serpent (snake)
+  - strait (narrow); ravening (hungry, killing); corrupt (rotten)
+  - astonished (amazed); doctrine (teaching)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
