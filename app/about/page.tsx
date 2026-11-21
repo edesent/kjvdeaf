@@ -39,6 +39,32 @@ export default function AboutPage() {
         </p>
 
         <h2 className="pt-2 font-serif text-2xl font-medium text-ink">
+          Words in parentheses ( )
+        </h2>
+        <p>
+          Some King James words are hard, or the English word could lead to the
+          wrong sign. When that happens, we keep the King James word and put a
+          short explanation right after it in parentheses ( ). The words in the
+          parentheses tell you what the word means, so you know the right sign to
+          use.
+        </p>
+        <p>For example:</p>
+        <ul className="ml-5 list-disc space-y-1.5">
+          <li>
+            <em>Blessed are the meek (gentle), for they will inherit the earth.</em>{" "}
+            (Matthew 5:5)
+          </li>
+          <li>
+            <em>Repent (change your heart), for the kingdom of heaven is at hand
+            (near).</em>{" "}
+            (Matthew 4:17)
+          </li>
+        </ul>
+        <p>
+          The same word always gets the same explanation, everywhere in this Bible.
+        </p>
+
+        <h2 className="pt-2 font-serif text-2xl font-medium text-ink">
           About the drafts
         </h2>
         <p>
