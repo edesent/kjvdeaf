@@ -183,6 +183,11 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - victuals (food); fragments (pieces); baskets (small hand-baskets) -- feeding of the 5,000; baskets (large hampers) -- feeding of the 4,000
   - constrained (made); contrary (blowing against them) -- of wind; fourth watch of the night (between 3 and 6 in the morning); spirit (ghost) -- Matthew 14:26
   - bid (tell); boisterous (strong and rough); ceased (stopped); diseased (sick); besought (begged); perfectly whole (completely healed)
+  - transgress (break); tradition (handed-down rules); honour (respect); die the death (surely be put to death); a gift (given to God) -- Matthew 15:5
+  - of none effect (worthless); draw nigh (come near); in vain (for nothing); defile (make unclean); offended (upset) -- Matthew 15:12
+  - belly (stomach); draught (toilet); adulteries (being unfaithful in marriage); false witness (lies about others)
+  - grievously vexed (badly troubled); meet (right); maimed (missing or crippled body parts); wondered (were amazed)
+  - fasting (without food) -- of hungry crowds; faint (pass out); broken meat (leftover food); took ship (got into a boat)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
