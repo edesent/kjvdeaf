@@ -179,6 +179,10 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - least (smallest); herbs (garden plants); lodge (rest); leaven (yeast); meal (flour); declare (explain); foundation (beginning)
   - wailing (loud crying); merchant (a man who buys and sells); goodly (beautiful); vessels (baskets); sever (separate); instructed (taught)
   - own country (hometown); offended in Him (turned away from Him); honour (respect)
+  - tetrarch (ruler over part of a land); kept (celebrated) -- of a birthday; charger (large platter); at meat (at the meal); beheaded (cut off the head of); damsel (girl)
+  - victuals (food); fragments (pieces); baskets (small hand-baskets) -- feeding of the 5,000; baskets (large hampers) -- feeding of the 4,000
+  - constrained (made); contrary (blowing against them) -- of wind; fourth watch of the night (between 3 and 6 in the morning); spirit (ghost) -- Matthew 14:26
+  - bid (tell); boisterous (strong and rough); ceased (stopped); diseased (sick); besought (begged); perfectly whole (completely healed)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
