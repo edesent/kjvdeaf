@@ -528,104 +528,32 @@
   "16": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Now about the collection for God's people: do what I told the churches in Galatia to do."
-      },
-      {
-        "n": 2,
-        "text": "On Sunday, the first day of the week, put aside some money. Save according to how much money you made that week. Do this so you will not rush to collect money when I arrive."
-      },
-      {
-        "n": 3,
-        "text": "When I arrive, I will give letters of introduction to the people you approve, and send them to take your gift to Jerusalem."
-      },
-      {
-        "n": 4,
-        "text": "And if it seems best for me to go too, they will go with me."
-      },
-      {
-        "n": 5,
-        "text": "I will come to you after I go through Macedonia, for I am going to pass through there."
-      },
-      {
-        "n": 6,
-        "text": "Maybe I will stay with you for a while, or even spend the winter, so that you can help me on my journey, wherever I go."
-      },
-      {
-        "n": 7,
-        "text": "I do not want to see you only in passing. I hope to spend some time with you, if the Lord allows."
-      },
-      {
-        "n": 8,
-        "text": "But I will stay in Ephesus until Pentecost,"
-      },
-      {
-        "n": 9,
-        "text": "A wide door of great opportunity has opened for my work here! At the same time, many enemies actively oppose me."
-      },
-      {
-        "n": 10,
-        "text": "When Timothy comes, make sure he has nothing to fear while he is with you, because he is doing the Lord's work, just as I am."
-      },
-      {
-        "n": 11,
-        "text": "So no one should look down on him. Send him on his way in peace, so that he can come back to me. I am expecting him, along with the other brothers."
-      },
-      {
-        "n": 12,
-        "text": "Now about our brother Apollos: I strongly urged him to go to you with the others. But he did not want to go now; he will go when he has the chance."
-      },
-      {
-        "n": 13,
-        "text": "Stay alert and watchful! Stand firm in your faith! Be courageous and bold! Be strong in the Lord!"
-      },
-      {
-        "n": 14,
-        "text": "And do every single thing with love."
-      },
-      {
-        "n": 15,
-        "text": "You know the family of Stephanas. They were the very first believers in the region of Achaia. They dedicated their lives to serving God's people."
-      },
-      {
-        "n": 16,
-        "text": "Follow the godly leadership of people like them. Respect everyone who works hard alongside them!"
-      },
-      {
-        "n": 17,
-        "text": "I was glad when Stephanas, Fortunatus, and Achaicus arrived, because they have made up for your absence."
-      },
-      {
-        "n": 18,
-        "text": "They have refreshed my spirit, and yours too. So show your appreciation to people like them."
-      },
-      {
-        "n": 19,
-        "text": "The churches in Asia send you greetings. Aquila and Priscilla greet you warmly in the Lord, along with the church that meets in their house."
-      },
-      {
-        "n": 20,
-        "text": "All the brothers and sisters here send you greetings. Greet one another with a holy kiss."
-      },
-      {
-        "n": 21,
-        "text": "I, Paul, write this greeting with my own hand."
-      },
-      {
-        "n": 22,
-        "text": "If anyone does not truly love the Lord, God's curse is on them. Our Lord, come quickly!"
-      },
-      {
-        "n": 23,
-        "text": "May the grace of the Lord Jesus be with you."
-      },
-      {
-        "n": 24,
-        "text": "My love be with all of you in Christ Jesus. Amen."
-      }
+      { "n": 1, "text": "Now about the collection for the saints (holy people): as I have given orders to the churches of Galatia, you do the same." },
+      { "n": 2, "text": "On the first day of the week let every one of you lay something aside and store it, as God has prospered (blessed) you. Then there will be no gatherings (collections) when I come." },
+      { "n": 3, "text": "And when I come, whoever you approve by your letters, I will send them to bring your liberality (gift) to Jerusalem." },
+      { "n": 4, "text": "And if it is meet (right) that I go also, they will go with me." },
+      { "n": 5, "text": "Now I will come to you when I pass through Macedonia. For I am passing through Macedonia." },
+      { "n": 6, "text": "And it may be that I will stay, yes, and spend the winter with you, so that you may help me on my journey wherever I go." },
+      { "n": 7, "text": "For I do not want to see you now just in passing. But I trust to tarry (stay) a while with you, if the Lord permits (allows)." },
+      { "n": 8, "text": "But I will tarry (stay) at Ephesus until Pentecost." },
+      { "n": 9, "text": "For a great and effectual (working) door is opened to me, and there are many adversaries (enemies)." },
+      { "n": 10, "text": "Now if Timothy comes, see that he can be with you without fear. For he does the work of the Lord, as I also do." },
+      { "n": 11, "text": "So let no one despise (look down on) Timothy. But send him on his way in peace, so that he may come to me. For I am looking for him with the brothers." },
+      { "n": 12, "text": "About our brother Apollos: I greatly wanted him to come to you with the brothers. But it was not at all his will to come at this time. But Apollos will come when he has a convenient (good) time." },
+      { "n": 13, "text": "Watch. Stand fast (firm) in the faith. Quit you like men (be brave). Be strong." },
+      { "n": 14, "text": "Let everything you do be done with charity (love)." },
+      { "n": 15, "text": "I beg you, brothers and sisters: you know the house (family) of Stephanas, that it is the firstfruits (first believers) of Achaia. And they have addicted (given) themselves to the ministry (service) of the saints (holy people)." },
+      { "n": 16, "text": "Submit yourselves to such people, and to every one who helps with us and labors (works hard)." },
+      { "n": 17, "text": "I am glad that Stephanas, Fortunatus, and Achaicus came. For they have supplied what was lacking on your part." },
+      { "n": 18, "text": "For they have refreshed my spirit and yours. So acknowledge (honor) people like these." },
+      { "n": 19, "text": "The churches of Asia salute (greet) you. Aquila and Priscilla salute (greet) you much in the Lord, with the church that is in their house." },
+      { "n": 20, "text": "All the brothers and sisters greet you. Greet one another with a holy kiss." },
+      { "n": 21, "text": "I, Paul, write this salutation (greeting) with my own hand." },
+      { "n": 22, "text": "If any man does not love the Lord Jesus Christ, let him be Anathema (cursed). Maranatha (the Lord is coming)." },
+      { "n": 23, "text": "The grace of our Lord Jesus Christ be with you." },
+      { "n": 24, "text": "My love be with you all in Christ Jesus. Amen." }
     ]
   }
 }
