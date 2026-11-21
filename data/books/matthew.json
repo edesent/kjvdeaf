@@ -756,128 +756,38 @@
   "19": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. dropping \"Good Master\" in 19:16, \"there is none good but one, that is, God\" in 19:17, the last clause of 19:9, \"from my youth up\" in 19:20 and \"or wife\" in 19:29, and it added words in 19:28), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "When Jesus had finished saying these things, He left Galilee and went into the region of Judea on the other side of the Jordan River."
-      },
-      {
-        "n": 2,
-        "text": "Large crowds followed Him, and He healed them there."
-      },
-      {
-        "n": 3,
-        "text": "Some Pharisees came to test Him. They asked: Is it lawful for a man to divorce his wife for any reason at all?"
-      },
-      {
-        "n": 4,
-        "text": "Jesus answered: Have you not read that at the beginning the Creator made them male and female,"
-      },
-      {
-        "n": 5,
-        "text": "And said: For this reason a man will leave his father and mother and be joined to his wife, and the two will become one flesh?"
-      },
-      {
-        "n": 6,
-        "text": "So they are no longer two, but one flesh. Therefore, what God has joined together, no one should separate."
-      },
-      {
-        "n": 7,
-        "text": "They asked Him: Then why did Moses command that a man give his wife a written notice of divorce and send her away?"
-      },
-      {
-        "n": 8,
-        "text": "Jesus said to them: Moses allowed you to divorce your wives because your hearts were hard, but it was not this way from the beginning."
-      },
-      {
-        "n": 9,
-        "text": "I tell you, whoever divorces his wife, except for sexual sin, and marries another woman commits adultery."
-      },
-      {
-        "n": 10,
-        "text": "His disciples said to Him: If this is the situation between a husband and wife, it is better not to marry."
-      },
-      {
-        "n": 11,
-        "text": "Jesus said: Not everyone can accept this teaching, but only those to whom it has been given."
-      },
-      {
-        "n": 12,
-        "text": "Some people are unable to marry because they were born that way. Others were made that way by other people. And others have chosen not to marry for the sake of the kingdom of heaven. Whoever can accept this should accept it."
-      },
-      {
-        "n": 13,
-        "text": "Then people brought little children to Jesus for Him to place His hands on them and pray for them, but the disciples told them not to."
-      },
-      {
-        "n": 14,
-        "text": "Jesus said: Let the little children come to me, and do not stop them, because the kingdom of heaven belongs to those who are like them."
-      },
-      {
-        "n": 15,
-        "text": "Jesus placed His hands on the children and then went on from there."
-      },
-      {
-        "n": 16,
-        "text": "Just then a man came up to Jesus and asked: Teacher, what good thing must I do to have eternal life?"
-      },
-      {
-        "n": 17,
-        "text": "Jesus said to him: Why do you ask me about what is good? There is only One who is good. If you want to enter life, keep the commandments."
-      },
-      {
-        "n": 18,
-        "text": "The man asked: Which ones? Jesus said: Do not murder, do not commit adultery, do not steal, do not give false testimony,"
-      },
-      {
-        "n": 19,
-        "text": "Honor your father and mother, and love your neighbor as yourself."
-      },
-      {
-        "n": 20,
-        "text": "The young man said: I have kept all these. What do I still lack?"
-      },
-      {
-        "n": 21,
-        "text": "Jesus answered: If you want to be perfect, go, sell what you own, and give the money to the poor, and you will have treasure in heaven. Then come, follow me."
-      },
-      {
-        "n": 22,
-        "text": "When the young man heard this, he went away sad, because he owned a great deal of property."
-      },
-      {
-        "n": 23,
-        "text": "Then Jesus said to His disciples: I tell you the truth, it is hard for a rich person to enter the kingdom of heaven."
-      },
-      {
-        "n": 24,
-        "text": "Again I tell you, it is easier for a camel to go through the eye of a needle. That is easier than for a rich person to enter the kingdom of God."
-      },
-      {
-        "n": 25,
-        "text": "When the disciples heard this, they were greatly amazed and asked: Who then can be saved?"
-      },
-      {
-        "n": 26,
-        "text": "Jesus looked at them and said: With people this is impossible, but with God all things are possible."
-      },
-      {
-        "n": 27,
-        "text": "Then Peter said to Him: We have left everything to follow You. What will we have?"
-      },
-      {
-        "n": 28,
-        "text": "Jesus told them: The Son of Man will sit on His glorious throne, and all of creation will be made brand-new by God our Father. You twelve followers will sit on twelve thrones to judge all Israel."
-      },
-      {
-        "n": 29,
-        "text": "And everyone who has left houses, brothers, sisters, father, mother, children, or fields for my sake will receive a hundred times as much. They will also inherit eternal life."
-      },
-      {
-        "n": 30,
-        "text": "But many who are first will be last, and many who are last will be first."
-      }
+      { "n": 1, "text": "When Jesus had finished these sayings, He left Galilee, and came into the coasts (land) of Judaea beyond Jordan." },
+      { "n": 2, "text": "Great multitudes (large crowds) followed Jesus, and He healed them there." },
+      { "n": 3, "text": "The Pharisees also came to Jesus, tempting (testing) Him. They said to Him: Is it lawful (allowed by the law) for a man to put away (divorce) his wife for every cause?" },
+      { "n": 4, "text": "Jesus answered them: Have you not read that He who made them at the beginning made them male and female?" },
+      { "n": 5, "text": "And He said: For this cause a man will leave father and mother, and will cleave (hold tight) to his wife. And they twain (two) will be one flesh." },
+      { "n": 6, "text": "So they are no more twain (two), but one flesh. So what God has joined together, let not man put asunder (pull apart)." },
+      { "n": 7, "text": "They said to Jesus: Why then did Moses command to give a writing of divorcement (written divorce paper), and to put her away (divorce her)?" },
+      { "n": 8, "text": "Jesus said to them: Because of the hardness of your hearts, Moses suffered (allowed) you to put away (divorce) your wives. But from the beginning it was not so." },
+      { "n": 9, "text": "And I say to you: Whoever puts away (divorces) his wife, except for fornication (sexual sin), and marries another, commits adultery. And whoever marries her who is put away (divorced) commits adultery." },
+      { "n": 10, "text": "His disciples said to Jesus: If the case of the man is so with his wife, it is not good to marry." },
+      { "n": 11, "text": "But Jesus said to them: Not all men can receive this saying, except those to whom it is given." },
+      { "n": 12, "text": "For there are some eunuchs (men who cannot have children) who were born that way from their mother's womb. There are some eunuchs (men who cannot have children) who were made eunuchs by men. And there are eunuchs who have made themselves eunuchs for the kingdom of heaven's sake. Whoever is able to receive it, let them receive it." },
+      { "n": 13, "text": "Then little children were brought to Jesus, so that He would put His hands on them, and pray. And the disciples rebuked (scolded) the people who brought them." },
+      { "n": 14, "text": "But Jesus said: Suffer (allow) little children, and forbid them not, to come to Me. For of such is the kingdom of heaven." },
+      { "n": 15, "text": "Jesus laid His hands on them, and left there." },
+      { "n": 16, "text": "And look, a man came and said to Jesus: Good Master (Teacher), what good thing will I do, so that I may have eternal life?" },
+      { "n": 17, "text": "Jesus said to him: Why do you call Me good? There is none good but one, that is, God. But if you will enter into life, keep the commandments." },
+      { "n": 18, "text": "The man said to Jesus: Which ones? Jesus said: You shall do no murder. You shall not commit adultery (be unfaithful in marriage). You shall not steal. You shall not bear false witness (lie about others)." },
+      { "n": 19, "text": "Honour (respect) your father and your mother. And, You shall love your neighbour as yourself." },
+      { "n": 20, "text": "The young man said to Jesus: All these things I have kept from my youth up (since I was young). What do I lack (still need)?" },
+      { "n": 21, "text": "Jesus said to him: If you will be perfect, go and sell what you have, and give to the poor, and you will have treasure in heaven. And come and follow Me." },
+      { "n": 22, "text": "But when the young man heard that saying, he went away sorrowful (sad). For he had great possessions (many things he owned)." },
+      { "n": 23, "text": "Then Jesus said to His disciples: Truly I say to you: A rich man will hardly (with great difficulty) enter into the kingdom of heaven." },
+      { "n": 24, "text": "And again I say to you: It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God." },
+      { "n": 25, "text": "When His disciples heard it, they were exceedingly (very) amazed. They said: Who then can be saved?" },
+      { "n": 26, "text": "But Jesus beheld (looked at) them, and said to them: With men this is impossible. But with God all things are possible." },
+      { "n": 27, "text": "Then Peter answered Jesus: Look, we have forsaken (left) all, and followed You. What will we have then?" },
+      { "n": 28, "text": "Jesus said to them: Truly I say to you: In the regeneration (the making of all things new), when the Son of Man sits on the throne of His glory, you who have followed Me will also sit on twelve thrones, judging the twelve tribes of Israel." },
+      { "n": 29, "text": "And every one who has forsaken (left) houses, or brethren (brothers), or sisters, or father, or mother, or wife, or children, or lands, for My name's sake, will receive a hundredfold (100 times as much), and will inherit everlasting life." },
+      { "n": 30, "text": "But many who are first will be last. And the last will be first." }
     ]
   },
   "20": {
