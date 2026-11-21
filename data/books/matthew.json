@@ -91,106 +91,31 @@
   },
   "4": {
     "verses": [
-      {
-        "n": 1,
-        "text": "The Holy Spirit took Jesus into the desert so that the devil could test Him."
-      },
-      {
-        "n": 2,
-        "text": "Jesus did not eat any food for 40 days and 40 nights. He was very hungry."
-      },
-      {
-        "n": 3,
-        "text": "The devil came to Jesus and he tried to make Him do something wrong. The devil said to Jesus: If You are the Son of God, tell these stones to change into bread."
-      },
-      {
-        "n": 4,
-        "text": "But Jesus answered: It is written in the Old Testament. It is not just bread that keeps people alive. Their lives depend on what God says."
-      },
-      {
-        "n": 5,
-        "text": "Then the devil took Jesus into Jerusalem, the Holy City, and put Jesus on a high place at the edge of the Temple area."
-      },
-      {
-        "n": 6,
-        "text": "The devil said to Jesus: If You are God's Son, jump down right now! The Scriptures say: God will command His angels to take care of You. Their hands will catch You so You will not hit a stone."
-      },
-      {
-        "n": 7,
-        "text": "Jesus said to the devil: It is also written in the Old Testament. You must not test the Lord your God."
-      },
-      {
-        "n": 8,
-        "text": "Then the devil took Jesus to a very high mountain. He showed Jesus all the lands of the world and all the wonderful things in them."
-      },
-      {
-        "n": 9,
-        "text": "The devil said to Jesus: I will give all of this to You if You kneel before me and worship me."
-      },
-      {
-        "n": 10,
-        "text": "Then Jesus said to the devil: Go away, Satan. In the Old Testament it is written: You must worship the Lord your God and serve only Him."
-      },
-      {
-        "n": 11,
-        "text": "The devil went away from Jesus and angels came to help Jesus."
-      },
-      {
-        "n": 12,
-        "text": "When Jesus heard that John the Baptist was in jail, Jesus went to Galilee."
-      },
-      {
-        "n": 13,
-        "text": "Jesus did not stay in the town of Nazareth. He went to the town of Capernaum, near Lake Galilee. This town was next to Lake Galilee where the tribes of Zebulun and Naphtali had lived long before."
-      },
-      {
-        "n": 14,
-        "text": "This happened because the prophet Isaiah had said:"
-      },
-      {
-        "n": 15,
-        "text": "Land of Zebulun and Naphtali, near the road to Lake Galilee, near the Jordan River, Galilee, land of people who are not Jews,"
-      },
-      {
-        "n": 16,
-        "text": "The people who live in spiritual darkness have seen a great light. The light has shined for those who live in the land that is as dark as a grave."
-      },
-      {
-        "n": 17,
-        "text": "Then Jesus started to preach. Jesus said: You must turn to God and live as He wants, because God's kingdom is now very near"
-      },
-      {
-        "n": 18,
-        "text": "Jesus walked on the beach of the Sea of Galilee. Jesus saw 2 brothers, Simon and Andrew. Simon also had another name. Simon's other name was Peter. They were fishermen and they were busy putting their fishing nets into the lake."
-      },
-      {
-        "n": 19,
-        "text": "Jesus said to Peter and Andrew, Come, follow me, and I will make you a different kind of fishermen. You will bring in people, not fish."
-      },
-      {
-        "n": 20,
-        "text": "Simon and Andrew immediately stopped working with their fishing nets and they went with Jesus."
-      },
-      {
-        "n": 21,
-        "text": "Jesus walked further and Jesus saw 2 other brothers, James and John. They were the sons of Zebedee. They were in the boat with their father and they were working with their fishing nets and mending them. Jesus called them to come with Him."
-      },
-      {
-        "n": 22,
-        "text": "James and John immediately got out of their boat and went away from their father and went with Jesus."
-      },
-      {
-        "n": 23,
-        "text": "Jesus went all over the land of Galilee, teaching people in the synagogues and preaching. Jesus told them the Good News that God in heaven rules over everyone. Jesus also healed people who were sick."
-      },
-      {
-        "n": 24,
-        "text": "The news about Jesus spread all over Syria, and people brought to Him all those who were sick. They were suffering from different kinds of diseases and pain. Some had demons inside them, some suffered from seizures, and some who could not walk. Jesus healed them all."
-      },
-      {
-        "n": 25,
-        "text": "There were many people who went with Jesus. They came from the Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan."
-      }
+      { "n": 1, "text": "Then Jesus was led up by the Spirit into the wilderness (desert) to be tempted by the devil." },
+      { "n": 2, "text": "Jesus fasted (went without food) 40 days and 40 nights. Afterward He was hungry." },
+      { "n": 3, "text": "When the tempter came to Jesus, the tempter said: If You are the Son of God, command that these stones become bread." },
+      { "n": 4, "text": "But Jesus answered: It is written: Man shall not live by bread alone, but by every word that comes out of the mouth of God." },
+      { "n": 5, "text": "Then the devil took Jesus up into the holy city. The devil set Jesus on a pinnacle (high point) of the temple." },
+      { "n": 6, "text": "The devil said to Jesus: If You are the Son of God, throw Yourself down. For it is written: He will give His angels charge over You. In their hands they will hold You up, so that You do not hit Your foot against a stone." },
+      { "n": 7, "text": "Jesus said to the devil: It is written again: You shall not tempt (test) the Lord your God." },
+      { "n": 8, "text": "Again, the devil took Jesus up into a very high mountain. The devil showed Jesus all the kingdoms of the world, and their glory." },
+      { "n": 9, "text": "The devil said to Jesus: I will give You all these things, if You will fall down and worship me." },
+      { "n": 10, "text": "Then Jesus said to the devil: Get away from here, Satan. For it is written: You shall worship the Lord your God, and Him only shall you serve." },
+      { "n": 11, "text": "Then the devil left Jesus. And angels came and ministered to (served) Jesus." },
+      { "n": 12, "text": "Now when Jesus heard that John was put in prison, Jesus went into Galilee." },
+      { "n": 13, "text": "Jesus left Nazareth and came and lived in Capernaum, which is by the sea, in the land of Zebulun and Naphtali." },
+      { "n": 14, "text": "This was so that what Isaiah the prophet said would come true:" },
+      { "n": 15, "text": "The land of Zebulun and the land of Naphtali, by the way of the sea, beyond Jordan, Galilee of the Gentiles (people who are not Jews):" },
+      { "n": 16, "text": "The people who sat in darkness saw a great light. And to those who sat in the region and shadow of death, light has sprung up." },
+      { "n": 17, "text": "From that time Jesus began to preach and to say: Repent (change your heart), for the kingdom of heaven is at hand (near)." },
+      { "n": 18, "text": "Jesus was walking by the Sea of Galilee. Jesus saw two brothers, Simon called Peter, and Andrew his brother. They were throwing a net into the sea, for they were fishermen." },
+      { "n": 19, "text": "Jesus said to them: Follow Me, and I will make you fishers of men." },
+      { "n": 20, "text": "Right away they left their nets and followed Jesus." },
+      { "n": 21, "text": "Jesus went on from there and saw two other brothers, James the son of Zebedee, and John his brother. They were in a ship with Zebedee their father, mending their nets. Jesus called them." },
+      { "n": 22, "text": "Right away they left the ship and their father, and followed Jesus." },
+      { "n": 23, "text": "Jesus went all around Galilee. Jesus taught in their synagogues (meeting houses) and preached the good news of the kingdom. Jesus healed all kinds of sickness and all kinds of disease among the people." },
+      { "n": 24, "text": "The fame of Jesus went through all Syria. They brought to Jesus all the sick people who had different diseases and pains. They brought those who were possessed with devils (demons), those who were lunatic (had seizures), and those who had palsy (could not move their bodies). And Jesus healed them." },
+      { "n": 25, "text": "Great crowds of people followed Jesus from Galilee, Decapolis, Jerusalem, Judea, and from beyond Jordan." }
     ],
     "sourceUrl": "https://kjvdeaf.com/matthew-chapter-4/",
     "status": "published",
