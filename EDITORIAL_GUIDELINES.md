@@ -199,6 +199,9 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - despise (look down on); behold (see); gone astray (wandered away); perish (be lost) -- of little ones; trespass (do wrong); established (proven true); neglect (refuse)
   - take account (settle the money owed); reckon (count up what was owed); talents (a huge amount of money); pence (a small amount of money)
   - lord (master) -- in parables; loosed (set free); wroth (very angry); tormentors (jailers who punish)
+  - cleave (hold tight); twain (two); put asunder (pull apart); eunuchs (men who cannot have children); forbid them not (do not stop them)
+  - youth up (since I was young); lack (still need); sorrowful (sad); possessions (many things he owned); hardly (with great difficulty)
+  - beheld (looked at); forsaken (left); regeneration (the making of all things new) -- Matthew 19:28
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
