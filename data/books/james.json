@@ -1,421 +1,149 @@
 {
   "1": {
     "verses": [
-      {
-        "n": 1,
-        "text": "I am James, a servant of God and of the Lord Jesus Christ. I am writing this letter to the 12 tribes of Israel who are scattered all over the world. I greet you:"
-      },
-      {
-        "n": 2,
-        "text": "My brothers and sisters, be joyful when different kinds of testing happen."
-      },
-      {
-        "n": 3,
-        "text": "You must know that God is testing your faith, and when you suffer like this, you learn to be patient and to keep on believing."
-      },
-      {
-        "n": 4,
-        "text": "If you let that patience work in you, the end result will be good. You will be mature and complete. You will be all that God wants you to be."
-      },
-      {
-        "n": 5,
-        "text": "Do any of you need wisdom? Ask God for it. God will give it to you freely and will not rebuke you for asking. God will give you wisdom."
-      },
-      {
-        "n": 6,
-        "text": "But when you ask God, you must believe. Do not doubt God. Whoever doubts is like a wave in the sea that is blown up and down by the wind."
-      },
-      {
-        "n": 7,
-        "text": "The doubter must not expect to receive anything from the Lord."
-      },
-      {
-        "n": 8,
-        "text": "That double-minded person is unstable in everything they do."
-      },
-      {
-        "n": 9,
-        "text": "Believers who are in humble circumstances should be glad that God considers them so important."
-      },
-      {
-        "n": 10,
-        "text": "Believers who are rich should be glad when bad things happen that humble them. Their riches will not keep them from disappearing as quickly as wildflowers."
-      },
-      {
-        "n": 11,
-        "text": "When the sun starts to shine and the day gets hot, the wildflowers die and fall off. The beautiful flowers are dead. It is the same with a rich man and the things that he has. They will disappear like a flower."
-      },
-      {
-        "n": 12,
-        "text": "Great blessings belong to the people who are tempted and remain faithful! After they have proved their faith, God will give them the crown of life. God promised this to all people who love Him."
-      },
-      {
-        "n": 13,
-        "text": "When you are tempted to do things that are wrong, you must not say: It is God who wants me to do bad things. No one can tell God to do things that are wrong, and He does not want people to do things that are wrong."
-      },
-      {
-        "n": 14,
-        "text": "But each person is tempted when that person is dragged away and enticed by their own evil desire."
-      },
-      {
-        "n": 15,
-        "text": "These desires give birth to sinful actions, and when sin is allowed to grow, it gives birth to death."
-      },
-      {
-        "n": 16,
-        "text": "My dear brothers and sisters, do not be fooled about this."
-      },
-      {
-        "n": 17,
-        "text": "Everything good comes from God. Every perfect gift is from Him. These good gifts come down from the Father who made all the lights in the sky. But God never changes like the shadows from those lights. He is always the same."
-      },
-      {
-        "n": 18,
-        "text": "God chose to give us life. That is why God sent the true message to us. He wanted to make us the first and the most important of all His creatures."
-      },
-      {
-        "n": 19,
-        "text": "For this reason, my beloved brothers and sisters, let everyone be quick to hear and understand, slow to speak by choosing our words wisely, slow to anger."
-      },
-      {
-        "n": 20,
-        "text": "Anger does not help you live the way God wants."
-      },
-      {
-        "n": 21,
-        "text": "So, stop doing bad things and stop saying things that are not good. You must be humble and listen to the good news that God gave you in your hearts. This is the message that can save you."
-      },
-      {
-        "n": 22,
-        "text": "Do what the Word of God says. Do not only listen to God's word but do it. If you do not do what God says, then you are deceiving yourselves."
-      },
-      {
-        "n": 23,
-        "text": "Because when someone only listens to the message of God but does not do what God says, they are like someone who looks in a mirror and sees their face."
-      },
-      {
-        "n": 24,
-        "text": "When they stop looking in the mirror and go away, they immediately forget what they look like."
-      },
-      {
-        "n": 25,
-        "text": "But when you look into God's perfect law that sets people free, pay attention to it. If you do what it says, you will have God's blessing. Never just listen to His teaching and forget what you heard."
-      },
-      {
-        "n": 26,
-        "text": "You might think you are a very religious person. But if your tongue is out of control, you are fooling yourself, and your religion is worthless."
-      },
-      {
-        "n": 27,
-        "text": "God the Father wants us to serve Him in the right way. We must care for children who do not have parents and help widows who are suffering. And you must keep away from sin and all the things that are wrong in the world."
-      }
+      { "n": 1, "text": "James, a servant of God and of the Lord Jesus Christ, to the 12 tribes which are scattered abroad: greeting." },
+      { "n": 2, "text": "My brothers and sisters, count it all joy when you fall into different temptations (tests)." },
+      { "n": 3, "text": "Know this: the trying (testing) of your faith works patience." },
+      { "n": 4, "text": "But let patience have her perfect work, so that you may be perfect (complete) and entire, wanting (lacking) nothing." },
+      { "n": 5, "text": "If any of you lacks wisdom, let them ask of God, who gives to all men liberally (freely), and upbraids (scolds) not. And it will be given to them." },
+      { "n": 6, "text": "But let them ask in faith, not wavering (doubting) at all. For the one who wavers (doubts) is like a wave of the sea, driven with the wind and tossed." },
+      { "n": 7, "text": "For let not that man think that he will receive anything from the Lord." },
+      { "n": 8, "text": "A double minded man (one who cannot decide) is unstable in all his ways." },
+      { "n": 9, "text": "Let the brother of low degree (who is poor) rejoice in that he is exalted (lifted up)." },
+      { "n": 10, "text": "But let the rich man rejoice in that he is made low. For as the flower of the grass he will pass away." },
+      { "n": 11, "text": "For the sun has no sooner risen with a burning heat, than it withers the grass. And the flower of the grass falls, and the grace (beauty) of its look perishes. So also the rich man will fade away in his ways." },
+      { "n": 12, "text": "Blessed is the man who endures temptation (testing). For when he is tried (tested), he will receive the crown of life, which the Lord has promised to those who love Him." },
+      { "n": 13, "text": "Let no man say when he is tempted: I am tempted by God. For God cannot be tempted with evil, and God does not tempt any man." },
+      { "n": 14, "text": "But every man is tempted when he is drawn away by his own lust (wrong desire), and enticed (pulled in)." },
+      { "n": 15, "text": "Then when lust (wrong desire) has conceived, it brings forth sin. And sin, when it is finished, brings forth death." },
+      { "n": 16, "text": "Do not err (be fooled), my beloved (dear) brothers and sisters." },
+      { "n": 17, "text": "Every good gift and every perfect gift is from above. It comes down from the Father of lights. With Him there is no variableness (changing), neither shadow of turning." },
+      { "n": 18, "text": "Of His own will God begat (gave new birth to) us with the word of truth, so that we should be a kind of firstfruits (first part) of His creatures." },
+      { "n": 19, "text": "So, my beloved (dear) brothers and sisters, let every person be swift (quick) to hear, slow to speak, slow to wrath (anger)." },
+      { "n": 20, "text": "For the wrath (anger) of man does not work the righteousness (what is right) of God." },
+      { "n": 21, "text": "So lay apart all filthiness (dirt) and superfluity of naughtiness (overflowing evil). And receive with meekness (gentleness) the engrafted (planted) word, which is able to save your souls." },
+      { "n": 22, "text": "But be doers of the word, and not hearers only, deceiving (fooling) your own selves." },
+      { "n": 23, "text": "For if anyone is a hearer of the word, and not a doer, he is like a man looking at his natural face in a glass (mirror)." },
+      { "n": 24, "text": "For he looks at himself, and goes his way, and right away forgets what kind of man he was." },
+      { "n": 25, "text": "But whoever looks into the perfect law of liberty (freedom), and continues in it, not being a forgetful hearer, but a doer of the work, this man will be blessed in his deed." },
+      { "n": 26, "text": "If any man among you seems to be religious, and does not bridle (control) his tongue, but deceives (fools) his own heart, this man's religion is vain (empty)." },
+      { "n": 27, "text": "Pure religion and undefiled (clean) before God and the Father is this: to visit the fatherless and widows in their affliction (trouble), and to keep oneself unspotted (clean) from the world." }
     ],
     "sourceUrl": "https://kjvdeaf.com/james-chapter-1/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Two merged-verse numbering bugs (11/12, 24/25) have been split apart, and several grammar/punctuation issues fixed. V7-8 smoothed from a repeated generic 'he/him' loop to 'the doubter'/'that double-minded person.' V14 restored the Greek's 'dragged away and enticed by desire' image, which had been flattened to a bare 'desires to do them.'",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "2": {
     "verses": [
-      {
-        "n": 1,
-        "text": "My dear brothers and sisters, you are believers in our glorious Lord Jesus Christ. So do not treat some people better than others."
-      },
-      {
-        "n": 2,
-        "text": "Suppose someone comes into your meeting wearing very nice clothes and a gold ring. At the same time a poor person comes in wearing old, dirty clothes."
-      },
-      {
-        "n": 3,
-        "text": "You show special attention to the person wearing nice shiny clothes. You say, Sit here in this good seat. But you say to the poor person, Stand there! or Sit on the floor by our feet!"
-      },
-      {
-        "n": 4,
-        "text": "Does this not show that you think some people are more important than others? You set yourselves up as judges who make bad decisions."
-      },
-      {
-        "n": 5,
-        "text": "Listen, my dear brothers and sisters. God chose the poor people in the world to be rich in faith. He chose them to receive the kingdom God promised to those who love Him."
-      },
-      {
-        "n": 6,
-        "text": "But you show no respect to those who are poor. Is it not the rich who oppress you and drag you into court?"
-      },
-      {
-        "n": 7,
-        "text": "Are they not the ones who insult the wonderful name of Christ, the name by which you are known?"
-      },
-      {
-        "n": 8,
-        "text": "One law rules over all other laws. This royal law is found in the Scriptures: Love your neighbor the same as you love yourself. If you obey this law, you are doing right."
-      },
-      {
-        "n": 9,
-        "text": "But if you are treating one person as more important than another, you are sinning. You are guilty of breaking God's law."
-      },
-      {
-        "n": 10,
-        "text": "You might follow all of God's law. But if you fail to obey only one command, you are guilty of breaking all the commands in that law."
-      },
-      {
-        "n": 11,
-        "text": "God said: Do not commit adultery. The same God also said: Do not kill. So if you do not commit adultery, but you kill someone, you are guilty of breaking all of God's law."
-      },
-      {
-        "n": 12,
-        "text": "You will be judged by the law that makes people free. You should remember this in everything you say and do."
-      },
-      {
-        "n": 13,
-        "text": "Yes, you must show mercy to others. If you do not show mercy, then God will not show mercy to you when He judges you. But the one who shows mercy can stand without fear before the Judge."
-      }
+      { "n": 1, "text": "My brothers and sisters, do not have the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons (treating some people better than others)." },
+      { "n": 2, "text": "For suppose a man comes into your assembly (meeting) with a gold ring, in goodly (fine) clothes. And there comes in also a poor man in vile (dirty) clothes." },
+      { "n": 3, "text": "And you have respect to (honor) the one who wears the gay (fancy) clothing, and say to him: Sit here in a good place. And you say to the poor man: Stand there, or sit here under my footstool." },
+      { "n": 4, "text": "Are you not then partial (unfair) among yourselves? Have you not become judges with evil thoughts?" },
+      { "n": 5, "text": "Hearken (listen), my beloved (dear) brothers and sisters. Has not God chosen the poor of this world, rich in faith, and heirs of the kingdom which He has promised to those who love Him?" },
+      { "n": 6, "text": "But you have despised (looked down on) the poor. Do not rich men oppress (crush) you, and drag you before the judgment seats?" },
+      { "n": 7, "text": "Do not they blaspheme (speak against) that worthy name by which you are called?" },
+      { "n": 8, "text": "If you fulfil the royal law according to the Scripture, You shall love your neighbor as yourself, you do well." },
+      { "n": 9, "text": "But if you have respect of persons (treat some people better than others), you commit sin. And you are convinced (shown guilty) by the law as transgressors (lawbreakers)." },
+      { "n": 10, "text": "For whoever keeps the whole law, and yet offends (fails) in one point, is guilty of all." },
+      { "n": 11, "text": "For the One who said, Do not commit adultery, also said, Do not kill. Now if you commit no adultery, yet if you kill, you have become a transgressor (lawbreaker) of the law." },
+      { "n": 12, "text": "So speak, and so do, as those who will be judged by the law of liberty (freedom)." },
+      { "n": 13, "text": "For the one who has showed no mercy will have judgment without mercy. And mercy rejoices against (wins over) judgment." },
+      { "n": 14, "text": "What does it profit (help), my brothers and sisters, if a man says he has faith, and does not have works? Can faith save him?" },
+      { "n": 15, "text": "If a brother or sister is naked (without enough clothes), and destitute (without) of daily food," },
+      { "n": 16, "text": "And one of you says to them: Depart in peace, be warmed and filled. But you do not give them the things which are needful (needed) for the body. What does it profit (help)?" },
+      { "n": 17, "text": "Even so faith, if it does not have works, is dead, being alone." },
+      { "n": 18, "text": "Yes, a man may say: You have faith, and I have works. Show me your faith without your works, and I will show you my faith by my works." },
+      { "n": 19, "text": "You believe that there is one God. You do well. The devils also believe, and tremble." },
+      { "n": 20, "text": "But will you know, O vain (empty) man, that faith without works is dead?" },
+      { "n": 21, "text": "Was not Abraham our father justified (shown to be right) by works, when he had offered Isaac his son on the altar?" },
+      { "n": 22, "text": "Do you see how faith worked with his works, and by works faith was made perfect (complete)?" },
+      { "n": 23, "text": "And the Scripture was fulfilled which says: Abraham believed God, and it was imputed (counted) to him for righteousness (being right with God). And Abraham was called the Friend of God." },
+      { "n": 24, "text": "You see then how by works a man is justified (shown to be right), and not by faith only." },
+      { "n": 25, "text": "In the same way also, was not Rahab the harlot (prostitute) justified (shown to be right) by works, when she had received the messengers, and had sent them out another way?" },
+      { "n": 26, "text": "For as the body without the spirit is dead, so faith without works is dead also." }
     ],
     "sourceUrl": "https://kjvdeaf.com/james-chapter-2/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. A merged-verse numbering bug (3/4) has been split apart, and a typo fixed. V6-7 restored as rhetorical questions ('Do not the rich oppress you...? Do not they blaspheme...?'), matching the Greek structure -- the earlier flat statement form had also created a repetitive 'the rich are the ones who' pattern across three clauses.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Verses 14-26 were missing from the site and have been restored from the KJV. In v21-25 'justified' is explained as 'shown to be right', since James speaks of faith proven by works.",
     "videos": []
   },
   "3": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his' rendered gender-neutral where needed.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "My brothers and sisters, not many of you should become teachers. You know that we who teach will be judged more strictly."
-      },
-      {
-        "n": 2,
-        "text": "We all make many mistakes. If anyone never says anything wrong, that person is mature and able to control their whole body."
-      },
-      {
-        "n": 3,
-        "text": "When we put a bit into a horse's mouth to make it obey us, we can turn the whole animal."
-      },
-      {
-        "n": 4,
-        "text": "Or think of ships. Even though they are large and pushed by strong winds, a very small rudder steers them wherever the pilot wants to go."
-      },
-      {
-        "n": 5,
-        "text": "In the same way, the tongue is a small part of the body, but it brags about great things. Think how a tiny spark can set a great forest on fire!"
-      },
-      {
-        "n": 6,
-        "text": "The tongue is like a fire. Among the parts of the body, the tongue is a whole world of evil. It dirties the whole person, sets a person's whole life on fire, and is itself set on fire by hell."
-      },
-      {
-        "n": 7,
-        "text": "People have tamed every kind of animal, bird, reptile, and sea creature, and they keep on taming them."
-      },
-      {
-        "n": 8,
-        "text": "But no one can tame the tongue. It is restless and evil, full of deadly poison."
-      },
-      {
-        "n": 9,
-        "text": "With the tongue we praise our Lord and Father, and with the same tongue we curse people, who are made to be like God."
-      },
-      {
-        "n": 10,
-        "text": "Praise and curses come out of the same mouth. My brothers and sisters, this should not be."
-      },
-      {
-        "n": 11,
-        "text": "Can fresh water and bitter water flow from the same spring?"
-      },
-      {
-        "n": 12,
-        "text": "My brothers and sisters, can a fig tree grow olives, or a grapevine grow figs? No. And salty water cannot give fresh water either."
-      },
-      {
-        "n": 13,
-        "text": "Who among you is wise and understanding? Let that person show it by a good life, by doing good things with the humility that comes from wisdom."
-      },
-      {
-        "n": 14,
-        "text": "But if your hearts are full of bitter jealousy and selfishness, do not brag about it or deny the truth."
-      },
-      {
-        "n": 15,
-        "text": "That kind of wisdom does not come from heaven. It is earthly, unspiritual, and from the devil."
-      },
-      {
-        "n": 16,
-        "text": "For wherever there is jealousy and selfishness, there is trouble and every kind of evil."
-      },
-      {
-        "n": 17,
-        "text": "But the wisdom that comes from heaven is first of all pure. Then it is peace-loving, gentle, and willing to give in. It is full of mercy and good deeds, fair, and honest."
-      },
-      {
-        "n": 18,
-        "text": "People who make peace plant seeds of peace and harvest a life that is right with God."
-      }
+      { "n": 1, "text": "My brothers and sisters, do not be many masters (teachers). For you know that we will receive the greater condemnation (judgment)." },
+      { "n": 2, "text": "For in many things we all offend (fail). If any man does not offend (fail) in word, the same is a perfect (fully grown) man. He is able also to bridle (control) the whole body." },
+      { "n": 3, "text": "Look, we put bits in the horses' mouths, so that they may obey us. And we turn about their whole body." },
+      { "n": 4, "text": "Look also at the ships. Though they are so great, and are driven by fierce winds, yet they are turned about with a very small helm (steering board), wherever the governor (pilot) wants." },
+      { "n": 5, "text": "Even so the tongue is a little member (part), and boasts (brags) great things. Look how great a matter a little fire kindles (sets burning)." },
+      { "n": 6, "text": "And the tongue is a fire, a world of iniquity (sin). So is the tongue among our members (parts), that it defiles (makes dirty) the whole body. It sets on fire the course of nature (the whole of life). And it is set on fire by hell." },
+      { "n": 7, "text": "For every kind of beasts, and of birds, and of serpents (snakes), and of things in the sea, is tamed, and has been tamed by mankind." },
+      { "n": 8, "text": "But no man can tame the tongue. It is an unruly (out of control) evil, full of deadly poison." },
+      { "n": 9, "text": "With it we bless God, even the Father. And with it we curse men, who are made after the similitude (likeness) of God." },
+      { "n": 10, "text": "Out of the same mouth come blessing and cursing. My brothers and sisters, these things ought not to be so." },
+      { "n": 11, "text": "Does a fountain (spring) send out sweet water and bitter at the same place?" },
+      { "n": 12, "text": "Can the fig tree, my brothers and sisters, bear olive berries? Or a vine, figs? So no fountain (spring) can give both salt water and fresh." },
+      { "n": 13, "text": "Who is a wise man and endued (filled) with knowledge among you? Let him show out of a good conversation (way of life) his works with meekness (gentleness) of wisdom." },
+      { "n": 14, "text": "But if you have bitter envying (jealousy) and strife (fighting) in your hearts, do not glory (brag), and do not lie against the truth." },
+      { "n": 15, "text": "This wisdom does not come down from above. But it is earthly, sensual (of the body), devilish." },
+      { "n": 16, "text": "For where envying (jealousy) and strife (fighting) are, there is confusion and every evil work." },
+      { "n": 17, "text": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated (asked). It is full of mercy and good fruits, without partiality (being unfair), and without hypocrisy (pretending)." },
+      { "n": 18, "text": "And the fruit of righteousness (what is right) is sown in peace by those who make peace." }
     ]
   },
   "4": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his/himself' rendered gender-neutral where needed.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "What causes fights and arguments among you? Do they not come from the desires that battle inside you?"
-      },
-      {
-        "n": 2,
-        "text": "You want something but do not get it, so you are ready to kill. You are jealous, but you cannot get what you want, so you argue and fight. You do not have, because you do not ask God."
-      },
-      {
-        "n": 3,
-        "text": "And when you do ask, you do not receive, because you ask with wrong motives, so that you can spend it on your own pleasures."
-      },
-      {
-        "n": 4,
-        "text": "You unfaithful people! Do you not know that loving the world means hating God? Anyone who chooses to be a friend of the world makes themselves an enemy of God."
-      },
-      {
-        "n": 5,
-        "text": "Or do you think the Scripture means nothing when it says that the spirit God put in us wants us all for Himself?"
-      },
-      {
-        "n": 6,
-        "text": "But God gives us more grace. That is why the Scripture says: God is against the proud, but He gives grace to the humble."
-      },
-      {
-        "n": 7,
-        "text": "So give yourselves to God. Stand against the devil, and he will run away from you."
-      },
-      {
-        "n": 8,
-        "text": "Come near to God, and He will come near to you. Wash your hands, you sinners, and make your hearts pure, you who cannot decide."
-      },
-      {
-        "n": 9,
-        "text": "Be sorry, be sad, and cry. Turn your laughter into sadness and your joy into gloom."
-      },
-      {
-        "n": 10,
-        "text": "Make yourselves low before the Lord, and He will lift you up."
-      },
-      {
-        "n": 11,
-        "text": "Brothers and sisters, do not say evil things about each other. Anyone who speaks against a brother or sister, or judges them, speaks against the law and judges the law. And if you judge the law, you are not keeping the law but acting as its judge."
-      },
-      {
-        "n": 12,
-        "text": "There is only one Lawgiver and Judge, the one who is able to save and to destroy. So who are you to judge your neighbor?"
-      },
-      {
-        "n": 13,
-        "text": "Now listen, you who say: Today or tomorrow we will go to this or that city, spend a year there, do business, and make money."
-      },
-      {
-        "n": 14,
-        "text": "You do not even know what will happen tomorrow! What is your life? You are like a mist that appears for a little while and then disappears."
-      },
-      {
-        "n": 15,
-        "text": "Instead, you should say: If the Lord wants, we will live and do this or that."
-      },
-      {
-        "n": 16,
-        "text": "But as it is, you brag and boast. All such bragging is evil."
-      },
-      {
-        "n": 17,
-        "text": "So anyone who knows the good they ought to do, but does not do it, is sinning."
-      }
+      { "n": 1, "text": "Where do wars and fightings among you come from? Do they not come from here, even from your lusts (wrong desires) that war in your members (body)?" },
+      { "n": 2, "text": "You lust (strongly want), and do not have. You kill, and desire to have, and cannot obtain (get). You fight and war, yet you do not have, because you do not ask." },
+      { "n": 3, "text": "You ask, and do not receive, because you ask amiss (wrongly), so that you may spend it on your lusts (wrong desires)." },
+      { "n": 4, "text": "You adulterers and adulteresses (people unfaithful to God), do you not know that the friendship of the world is enmity (hate) with God? So whoever wants to be a friend of the world is the enemy of God." },
+      { "n": 5, "text": "Do you think that the Scripture says in vain (for nothing): The spirit that dwells (lives) in us lusts to envy (wants jealously)?" },
+      { "n": 6, "text": "But God gives more grace. So He says: God resists (stands against) the proud, but gives grace to the humble." },
+      { "n": 7, "text": "So submit yourselves to God. Resist (stand against) the devil, and he will flee (run away) from you." },
+      { "n": 8, "text": "Draw near to God, and He will draw near to you. Cleanse your hands, you sinners. And purify (make pure) your hearts, you double minded (who cannot decide)." },
+      { "n": 9, "text": "Be afflicted (sorry), and mourn, and weep. Let your laughter be turned to mourning, and your joy to heaviness (sadness)." },
+      { "n": 10, "text": "Humble yourselves in the sight of the Lord, and He will lift you up." },
+      { "n": 11, "text": "Do not speak evil of one another, brothers and sisters. The one who speaks evil of his brother, and judges his brother, speaks evil of the law, and judges the law. But if you judge the law, you are not a doer of the law, but a judge." },
+      { "n": 12, "text": "There is one lawgiver, who is able to save and to destroy. Who are you that judges another?" },
+      { "n": 13, "text": "Come now, you who say: Today or tomorrow we will go into such a city, and stay there a year, and buy and sell, and get gain (make money)." },
+      { "n": 14, "text": "But you do not know what will happen tomorrow. For what is your life? It is even a vapour (mist), that appears for a little time, and then vanishes away." },
+      { "n": 15, "text": "Instead you ought to say: If the Lord wills, we will live, and do this, or that." },
+      { "n": 16, "text": "But now you rejoice in your boastings (bragging). All such rejoicing is evil." },
+      { "n": 17, "text": "So to the one who knows to do good, and does not do it, to that one it is sin." }
     ]
   },
   "5": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his/him' rendered gender-neutral where needed (v13-15, v19-20).",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V4 'Lord of sabaoth' explained as 'the Lord of all armies' (not 'heaven's armies').",
     "verses": [
-      {
-        "n": 1,
-        "text": "Now listen, you rich people. Cry and wail, because of the misery that is coming on you."
-      },
-      {
-        "n": 2,
-        "text": "Your wealth has rotted, and moths have eaten your clothes."
-      },
-      {
-        "n": 3,
-        "text": "Your gold and silver are covered with rust. That rust will be a witness against you, and it will eat your flesh like fire. You have stored up treasure for the last days."
-      },
-      {
-        "n": 4,
-        "text": "Listen! The pay you cheated from the workers who harvested your fields is crying out. The cries of the harvesters have reached the ears of the Lord of heaven's armies."
-      },
-      {
-        "n": 5,
-        "text": "You have lived on earth in luxury and pleasure. You have fattened yourselves for the day of slaughter."
-      },
-      {
-        "n": 6,
-        "text": "You have condemned and murdered innocent people, who were not even fighting back against you."
-      },
-      {
-        "n": 7,
-        "text": "So be patient, brothers and sisters, until the Lord comes. See how the farmer waits for the precious crop from the ground, being patient until it gets the early and the late rains."
-      },
-      {
-        "n": 8,
-        "text": "You too must be patient. Keep your hearts strong, because the coming of the Lord is near."
-      },
-      {
-        "n": 9,
-        "text": "Brothers and sisters, do not complain against one another, or you will be judged. Look, the Judge is standing at the door!"
-      },
-      {
-        "n": 10,
-        "text": "Brothers and sisters, take the prophets who spoke in the name of the Lord as an example of patience in suffering."
-      },
-      {
-        "n": 11,
-        "text": "We consider blessed those who have kept going. You have heard about Job's patience, and you have seen what the Lord finally did for him. The Lord is full of tenderness and mercy."
-      },
-      {
-        "n": 12,
-        "text": "Above all, my brothers and sisters, do not make oaths: not by heaven, not by earth, not by anything else. Just let your yes be yes and your no be no, or you will be judged."
-      },
-      {
-        "n": 13,
-        "text": "Is anyone among you suffering? Let that person pray. Is anyone happy? Let that person sing songs of praise."
-      },
-      {
-        "n": 14,
-        "text": "Is anyone among you sick? That person should call for the elders of the church. The elders will pray over the sick person and put oil on them in the name of the Lord."
-      },
-      {
-        "n": 15,
-        "text": "And the prayer offered in faith will make the sick person well; the Lord will raise that person up. And if that person has sinned, that person will be forgiven."
-      },
-      {
-        "n": 16,
-        "text": "So tell your sins to one another, and pray for one another, so that you may be healed. The prayer of a person who is right with God is powerful and effective."
-      },
-      {
-        "n": 17,
-        "text": "Elijah was a human being just like us. He prayed hard that it would not rain, and it did not rain on the land for three and a half years."
-      },
-      {
-        "n": 18,
-        "text": "Then he prayed again, and the sky gave rain, and the earth produced its crops."
-      },
-      {
-        "n": 19,
-        "text": "My brothers and sisters, suppose one of you wanders away from the truth, and someone brings that person back."
-      },
-      {
-        "n": 20,
-        "text": "Remember this: whoever turns a sinner back from their wrong way will save that person from death and cover over many sins."
-      }
+      { "n": 1, "text": "Come now, you rich men, weep and howl for your miseries that will come on you." },
+      { "n": 2, "text": "Your riches are corrupted (rotted), and your clothes are motheaten." },
+      { "n": 3, "text": "Your gold and silver are cankered (rusted). And their rust will be a witness against you, and will eat your flesh as if it were fire. You have heaped (piled up) treasure together for the last days." },
+      { "n": 4, "text": "Look, the hire (pay) of the workers who have reaped (harvested) your fields, which you kept back by fraud (cheating), cries out. And the cries of those who have reaped (harvested) have entered into the ears of the Lord of Sabaoth (the Lord of all armies)." },
+      { "n": 5, "text": "You have lived in pleasure on the earth, and been wanton (wild). You have nourished (fattened) your hearts, as in a day of slaughter." },
+      { "n": 6, "text": "You have condemned (judged guilty) and killed the just (person who is right with God). And he does not resist (fight back against) you." },
+      { "n": 7, "text": "So be patient, brothers and sisters, until the coming of the Lord. Look, the husbandman (farmer) waits for the precious fruit of the earth. He has long patience for it, until he receives the early and latter rain." },
+      { "n": 8, "text": "You also be patient. Stablish (make strong) your hearts. For the coming of the Lord draws near." },
+      { "n": 9, "text": "Do not grudge (complain) against one another, brothers and sisters, so that you are not condemned (judged guilty). Look, the Judge stands before the door." },
+      { "n": 10, "text": "Take, my brothers and sisters, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction (trouble), and of patience." },
+      { "n": 11, "text": "Look, we count them happy who endure. You have heard of the patience of Job, and have seen the end of the Lord (what the Lord did in the end). You have seen that the Lord is very pitiful (full of pity), and of tender mercy." },
+      { "n": 12, "text": "But above all things, my brothers and sisters, do not swear, not by heaven, not by the earth, not by any other oath. But let your yes be yes, and your no, no, so that you do not fall into condemnation (being judged guilty)." },
+      { "n": 13, "text": "Is anyone among you afflicted (suffering)? Let them pray. Is anyone merry (happy)? Let them sing psalms." },
+      { "n": 14, "text": "Is anyone sick among you? Let them call for the elders of the church. And let the elders pray over the sick person, anointing (rubbing) the sick person with oil in the name of the Lord." },
+      { "n": 15, "text": "And the prayer of faith will save the sick, and the Lord will raise the sick person up. And if the sick person has committed sins, they will be forgiven." },
+      { "n": 16, "text": "Confess (tell) your faults to one another, and pray for one another, so that you may be healed. The effectual (working) fervent (on fire) prayer of a righteous (right with God) man availeth (does) much." },
+      { "n": 17, "text": "Elijah was a man subject to like passions (feelings) as we are. And he prayed earnestly that it might not rain. And it did not rain on the earth for three years and six months." },
+      { "n": 18, "text": "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit." },
+      { "n": 19, "text": "Brothers and sisters, if any of you err (wander) from the truth, and one converts (turns back) that person," },
+      { "n": 20, "text": "Let him know that the one who converts (turns back) the sinner from the error (wrong) of his way will save a soul from death, and will hide a multitude (great number) of sins." }
     ]
   }
 }
