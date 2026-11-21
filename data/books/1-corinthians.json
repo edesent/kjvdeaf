@@ -239,1101 +239,321 @@
   "9": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Am I not completely free? Am I not an apostle? Have I not seen Jesus our Lord with my own eyes? Are you believers not the result of my hard work for the Lord?"
-      },
-      {
-        "n": 2,
-        "text": "Even if others do not accept me as an apostle, surely you do, for you yourselves are the proof that I am an apostle in the Lord."
-      },
-      {
-        "n": 3,
-        "text": "This is my answer to those who question me."
-      },
-      {
-        "n": 4,
-        "text": "Do we not have the right to food and drink?"
-      },
-      {
-        "n": 5,
-        "text": "Do we not have the right to take along a believing wife, as the other apostles do, and the Lord's brothers, and Peter?"
-      },
-      {
-        "n": 6,
-        "text": "Or are Barnabas and I the only ones who must work to support ourselves?"
-      },
-      {
-        "n": 7,
-        "text": "Who serves as a soldier and pays their own way? Who plants a vineyard and does not eat its grapes? Who takes care of a flock and does not drink its milk?"
-      },
-      {
-        "n": 8,
-        "text": "Am I only saying this from a human point of view? Does the law not say the same thing?"
-      },
-      {
-        "n": 9,
-        "text": "The Law of Moses says: Do not muzzle an ox while it threshes grain. Was God thinking only about farm oxen? No, He was definitely speaking about us!"
-      },
-      {
-        "n": 10,
-        "text": "The worker who plows the field expects to eat from the harvest. The worker who threshes the grain expects a share of the crop."
-      },
-      {
-        "n": 11,
-        "text": "If we have planted spiritual seed among you, is it too much for us to receive some material help from you?"
-      },
-      {
-        "n": 12,
-        "text": "If others have this right to be supported by you, do we not have it even more? But we have not used this right. Instead, we put up with anything rather than get in the way of the good news of Christ."
-      },
-      {
-        "n": 13,
-        "text": "Do you not know that those who work in the temple get their food from the temple? Those who serve at the altar share in what is offered there."
-      },
-      {
-        "n": 14,
-        "text": "In the same way, the Lord has commanded that those who preach the good news should make their living from it."
-      },
-      {
-        "n": 15,
-        "text": "But I have not used any of these rights. And I am not writing this so that something will be done for me. I would rather die than let anyone take away this thing I am proud of."
-      },
-      {
-        "n": 16,
-        "text": "For when I preach the good news, I cannot brag, because I am required to do it. How terrible it would be for me if I did not preach the good news!"
-      },
-      {
-        "n": 17,
-        "text": "If I preach because I choose to, I have a reward. But even if I do not choose it, I have still been trusted with this job."
-      },
-      {
-        "n": 18,
-        "text": "So what is my reward? Just this: when I preach the good news, I can offer it free of charge. So I do not make full use of my rights as a preacher."
-      },
-      {
-        "n": 19,
-        "text": "Though I am free and belong to no one, I have made myself a slave to everyone, to win as many as possible."
-      },
-      {
-        "n": 20,
-        "text": "When I was with Jewish people, I lived like a Jew. I did this to lead Jewish people to Christ. When I was with people under the Law, I followed their customs. I am not trapped under that Law myself. I only did it to bring those people to Christ!"
-      },
-      {
-        "n": 21,
-        "text": "When I was with Gentiles who do not have the Law, I lived like them. This does not mean I ignore God's commands. I follow the Law of Christ!"
-      },
-      {
-        "n": 22,
-        "text": "To the weak I became weak, to win the weak. I have become all things to all people, so that by all possible means I might save some."
-      },
-      {
-        "n": 23,
-        "text": "I do all this for the sake of the good news, so that I may share in its blessings."
-      },
-      {
-        "n": 24,
-        "text": "Do you not know that in a race all the runners run, but only one gets the prize? So run in such a way as to win the prize."
-      },
-      {
-        "n": 25,
-        "text": "Everyone who competes in the games trains hard in everything. They do it to get a crown that will not last, but we do it to get a crown that will last forever."
-      },
-      {
-        "n": 26,
-        "text": "So I do not run like someone with no finish line. I do not box like a fighter just punching the air!"
-      },
-      {
-        "n": 27,
-        "text": "I discipline my body strictly, like a dedicated athlete. I make my body obey me! I do this so that after preaching to others, I will not fail the test."
-      }
+      { "n": 1, "text": "Am I not an apostle? Am I not free? Have I not seen Jesus Christ our Lord? Are you not my work in the Lord?" },
+      { "n": 2, "text": "If I am not an apostle to others, yet surely I am to you. For you are the seal (proof) of my apostleship in the Lord." },
+      { "n": 3, "text": "This is my answer to those who examine (question) me:" },
+      { "n": 4, "text": "Do we not have power (the right) to eat and to drink?" },
+      { "n": 5, "text": "Do we not have power (the right) to take along a sister, a wife, as the other apostles do, and as the brothers of the Lord, and Peter?" },
+      { "n": 6, "text": "Or is it only Barnabas and I who have no power (right) to stop working?" },
+      { "n": 7, "text": "Who goes to war at any time at his own cost? Who plants a vineyard, and does not eat of its fruit? Or who feeds a flock, and does not drink of the milk of the flock?" },
+      { "n": 8, "text": "Do I say these things only as a man? Or does not the law say the same also?" },
+      { "n": 9, "text": "For it is written in the law of Moses: You shall not muzzle (tie shut) the mouth of the ox that treads out the grain. Does God care only for oxen?" },
+      { "n": 10, "text": "Or does God say it altogether for our sakes? For our sakes, no doubt, this is written. The one who plows should plow in hope. And the one who threshes (beats out the grain) in hope should share in what he hoped for." },
+      { "n": 11, "text": "If we have sown spiritual things for you, is it a great thing if we reap your carnal (earthly) things?" },
+      { "n": 12, "text": "If others share in this power (right) over you, should not we share even more? But we have not used this power (right). We suffer (put up with) all things, so that we do not hinder (block) the gospel (good news) of Christ." },
+      { "n": 13, "text": "Do you not know that those who serve about holy things live from the things of the temple? And those who wait at the altar share with the altar?" },
+      { "n": 14, "text": "In the same way the Lord has ordained (ordered) that those who preach the gospel (good news) should live from the gospel (good news)." },
+      { "n": 15, "text": "But I have used none of these things. And I have not written these things so that it would be done for me. For it would be better for me to die, than for any man to make my glorying (bragging) void (empty)." },
+      { "n": 16, "text": "For though I preach the gospel (good news), I have nothing to glory (brag) about. For necessity (a duty I must do) is laid on me. Yes, woe (great sorrow) is to me if I do not preach the gospel (good news)." },
+      { "n": 17, "text": "For if I do this thing willingly, I have a reward. But if I do it against my will, a dispensation (work) of the gospel (good news) is still given to me." },
+      { "n": 18, "text": "What is my reward then? Truly this: when I preach the gospel (good news), I may make the gospel (good news) of Christ free of charge. Then I do not abuse (misuse) my power (right) in the gospel (good news)." },
+      { "n": 19, "text": "For though I am free from all men, yet I have made myself a servant to all, so that I might gain (win) more people." },
+      { "n": 20, "text": "And to the Jews I became like a Jew, so that I might gain (win) the Jews. To those who are under the law, I became like one under the law, so that I might gain (win) those who are under the law." },
+      { "n": 21, "text": "To those who are without law, I became like one without law, so that I might gain (win) those who are without law. Yet I am not without law to God, but under the law to Christ." },
+      { "n": 22, "text": "To the weak I became like the weak, so that I might gain (win) the weak. I am made all things to all men, so that I might by all means save some." },
+      { "n": 23, "text": "And I do this for the sake of the gospel (good news), so that I might share in it with you." },
+      { "n": 24, "text": "Do you not know that those who run in a race all run, but only one receives the prize? So run, that you may obtain (win) it." },
+      { "n": 25, "text": "And every man who strives for the mastery (to win) is temperate (self-controlled) in all things. They do it to obtain (win) a corruptible (decaying) crown, but we do it for an incorruptible (never decaying) crown." },
+      { "n": 26, "text": "So I run like this, not as one who is uncertain. I fight like this, not as one who beats the air." },
+      { "n": 27, "text": "But I keep my body under control, and bring it into subjection (obedience). Otherwise, when I have preached to others, I myself might be a castaway (rejected)." }
     ]
   },
   "10": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Brothers and sisters, I do not want you to forget that all our ancestors were under the cloud, and all of them passed through the sea."
-      },
-      {
-        "n": 2,
-        "text": "They were all united under Moses as their leader. The protecting cloud covered them, and they walked through the sea."
-      },
-      {
-        "n": 3,
-        "text": "They all ate the same spiritual food,"
-      },
-      {
-        "n": 4,
-        "text": "and they all drank the same spiritual drink. They drank from the spiritual Rock that went with them, and that Rock was Christ."
-      },
-      {
-        "n": 5,
-        "text": "But God was not pleased with most of them, and their bodies were scattered over the desert."
-      },
-      {
-        "n": 6,
-        "text": "These things happened as examples for us, to keep us from setting our hearts on evil things as they did."
-      },
-      {
-        "n": 7,
-        "text": "Do not worship idols, as some of them did. The Scripture says: The people sat down to feast and drink. Then they got up to dance in wild, sinful worship!"
-      },
-      {
-        "n": 8,
-        "text": "We should not commit sexual sin, as some of them did, and in one day twenty-three thousand of them died."
-      },
-      {
-        "n": 9,
-        "text": "We should not test Christ, as some of them did, and were killed by snakes."
-      },
-      {
-        "n": 10,
-        "text": "And do not complain, as some of them did, and were killed by the destroying angel."
-      },
-      {
-        "n": 11,
-        "text": "These things happened to them as examples, and they were written down as warnings for us, on whom the end of the ages has come."
-      },
-      {
-        "n": 12,
-        "text": "So if you think you are standing firm, be careful that you do not fall."
-      },
-      {
-        "n": 13,
-        "text": "Every temptation you face is common to all human beings. And God is completely faithful to you! He will not let you be tempted beyond your strength. When temptation comes, He will provide a clear way out. Then you will have the strength to stand strong!"
-      },
-      {
-        "n": 14,
-        "text": "So, my dear friends, run away from the worship of idols."
-      },
-      {
-        "n": 15,
-        "text": "I am speaking to you as sensible people; judge for yourselves what I say."
-      },
-      {
-        "n": 16,
-        "text": "When we drink from the blessed cup, we thank God. Do we not share together in the blood of Christ? When we break the bread, do we not share together in His body?"
-      },
-      {
-        "n": 17,
-        "text": "There is one single loaf of bread. Though we are many people, we form one united body!"
-      },
-      {
-        "n": 18,
-        "text": "Think about the people of Israel: those who eat the sacrifices share in the altar, do they not?"
-      },
-      {
-        "n": 19,
-        "text": "So what am I saying? That an idol is anything, or that food offered to an idol is anything?"
-      },
-      {
-        "n": 20,
-        "text": "No, but the sacrifices of those who do not know God are offered to demons, not to God. And I do not want you to share with demons."
-      },
-      {
-        "n": 21,
-        "text": "You cannot drink the cup of the Lord and the cup of demons too. You cannot share in the Lord's table and the table of demons."
-      },
-      {
-        "n": 22,
-        "text": "Are we trying to make the Lord jealous? Are we stronger than He is?"
-      },
-      {
-        "n": 23,
-        "text": "Some people say: I am allowed to do anything. But not everything is good. Some people say: I am allowed to do anything. But not everything builds people up."
-      },
-      {
-        "n": 24,
-        "text": "No one should look out only for their own good, but also for the good of others."
-      },
-      {
-        "n": 25,
-        "text": "Eat anything that is sold in the meat market, without asking questions for the sake of your conscience,"
-      },
-      {
-        "n": 26,
-        "text": "for: The earth is the Lord's, and everything in it."
-      },
-      {
-        "n": 27,
-        "text": "Suppose someone who does not believe invites you to a meal, and you want to go. Eat whatever is put before you. Do not ask questions for the sake of conscience."
-      },
-      {
-        "n": 28,
-        "text": "Suppose someone at dinner warns you: This meat was offered to an idol. Then do not eat that meat!"
-      },
-      {
-        "n": 29,
-        "text": "Do this for the sake of the person who told you. Do it to protect that person's sensitive conscience. For why should my freedom be judged by someone else's conscience?"
-      },
-      {
-        "n": 30,
-        "text": "If I eat with thankfulness, why am I blamed for something I thank God for?"
-      },
-      {
-        "n": 31,
-        "text": "So whether you eat or drink, or whatever you do, do it all for the glory of God."
-      },
-      {
-        "n": 32,
-        "text": "Do not cause anyone to stumble: not the Jews, not the other nations, and not the church of God."
-      },
-      {
-        "n": 33,
-        "text": "This is what I do: I try to please everyone in every way. I am not looking out for my own good, but for the good of many, so that they may be saved."
-      }
+      { "n": 1, "text": "Also, brothers and sisters, I do not want you to be ignorant (not knowing). All our fathers were under the cloud, and all passed through the sea." },
+      { "n": 2, "text": "And all were baptized to Moses in the cloud and in the sea." },
+      { "n": 3, "text": "And all ate the same spiritual meat (food)." },
+      { "n": 4, "text": "And all drank the same spiritual drink. For they drank from that spiritual Rock that followed them, and that Rock was Christ." },
+      { "n": 5, "text": "But with many of them God was not well pleased. For they were overthrown (struck down) in the wilderness (desert)." },
+      { "n": 6, "text": "Now these things were examples for us, so that we should not lust after (strongly want) evil things, as they also lusted." },
+      { "n": 7, "text": "Do not be idolaters (people who worship idols), as some of them were. As the Scripture says: The people sat down to eat and drink, and rose up to play." },
+      { "n": 8, "text": "Let us not commit fornication (sexual sin), as some of them did. In one day 23,000 of them fell (died)." },
+      { "n": 9, "text": "Let us not tempt (test) Christ, as some of them also tempted (tested) Him, and were destroyed by serpents (snakes)." },
+      { "n": 10, "text": "Do not murmur (complain), as some of them also murmured (complained), and were destroyed by the destroyer." },
+      { "n": 11, "text": "Now all these things happened to them as examples. And they are written for our admonition (warning), on whom the ends of the world have come." },
+      { "n": 12, "text": "So let the one who thinks he stands take heed (be careful) so that he does not fall." },
+      { "n": 13, "text": "No temptation has taken you except what is common to people. But God is faithful. God will not allow you to be tempted more than you are able. But with the temptation God will also make a way to escape, so that you may be able to bear it." },
+      { "n": 14, "text": "So, my dearly beloved (dear friends), flee (run away) from idolatry (worshiping idols)." },
+      { "n": 15, "text": "I speak as to wise people. You judge what I say." },
+      { "n": 16, "text": "The cup of blessing which we bless, is it not the communion (sharing) of the blood of Christ? The bread which we break, is it not the communion (sharing) of the body of Christ?" },
+      { "n": 17, "text": "For we, being many, are one bread and one body. For we all share in that one bread." },
+      { "n": 18, "text": "Look at Israel after the flesh (the people of Israel). Are not those who eat of the sacrifices sharers of the altar?" },
+      { "n": 19, "text": "What do I say then? That the idol is anything, or that what is offered in sacrifice to idols is anything?" },
+      { "n": 20, "text": "But I say that the things which the Gentiles (people who are not Jews) sacrifice, they sacrifice to devils, and not to God. And I do not want you to have fellowship (sharing) with devils." },
+      { "n": 21, "text": "You cannot drink the cup of the Lord and the cup of devils. You cannot share in the Lord's table and in the table of devils." },
+      { "n": 22, "text": "Do we provoke (stir up) the Lord to jealousy? Are we stronger than He is?" },
+      { "n": 23, "text": "All things are lawful (allowed) for me, but all things are not expedient (helpful). All things are lawful (allowed) for me, but all things do not edify (build up)." },
+      { "n": 24, "text": "Let no one seek their own good only, but each one the good of another person." },
+      { "n": 25, "text": "Whatever is sold in the shambles (meat market), eat it. Ask no question for conscience' sake." },
+      { "n": 26, "text": "For the earth is the Lord's, and the fulness (everything in it)." },
+      { "n": 27, "text": "If any of those who do not believe invites you to a feast, and you want to go, eat whatever is set before you. Ask no question for conscience' sake." },
+      { "n": 28, "text": "But if any man says to you: This is offered in sacrifice to idols, do not eat it. Do not eat for the sake of the man who told you, and for conscience' sake. For the earth is the Lord's, and the fulness (everything in it)." },
+      { "n": 29, "text": "I mean conscience, not your own, but the other person's. For why is my liberty (freedom) judged by another man's conscience?" },
+      { "n": 30, "text": "For if I share in the food by grace, why am I spoken evil of for that for which I give thanks?" },
+      { "n": 31, "text": "So whether you eat, or drink, or whatever you do, do all to the glory of God." },
+      { "n": 32, "text": "Give no offence (do not make anyone fall into sin), not to the Jews, not to the Gentiles (people who are not Jews), and not to the church of God." },
+      { "n": 33, "text": "Even as I please all men in all things. I am not seeking my own profit (good), but the profit (good) of many, so that they may be saved." }
     ]
   },
   "11": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Follow my example, as I follow the example of Christ."
-      },
-      {
-        "n": 2,
-        "text": "I praise you for remembering me in everything and for holding on to the teachings, just as I passed them on to you."
-      },
-      {
-        "n": 3,
-        "text": "I want you to understand God's order of authority. Christ is the head of every man. The husband is the head of the wife. And God the Father is the head of Christ!"
-      },
-      {
-        "n": 4,
-        "text": "A man dishonors Christ when he prays with his head covered."
-      },
-      {
-        "n": 5,
-        "text": "A woman dishonors her husband when she prays with no veil. That is just as shameful as shaving off all her hair!"
-      },
-      {
-        "n": 6,
-        "text": "If a woman refuses a veil, she might as well shave her head. Since a shaved head brings shame, she should wear a head covering."
-      },
-      {
-        "n": 7,
-        "text": "A man should not cover his head, because he is the image and glory of God; but the woman is the glory of the man."
-      },
-      {
-        "n": 8,
-        "text": "For man did not come from woman, but woman from man."
-      },
-      {
-        "n": 9,
-        "text": "And man was not created for woman, but woman for man."
-      },
-      {
-        "n": 10,
-        "text": "For this reason, and because of the angels, a woman should have a sign of authority on her head."
-      },
-      {
-        "n": 11,
-        "text": "But in the Lord, woman is not separate from man, and man is not separate from woman."
-      },
-      {
-        "n": 12,
-        "text": "For just as woman came from man, so man is born of woman. But everything comes from God."
-      },
-      {
-        "n": 13,
-        "text": "Judge for yourselves: is it right for a woman to pray to God with her head uncovered?"
-      },
-      {
-        "n": 14,
-        "text": "Does not nature itself teach you that it is a shame for a man to have long hair,"
-      },
-      {
-        "n": 15,
-        "text": "but that long hair is a woman's glory? For her hair is given to her as a covering."
-      },
-      {
-        "n": 16,
-        "text": "If anyone wants to argue about this, we have no such practice, and neither do the churches of God."
-      },
-      {
-        "n": 17,
-        "text": "Now in giving these instructions I cannot praise you, because your meetings do more harm than good."
-      },
-      {
-        "n": 18,
-        "text": "First of all, I hear that when you come together as a church, there are divisions among you, and I partly believe it."
-      },
-      {
-        "n": 19,
-        "text": "No doubt there have to be differences among you, to show which of you have God's approval."
-      },
-      {
-        "n": 20,
-        "text": "When you gather, you do not really eat the Lord's Supper."
-      },
-      {
-        "n": 21,
-        "text": "Each rich person rushes ahead and eats their own private meal. Poor people go hungry while others get completely drunk!"
-      },
-      {
-        "n": 22,
-        "text": "Do you not have your own homes for eating and drinking? You are humiliating the poor and insulting God's church! Should I praise you for this? I definitely will not!"
-      },
-      {
-        "n": 23,
-        "text": "I passed on to you what the Lord Jesus gave me. On the night someone betrayed Him, the Lord Jesus took bread."
-      },
-      {
-        "n": 24,
-        "text": "He thanked God and broke the bread into pieces. He said: This is my body, broken for you. Eat this bread to remember me."
-      },
-      {
-        "n": 25,
-        "text": "After supper, He took the cup in the same way. He said: This cup is the new agreement in my blood. Whenever you drink it, do this to remember me!"
-      },
-      {
-        "n": 26,
-        "text": "For whenever you eat this bread and drink this cup, you are showing the Lord's death until He comes."
-      },
-      {
-        "n": 27,
-        "text": "Do not treat the Lord's bread and cup with disrespect. Anyone who does that sins against the Lord's body and blood!"
-      },
-      {
-        "n": 28,
-        "text": "Every person must examine their own heart before eating."
-      },
-      {
-        "n": 29,
-        "text": "Respect the body of the Lord when you eat. Disrespecting it brings God's judgment upon yourself."
-      },
-      {
-        "n": 30,
-        "text": "That is why many among you are weak, sick, and dying."
-      },
-      {
-        "n": 31,
-        "text": "But if we judged ourselves truly, we would not be judged."
-      },
-      {
-        "n": 32,
-        "text": "When the Lord judges us, He is correcting us, so that we will not be condemned along with the world."
-      },
-      {
-        "n": 33,
-        "text": "So, my brothers and sisters, when you come together to eat, wait for one another."
-      },
-      {
-        "n": 34,
-        "text": "If anyone is hungry, they should eat at home, so that when you meet together it will not bring judgment. And when I come, I will give further directions."
-      }
+      { "n": 1, "text": "Be followers of me, even as I also am of Christ." },
+      { "n": 2, "text": "Now I praise you, brothers and sisters, that you remember me in all things. You keep the ordinances (teachings), as I delivered (handed) them to you." },
+      { "n": 3, "text": "But I want you to know that the head of every man is Christ. And the head of the woman is the man. And the head of Christ is God." },
+      { "n": 4, "text": "Every man praying or prophesying (speaking God's message) with his head covered dishonors his head." },
+      { "n": 5, "text": "But every woman who prays or prophesies (speaks God's message) with her head uncovered dishonors her head. For that is all the same as if her head were shaved." },
+      { "n": 6, "text": "For if the woman is not covered, let her hair also be shorn (cut off). But if it is a shame for a woman to have her hair shorn (cut off) or shaved, let her be covered." },
+      { "n": 7, "text": "For a man indeed should not cover his head, because he is the image and glory of God. But the woman is the glory of the man." },
+      { "n": 8, "text": "For the man is not from the woman, but the woman is from the man." },
+      { "n": 9, "text": "And the man was not created for the woman, but the woman for the man." },
+      { "n": 10, "text": "For this reason the woman should have power (a sign of authority) on her head, because of the angels." },
+      { "n": 11, "text": "But neither is the man without the woman, nor the woman without the man, in the Lord." },
+      { "n": 12, "text": "For as the woman is from the man, so also the man is born by the woman. But all things are from God." },
+      { "n": 13, "text": "Judge for yourselves: is it comely (fitting) for a woman to pray to God uncovered?" },
+      { "n": 14, "text": "Does not even nature itself teach you that if a man has long hair, it is a shame to him?" },
+      { "n": 15, "text": "But if a woman has long hair, it is a glory to her. For her hair is given to her for a covering." },
+      { "n": 16, "text": "But if any man seems to be contentious (wanting to fight), we have no such custom (practice), and neither do the churches of God." },
+      { "n": 17, "text": "Now in what I tell you next, I do not praise you. For you come together not for the better, but for the worse." },
+      { "n": 18, "text": "For first of all, when you come together in the church, I hear that there are divisions among you. And I partly believe it." },
+      { "n": 19, "text": "For there must also be heresies (wrong teachings that divide) among you, so that those who are approved may be made manifest (shown clearly) among you." },
+      { "n": 20, "text": "So when you come together into one place, this is not to eat the Lord's supper." },
+      { "n": 21, "text": "For in eating, each one takes his own supper before others. And one is hungry, and another is drunk." },
+      { "n": 22, "text": "What? Do you not have houses to eat and to drink in? Or do you despise (look down on) the church of God, and shame those who have nothing? What shall I say to you? Shall I praise you in this? I do not praise you." },
+      { "n": 23, "text": "For I have received from the Lord what I also delivered (handed) to you. The Lord Jesus, the same night in which He was betrayed, took bread." },
+      { "n": 24, "text": "And when He had given thanks, He broke it and said: Take, eat. This is My body, which is broken for you. Do this in remembrance of Me." },
+      { "n": 25, "text": "In the same way He also took the cup, when He had eaten supper, saying: This cup is the new testament (new agreement) in My blood. Do this, as often as you drink it, in remembrance of Me." },
+      { "n": 26, "text": "For as often as you eat this bread and drink this cup, you show the Lord's death until He comes." },
+      { "n": 27, "text": "So whoever eats this bread and drinks this cup of the Lord unworthily will be guilty of the body and blood of the Lord." },
+      { "n": 28, "text": "But let a person examine themselves, and then let them eat of that bread and drink of that cup." },
+      { "n": 29, "text": "For whoever eats and drinks unworthily eats and drinks damnation (being condemned) to themselves, not discerning (seeing the meaning of) the Lord's body." },
+      { "n": 30, "text": "For this reason many among you are weak and sick, and many sleep (have died)." },
+      { "n": 31, "text": "For if we would judge ourselves, we would not be judged." },
+      { "n": 32, "text": "But when we are judged, we are chastened (corrected) by the Lord, so that we will not be condemned (judged guilty) with the world." },
+      { "n": 33, "text": "So, my brothers and sisters, when you come together to eat, wait for one another." },
+      { "n": 34, "text": "And if any man is hungry, let him eat at home, so that you do not come together to be condemned (judged guilty). And I will set the rest in order when I come." }
     ]
   },
   "12": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Now, brothers and sisters, I want you to understand about spiritual gifts."
-      },
-      {
-        "n": 2,
-        "text": "Remember the lives you lived before you were believers. You let yourselves be influenced and led away to worship idols, things that have no life."
-      },
-      {
-        "n": 3,
-        "text": "That is why I tell you: If the Spirit of God is in someone's heart, that person cannot curse Jesus. And when someone believes that Jesus is the Lord, they can say that only because the Holy Spirit is in their heart."
-      },
-      {
-        "n": 4,
-        "text": "There are different gifts, but it is the same Spirit who gives them."
-      },
-      {
-        "n": 5,
-        "text": "And there are different ways to serve the Lord, but we serve the same Lord."
-      },
-      {
-        "n": 6,
-        "text": "And there are different kinds of ways that God works in the congregation, but it is the same God who helps people do all these things."
-      },
-      {
-        "n": 7,
-        "text": "The Spirit shows everyone what they must do, because the Spirit knows what is best for the congregation."
-      },
-      {
-        "n": 8,
-        "text": "The Spirit gives one person the ability to speak with wisdom. And the same Spirit gives another person the ability to speak with knowledge."
-      },
-      {
-        "n": 9,
-        "text": "The same Spirit gives faith to one person, and to another He gives gifts of healing."
-      },
-      {
-        "n": 10,
-        "text": "To another person, the Spirit gives the power to do miracles. To another, He gives the ability to prophesy God's message. To another, He gives the power to tell true spirits from fake spirits. To another, He gives the ability to speak in unknown languages. And to another person, He gives the ability to interpret those languages."
-      },
-      {
-        "n": 11,
-        "text": "One Spirit, the same Spirit, does all these things. The Spirit decides what to give each one."
-      },
-      {
-        "n": 12,
-        "text": "Every person has a body, but that body has many parts. Yes, there are many parts, but the many parts are one body. It is the same with the body of Christ. It has many parts."
-      },
-      {
-        "n": 13,
-        "text": "When we were baptized, the Holy Spirit made us all part of one body. We are Jews, Greeks, slaves and free people but the same Spirit is in all of us."
-      },
-      {
-        "n": 14,
-        "text": "Our bodies do not have only one part. They have many parts."
-      },
-      {
-        "n": 15,
-        "text": "Suppose the foot says: I am not a hand, so I do not belong to the body! That does not stop the foot from being part of the body."
-      },
-      {
-        "n": 16,
-        "text": "Suppose the ear says: I am not an eye, so I do not belong to the body! That does not stop the ear from being part of the body either."
-      },
-      {
-        "n": 17,
-        "text": "If the whole body were an eye, then the body would not have been able to hear. And if the whole body were an ear, then the body would not have been able to smell."
-      },
-      {
-        "n": 18,
-        "text": "But now God has given different parts to the body. He gave every part as He wanted."
-      },
-      {
-        "n": 19,
-        "text": "If the whole body were just one part, then it would not have been a body."
-      },
-      {
-        "n": 20,
-        "text": "But now there are many parts, and there is only one body."
-      },
-      {
-        "n": 21,
-        "text": "The eye cannot say to the hand: I do not need you. The head cannot say to the feet: I do not need you."
-      },
-      {
-        "n": 22,
-        "text": "We think there are parts of the body that are weaker than other parts, but the body needs them."
-      },
-      {
-        "n": 23,
-        "text": "And the parts that we think are not worth very much are the parts we give the most care to. And we give special care to the parts of the body that we do not want to show."
-      },
-      {
-        "n": 24,
-        "text": "The more beautiful parts do not need this special care. But God put the body together and gave more honor to the parts that need it."
-      },
-      {
-        "n": 25,
-        "text": "That is why the body does not fight against itself, because the different parts of the body care for each other."
-      },
-      {
-        "n": 26,
-        "text": "When one part of the body suffers, then all the other parts also suffer. And when the people praise one part of the body, then all the other parts are also happy."
-      },
-      {
-        "n": 27,
-        "text": "All of you together are the body of Christ. You all are a part of this body."
-      },
-      {
-        "n": 28,
-        "text": "God placed different people in the church for special work. First, He appointed apostles. Second, He appointed prophets. Third, He appointed teachers. Next come those who perform miracles and those who heal the sick. Then come those who help others, those who lead, and those with different tongues."
-      },
-      {
-        "n": 29,
-        "text": "Is everyone an apostle? No! Is everyone a prophet? No! Is everyone a teacher? No!"
-      },
-      {
-        "n": 30,
-        "text": "Can everyone perform miracles or heal the sick? No! Does everyone speak in unknown tongues or interpret them? Of course not!"
-      },
-      {
-        "n": 31,
-        "text": "Continue to give your attention to the spiritual gifts you consider to be the greatest. But now I want to point out a way of life that is even greater."
-      }
+      { "n": 1, "text": "Now about spiritual gifts, brothers and sisters, I do not want you to be ignorant (not knowing)." },
+      { "n": 2, "text": "You know that you were Gentiles (people who are not Jews). You were carried away to these idols that cannot speak, just as you were led." },
+      { "n": 3, "text": "So I want you to understand this. No one speaking by the Spirit of God calls Jesus accursed (cursed). And no one can say that Jesus is the Lord, except by the Holy Spirit." },
+      { "n": 4, "text": "Now there are diversities (different kinds) of gifts, but the same Spirit." },
+      { "n": 5, "text": "And there are differences of administrations (kinds of service), but the same Lord." },
+      { "n": 6, "text": "And there are diversities (different kinds) of operations (works), but it is the same God who works all in all." },
+      { "n": 7, "text": "But the manifestation (showing) of the Spirit is given to every person for the good of all." },
+      { "n": 8, "text": "For to one person the word of wisdom is given by the Spirit. To another, the word of knowledge by the same Spirit." },
+      { "n": 9, "text": "To another, faith by the same Spirit. To another, the gifts of healing by the same Spirit." },
+      { "n": 10, "text": "To another, the working of miracles. To another, prophecy (speaking God's message). To another, discerning (telling apart) of spirits. To another, different kinds of tongues (languages). To another, the interpretation (explaining) of tongues (languages)." },
+      { "n": 11, "text": "But that one and the same Spirit works all these. The Spirit gives to every person separately, as the Spirit wills." },
+      { "n": 12, "text": "For the body is one, and has many members (parts). And all the members (parts) of that one body, being many, are one body. So also is Christ." },
+      { "n": 13, "text": "For by one Spirit we are all baptized into one body, whether we are Jews or Gentiles (people who are not Jews), whether we are bond (slaves) or free. And we have all been made to drink into one Spirit." },
+      { "n": 14, "text": "For the body is not one member (part), but many." },
+      { "n": 15, "text": "If the foot says: Because I am not the hand, I am not part of the body. Is it then not part of the body?" },
+      { "n": 16, "text": "And if the ear says: Because I am not the eye, I am not part of the body. Is it then not part of the body?" },
+      { "n": 17, "text": "If the whole body were an eye, where would the hearing be? If the whole body were hearing, where would the smelling be?" },
+      { "n": 18, "text": "But now God has set each one of the members (parts) in the body, as it has pleased Him." },
+      { "n": 19, "text": "And if they were all one member (part), where would the body be?" },
+      { "n": 20, "text": "But now they are many members (parts), yet only one body." },
+      { "n": 21, "text": "And the eye cannot say to the hand: I have no need of you. Nor can the head say to the feet: I have no need of you." },
+      { "n": 22, "text": "No, much more those members (parts) of the body which seem to be more feeble (weak) are necessary." },
+      { "n": 23, "text": "And those members (parts) of the body which we think are less honorable, on these we put more abundant (more) honor. And our uncomely (less pretty) parts have more abundant comeliness (more care to look right)." },
+      { "n": 24, "text": "For our comely (pretty) parts have no need. But God has tempered (put) the body together, giving more abundant (more) honor to the part which lacked it." },
+      { "n": 25, "text": "God did this so that there should be no schism (split) in the body, but that the members (parts) should have the same care for one another." },
+      { "n": 26, "text": "And if one member (part) suffers, all the members (parts) suffer with it. Or if one member (part) is honored, all the members (parts) rejoice with it." },
+      { "n": 27, "text": "Now you are the body of Christ, and members (parts) each one." },
+      { "n": 28, "text": "And God has set some in the church: first apostles, second prophets, third teachers, after that miracles, then gifts of healings, helps, governments (leaders), and diversities (different kinds) of tongues (languages)." },
+      { "n": 29, "text": "Are all apostles? Are all prophets? Are all teachers? Are all workers of miracles?" },
+      { "n": 30, "text": "Do all have the gifts of healing? Do all speak with tongues (languages)? Do all interpret (explain)?" },
+      { "n": 31, "text": "But covet earnestly (strongly want) the best gifts. And yet I show you a more excellent way." }
     ],
     "sourceUrl": "https://kjvdeaf.com/1-corinthians-chapter-12/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No errors found.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V2 'dumb idols' written as 'idols that cannot speak'.",
     "videos": []
   },
   "13": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "If I speak in the languages of people and even of angels, but do not have love, I am only a noisy gong or a clanging cymbal."
-      },
-      {
-        "n": 2,
-        "text": "I may have the gift of prophecy. I may understand all secrets and all knowledge. I may have faith strong enough to move mountains. But if I do not have love, I am nothing."
-      },
-      {
-        "n": 3,
-        "text": "If I give away everything I own, and even give my body to be burned, but do not have love, I gain nothing."
-      },
-      {
-        "n": 4,
-        "text": "Love is patient and kind. Love is not jealous. It does not brag, and it is not proud."
-      },
-      {
-        "n": 5,
-        "text": "It is not rude. It does not look out only for itself. It does not get angry easily, and it keeps no record of wrongs."
-      },
-      {
-        "n": 6,
-        "text": "Love is not glad about evil, but is glad about the truth."
-      },
-      {
-        "n": 7,
-        "text": "Love always protects, always trusts, always hopes, and always keeps going."
-      },
-      {
-        "n": 8,
-        "text": "Love never ends. But prophecies will stop, other languages will cease, and knowledge will pass away."
-      },
-      {
-        "n": 9,
-        "text": "For we know only a part, and we prophesy only a part."
-      },
-      {
-        "n": 10,
-        "text": "But when what is perfect comes, what is only a part will pass away."
-      },
-      {
-        "n": 11,
-        "text": "When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I grew up, I put childish ways behind me."
-      },
-      {
-        "n": 12,
-        "text": "For now we see only a dim picture, as in a poor mirror. But then we will see face to face. Now I know only a part; then I will know fully, just as I am fully known."
-      },
-      {
-        "n": 13,
-        "text": "So these three remain: faith, hope, and love. But the greatest of these is love."
-      }
+      { "n": 1, "text": "Though I speak with the tongues (languages) of men and of angels, and have not charity (love), I have become like sounding brass or a tinkling cymbal (an empty noise)." },
+      { "n": 2, "text": "And though I have the gift of prophecy (speaking God's message), and understand all mysteries (secrets) and all knowledge, and though I have all faith, so that I could move mountains, and have not charity (love), I am nothing." },
+      { "n": 3, "text": "And though I give all my goods to feed the poor, and though I give my body to be burned, and have not charity (love), it profits (helps) me nothing." },
+      { "n": 4, "text": "Charity (love) suffers long (is patient), and is kind. Charity (love) does not envy (feel jealous). Charity (love) does not vaunt itself (brag), and is not puffed up (proud)." },
+      { "n": 5, "text": "Charity (love) does not behave in an unseemly (rude) way. It does not seek its own way. It is not easily provoked (made angry). It thinks no evil." },
+      { "n": 6, "text": "It does not rejoice in iniquity (sin), but rejoices in the truth." },
+      { "n": 7, "text": "It bears all things, believes all things, hopes all things, and endures all things." },
+      { "n": 8, "text": "Charity (love) never fails. But where there are prophecies, they will fail. Where there are tongues (languages), they will cease (stop). Where there is knowledge, it will vanish away." },
+      { "n": 9, "text": "For we know in part, and we prophesy (speak God's message) in part." },
+      { "n": 10, "text": "But when that which is perfect (complete) has come, then that which is in part will be done away." },
+      { "n": 11, "text": "When I was a child, I spoke as a child. I understood as a child. I thought as a child. But when I became a man, I put away childish things." },
+      { "n": 12, "text": "For now we see through a glass (mirror), darkly (not clearly). But then we will see face to face. Now I know in part. But then I will know, even as I am known." },
+      { "n": 13, "text": "And now faith, hope, and charity (love) abide (remain), these three. But the greatest of these is charity (love)." }
     ]
   },
   "14": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Run after love, and also long for the gifts of the Spirit, especially the gift of prophecy."
-      },
-      {
-        "n": 2,
-        "text": "For anyone who speaks in another language is not speaking to people but to God. No one understands them; they are speaking secrets by the Spirit."
-      },
-      {
-        "n": 3,
-        "text": "But the one who prophesies speaks to people to build them up, encourage them, and comfort them."
-      },
-      {
-        "n": 4,
-        "text": "The one who speaks in another language builds up themselves, but the one who prophesies builds up the church."
-      },
-      {
-        "n": 5,
-        "text": "I want all of you to speak in unknown languages. Even more, I want you to prophesy God's truth! A person who prophesies helps the church more than someone speaking in tongues. Tongues help only when someone interprets the words to build up the church."
-      },
-      {
-        "n": 6,
-        "text": "Now, brothers and sisters, if I come to you speaking in other languages, how does that help you? It helps only if I bring you some message, knowledge, prophecy, or teaching."
-      },
-      {
-        "n": 7,
-        "text": "Think about lifeless musical instruments like a flute or a harp. If the notes are not clear, no one recognizes the tune!"
-      },
-      {
-        "n": 8,
-        "text": "If the bugle does not blow a distinct call, who will prepare for war?"
-      },
-      {
-        "n": 9,
-        "text": "It is the same with you. Unless you speak words that are easy to understand, how will anyone know what you are saying? You will just be speaking into the air."
-      },
-      {
-        "n": 10,
-        "text": "There are surely many different languages in the world, and none of them is without meaning."
-      },
-      {
-        "n": 11,
-        "text": "But if I do not understand the language, I will be a foreigner to the speaker, and that person will be a foreigner to me."
-      },
-      {
-        "n": 12,
-        "text": "It is the same with you. Since you are eager for the gifts of the Spirit, try to do well at building up the church."
-      },
-      {
-        "n": 13,
-        "text": "So anyone who speaks in another language should pray that they can explain what they say."
-      },
-      {
-        "n": 14,
-        "text": "For if I pray in a tongue, my spirit prays, but my mind does not understand."
-      },
-      {
-        "n": 15,
-        "text": "So what should I do? I will pray with my spirit, but I will also pray with my mind. I will sing with my spirit, but I will also sing with my mind."
-      },
-      {
-        "n": 16,
-        "text": "Suppose you praise God only in an unknown spiritual language. How can an ordinary visitor say Amen to your prayer? They have no idea what you are saying!"
-      },
-      {
-        "n": 17,
-        "text": "You may be giving thanks well enough, but the other person is not built up."
-      },
-      {
-        "n": 18,
-        "text": "I thank God that I speak in other languages more than all of you."
-      },
-      {
-        "n": 19,
-        "text": "But in the church I would rather speak five words that people understand, to teach others, than ten thousand words in another language."
-      },
-      {
-        "n": 20,
-        "text": "Brothers and sisters, do not be children in your thinking. Be like babies when it comes to evil, but be grown-ups in your thinking."
-      },
-      {
-        "n": 21,
-        "text": "In the law it is written: With other languages and other lips I will speak to this people. But even then they will not listen to me, says the Lord."
-      },
-      {
-        "n": 22,
-        "text": "So other languages are a sign, not for believers but for those who do not believe. But prophecy is for believers, not for those who do not believe."
-      },
-      {
-        "n": 23,
-        "text": "Suppose the whole church meets and everyone speaks in unknown tongues. If unbelievers or visitors walk in, they will call you crazy!"
-      },
-      {
-        "n": 24,
-        "text": "But suppose everyone is prophesying God's clear truth. When an unbeliever enters, the words will convict their heart!"
-      },
-      {
-        "n": 25,
-        "text": "God will expose the secret thoughts inside them. They will fall face down, worship God, and say: God is truly here!"
-      },
-      {
-        "n": 26,
-        "text": "So what should you do, brothers and sisters? When you come together, each of you has a song, a teaching, another language, a message from God, or an explanation. Everything must be done to build up the church."
-      },
-      {
-        "n": 27,
-        "text": "If anyone speaks in another language, two, or at most three, should speak, one at a time, and someone should explain."
-      },
-      {
-        "n": 28,
-        "text": "If there is no one to explain, the speaker should keep quiet in the church and speak only to themselves and to God."
-      },
-      {
-        "n": 29,
-        "text": "Two or three prophets should speak, and the others should weigh carefully what is said."
-      },
-      {
-        "n": 30,
-        "text": "And if a message comes to someone sitting nearby, the first speaker should stop."
-      },
-      {
-        "n": 31,
-        "text": "For you can all prophesy, one at a time, so that everyone can learn and be encouraged."
-      },
-      {
-        "n": 32,
-        "text": "Prophets must control their own spiritual speech."
-      },
-      {
-        "n": 33,
-        "text": "God does not author wild confusion; He brings peaceful order!"
-      },
-      {
-        "n": 34,
-        "text": "The women should keep quiet in the churches. They are not allowed to speak, but should be submissive, as the law also says."
-      },
-      {
-        "n": 35,
-        "text": "If they want to learn something, they should ask their own husbands at home, because it is a shame for a woman to speak in the church."
-      },
-      {
-        "n": 36,
-        "text": "Did the word of God begin with you? Or are you the only people it has reached?"
-      },
-      {
-        "n": 37,
-        "text": "If anyone thinks they are a prophet or a spiritual person, they should recognize that what I am writing to you is the Lord's command."
-      },
-      {
-        "n": 38,
-        "text": "But if anyone ignores this, they will be ignored."
-      },
-      {
-        "n": 39,
-        "text": "So, my brothers and sisters, be eager to prophesy, and do not forbid speaking in other languages."
-      },
-      {
-        "n": 40,
-        "text": "Everything done in your meetings must be orderly and respectful."
-      }
+      { "n": 1, "text": "Follow after charity (love), and desire spiritual gifts. But most of all desire that you may prophesy (speak God's message)." },
+      { "n": 2, "text": "For the one who speaks in an unknown tongue (language) does not speak to men, but to God. For no one understands him. Yet in the spirit he speaks mysteries (secrets)." },
+      { "n": 3, "text": "But the one who prophesies (speaks God's message) speaks to men for edification (building up), exhortation (encouragement), and comfort." },
+      { "n": 4, "text": "The one who speaks in an unknown tongue (language) edifies (builds up) himself. But the one who prophesies (speaks God's message) edifies (builds up) the church." },
+      { "n": 5, "text": "I wish that you all spoke with tongues (languages), but even more that you prophesied (spoke God's message). For greater is the one who prophesies than the one who speaks with tongues (languages), unless he interprets (explains), so that the church may receive edifying (building up)." },
+      { "n": 6, "text": "Now, brothers and sisters, if I come to you speaking with tongues (languages), how will I profit (help) you? Only if I speak to you by revelation (showing), or by knowledge, or by prophesying (speaking God's message), or by doctrine (teaching)." },
+      { "n": 7, "text": "Even things without life that make sound, like a pipe or a harp, must give a difference in the sounds. Otherwise, how will anyone know what is played?" },
+      { "n": 8, "text": "For if the trumpet gives an uncertain sound, who will get ready for the battle?" },
+      { "n": 9, "text": "In the same way you also, unless you speak words that are easy to understand, how will anyone know what is said? For you will be speaking into the air." },
+      { "n": 10, "text": "There are, it may be, so many kinds of voices (languages) in the world, and none of them is without signification (meaning)." },
+      { "n": 11, "text": "So if I do not know the meaning of the voice (language), I will be a barbarian (foreigner) to the one who speaks. And the one who speaks will be a barbarian (foreigner) to me." },
+      { "n": 12, "text": "So you also, since you are zealous (eager) for spiritual gifts, seek to excel (do well) for the edifying (building up) of the church." },
+      { "n": 13, "text": "So let the one who speaks in an unknown tongue (language) pray that he may interpret (explain)." },
+      { "n": 14, "text": "For if I pray in an unknown tongue (language), my spirit prays, but my understanding is unfruitful (helps no one)." },
+      { "n": 15, "text": "What is it then? I will pray with the spirit, and I will pray with the understanding also. I will sing with the spirit, and I will sing with the understanding also." },
+      { "n": 16, "text": "Otherwise, when you bless with the spirit, how will the unlearned (person who does not understand) say Amen when you give thanks? For he does not understand what you say." },
+      { "n": 17, "text": "For you truly give thanks well, but the other person is not edified (built up)." },
+      { "n": 18, "text": "I thank my God that I speak with tongues (languages) more than all of you." },
+      { "n": 19, "text": "Yet in the church I would rather speak five words with my understanding, so that by my voice I might teach others also, than ten thousand words in an unknown tongue (language)." },
+      { "n": 20, "text": "Brothers and sisters, do not be children in understanding. In malice (hate) be children, but in understanding be grown men." },
+      { "n": 21, "text": "In the law it is written: With men of other tongues (languages) and other lips I will speak to this people. And yet for all that, they will not listen to Me, says the Lord." },
+      { "n": 22, "text": "So tongues (languages) are for a sign, not to those who believe, but to those who do not believe. But prophesying (speaking God's message) is not for those who do not believe, but for those who believe." },
+      { "n": 23, "text": "So if the whole church comes together into one place, and all speak with tongues (languages), and people come in who are unlearned (do not understand) or unbelievers, will they not say that you are mad (crazy)?" },
+      { "n": 24, "text": "But if all prophesy (speak God's message), and someone comes in who does not believe, or who is unlearned (does not understand), he is convinced (shown his sin) by all. He is judged by all." },
+      { "n": 25, "text": "And so the secrets of his heart are made manifest (shown clearly). And so, falling down on his face, he will worship God, and report that God is truly among you." },
+      { "n": 26, "text": "How is it then, brothers and sisters? When you come together, every one of you has a psalm, has a doctrine (teaching), has a tongue (language), has a revelation (showing), has an interpretation (explaining). Let all things be done for edifying (building up)." },
+      { "n": 27, "text": "If any man speaks in an unknown tongue (language), let it be by two, or at the most by three, and each in turn. And let one interpret (explain)." },
+      { "n": 28, "text": "But if there is no interpreter (one who explains), let him keep silence in the church. Let him speak to himself, and to God." },
+      { "n": 29, "text": "Let two or three prophets speak, and let the others judge." },
+      { "n": 30, "text": "If anything is revealed (shown) to another who sits by, let the first one be quiet." },
+      { "n": 31, "text": "For you may all prophesy (speak God's message) one by one, so that all may learn, and all may be comforted." },
+      { "n": 32, "text": "And the spirits of the prophets are subject to (under the control of) the prophets." },
+      { "n": 33, "text": "For God is not the author (maker) of confusion, but of peace, as in all churches of the saints (holy people)." },
+      { "n": 34, "text": "Let your women keep silence in the churches. For they are not permitted (allowed) to speak. They are commanded to be under obedience, as the law also says." },
+      { "n": 35, "text": "And if they want to learn anything, let them ask their husbands at home. For it is a shame for women to speak in the church." },
+      { "n": 36, "text": "What? Did the word of God come out from you? Or did it come to you only?" },
+      { "n": 37, "text": "If any man thinks he is a prophet, or spiritual, let him acknowledge (admit) that the things I write to you are the commandments of the Lord." },
+      { "n": 38, "text": "But if any man is ignorant (not knowing), let him be ignorant (not knowing)." },
+      { "n": 39, "text": "So, brothers and sisters, covet (strongly want) to prophesy (speak God's message), and do not forbid speaking with tongues (languages)." },
+      { "n": 40, "text": "Let all things be done decently (properly) and in order." }
     ]
   },
   "15": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Now, brothers and sisters, I want you to remember the gospel I told you. You received that Good News, and you continue to base your life on it."
-      },
-      {
-        "n": 2,
-        "text": "That Good News, the message you heard from me and believed, is God's way to save you. Do not change the word which I preached to you, unless you believed in vain (without complete commitment)."
-      },
-      {
-        "n": 3,
-        "text": "I, Paul, gave you the message that I received. I told you the most important truths: that Christ died for our sins, as the Scriptures say."
-      },
-      {
-        "n": 4,
-        "text": "Jesus was buried and Jesus was raised to life on the third day, as the Scriptures say;"
-      },
-      {
-        "n": 5,
-        "text": "Jesus appeared to Peter, then to all twelve apostles."
-      },
-      {
-        "n": 6,
-        "text": "Later Jesus appeared to more than 500 of His followers at once, most of whom are still alive, although some have died."
-      },
-      {
-        "n": 7,
-        "text": "Then Jesus appeared to James and later to all the apostles."
-      },
-      {
-        "n": 8,
-        "text": "Last of all, Christ appeared to me, Paul! I was like a baby born at the wrong time."
-      },
-      {
-        "n": 9,
-        "text": "I am the least important of all the apostles. I do not even deserve the name apostle! Why? Because I violently attacked God's church."
-      },
-      {
-        "n": 10,
-        "text": "Because of God's grace, I am an apostle now. God's grace that He gave me was not wasted. I worked harder than all the other apostles. (But I was not really the one working. It was God's grace that was with me.)"
-      },
-      {
-        "n": 11,
-        "text": "It is not important who preaches to you, I or the other apostles. What is important is that we all preach the same message and that you believe it."
-      },
-      {
-        "n": 12,
-        "text": "We tell everyone that Christ was raised from death. So why do some of you say that people will not be raised from death?"
-      },
-      {
-        "n": 13,
-        "text": "If no one will ever be raised from death, then Christ has never been raised."
-      },
-      {
-        "n": 14,
-        "text": "And if Christ has never been raised, then the message we tell is worth nothing. And your faith is worth nothing."
-      },
-      {
-        "n": 15,
-        "text": "If the dead never rise, we lied about God! We officially testified that God raised Christ from the dead. But God did not raise Christ if dead people never wake up! And if the dead do not rise, then Christ stayed dead, too!"
-      },
-      {
-        "n": 16,
-        "text": "If those who have died are not raised, then Christ has not been raised either."
-      },
-      {
-        "n": 17,
-        "text": "And if God did not make Christ live again, then your faith is worth nothing, and you are still guilty of your sins."
-      },
-      {
-        "n": 18,
-        "text": "Then everyone who belonged to Christ and has died is lost."
-      },
-      {
-        "n": 19,
-        "text": "If we hope that Christ saves us only for this life on earth, then everyone must feel very sorry for us."
-      },
-      {
-        "n": 20,
-        "text": "But our message is true: God has raised Christ from death to live again, this is sure. Christ is the first One who died and was raised to live again."
-      },
-      {
-        "n": 21,
-        "text": "Death came into the world through one human man, Adam. In the same way, the resurrection comes through one Man, Christ!"
-      },
-      {
-        "n": 22,
-        "text": "Everyone dies because we are connected to Adam. In Christ, all believers will be brought back to life!"
-      },
-      {
-        "n": 23,
-        "text": "But everyone will be raised to life in the right order. Christ was first to be raised. Then, when Christ comes again, those who belong to Him will be raised to life."
-      },
-      {
-        "n": 24,
-        "text": "Then the end will come. Christ will destroy all rulers, authorities, and powers. Then He will give the kingdom to God the Father."
-      },
-      {
-        "n": 25,
-        "text": "Christ will rule until God has defeated all enemies of Christ and put them under His feet."
-      },
-      {
-        "n": 26,
-        "text": "The last enemy that Christ will defeat is death."
-      },
-      {
-        "n": 27,
-        "text": "It is written in the Old Testament: God put everything under Christ's control. When God says that everything is put under Christ, it is clear that this does not include God Himself. God is the One putting everything under Christ's control."
-      },
-      {
-        "n": 28,
-        "text": "God will place everything under the rule of Christ. Then Christ the Son will place Himself under God the Father. God is the One who gave Christ total authority. In the end, God will rule over everything and everyone!"
-      },
-      {
-        "n": 29,
-        "text": "If no one will ever be raised from death, then what will the people do who are baptized for those who have died? If the dead are never raised, then why are people baptized for them?"
-      },
-      {
-        "n": 30,
-        "text": "And what about us? Why do we put ourselves in danger every hour if the dead will not live again?"
-      },
-      {
-        "n": 31,
-        "text": "I swear, dear brothers and sisters, by the pride I have in you through Christ Jesus our Lord: I face death daily."
-      },
-      {
-        "n": 32,
-        "text": "In Ephesus I fought wild animals. If I did that only for human reasons, then I have gained nothing. If we are not raised from death, then let us eat and drink, because tomorrow we die."
-      },
-      {
-        "n": 33,
-        "text": "Do not let people deceive you. Bad friends will ruin good habits."
-      },
-      {
-        "n": 34,
-        "text": "Come back to your right way of thinking and stop sinning. Some of you do not know God. I say this to shame you."
-      },
-      {
-        "n": 35,
-        "text": "Some people ask: What will it be like when the dead people live again? What will their bodies look like?"
-      },
-      {
-        "n": 36,
-        "text": "Why do they ask these foolish questions? When you plant something, it must die in the ground before it can live and grow."
-      },
-      {
-        "n": 37,
-        "text": "And when you plant something, what you plant does not have the same body that it will have later. What you plant is only a seed, maybe wheat or something else."
-      },
-      {
-        "n": 38,
-        "text": "But God gives it the body that He has planned for it, and He gives each kind of seed its own body."
-      },
-      {
-        "n": 39,
-        "text": "All things made of flesh are not the same: People have one kind of flesh, animals have another, birds have another, and fish have yet another kind."
-      },
-      {
-        "n": 40,
-        "text": "Also there are heavenly bodies and earthly bodies. But the beauty of the heavenly bodies is one kind, and the beauty of the earthly bodies is another."
-      },
-      {
-        "n": 41,
-        "text": "The sun has one kind of beauty, the moon has another kind, and the stars have another. And each star is different in its beauty."
-      },
-      {
-        "n": 42,
-        "text": "It will be the same when those who have died are raised to life. The body that is buried in the grave will ruin and decay, but it will be raised to a life that cannot be destroyed."
-      },
-      {
-        "n": 43,
-        "text": "When the body is buried it is without honor. But when it is raised, it will be great and glorious. When the body is buried, it is weak. But when it is raised, it will be full of power."
-      },
-      {
-        "n": 44,
-        "text": "The body that is buried is a physical body. When it is raised, it will be a spiritual body. There is a physical body, and there is also a spiritual body."
-      },
-      {
-        "n": 45,
-        "text": "In the Old Testament it is written: The first man, Adam, became a living person. The last Adam, Christ, became a life-giving spirit who restores the dead to life."
-      },
-      {
-        "n": 46,
-        "text": "Remember, the spiritual body did not come first. The human body was first and after that, the spiritual body came."
-      },
-      {
-        "n": 47,
-        "text": "God made the first man from the dust of the earth. But the second Man is the Lord from heaven."
-      },
-      {
-        "n": 48,
-        "text": "People who belong to this world are like the first man. They are like the man who came from the earth. But people who belong to heaven are like the Man who came from heaven. Christ is the One who came from heaven."
-      },
-      {
-        "n": 49,
-        "text": "Now we all are like the man of dust, but the time will come when we will be like the Man from heaven."
-      },
-      {
-        "n": 50,
-        "text": "I tell you this, brothers and sisters: Our bodies of flesh and blood cannot have a part in God's kingdom. Something that will ruin cannot have a part in something that never ruins."
-      },
-      {
-        "n": 51,
-        "text": "Listen, I will tell you a wonderful secret! Not all of us will die. Instead, God will instantly transform all of us!"
-      },
-      {
-        "n": 52,
-        "text": "It will happen in one second, faster than an eye blink. The final trumpet will blast loud and clear! The dead believers will wake up with bodies that never rot. And God will change all of us forever!"
-      },
-      {
-        "n": 53,
-        "text": "Because this body that we have now can become dust, God will give us a body that cannot become dust. This body that we have now can die, but God will give us a body that will never die."
-      },
-      {
-        "n": 54,
-        "text": "God will give us a body that cannot die or become dust. Then the words in the Old Testament will come true. It is written: God has defeated death."
-      },
-      {
-        "n": 55,
-        "text": "Death, where is your victory? Where is your power to hurt?"
-      },
-      {
-        "n": 56,
-        "text": "The power and sting of death come from sin, and the power of sin comes from the law."
-      },
-      {
-        "n": 57,
-        "text": "But we thank God who gives us the victory through our Lord Jesus Christ!"
-      },
-      {
-        "n": 58,
-        "text": "So, my dear brothers and sisters, stand strong. Do not let anything change you. Always give yourselves fully to the work of the Lord. You know that your work in the Lord is never wasted."
-      }
+      { "n": 1, "text": "Also, brothers and sisters, I declare (tell) to you the gospel (good news) which I preached to you. You also received it, and you stand in it." },
+      { "n": 2, "text": "By it you are also saved, if you keep in memory what I preached to you, unless you have believed in vain (for nothing)." },
+      { "n": 3, "text": "For first of all I delivered (handed) to you what I also received: that Christ died for our sins according to the Scriptures." },
+      { "n": 4, "text": "And that He was buried, and that He rose again the third day according to the Scriptures." },
+      { "n": 5, "text": "And that He was seen by Peter, then by the twelve." },
+      { "n": 6, "text": "After that, He was seen by more than 500 brothers at once. Most of them are still alive today, but some have fallen asleep (died)." },
+      { "n": 7, "text": "After that, He was seen by James, then by all the apostles." },
+      { "n": 8, "text": "And last of all He was seen by me also, as by one born out of due time (born too late)." },
+      { "n": 9, "text": "For I am the least of the apostles. I am not meet (worthy) to be called an apostle, because I persecuted (attacked for faith) the church of God." },
+      { "n": 10, "text": "But by the grace of God I am what I am. And His grace which was given to me was not in vain (for nothing). I labored (worked) more than all of them. Yet it was not I, but the grace of God which was with me." },
+      { "n": 11, "text": "So whether it was I or they, this is what we preach, and this is what you believed." },
+      { "n": 12, "text": "Now if Christ is preached, that He rose from the dead, how do some among you say that there is no resurrection (rising) of the dead?" },
+      { "n": 13, "text": "But if there is no resurrection (rising) of the dead, then Christ is not risen." },
+      { "n": 14, "text": "And if Christ is not risen, then our preaching is vain (empty), and your faith is also vain (empty)." },
+      { "n": 15, "text": "Yes, and we are found to be false witnesses of God. For we have testified (told) of God that He raised up Christ. But God did not raise Him up, if the dead do not rise." },
+      { "n": 16, "text": "For if the dead do not rise, then Christ is not raised." },
+      { "n": 17, "text": "And if Christ is not raised, your faith is vain (empty). You are still in your sins." },
+      { "n": 18, "text": "Then those also who have fallen asleep (died) in Christ have perished (been destroyed)." },
+      { "n": 19, "text": "If we have hope in Christ in this life only, we are of all men the most miserable." },
+      { "n": 20, "text": "But now Christ is risen from the dead, and has become the firstfruits (first part) of those who slept (died)." },
+      { "n": 21, "text": "For since death came by man, the resurrection (rising) of the dead also came by man." },
+      { "n": 22, "text": "For as in Adam all die, even so in Christ all will be made alive." },
+      { "n": 23, "text": "But every man in his own order: Christ the firstfruits (first part), and afterward those who are Christ's at His coming." },
+      { "n": 24, "text": "Then the end comes, when He has delivered up (handed over) the kingdom to God, even the Father. This is when He has put down all rule and all authority and power." },
+      { "n": 25, "text": "For He must reign until He has put all enemies under His feet." },
+      { "n": 26, "text": "The last enemy that will be destroyed is death." },
+      { "n": 27, "text": "For God has put all things under His feet. But when He says all things are put under Him, it is clear that God is not included, who put all things under Him." },
+      { "n": 28, "text": "And when all things are subdued (put) under Him, then the Son also Himself will be subject to God who put all things under Him, so that God may be all in all." },
+      { "n": 29, "text": "Otherwise, what will they do who are baptized for the dead, if the dead do not rise at all? Why are they then baptized for the dead?" },
+      { "n": 30, "text": "And why are we in jeopardy (danger) every hour?" },
+      { "n": 31, "text": "I protest (promise) by your rejoicing which I have in Christ Jesus our Lord, I die daily." },
+      { "n": 32, "text": "If, after the manner of men, I have fought with beasts at Ephesus, what advantage (good) is it to me, if the dead do not rise? Let us eat and drink, for tomorrow we die." },
+      { "n": 33, "text": "Do not be deceived (fooled): evil communications (friends) corrupt good manners (ruin good habits)." },
+      { "n": 34, "text": "Awake to righteousness (being right with God), and do not sin. For some do not have the knowledge of God. I say this to your shame." },
+      { "n": 35, "text": "But someone will say: How are the dead raised up? And with what body do they come?" },
+      { "n": 36, "text": "You fool, what you sow is not quickened (made alive) unless it dies." },
+      { "n": 37, "text": "And what you sow, you do not sow the body that will be. You sow bare grain, maybe of wheat, or of some other grain." },
+      { "n": 38, "text": "But God gives it a body as it has pleased Him, and to every seed its own body." },
+      { "n": 39, "text": "All flesh is not the same flesh. But there is one kind of flesh of men, another flesh of beasts, another of fishes, and another of birds." },
+      { "n": 40, "text": "There are also celestial (heavenly) bodies, and terrestrial (earthly) bodies. But the glory of the celestial (heavenly) is one, and the glory of the terrestrial (earthly) is another." },
+      { "n": 41, "text": "There is one glory of the sun, and another glory of the moon, and another glory of the stars. For one star is different from another star in glory." },
+      { "n": 42, "text": "So also is the resurrection (rising) of the dead. It is sown in corruption (decay). It is raised in incorruption (without decay)." },
+      { "n": 43, "text": "It is sown in dishonor. It is raised in glory. It is sown in weakness. It is raised in power." },
+      { "n": 44, "text": "It is sown a natural body. It is raised a spiritual body. There is a natural body, and there is a spiritual body." },
+      { "n": 45, "text": "And so it is written: The first man Adam was made a living soul. The last Adam was made a quickening (life-giving) spirit." },
+      { "n": 46, "text": "But the spiritual was not first. The natural was first, and afterward the spiritual." },
+      { "n": 47, "text": "The first man is of the earth, earthy (made of dirt). The second man is the Lord from heaven." },
+      { "n": 48, "text": "As the earthy (made of dirt) man is, so are those who are earthy. And as the heavenly Man is, so are those who are heavenly." },
+      { "n": 49, "text": "And as we have borne (carried) the image of the earthy (made of dirt), we will also bear the image of the heavenly." },
+      { "n": 50, "text": "Now this I say, brothers and sisters: flesh and blood cannot inherit the kingdom of God. And corruption (decay) does not inherit incorruption (what never decays)." },
+      { "n": 51, "text": "Look, I show you a mystery (secret). We will not all sleep (die), but we will all be changed," },
+      { "n": 52, "text": "In a moment, in the twinkling of an eye, at the last trump (trumpet). For the trumpet will sound, and the dead will be raised incorruptible (never decaying), and we will be changed." },
+      { "n": 53, "text": "For this corruptible (decaying) body must put on incorruption (never decaying). And this mortal (that will die) body must put on immortality (life that never dies)." },
+      { "n": 54, "text": "So when this corruptible (decaying) body has put on incorruption (never decaying), and this mortal (that will die) body has put on immortality (life that never dies), then the saying that is written will come true: Death is swallowed up in victory." },
+      { "n": 55, "text": "O death, where is your sting? O grave, where is your victory?" },
+      { "n": 56, "text": "The sting of death is sin, and the strength of sin is the law." },
+      { "n": 57, "text": "But thanks be to God, who gives us the victory through our Lord Jesus Christ." },
+      { "n": 58, "text": "So, my beloved (dear) brothers and sisters, be stedfast (firm) and unmoveable. Always do much in the work of the Lord, because you know that your labor (work) is not in vain (for nothing) in the Lord." }
     ],
     "sourceUrl": "https://kjvdeaf.com/1-corinthians-chapter-15/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Two merged-verse numbering bugs (12/13, 15/16) have been split apart, and several typos/garbled sentences fixed (v2, v30, v44, v48).",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "16": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-20 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Now about the collection for God's people: do what I told the churches in Galatia to do."
-      },
-      {
-        "n": 2,
-        "text": "On Sunday, the first day of the week, put aside some money. Save according to how much money you made that week. Do this so you will not rush to collect money when I arrive."
-      },
-      {
-        "n": 3,
-        "text": "When I arrive, I will give letters of introduction to the people you approve, and send them to take your gift to Jerusalem."
-      },
-      {
-        "n": 4,
-        "text": "And if it seems best for me to go too, they will go with me."
-      },
-      {
-        "n": 5,
-        "text": "I will come to you after I go through Macedonia, for I am going to pass through there."
-      },
-      {
-        "n": 6,
-        "text": "Maybe I will stay with you for a while, or even spend the winter, so that you can help me on my journey, wherever I go."
-      },
-      {
-        "n": 7,
-        "text": "I do not want to see you only in passing. I hope to spend some time with you, if the Lord allows."
-      },
-      {
-        "n": 8,
-        "text": "But I will stay in Ephesus until Pentecost,"
-      },
-      {
-        "n": 9,
-        "text": "A wide door of great opportunity has opened for my work here! At the same time, many enemies actively oppose me."
-      },
-      {
-        "n": 10,
-        "text": "When Timothy comes, make sure he has nothing to fear while he is with you, because he is doing the Lord's work, just as I am."
-      },
-      {
-        "n": 11,
-        "text": "So no one should look down on him. Send him on his way in peace, so that he can come back to me. I am expecting him, along with the other brothers."
-      },
-      {
-        "n": 12,
-        "text": "Now about our brother Apollos: I strongly urged him to go to you with the others. But he did not want to go now; he will go when he has the chance."
-      },
-      {
-        "n": 13,
-        "text": "Stay alert and watchful! Stand firm in your faith! Be courageous and bold! Be strong in the Lord!"
-      },
-      {
-        "n": 14,
-        "text": "And do every single thing with love."
-      },
-      {
-        "n": 15,
-        "text": "You know the family of Stephanas. They were the very first believers in the region of Achaia. They dedicated their lives to serving God's people."
-      },
-      {
-        "n": 16,
-        "text": "Follow the godly leadership of people like them. Respect everyone who works hard alongside them!"
-      },
-      {
-        "n": 17,
-        "text": "I was glad when Stephanas, Fortunatus, and Achaicus arrived, because they have made up for your absence."
-      },
-      {
-        "n": 18,
-        "text": "They have refreshed my spirit, and yours too. So show your appreciation to people like them."
-      },
-      {
-        "n": 19,
-        "text": "The churches in Asia send you greetings. Aquila and Priscilla greet you warmly in the Lord, along with the church that meets in their house."
-      },
-      {
-        "n": 20,
-        "text": "All the brothers and sisters here send you greetings. Greet one another with a holy kiss."
-      },
-      {
-        "n": 21,
-        "text": "I, Paul, write this greeting with my own hand."
-      },
-      {
-        "n": 22,
-        "text": "If anyone does not truly love the Lord, God's curse is on them. Our Lord, come quickly!"
-      },
-      {
-        "n": 23,
-        "text": "May the grace of the Lord Jesus be with you."
-      },
-      {
-        "n": 24,
-        "text": "My love be with all of you in Christ Jesus. Amen."
-      }
+      { "n": 1, "text": "Now about the collection for the saints (holy people): as I have given orders to the churches of Galatia, you do the same." },
+      { "n": 2, "text": "On the first day of the week let every one of you lay something aside and store it, as God has prospered (blessed) you. Then there will be no gatherings (collections) when I come." },
+      { "n": 3, "text": "And when I come, whoever you approve by your letters, I will send them to bring your liberality (gift) to Jerusalem." },
+      { "n": 4, "text": "And if it is meet (right) that I go also, they will go with me." },
+      { "n": 5, "text": "Now I will come to you when I pass through Macedonia. For I am passing through Macedonia." },
+      { "n": 6, "text": "And it may be that I will stay, yes, and spend the winter with you, so that you may help me on my journey wherever I go." },
+      { "n": 7, "text": "For I do not want to see you now just in passing. But I trust to tarry (stay) a while with you, if the Lord permits (allows)." },
+      { "n": 8, "text": "But I will tarry (stay) at Ephesus until Pentecost." },
+      { "n": 9, "text": "For a great and effectual (working) door is opened to me, and there are many adversaries (enemies)." },
+      { "n": 10, "text": "Now if Timothy comes, see that he can be with you without fear. For he does the work of the Lord, as I also do." },
+      { "n": 11, "text": "So let no one despise (look down on) Timothy. But send him on his way in peace, so that he may come to me. For I am looking for him with the brothers." },
+      { "n": 12, "text": "About our brother Apollos: I greatly wanted him to come to you with the brothers. But it was not at all his will to come at this time. But Apollos will come when he has a convenient (good) time." },
+      { "n": 13, "text": "Watch. Stand fast (firm) in the faith. Quit you like men (be brave). Be strong." },
+      { "n": 14, "text": "Let everything you do be done with charity (love)." },
+      { "n": 15, "text": "I beg you, brothers and sisters: you know the house (family) of Stephanas, that it is the firstfruits (first believers) of Achaia. And they have addicted (given) themselves to the ministry (service) of the saints (holy people)." },
+      { "n": 16, "text": "Submit yourselves to such people, and to every one who helps with us and labors (works hard)." },
+      { "n": 17, "text": "I am glad that Stephanas, Fortunatus, and Achaicus came. For they have supplied what was lacking on your part." },
+      { "n": 18, "text": "For they have refreshed my spirit and yours. So acknowledge (honor) people like these." },
+      { "n": 19, "text": "The churches of Asia salute (greet) you. Aquila and Priscilla salute (greet) you much in the Lord, with the church that is in their house." },
+      { "n": 20, "text": "All the brothers and sisters greet you. Greet one another with a holy kiss." },
+      { "n": 21, "text": "I, Paul, write this salutation (greeting) with my own hand." },
+      { "n": 22, "text": "If any man does not love the Lord Jesus Christ, let him be Anathema (cursed). Maranatha (the Lord is coming)." },
+      { "n": 23, "text": "The grace of our Lord Jesus Christ be with you." },
+      { "n": 24, "text": "My love be with you all in Christ Jesus. Amen." }
     ]
   }
 }
