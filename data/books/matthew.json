@@ -1255,91 +1255,31 @@
   },
   "28": {
     "verses": [
-      {
-        "n": 1,
-        "text": "The Sabbath day was over. It was Sunday morning just before the sun came up. Mary Magdalene and the other Mary went to see the tomb."
-      },
-      {
-        "n": 2,
-        "text": "An angel of the Lord came down from heaven and there was a big earthquake. The angel went to the tomb, and he rolled the stone away and sat on the stone."
-      },
-      {
-        "n": 3,
-        "text": "The angel looked as bright as lightning and the angel's clothes were as white as snow."
-      },
-      {
-        "n": 4,
-        "text": "The soldiers who guarded the tomb were afraid. They trembled and became like dead men."
-      },
-      {
-        "n": 5,
-        "text": "The angel said to the women: Do not be afraid. I know you are looking for Jesus who was crucified."
-      },
-      {
-        "n": 6,
-        "text": "The angel said: Jesus is not here. He is alive again, just as He said He would be. Come and look. Here is the place where His body was lying."
-      },
-      {
-        "n": 7,
-        "text": "Go quickly and tell His disciples that Jesus lives again. Tell them He is going to Galilee and they must also go there. They will see Him there. This is what I came to tell you."
-      },
-      {
-        "n": 8,
-        "text": "Mary Magdalene and the other Mary left the tomb quickly. They were afraid, but they were also very happy. They ran away from the tomb to tell Jesus' disciples."
-      },
-      {
-        "n": 9,
-        "text": "Mary Magdalene and the other Mary were running when Jesus stood before them and greeted them. They went to Jesus, knelt before Him, touched His feet, and worshipped Him."
-      },
-      {
-        "n": 10,
-        "text": "Then Jesus said to them: Do not be afraid. Go and tell my disciples to go to Galilee. They will see me there."
-      },
-      {
-        "n": 11,
-        "text": "As the two women went on their way, some of the soldiers who had guarded the tomb went into Jerusalem. The soldiers told the chief priests everything that had happened at the tomb."
-      },
-      {
-        "n": 12,
-        "text": "Then the chief priests met with the older Jewish leaders and they made plans. They gave a lot of money to the soldiers."
-      },
-      {
-        "n": 13,
-        "text": "The chief priests and the older Jewish leaders told the soldiers: You must tell the people this. His disciples came in the night. They stole His body while we slept."
-      },
-      {
-        "n": 14,
-        "text": "If the governor hears about this, we will talk to the governor and keep you soldiers out of trouble."
-      },
-      {
-        "n": 15,
-        "text": "The soldiers then took the money, and they did what the chief priests and Jewish leaders had told them to do. The Jews still believe that this is what happened."
-      },
-      {
-        "n": 16,
-        "text": "The eleven disciples went to the land of Galilee. Jesus had told the disciples to go to a mountain."
-      },
-      {
-        "n": 17,
-        "text": "When the disciples saw Jesus, they knelt before Jesus and worshipped Him. But some of the disciples doubted if it was Jesus."
-      },
-      {
-        "n": 18,
-        "text": "Jesus came to the disciples and said to them: All authority in heaven and on earth is given to me."
-      },
-      {
-        "n": 19,
-        "text": "Do and make followers of all people in the world. Baptize them in the name of the Father and the Son and the Holy Spirit"
-      },
-      {
-        "n": 20,
-        "text": "Teach them to obey everything I have commanded you. And I will be with you always, to the end of the world."
-      }
+      { "n": 1, "text": "In the end of the sabbath (day of rest), as it began to dawn toward the first day of the week, Mary Magdalene and the other Mary came to see the sepulchre (tomb)." },
+      { "n": 2, "text": "And look, there was a great earthquake. For the angel of the Lord descended (came down) from heaven. The angel came and rolled back the stone from the door, and sat on it." },
+      { "n": 3, "text": "His countenance (face) was like lightning, and his raiment (clothes) was white as snow." },
+      { "n": 4, "text": "For fear of him the keepers (guards) did shake, and became as dead men." },
+      { "n": 5, "text": "The angel answered the women: Do not fear. For I know that you seek (are looking for) Jesus, who was crucified (nailed to a cross)." },
+      { "n": 6, "text": "He is not here. For He is risen, as He said. Come, see the place where the Lord lay." },
+      { "n": 7, "text": "Go quickly, and tell His disciples that He is risen from the dead. And look, He goes before you into Galilee. There you will see Him. Lo (look), I have told you." },
+      { "n": 8, "text": "They left the sepulchre (tomb) quickly with fear and great joy. And they ran to bring His disciples word." },
+      { "n": 9, "text": "As they went to tell His disciples, look, Jesus met them. Jesus said: All hail (greetings). They came and held Him by the feet, and worshipped Him." },
+      { "n": 10, "text": "Then Jesus said to them: Do not be afraid. Go tell My brethren (brothers) to go into Galilee, and there they will see Me." },
+      { "n": 11, "text": "While the women were going, look, some of the watch (guard of soldiers) came into the city. They showed the chief priests all the things that were done." },
+      { "n": 12, "text": "When the chief priests were assembled (gathered) with the elders, and had taken counsel (made plans), they gave large money to the soldiers." },
+      { "n": 13, "text": "They said: Say this: His disciples came by night, and stole Him away while we slept." },
+      { "n": 14, "text": "And if this comes to the governor's ears (the governor hears about it), we will persuade him, and secure you (keep you safe)." },
+      { "n": 15, "text": "So the soldiers took the money, and did as they were taught. And this saying is commonly reported among the Jews to this day." },
+      { "n": 16, "text": "Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed (told) them." },
+      { "n": 17, "text": "When they saw Jesus, they worshipped Him. But some doubted." },
+      { "n": 18, "text": "Jesus came and spoke to them. Jesus said: All power is given to Me in heaven and in earth." },
+      { "n": 19, "text": "So go, and teach all nations. Baptize them in the name of the Father, and of the Son, and of the Holy Spirit." },
+      { "n": 20, "text": "Teach them to observe (keep) all things whatever I have commanded you. And lo (look), I am with you alway (always), even to the end of the world. Amen." }
     ],
     "sourceUrl": "https://kjvdeaf.com/matthew-chapter-28/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed several typos and a garbled sentence in v12. V9-11 smoothed from six repetitions of 'Mary Magdalene and the other Mary' down to natural 'they/them,' since both women are already clearly established in v1.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. \"where he lay\" instead of \"where the Lord lay\" in 28:6, and dropping \"as they went to tell his disciples\" in 28:9 and \"Amen\" in 28:20), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   }
 }
