@@ -766,88 +766,28 @@
   "16": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with 'the young man' named explicitly in v6 instead of a bare pronoun (the figure is described as 'a young man dressed in a white robe' in v5). No capitalization issues found. This chapter completes the whole Gospel of Mark.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase, e.g. dropping \"quickly\" in 16:8 and softening \"damned\" in 16:16), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with the full ending 16:9-20 kept, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. This chapter completes the whole Gospel of Mark.",
     "verses": [
-      {
-        "n": 1,
-        "text": "When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought sweet spices so they could go and put them on Jesus' body."
-      },
-      {
-        "n": 2,
-        "text": "Very early on the first day of the week, just after sunrise, they went to the tomb."
-      },
-      {
-        "n": 3,
-        "text": "They asked each other: Who will roll away the stone from the entrance of the tomb for us?"
-      },
-      {
-        "n": 4,
-        "text": "But when they looked up, they saw that the stone had already been rolled away, even though it was very large."
-      },
-      {
-        "n": 5,
-        "text": "They went into the tomb and saw a young man dressed in a white robe sitting on the right side, and they were afraid."
-      },
-      {
-        "n": 6,
-        "text": "But the young man said to them: Do not be afraid. You are looking for Jesus of Nazareth, who was nailed to a cross. He has risen! He is not here. Look, here is the place where they laid Him."
-      },
-      {
-        "n": 7,
-        "text": "Now go and tell His disciples and Peter: He is going ahead of you into Galilee. There you will see Him, just as He told you."
-      },
-      {
-        "n": 8,
-        "text": "The women went out and ran from the tomb, shaking and confused. They said nothing to anyone, because they were afraid."
-      },
-      {
-        "n": 9,
-        "text": "After Jesus rose early on the first day of the week, He appeared first to Mary Magdalene, the woman from whom He had driven out seven demons."
-      },
-      {
-        "n": 10,
-        "text": "She went and told those who had been with Jesus, who were now crying and full of sorrow."
-      },
-      {
-        "n": 11,
-        "text": "But when they heard that Jesus was alive and that she had seen Him, they did not believe it."
-      },
-      {
-        "n": 12,
-        "text": "After this, Jesus appeared in a different form to two of them as they were walking out into the country."
-      },
-      {
-        "n": 13,
-        "text": "They went back and told the others, but they did not believe them either."
-      },
-      {
-        "n": 14,
-        "text": "Later Jesus appeared to the eleven while they were eating. He corrected them for their lack of faith and their hard hearts, because they had not believed those who saw Him after He had risen."
-      },
-      {
-        "n": 15,
-        "text": "He said to them: Go into all the world and preach the good news to everyone."
-      },
-      {
-        "n": 16,
-        "text": "Whoever believes and is baptized will be saved, but whoever does not believe will be judged guilty."
-      },
-      {
-        "n": 17,
-        "text": "These signs will go with those who believe: In my name they will drive out demons and speak in new languages."
-      },
-      {
-        "n": 18,
-        "text": "They will pick up snakes with their hands, and if they drink anything deadly, it will not hurt them. They will place their hands on sick people, and they will get well."
-      },
-      {
-        "n": 19,
-        "text": "After the Lord Jesus had spoken to them, He was taken up into heaven and sat at the right side of God."
-      },
-      {
-        "n": 20,
-        "text": "Then the disciples went out and preached everywhere. The Lord worked with them and proved that His word was true by the signs that went with it. Amen."
-      }
+      { "n": 1, "text": "When the sabbath (day of rest) was past, Mary Magdalene, and Mary the mother of James, and Salome had bought sweet spices, so that they might come and anoint (put spices on) Jesus." },
+      { "n": 2, "text": "Very early in the morning, on the first day of the week, they came to the sepulchre (tomb) at the rising of the sun." },
+      { "n": 3, "text": "They said among themselves: Who will roll away the stone from the door of the sepulchre (tomb) for us?" },
+      { "n": 4, "text": "When they looked, they saw that the stone was rolled away. For it was very great." },
+      { "n": 5, "text": "Entering into the sepulchre (tomb), they saw a young man sitting on the right side, clothed in a long white garment (robe). And they were affrighted (afraid)." },
+      { "n": 6, "text": "The young man said to them: Be not affrighted (afraid). You seek (look for) Jesus of Nazareth, who was crucified (nailed to a cross). He is risen. He is not here. Look at the place where they laid Him." },
+      { "n": 7, "text": "But go your way. Tell His disciples and Peter that He goes before you into Galilee. There you will see Him, as He said to you." },
+      { "n": 8, "text": "They went out quickly, and fled (ran) from the sepulchre (tomb), for they trembled (shook) and were amazed. They did not say anything to any man, for they were afraid." },
+      { "n": 9, "text": "Now when Jesus was risen early on the first day of the week, He appeared first to Mary Magdalene, out of whom He had cast (driven) seven devils (demons)." },
+      { "n": 10, "text": "She went and told those who had been with Jesus, as they mourned and wept." },
+      { "n": 11, "text": "When they had heard that Jesus was alive, and had been seen by her, they believed not." },
+      { "n": 12, "text": "After that Jesus appeared in another form to two of them, as they walked, and went into the country." },
+      { "n": 13, "text": "They went and told it to the residue (the rest). Neither did they believe them." },
+      { "n": 14, "text": "Afterward Jesus appeared to the eleven as they sat at meat (at the meal). He upbraided (scolded) them for their unbelief and hardness of heart, because they did not believe those who had seen Him after He was risen." },
+      { "n": 15, "text": "Jesus said to them: Go into all the world, and preach the gospel (good news) to every creature (every person)." },
+      { "n": 16, "text": "Whoever believes and is baptized will be saved. But whoever does not believe will be damned (condemned)." },
+      { "n": 17, "text": "These signs will follow those who believe: In My name they will cast out (drive out) devils (demons). They will speak with new tongues (languages)." },
+      { "n": 18, "text": "They will take up serpents (snakes). If they drink any deadly thing, it will not hurt them. They will lay hands on the sick, and they will recover (get well)." },
+      { "n": 19, "text": "So then after the Lord had spoken to them, He was received up into heaven, and sat on the right hand of God." },
+      { "n": 20, "text": "The disciples went forth (out), and preached everywhere. The Lord worked with them, and confirmed (proved true) the word with signs following. Amen." }
     ]
   }
 }
