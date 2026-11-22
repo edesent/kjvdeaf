@@ -241,6 +241,7 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - descended (came down); countenance (face); keepers (guards); seek (are looking for); come to the governor's ears (the governor hears about it); secure you (keep you safe); alway (always)
   - confessing (admitting); girdle (belt); loins (waist); locusts (grasshoppers); latchet (strap); opened (torn open) -- Mark 1:10; fulfilled (has come) -- of time
   - fishers of men (people who bring others to God); mending (fixing); torn (shaken) -- of a demon; solitary (lonely); publish (tell); blaze abroad (spread); every quarter (direction)
+  - noised (told around); borne (carried); press (crowd); reasoning (thinking) -- Mark 2:6-8; blasphemies (words against God); resorted (came); marred (ruined)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
