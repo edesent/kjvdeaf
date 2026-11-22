@@ -497,141 +497,42 @@
   "11": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his/him' rendered gender-neutral in v3, v23, v25.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. dropping \"that cometh in the name of the Lord\" in 11:10, and \"believe that you have received\" for \"believe that ye receive\" in 11:24, and it added words in 11:23 such as 'God will do it'), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, with generic 'he/his' rendered gender-neutral in v23. V26 is kept (modern Bibles drop it).",
     "sourceUrl": "https://kjvdeaf.com/mark-chapter-11/",
     "verses": [
-      {
-        "n": 1,
-        "text": "As they came near Jerusalem, to the towns of Bethphage and Bethany at the Mount of Olives, Jesus sent two of His disciples ahead."
-      },
-      {
-        "n": 2,
-        "text": "Jesus told them: Go into the village in front of you. As soon as you enter it, you will find a young donkey tied up, one that no one has ever ridden. Untie it and bring it here."
-      },
-      {
-        "n": 3,
-        "text": "If anyone asks you, Why are you doing this?, tell them: The Lord needs it, and He will send it back here soon."
-      },
-      {
-        "n": 4,
-        "text": "So they went and found a young donkey tied up outside a door, where two streets met, and they untied it."
-      },
-      {
-        "n": 5,
-        "text": "Some people standing there asked them: What are you doing, untying that donkey?"
-      },
-      {
-        "n": 6,
-        "text": "They answered just as Jesus had told them, and the people let them go."
-      },
-      {
-        "n": 7,
-        "text": "They brought the donkey to Jesus and threw their coats over it, and Jesus sat on it."
-      },
-      {
-        "n": 8,
-        "text": "Many people spread their coats on the road, while others spread branches they had cut in the fields."
-      },
-      {
-        "n": 9,
-        "text": "The people walking ahead and those following behind shouted: Hosanna! Blessed is the one who comes in the name of the Lord!"
-      },
-      {
-        "n": 10,
-        "text": "Blessed is the coming kingdom of our father David! Hosanna in the highest heaven!"
-      },
-      {
-        "n": 11,
-        "text": "Jesus entered Jerusalem and went into the temple. He looked around at everything, but since it was already late, He went out to Bethany with the twelve."
-      },
-      {
-        "n": 12,
-        "text": "The next day, as they were leaving Bethany, Jesus was hungry."
-      },
-      {
-        "n": 13,
-        "text": "Jesus saw in the distance a fig tree covered with leaves, so He went to see if it had any fruit. But when He came to it, He found nothing but leaves, because it was not the season for figs."
-      },
-      {
-        "n": 14,
-        "text": "Then Jesus said to the tree: May no one ever eat fruit from you again. And His disciples heard Him say it."
-      },
-      {
-        "n": 15,
-        "text": "When they came to Jerusalem, Jesus went into the temple. He began to drive out the people who were buying and selling there. He turned over the tables of the money changers and the benches of those who were selling doves."
-      },
-      {
-        "n": 16,
-        "text": "Jesus would not allow anyone to carry goods through the temple."
-      },
-      {
-        "n": 17,
-        "text": "Then Jesus taught them: Is it not written: My house will be called a house of prayer for all nations? But you have made it a hideout for robbers."
-      },
-      {
-        "n": 18,
-        "text": "The chief priests and the teachers of the law heard this and began looking for a way to kill Him. They were afraid of Him, because the whole crowd was amazed at His teaching."
-      },
-      {
-        "n": 19,
-        "text": "When evening came, Jesus and His disciples left the city."
-      },
-      {
-        "n": 20,
-        "text": "The next morning, as they walked along, they saw the fig tree dried up all the way to the roots."
-      },
-      {
-        "n": 21,
-        "text": "Peter remembered and said to Jesus: Teacher, look! The fig tree you cursed has dried up."
-      },
-      {
-        "n": 22,
-        "text": "Jesus answered: Have faith in God."
-      },
-      {
-        "n": 23,
-        "text": "I tell you the absolute truth about the power of real faith. Suppose someone commands this mountain: Go jump directly into the deep sea! If they believe without doubting in their heart, God will do it."
-      },
-      {
-        "n": 24,
-        "text": "So I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours."
-      },
-      {
-        "n": 25,
-        "text": "And when you stand praying, if you have anything against anyone, forgive them, so that your Father in heaven will also forgive your sins."
-      },
-      {
-        "n": 26,
-        "text": "But if you do not forgive others, your Father in heaven will not forgive your sins."
-      },
-      {
-        "n": 27,
-        "text": "They arrived again in Jerusalem. As Jesus was walking in the temple, the chief priests, the teachers of the law, and the elders came to him."
-      },
-      {
-        "n": 28,
-        "text": "They asked: By what right are you doing these things? Who gave you the right to do them?"
-      },
-      {
-        "n": 29,
-        "text": "Jesus answered: I will ask you one question. Answer me, and then I will tell you by what right I do these things."
-      },
-      {
-        "n": 30,
-        "text": "John's baptism: was it from heaven, or from people? Answer me."
-      },
-      {
-        "n": 31,
-        "text": "They talked it over among themselves. They said: If we say, From heaven, He will ask, Then why did you not believe Him?"
-      },
-      {
-        "n": 32,
-        "text": "But if we say, From people... They were afraid of the crowd, because everyone believed that John really was a prophet."
-      },
-      {
-        "n": 33,
-        "text": "So they answered Jesus: We do not know. Then Jesus said: Then I will not tell you by what right I do these things."
-      }
+      { "n": 1, "text": "When they came nigh (near) to Jerusalem, to Bethphage and Bethany, at the mount of Olives, Jesus sent out two of His disciples." },
+      { "n": 2, "text": "Jesus said to them: Go your way into the village over against you (in front of you). As soon as you enter into it, you will find a colt (young donkey) tied, that no one has ever sat on. Loose (untie) him, and bring him." },
+      { "n": 3, "text": "If anyone says to you, Why are you doing this? say that the Lord has need of him. And right away he will send him here." },
+      { "n": 4, "text": "They went their way, and found the colt (young donkey) tied by the door outside, in a place where two ways (roads) met. And they loosed (untied) him." },
+      { "n": 5, "text": "Some of those who stood there said to them: What are you doing, loosing (untying) the colt (young donkey)?" },
+      { "n": 6, "text": "They said to them just as Jesus had commanded. And they let them go." },
+      { "n": 7, "text": "They brought the colt (young donkey) to Jesus, and threw their garments (clothes) on him. And Jesus sat on him." },
+      { "n": 8, "text": "Many spread their garments (clothes) in the way (road). Others cut down branches off the trees, and strawed (spread) them in the way (road)." },
+      { "n": 9, "text": "Those who went before, and those who followed, cried out: Hosanna (save now)! Blessed is He who comes in the name of the Lord!" },
+      { "n": 10, "text": "Blessed be the kingdom of our father David, that comes in the name of the Lord! Hosanna (save now) in the highest!" },
+      { "n": 11, "text": "Jesus entered into Jerusalem, and into the temple. When He had looked round about on all things, and now the eventide (evening) had come, He went out to Bethany with the twelve." },
+      { "n": 12, "text": "On the morrow (next day), when they had come from Bethany, Jesus was hungry." },
+      { "n": 13, "text": "Seeing a fig tree afar off (in the distance) with leaves, Jesus came to see if haply (perhaps) He might find anything on it. When He came to it, He found nothing but leaves. For the time of figs was not yet." },
+      { "n": 14, "text": "Jesus answered and said to it: Let no one eat fruit of you hereafter (from now on) for ever. And His disciples heard it." },
+      { "n": 15, "text": "They came to Jerusalem. Jesus went into the temple, and began to cast out (drive out) those who sold and bought in the temple. He overthrew (turned over) the tables of the moneychangers, and the seats of those who sold doves." },
+      { "n": 16, "text": "Jesus would not suffer (allow) anyone to carry any vessel (container) through the temple." },
+      { "n": 17, "text": "Jesus taught them: Is it not written: My house will be called of all nations the house of prayer? But you have made it a den of thieves." },
+      { "n": 18, "text": "The scribes (teachers of the law) and chief priests heard it, and sought (tried to find) how they might destroy Jesus. For they feared Him, because all the people were astonished (amazed) at His doctrine (teaching)." },
+      { "n": 19, "text": "When evening came, Jesus went out of the city." },
+      { "n": 20, "text": "In the morning, as they passed by, they saw the fig tree dried up from the roots." },
+      { "n": 21, "text": "Peter, calling to remembrance (remembering), said to Jesus: Master (Teacher), look, the fig tree that You cursed is withered (dried up) away." },
+      { "n": 22, "text": "Jesus answering said to them: Have faith in God." },
+      { "n": 23, "text": "For truly I say to you: Whoever says to this mountain, Be removed, and be thrown into the sea, and does not doubt in their heart, but believes that what they say will come to pass (happen), they will have whatever they say." },
+      { "n": 24, "text": "So I say to you: Whatever things you desire (ask for), when you pray, believe that you receive them, and you will have them." },
+      { "n": 25, "text": "When you stand praying, forgive, if you have anything against anyone. So that your Father who is in heaven may also forgive you your trespasses (wrongs)." },
+      { "n": 26, "text": "But if you do not forgive, neither will your Father who is in heaven forgive your trespasses (wrongs)." },
+      { "n": 27, "text": "They came again to Jerusalem. As Jesus was walking in the temple, the chief priests, and the scribes (teachers of the law), and the elders came to Him." },
+      { "n": 28, "text": "They said to Him: By what authority do You do these things? And who gave You this authority to do these things?" },
+      { "n": 29, "text": "Jesus answered them: I will also ask you one question. Answer Me, and I will tell you by what authority I do these things." },
+      { "n": 30, "text": "The baptism of John, was it from heaven, or from men? Answer Me." },
+      { "n": 31, "text": "They reasoned (talked it over) with themselves. They said: If we say, From heaven, He will say: Why then did you not believe him?" },
+      { "n": 32, "text": "But if we say, From men, they feared the people. For all men counted (believed) John to be a prophet indeed." },
+      { "n": 33, "text": "They answered Jesus: We cannot tell. And Jesus answering said to them: Neither will I tell you by what authority I do these things." }
     ]
   },
   "12": {
