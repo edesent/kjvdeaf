@@ -2,409 +2,124 @@
   "1": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version. Revised 2026-11-15 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version, following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences). Checked against the full editorial guidelines: long KJV sentences broken into short ones, people named where a pronoun could be unclear, and hard KJV words kept and explained in parentheses every time.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Paul, an apostle of Jesus Christ because God wanted it, and Timothy our brother."
-      },
-      {
-        "n": 2,
-        "text": "To God's holy people in Colosse, our faithful brothers and sisters in Christ: May God our Father and the Lord Jesus Christ give you grace and peace."
-      },
-      {
-        "n": 3,
-        "text": "We always thank God, the Father of our Lord Jesus Christ, when we pray for you."
-      },
-      {
-        "n": 4,
-        "text": "We thank Him because we have heard about your faith in Christ Jesus and about your love for all God's people."
-      },
-      {
-        "n": 5,
-        "text": "Your faith and love come from the hope that is kept safe for you in heaven. You already heard about this hope when you heard the true message, the good news."
-      },
-      {
-        "n": 6,
-        "text": "This good news came to you, and it is spreading all over the world and producing fruit. It has done the same in you since the day you heard it and understood God's grace as it really is."
-      },
-      {
-        "n": 7,
-        "text": "You learned it from Epaphras, our dear fellow servant. Epaphras is a faithful servant of Christ for you,"
-      },
-      {
-        "n": 8,
-        "text": "and he told us about the love the Spirit has given you."
-      },
-      {
-        "n": 9,
-        "text": "So, since the day we heard about you, we have not stopped praying for you. We ask God to fill you with the knowledge of what He wants, and with all the wisdom and understanding the Spirit gives."
-      },
-      {
-        "n": 10,
-        "text": "Then you will live in a way that honors the Lord and pleases Him in every way: doing all kinds of good, and getting to know God better and better."
-      },
-      {
-        "n": 11,
-        "text": "We pray that God will make you strong with His own glorious power. Then you will have great patience and not give up, and you will be full of joy."
-      },
-      {
-        "n": 12,
-        "text": "And we pray that you will thank the Father. He has made us able to share in what He has kept for His people in the kingdom of light."
-      },
-      {
-        "n": 13,
-        "text": "God rescued us from the power of darkness and brought us into the kingdom of His dear Son."
-      },
-      {
-        "n": 14,
-        "text": "Through the Son's blood we have redemption (being bought back and set free); our sins are forgiven."
-      },
-      {
-        "n": 15,
-        "text": "The Son is the image of God, whom no one can see. The Son is the firstborn of all creation."
-      },
-      {
-        "n": 16,
-        "text": "The Son created everything. The Son created things in heaven and on earth. The Son created things you can see and things you cannot see. This includes thrones, powers, rulers, and authorities. Everything was created by the Son and for the Son."
-      },
-      {
-        "n": 17,
-        "text": "The Son was there before anything else, and the Son holds everything together."
-      },
-      {
-        "n": 18,
-        "text": "And the Son is the head of the body, which is the church. He is the beginning, the first to rise from death, so that in everything He would be first."
-      },
-      {
-        "n": 19,
-        "text": "For God was pleased to have all of Himself live in the Son."
-      },
-      {
-        "n": 20,
-        "text": "And through the Son, God chose to reconcile (bring back to God) everything to Himself, things on earth and things in heaven. God made peace through the blood of Christ on the cross."
-      },
-      {
-        "n": 21,
-        "text": "At one time you were far away from God. In your minds you were His enemies because of the evil things you did."
-      },
-      {
-        "n": 22,
-        "text": "But now God has reconciled you (brought you back to God) through Christ's death, through the body of Christ. He did this to bring you into His presence holy, with no fault and nothing against you."
-      },
-      {
-        "n": 23,
-        "text": "This is true if you keep going in the faith, firm and steady, and do not move away from the hope you found in the good news. This is the good news you heard, the news that has been preached to everyone under heaven. And I, Paul, have become a servant of this good news."
-      },
-      {
-        "n": 24,
-        "text": "Now I am glad about what I suffer for you. In my own body I am completing what is still needed of Christ's sufferings, for the sake of His body, which is the church."
-      },
-      {
-        "n": 25,
-        "text": "I became a servant of the church when God gave me the job of bringing His full message to you."
-      },
-      {
-        "n": 26,
-        "text": "This message is the mystery (secret) that was hidden for ages and generations, but now is made known to God's people."
-      },
-      {
-        "n": 27,
-        "text": "God wanted to show the Gentiles (people who are not Jews) how rich and glorious this mystery (secret) is. And the mystery (secret) is this: Christ lives in you. He is your hope of glory."
-      },
-      {
-        "n": 28,
-        "text": "So we tell everyone about Christ. We warn each person and teach each person with all wisdom, so that we can bring each person to God fully grown in Christ Jesus."
-      },
-      {
-        "n": 29,
-        "text": "This is the work I am doing. I work hard at it, with all the strength that Christ powerfully gives me."
-      }
+      { "n": 1, "text": "Paul, an apostle (sent one) of Jesus Christ by the will of God, and Timothy our brother," },
+      { "n": 2, "text": "To the saints (holy people) and faithful brothers in Christ who are at Colosse: Grace be to you, and peace, from God our Father and the Lord Jesus Christ." },
+      { "n": 3, "text": "We give thanks to God and the Father of our Lord Jesus Christ. We pray always for you." },
+      { "n": 4, "text": "We heard of your faith in Christ Jesus. We heard of the love which you have to all the saints (holy people)." },
+      { "n": 5, "text": "This is because of the hope which is laid up for you in heaven. You heard of this hope before in the word of the truth of the gospel (good news)." },
+      { "n": 6, "text": "The gospel (good news) has come to you, as it is in all the world. It brings forth fruit, as it does also in you. It has done so since the day you heard of it. That day you knew the grace of God in truth." },
+      { "n": 7, "text": "You also learned it from Epaphras our dear fellowservant. Epaphras is for you a faithful minister (servant) of Christ." },
+      { "n": 8, "text": "Epaphras also declared (told) to us your love in the Spirit." },
+      { "n": 9, "text": "For this cause we do not cease (stop) to pray for you. We have prayed since the day we heard it. We desire that you might be filled with the knowledge of His will. We pray you will have all wisdom and spiritual understanding." },
+      { "n": 10, "text": "We pray that you might walk worthy of the Lord, pleasing Him in everything. We pray you will be fruitful in every good work. We pray you will be increasing in the knowledge of God." },
+      { "n": 11, "text": "We pray you will be strengthened with all might, according to His glorious power. Then you will have all patience (enduring) and longsuffering (patience) with joyfulness." },
+      { "n": 12, "text": "Give thanks to the Father. The Father has made us meet (fit) to be partakers (sharers) of the inheritance. It is the inheritance of the saints (holy people) in light." },
+      { "n": 13, "text": "The Father has delivered (rescued) us from the power of darkness. He has translated (moved) us into the kingdom of His dear Son." },
+      { "n": 14, "text": "In the Son we have redemption (being bought back and set free) through His blood. We have the forgiveness of sins." },
+      { "n": 15, "text": "The Son is the image of the invisible (unseen) God. He is the firstborn of every creature." },
+      { "n": 16, "text": "For by Him were all things created, that are in heaven, and that are in earth. All things visible (seen) and invisible (unseen) were created by Him. This includes thrones, or dominions (lordships), or principalities (rulers), or powers. All things were created by Him, and for Him." },
+      { "n": 17, "text": "And the Son is before all things. By Him all things consist (hold together)." },
+      { "n": 18, "text": "And the Son is the head of the body, the church. He is the beginning, the firstborn from the dead. This is so that in all things He might have the preeminence (first place)." },
+      { "n": 19, "text": "For it pleased the Father that in the Son should all fulness dwell (live)." },
+      { "n": 20, "text": "Peace was made through the blood of the Son's cross. By the Son it pleased the Father to reconcile (bring back to God) all things to Himself. I say, by the Son, whether they are things in earth, or things in heaven." },
+      { "n": 21, "text": "And you were sometimes (once) alienated (cut off). You were enemies in your mind by wicked works. Yet now the Son has reconciled (brought back to God) you," },
+      { "n": 22, "text": "In the body of His flesh (human body) through death. This is to present you holy and unblameable (without blame) and unreproveable (with nothing against you) in His sight." },
+      { "n": 23, "text": "This is so if you continue in the faith, grounded (built) and settled. It is so if you are not moved away from the hope of the gospel (good news). You have heard that gospel (good news). It was preached to every creature which is under heaven. I Paul am made a minister (servant) of it." },
+      { "n": 24, "text": "I now rejoice in my sufferings for you. I fill up in my flesh (body) that which is behind (still lacking) of the afflictions (troubles) of Christ. I do this for His body's sake, which is the church." },
+      { "n": 25, "text": "I am made a minister (servant) of the church. This is according to the dispensation (work) of God which is given to me for you. It is to fulfil the word of God," },
+      { "n": 26, "text": "Even the mystery (secret) which has been hid from ages and from generations. But now it is made manifest (plain to see) to His saints (holy people)." },
+      { "n": 27, "text": "To them God would make known the riches of the glory of this mystery (secret). It is among the Gentiles (people who are not Jews). The mystery (secret) is Christ in you, the hope of glory." },
+      { "n": 28, "text": "We preach Christ, warning everyone, and teaching everyone in all wisdom. We want to present everyone perfect (complete) in Christ Jesus." },
+      { "n": 29, "text": "For this I also labour (work hard), striving according to His working. His working works in me mightily." }
     ]
   },
   "2": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version. Revised 2026-11-15 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version, following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences). Checked against the full editorial guidelines: long KJV sentences broken into short ones, people named where a pronoun could be unclear, and hard KJV words kept and explained in parentheses every time.",
     "verses": [
-      {
-        "n": 1,
-        "text": "I want you to know how hard I am working for you, and for the people in Laodicea, and for everyone who has never met me in person."
-      },
-      {
-        "n": 2,
-        "text": "I want them to be encouraged in their hearts and joined together in love. I want them to have the full riches of complete understanding, so that they truly know the mystery (secret) of God, of the Father, and of Christ."
-      },
-      {
-        "n": 3,
-        "text": "In Christ are hidden all the treasures of wisdom and knowledge."
-      },
-      {
-        "n": 4,
-        "text": "I tell you this so that no one will fool you with smooth talk."
-      },
-      {
-        "n": 5,
-        "text": "For even though I am far away from you in body, I am with you in spirit. And I am glad to see how well-ordered you are and how firm your faith in Christ is."
-      },
-      {
-        "n": 6,
-        "text": "So then, just as you accepted Christ Jesus as Lord, keep living in Him."
-      },
-      {
-        "n": 7,
-        "text": "Keep your roots deep in Christ. Build your life on Him. Stay strong in the faith you were taught, and overflow with thankfulness."
-      },
-      {
-        "n": 8,
-        "text": "Be careful that no one traps you with empty, tricky ideas that come from human traditions and from the basic powers of this world, and not from Christ."
-      },
-      {
-        "n": 9,
-        "text": "For everything that God is lives fully in Christ, in His body."
-      },
-      {
-        "n": 10,
-        "text": "And you have everything you need in Christ, who is the head over every ruler and power."
-      },
-      {
-        "n": 11,
-        "text": "In Christ you also went through a kind of circumcision, not one done by human hands. It is the removing of your sinful self, the circumcision that Christ does."
-      },
-      {
-        "n": 12,
-        "text": "When you were baptized, you were buried with Christ. And you were raised to new life with Him, because you believed in the power of God, who raised Christ from death."
-      },
-      {
-        "n": 13,
-        "text": "You were dead because of your sins and because your sinful self was not yet cut away. But God made you alive together with Christ. God forgave you all your sins."
-      },
-      {
-        "n": 14,
-        "text": "There was a written list of rules that stood against us. God wiped it out and took it away, nailing it to the cross."
-      },
-      {
-        "n": 15,
-        "text": "And God stripped the rulers and powers. He shamed them in public, leading them as defeated prisoners by the cross."
-      },
-      {
-        "n": 16,
-        "text": "So do not let anyone judge you about what you eat or drink, or about a religious feast, a New Moon festival, or a Sabbath day."
-      },
-      {
-        "n": 17,
-        "text": "These were only a shadow of the things that were coming; the real thing is Christ."
-      },
-      {
-        "n": 18,
-        "text": "Do not let anyone rob you of your prize. Some people enjoy false humility and the worship of angels. They go on and on about things they have not seen, and their human thinking makes them proud for no reason."
-      },
-      {
-        "n": 19,
-        "text": "They have lost their hold on Christ, the Head. From the Head the whole body is fed and held together by its joints, and it grows as God makes it grow."
-      },
-      {
-        "n": 20,
-        "text": "You died with Christ and were set free from the basic powers of this world. So why do you act as if you still belong to the world? Why do you obey rules like these:"
-      },
-      {
-        "n": 21,
-        "text": "Do not handle! Do not taste! Do not touch!?"
-      },
-      {
-        "n": 22,
-        "text": "All these things are meant to be used up and thrown away. They are only human commands and teachings."
-      },
-      {
-        "n": 23,
-        "text": "These rules look wise, with their self-made religion, false humility, and harsh treatment of the body. But they have no value for stopping the wrong desires of the body."
-      }
+      { "n": 1, "text": "For I would that you knew what great conflict (struggle) I have for you. I have it for those at Laodicea too. I have it for as many as have not seen my face in the flesh (in person)." },
+      { "n": 2, "text": "I want their hearts to be comforted, being knit together in love. I want them to have all riches of the full assurance (being sure) of understanding. Then they may acknowledge (know) the mystery (secret) of God, and of the Father, and of Christ." },
+      { "n": 3, "text": "In Christ are hid all the treasures of wisdom and knowledge." },
+      { "n": 4, "text": "And this I say so that no one should beguile (trick) you with enticing (smooth) words." },
+      { "n": 5, "text": "I am absent in the flesh (body). Yet I am with you in the spirit. I am joying and beholding (seeing) your order. I see the stedfastness (firmness) of your faith in Christ." },
+      { "n": 6, "text": "As you have therefore received Christ Jesus the Lord, so walk in Him." },
+      { "n": 7, "text": "Be rooted and built up in Christ. Be stablished (made firm) in the faith, as you have been taught. Abound (overflow) in it with thanksgiving." },
+      { "n": 8, "text": "Beware that no one spoils (robs) you through philosophy (human wisdom) and vain deceit (empty lies). Such things are after the tradition of men, after the rudiments (basic rules) of the world. They are not after Christ." },
+      { "n": 9, "text": "For in Christ dwells (lives) all the fulness of the Godhead (that He is God) bodily." },
+      { "n": 10, "text": "And you are complete in Christ. Christ is the head of all principality (rulers) and power." },
+      { "n": 11, "text": "In Christ also you are circumcised with the circumcision made without hands. You put off the body of the sins of the flesh (sinful self) by the circumcision of Christ." },
+      { "n": 12, "text": "You were buried with Christ in baptism. In baptism also you are risen with Christ through the faith of the operation (working) of God. God has raised Christ from the dead." },
+      { "n": 13, "text": "And you were dead in your sins and the uncircumcision of your flesh (sinful self). God has quickened (made alive) you together with Christ. God has forgiven you all trespasses (wrongs)." },
+      { "n": 14, "text": "God blotted (wiped) out the handwriting of ordinances (written rules) that was against us. It was contrary (opposed) to us. God took it out of the way, nailing it to Christ's cross." },
+      { "n": 15, "text": "And having spoiled (stripped) principalities (rulers) and powers, God made a shew (show) of them openly. God triumphed over them in the cross." },
+      { "n": 16, "text": "So let no one judge you in meat (food), or in drink. Let no one judge you in respect of a holyday (feast day). Let no one judge you about the new moon, or the sabbath days (days of rest)." },
+      { "n": 17, "text": "These are a shadow of things to come. But the body (the real thing) is of Christ." },
+      { "n": 18, "text": "Let no one beguile (cheat) you of your reward in a voluntary humility (false humility) and worshipping of angels. Such a person intrudes into those things which they have not seen. They are vainly (for nothing) puffed up by their fleshly (human) mind." },
+      { "n": 19, "text": "They do not hold the Head. From the Head all the body by joints and bands (ligaments) has nourishment ministered (supplied). The body is knit together, and increases with the increase of God." },
+      { "n": 20, "text": "So if you are dead with Christ from the rudiments (basic rules) of the world: Why, as though living in the world, are you subject to ordinances (rules) like these:" },
+      { "n": 21, "text": "Touch not. Taste not. Handle not." },
+      { "n": 22, "text": "All these are to perish with the using. They are after the commandments and doctrines (teachings) of men." },
+      { "n": 23, "text": "These things indeed have a shew (show) of wisdom. They have will worship (self-made worship), and humility, and neglecting of the body. But they have no honour (value) against the satisfying of the flesh (sinful self)." }
     ]
   },
   "3": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version. Revised 2026-11-15 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level. Generic 'he' rendered gender-neutral in v25.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version, following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences). Checked against the full editorial guidelines: long KJV sentences broken into short ones, people named where a pronoun could be unclear, and hard KJV words kept and explained in parentheses every time.",
     "verses": [
-      {
-        "n": 1,
-        "text": "So then, since you were raised to new life with Christ, set your hearts on the things above, where Christ is sitting at God's right hand."
-      },
-      {
-        "n": 2,
-        "text": "Think about the things above, not about earthly things."
-      },
-      {
-        "n": 3,
-        "text": "For you died, and your life is now hidden with Christ in God."
-      },
-      {
-        "n": 4,
-        "text": "Christ is our life. When Christ appears, then you also will appear with Him in glory."
-      },
-      {
-        "n": 5,
-        "text": "So put to death whatever belongs to your earthly, sinful self: sexual sin, anything unclean, wrong desire, and greed, which is the same as worshiping idols."
-      },
-      {
-        "n": 6,
-        "text": "Because of these things, God's anger comes on those who disobey Him."
-      },
-      {
-        "n": 7,
-        "text": "You used to live this way, when your life was full of these things."
-      },
-      {
-        "n": 8,
-        "text": "But now you must get rid of all of them: anger, bad temper, hate, insults, and dirty talk from your mouth."
-      },
-      {
-        "n": 9,
-        "text": "Do not lie to one another. You have taken off your old self and the things it used to do,"
-      },
-      {
-        "n": 10,
-        "text": "and you have put on a new self. This new self keeps being made fresh, to know God and to become like the God who made it."
-      },
-      {
-        "n": 11,
-        "text": "Here it does not matter if you are Greek or Jew, circumcised or not, a Barbarian, a Scythian, a slave or free. Christ is everything, and Christ is in everything."
-      },
-      {
-        "n": 12,
-        "text": "So then, as God's chosen people, holy and dearly loved, clothe yourselves with a tender heart, kindness, a humble mind, gentleness, and patience."
-      },
-      {
-        "n": 13,
-        "text": "Put up with one another, and forgive one another if anyone has a complaint against someone. Forgive just as Christ forgave you."
-      },
-      {
-        "n": 14,
-        "text": "And over all these things put on love, which holds everything together perfectly."
-      },
-      {
-        "n": 15,
-        "text": "Let the peace of God rule in your hearts, since you were called to peace as one body. And be thankful."
-      },
-      {
-        "n": 16,
-        "text": "Let the message of Christ live in you fully. Teach and warn one another with all wisdom. Use psalms, hymns, and songs from the Spirit. Sing to the Lord with grace in your hearts."
-      },
-      {
-        "n": 17,
-        "text": "And whatever you do, in word or action, do it all in the name of the Lord Jesus, giving thanks to God the Father through Him."
-      },
-      {
-        "n": 18,
-        "text": "Wives, submit to your own husbands, as is right in the Lord."
-      },
-      {
-        "n": 19,
-        "text": "Husbands, love your wives and do not be harsh with them."
-      },
-      {
-        "n": 20,
-        "text": "Children, obey your parents in everything, for this pleases the Lord."
-      },
-      {
-        "n": 21,
-        "text": "Fathers, do not be so hard on your children that they lose heart."
-      },
-      {
-        "n": 22,
-        "text": "Servants, obey your earthly masters in everything. Do not work only when they are watching, to win their favor. Instead, work with an honest heart, because you fear God."
-      },
-      {
-        "n": 23,
-        "text": "Whatever you do, do it with all your heart, as if you were working for the Lord and not for people."
-      },
-      {
-        "n": 24,
-        "text": "Remember that the Lord will reward you with what He has promised His people. It is the Lord Christ you are serving."
-      },
-      {
-        "n": 25,
-        "text": "Anyone who does wrong will be paid back for the wrong they did, and God treats everyone the same."
-      }
+      { "n": 1, "text": "If you then are risen with Christ, seek those things which are above. Christ sits there on the right hand of God." },
+      { "n": 2, "text": "Set your affection (mind) on things above, not on things on the earth." },
+      { "n": 3, "text": "For you are dead, and your life is hid with Christ in God." },
+      { "n": 4, "text": "Christ is our life. When Christ appears, then you also will appear with Him in glory." },
+      { "n": 5, "text": "Mortify (put to death) therefore your members which are upon the earth. Put to death fornication (sexual sin), uncleanness (impure living), inordinate affection (wrong passion), evil concupiscence (evil desire), and covetousness (wanting what belongs to others). Covetousness (wanting what belongs to others) is idolatry (worshipping idols)." },
+      { "n": 6, "text": "Because of these things the wrath (anger) of God comes on the children of disobedience (people who disobey God)." },
+      { "n": 7, "text": "You also walked in these things some time (once), when you lived in them." },
+      { "n": 8, "text": "But now you also put off all these: anger, wrath (rage), malice (hate), blasphemy (insulting speech), and filthy communication (dirty talk) out of your mouth." },
+      { "n": 9, "text": "Do not lie one to another. You have put off the old man (old self) with his deeds." },
+      { "n": 10, "text": "And you have put on the new man (new self). The new man (new self) is renewed (made new) in knowledge after the image of God, who created it." },
+      { "n": 11, "text": "Here there is neither Greek nor Jew, circumcision nor uncircumcision. There is neither Barbarian (foreigner), Scythian (wild tribesman), bond (slave) nor free. But Christ is all, and in all." },
+      { "n": 12, "text": "Put on therefore, as the elect (chosen people) of God, holy and beloved (dearly loved): bowels (deep love) of mercies, kindness, humbleness of mind, meekness (gentleness), longsuffering (patience)." },
+      { "n": 13, "text": "Forbear (put up with) one another, and forgive one another. If anyone has a quarrel against any, forgive. Even as Christ forgave you, so also do you." },
+      { "n": 14, "text": "And above all these things put on charity (love). Charity (love) is the bond of perfectness (perfect unity)." },
+      { "n": 15, "text": "And let the peace of God rule in your hearts. You are also called to peace in one body. And be thankful." },
+      { "n": 16, "text": "Let the word of Christ dwell (live) in you richly in all wisdom. Teach and admonish (warn) one another in psalms and hymns and spiritual songs. Sing with grace in your hearts to the Lord." },
+      { "n": 17, "text": "Whatever you do in word or deed, do all in the name of the Lord Jesus. Give thanks to God and the Father by Him." },
+      { "n": 18, "text": "Wives, submit yourselves to your own husbands, as it is fit (right) in the Lord." },
+      { "n": 19, "text": "Husbands, love your wives, and do not be bitter against them." },
+      { "n": 20, "text": "Children, obey your parents in all things. For this is well pleasing to the Lord." },
+      { "n": 21, "text": "Fathers, do not provoke your children to anger, or they will be discouraged." },
+      { "n": 22, "text": "Servants, obey in all things your masters according to the flesh (here on earth). Do not obey with eyeservice (working only when watched), as menpleasers (people pleasers). Obey in singleness (honesty) of heart, fearing God." },
+      { "n": 23, "text": "And whatever you do, do it heartily (with all your heart), as to the Lord, and not to people." },
+      { "n": 24, "text": "Know that from the Lord you will receive the reward of the inheritance. For you serve the Lord Christ." },
+      { "n": 25, "text": "But whoever does wrong will receive for the wrong which they have done. And there is no respect of persons (favoring anyone)." }
     ]
   },
   "4": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version. Revised 2026-11-15 to follow the KJV and its Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), with closer KJV wording at a simple, Deaf-friendly reading level.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version, following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences). Checked against the full editorial guidelines: long KJV sentences broken into short ones, people named where a pronoun could be unclear, and hard KJV words kept and explained in parentheses every time.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Masters, treat your servants in a fair and right way, because you know that you also have a Master in heaven."
-      },
-      {
-        "n": 2,
-        "text": "Keep on praying. Stay awake as you pray, and give thanks."
-      },
-      {
-        "n": 3,
-        "text": "And pray for us too, that God will open a door for our message, so that we can tell the mystery (secret) of Christ. It is for this that I am in prison."
-      },
-      {
-        "n": 4,
-        "text": "Pray that I will make it clear, as I should."
-      },
-      {
-        "n": 5,
-        "text": "Be wise in the way you act toward those who are not believers. Make good use of every chance you have."
-      },
-      {
-        "n": 6,
-        "text": "Let your words always be kind, and seasoned, like food with salt, so that you will know how to answer everyone."
-      },
-      {
-        "n": 7,
-        "text": "Tychicus will tell you all about how I am doing. He is a dear brother, a faithful worker, and a fellow servant in the Lord."
-      },
-      {
-        "n": 8,
-        "text": "I am sending Tychicus to you for this very reason: so that Tychicus may know how you are. Tychicus will encourage your hearts."
-      },
-      {
-        "n": 9,
-        "text": "He is coming with Onesimus, our faithful and dear brother, who is one of you. They will tell you everything that is happening here."
-      },
-      {
-        "n": 10,
-        "text": "Aristarchus, who is in prison with me, sends you greetings. So does Mark, the son of Barnabas's sister. (You have already been told: if Mark comes to you, welcome him.)"
-      },
-      {
-        "n": 11,
-        "text": "Jesus, who is also called Justus, also greets you. These are the only Jewish believers who work with me for God's kingdom, and they have been a comfort to me."
-      },
-      {
-        "n": 12,
-        "text": "Epaphras, who is one of you and a servant of Christ, sends you greetings. He always prays hard for you, asking that you will stand firm, fully grown and sure of everything God wants."
-      },
-      {
-        "n": 13,
-        "text": "I can tell you that Epaphras cares deeply for you and for the people in Laodicea and Hierapolis."
-      },
-      {
-        "n": 14,
-        "text": "Luke, our dear friend the doctor, and Demas send you greetings."
-      },
-      {
-        "n": 15,
-        "text": "Give my greetings to the brothers and sisters in Laodicea, and to Nymphas and the church that meets in Nymphas's house."
-      },
-      {
-        "n": 16,
-        "text": "After this letter is read to you, make sure it is also read in the church of the Laodiceans. Also read the letter coming from Laodicea."
-      },
-      {
-        "n": 17,
-        "text": "Tell Archippus: Be sure to finish the work the Lord gave you to do."
-      },
-      {
-        "n": 18,
-        "text": "I, Paul, write this greeting with my own hand. Remember that I am in prison. May grace be with you. Amen."
-      }
+      { "n": 1, "text": "Masters, give to your servants that which is just (right) and equal (fair). Know that you also have a Master in heaven." },
+      { "n": 2, "text": "Continue in prayer, and watch (stay alert) in it with thanksgiving." },
+      { "n": 3, "text": "At the same time, pray also for us. Pray that God would open to us a door of utterance (speaking). Then we may speak the mystery (secret) of Christ. For it I am also in bonds (chains)." },
+      { "n": 4, "text": "Pray that I may make it manifest (plain to see), as I ought to speak." },
+      { "n": 5, "text": "Walk in wisdom toward those who are without (outside the church). Redeem (buy back) the time." },
+      { "n": 6, "text": "Let your speech be always with grace, seasoned with salt. Then you may know how you ought to answer everyone." },
+      { "n": 7, "text": "Tychicus will declare (tell) to you all my state. Tychicus is a beloved (dearly loved) brother, and a faithful minister (servant), and fellowservant in the Lord." },
+      { "n": 8, "text": "I have sent Tychicus to you for the same purpose. I want him to know your estate (how you are), and comfort your hearts." },
+      { "n": 9, "text": "Onesimus comes with Tychicus. Onesimus is a faithful and beloved (dearly loved) brother, who is one of you. They will make known to you all things which are done here." },
+      { "n": 10, "text": "Aristarchus my fellowprisoner salutes (greets) you. So does Mark, the son of Barnabas's sister. You received commandments about Mark: If he comes to you, receive him." },
+      { "n": 11, "text": "And Jesus, who is called Justus, greets you. These are of the circumcision (the circumcised Jews). These only are my fellowworkers to the kingdom of God. They have been a comfort to me." },
+      { "n": 12, "text": "Epaphras, who is one of you, a servant of Christ, salutes (greets) you. Epaphras is always labouring (working hard) fervently (earnestly) for you in prayers. He prays that you may stand perfect (full-grown) and complete in all the will of God." },
+      { "n": 13, "text": "For I bear him record (tell you truly) that Epaphras has a great zeal (eagerness) for you. He has it for those in Laodicea, and those in Hierapolis." },
+      { "n": 14, "text": "Luke, the beloved (dearly loved) physician (doctor), and Demas, greet you." },
+      { "n": 15, "text": "Salute (greet) the brothers who are in Laodicea. Salute (greet) Nymphas, and the church which is in his house." },
+      { "n": 16, "text": "And this epistle (letter) will be read among you. Then cause it to be read also in the church of the Laodiceans. And see that you also read the epistle (letter) from Laodicea." },
+      { "n": 17, "text": "And say to Archippus: Take heed (be careful) to the ministry (serving) which you have received in the Lord. Fulfil it." },
+      { "n": 18, "text": "I Paul write this salutation (greeting) with my own hand. Remember my bonds (chains). Grace be with you. Amen." }
     ]
   }
 }
