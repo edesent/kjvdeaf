@@ -54,120 +54,36 @@
   "2": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he' rendered gender-neutral in v21-22. V4 restores 'dug through' (Greek exoryxantes) rather than the flatter 'made a hole' -- ancient roofs were packed clay and thatch, so getting through was real physical labor, not opening a skylight.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. leaving out \"to repentance\" in 2:17 and \"and drinketh\" in 2:16), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, with generic 'he' rendered gender-neutral in v21-22. V4 keeps the KJV 'uncovered the roof ... broken it up' (Greek exoryxantes, dug through).",
     "verses": [
-      {
-        "n": 1,
-        "text": "A few days later, Jesus came back to Capernaum. People heard that He was home."
-      },
-      {
-        "n": 2,
-        "text": "So many people gathered that there was no room left, not even outside the door. And Jesus preached the word to them."
-      },
-      {
-        "n": 3,
-        "text": "Some men came, bringing a man who was paralyzed. Four men were carrying him."
-      },
-      {
-        "n": 4,
-        "text": "But they could not get near Jesus because of the crowd. So they dug through the roof above Jesus, and they let the paralyzed man down on his mat."
-      },
-      {
-        "n": 5,
-        "text": "When Jesus saw their faith, He said to the paralyzed man: Son, your sins are forgiven."
-      },
-      {
-        "n": 6,
-        "text": "Some teachers of the law were sitting there. They were thinking to themselves:"
-      },
-      {
-        "n": 7,
-        "text": "Why does this man talk like this? He is insulting God! Only God can forgive sins."
-      },
-      {
-        "n": 8,
-        "text": "Jesus knew right away what they were thinking. He said to them: Why are you thinking these things in your hearts?"
-      },
-      {
-        "n": 9,
-        "text": "Which is easier? To say to the paralyzed man, Your sins are forgiven? Or to say, Get up, take your mat, and walk?"
-      },
-      {
-        "n": 10,
-        "text": "But I will show you that the Son of Man has power on earth to forgive sins. So Jesus said to the paralyzed man:"
-      },
-      {
-        "n": 11,
-        "text": "I tell you, get up, take your mat, and go home."
-      },
-      {
-        "n": 12,
-        "text": "The man got up at once, took his mat, and walked out in front of them all. Everyone was amazed and praised God. They said: We have never seen anything like this!"
-      },
-      {
-        "n": 13,
-        "text": "Jesus went out beside the lake again. A large crowd came to Him, and He taught them."
-      },
-      {
-        "n": 14,
-        "text": "As He walked along, He saw Levi son of Alphaeus sitting at the tax booth. Jesus said to him: Follow me. Levi got up and followed him."
-      },
-      {
-        "n": 15,
-        "text": "Later Jesus was eating at Levi's house. Many tax collectors and sinners were eating with Jesus and His disciples, for many of them were following Him."
-      },
-      {
-        "n": 16,
-        "text": "The teachers of the law who were Pharisees saw Jesus eating with sinners and tax collectors. They asked His disciples: Why does He eat with tax collectors and sinners?"
-      },
-      {
-        "n": 17,
-        "text": "When Jesus heard this, He said to them: Healthy people do not need a doctor. Sick people do. I did not come to invite good people. I came to invite sinners."
-      },
-      {
-        "n": 18,
-        "text": "John's disciples and the Pharisees were fasting. Some people came to Jesus and asked: John's disciples fast, and the Pharisees' disciples fast. Why do your disciples not fast?"
-      },
-      {
-        "n": 19,
-        "text": "Jesus answered: The friends of the groom do not fast while the groom is still with them. As long as He is with them, they cannot fast."
-      },
-      {
-        "n": 20,
-        "text": "But the time will come when the groom will be taken away from them. Then they will fast."
-      },
-      {
-        "n": 21,
-        "text": "No one sews a piece of new cloth on an old coat. If they do, the new patch will pull away from the old, and the tear will be worse."
-      },
-      {
-        "n": 22,
-        "text": "And no one pours new wine into old wineskins. If they do, the wine will burst the skins, and both the wine and the skins will be ruined. New wine must be put into new wineskins."
-      },
-      {
-        "n": 23,
-        "text": "One Sabbath day Jesus was walking through the grain fields. As His disciples walked, they began to pick some heads of grain."
-      },
-      {
-        "n": 24,
-        "text": "The Pharisees said to Him: Look! Why are they doing what is not allowed on the Sabbath?"
-      },
-      {
-        "n": 25,
-        "text": "Jesus answered: Have you never read what David did when he and his men were hungry and needed food?"
-      },
-      {
-        "n": 26,
-        "text": "It was when Abiathar was high priest. David went into the house of God and ate the holy bread, which only the priests were allowed to eat. And he also gave some to his men."
-      },
-      {
-        "n": 27,
-        "text": "Then Jesus said to them: The Sabbath was made to help people. People were not made for the Sabbath."
-      },
-      {
-        "n": 28,
-        "text": "So the Son of Man is Lord even of the Sabbath."
-      }
+      { "n": 1, "text": "After some days Jesus entered into Capernaum again. And it was noised (told around) that He was in the house." },
+      { "n": 2, "text": "Right away many were gathered together, so that there was no room to receive them, no, not even around the door. And Jesus preached the word to them." },
+      { "n": 3, "text": "They came to Jesus, bringing a man sick with palsy (could not move his body). He was borne (carried) by four men." },
+      { "n": 4, "text": "When they could not come nigh (near) to Jesus because of the press (crowd), they uncovered the roof where He was. When they had broken it up, they let down the bed that the man sick with palsy (could not move his body) lay on." },
+      { "n": 5, "text": "When Jesus saw their faith, He said to the man sick with palsy (could not move his body): Son, your sins are forgiven you." },
+      { "n": 6, "text": "But some of the scribes (teachers of the law) were sitting there, and reasoning (thinking) in their hearts:" },
+      { "n": 7, "text": "Why does this man speak blasphemies (words against God) like this? Who can forgive sins but God only?" },
+      { "n": 8, "text": "Right away Jesus perceived (knew) in His spirit that they reasoned (thought) this within themselves. Jesus said to them: Why do you reason (think) these things in your hearts?" },
+      { "n": 9, "text": "Which is easier, to say to the man sick with palsy (could not move his body): Your sins are forgiven you? Or to say: Arise (get up), and take up your bed, and walk?" },
+      { "n": 10, "text": "But this is so that you may know that the Son of Man has power on earth to forgive sins. Then Jesus said to the man sick with palsy (could not move his body):" },
+      { "n": 11, "text": "I say to you: Arise (get up), and take up your bed, and go your way into your house." },
+      { "n": 12, "text": "Right away the man arose (got up), took up the bed, and went out before them all. So they were all amazed, and glorified (praised) God. They said: We never saw anything like this." },
+      { "n": 13, "text": "Jesus went out again by the sea side. All the multitude (crowd) resorted (came) to Him, and He taught them." },
+      { "n": 14, "text": "As Jesus passed by, He saw Levi the son of Alphaeus sitting at the receipt of custom (tax booth). Jesus said to him: Follow Me. And Levi got up and followed Jesus." },
+      { "n": 15, "text": "As Jesus sat at meat (ate a meal) in Levi's house, many publicans (tax collectors) and sinners also sat together with Jesus and His disciples. For there were many, and they followed Jesus." },
+      { "n": 16, "text": "When the scribes (teachers of the law) and Pharisees saw Jesus eat with publicans (tax collectors) and sinners, they said to His disciples: How is it that He eats and drinks with publicans (tax collectors) and sinners?" },
+      { "n": 17, "text": "When Jesus heard it, He said to them: Those who are whole (healthy) have no need of the physician (doctor), but those who are sick. I did not come to call the righteous (those who are right with God), but sinners to repentance (a change of heart)." },
+      { "n": 18, "text": "The disciples of John and of the Pharisees used to fast (go without food). They came and said to Jesus: Why do the disciples of John and of the Pharisees fast (go without food), but Your disciples do not fast (go without food)?" },
+      { "n": 19, "text": "Jesus said to them: Can the children of the bridechamber (friends of the bridegroom) fast (go without food) while the bridegroom (the man getting married) is with them? As long as they have the bridegroom with them, they cannot fast (go without food)." },
+      { "n": 20, "text": "But the days will come when the bridegroom will be taken away from them. Then they will fast (go without food) in those days." },
+      { "n": 21, "text": "No one sews a piece of new cloth on an old garment (piece of clothing). If they do, the new piece that filled it up pulls away from the old, and the rent (tear) is made worse." },
+      { "n": 22, "text": "No one puts new wine into old bottles (leather wine bags). If they do, the new wine bursts the bottles, and the wine is spilled, and the bottles will be marred (ruined). But new wine must be put into new bottles (leather wine bags)." },
+      { "n": 23, "text": "Jesus went through the corn (grain) fields on the sabbath day (day of rest). As they went, His disciples began to pluck the ears of corn (heads of grain)." },
+      { "n": 24, "text": "The Pharisees said to Jesus: Look, why do they do what is not lawful (allowed by the law) on the sabbath day (day of rest)?" },
+      { "n": 25, "text": "Jesus said to them: Have you never read what David did when he had need, and was hungry, he and those who were with him?" },
+      { "n": 26, "text": "David went into the house of God in the days of Abiathar the high priest. David ate the shewbread (holy bread set before God), which is not lawful (allowed by the law) to eat except for the priests. And he also gave some to those who were with him." },
+      { "n": 27, "text": "Jesus said to them: The sabbath (day of rest) was made for man, and not man for the sabbath (day of rest)." },
+      { "n": 28, "text": "So the Son of Man is Lord also of the sabbath (day of rest)." }
     ]
   },
   "3": {
