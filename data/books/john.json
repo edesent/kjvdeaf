@@ -743,132 +743,39 @@
   "14": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with every pronoun's referent named explicitly (Deaf-first clarity standard) -- especially the Holy Spirit, whom the KJV's repeated 'he/him' can blur into an unclear reference across verses 16-17 and 26. V21 and v23 smoothed from repeated 'that person' (up to four times in one verse) to a more natural flow using 'that believer' and restructured phrasing.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. The Holy Spirit is named instead of a bare he/him where it could be unclear.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Do not let your hearts be worried. You believe in God; believe in me also."
-      },
-      {
-        "n": 2,
-        "text": "There are many rooms in my Father's house. If it were not true, I would have told you. I am going there to prepare a place for you."
-      },
-      {
-        "n": 3,
-        "text": "And after I go and prepare a place for you, I will come back. I will take you to be with me, so that you can be where I am."
-      },
-      {
-        "n": 4,
-        "text": "You know the way to the place where I am going."
-      },
-      {
-        "n": 5,
-        "text": "Thomas said to Jesus: Lord, we do not know where You are going, so how can we know the way?"
-      },
-      {
-        "n": 6,
-        "text": "Jesus said to Thomas: I am the way, and the truth, and the life. No one comes to the Father except through me."
-      },
-      {
-        "n": 7,
-        "text": "If you really knew me, you would know my Father too. From now on you do know Him, and you have seen Him."
-      },
-      {
-        "n": 8,
-        "text": "Philip said to Jesus: Lord, show us the Father. That is all we need."
-      },
-      {
-        "n": 9,
-        "text": "Jesus said to Philip: Philip, I have been with you such a long time. Do you not know me yet? Anyone who has seen me has seen the Father. So how can you say: Show us the Father?"
-      },
-      {
-        "n": 10,
-        "text": "Do you not believe that I am in the Father, and the Father is in me? The words I say to you do not come from me alone. The Father, who lives in me, is doing the Father's work through me."
-      },
-      {
-        "n": 11,
-        "text": "Believe me when I say that I am in the Father, and the Father is in me. Or at least believe because of the works themselves."
-      },
-      {
-        "n": 12,
-        "text": "I tell you the truth: anyone who believes in me will do the same works I do. That person will do even greater works than these, because I am going to the Father."
-      },
-      {
-        "n": 13,
-        "text": "And I will do anything you ask in my name, so that the Father will be honored through the Son."
-      },
-      {
-        "n": 14,
-        "text": "If you ask me for anything in my name, I will do it."
-      },
-      {
-        "n": 15,
-        "text": "If you love me, you will obey my commands."
-      },
-      {
-        "n": 16,
-        "text": "And I will ask the Father, and the Father will give you another Helper to be with you forever."
-      },
-      {
-        "n": 17,
-        "text": "This is the Spirit of truth. The world cannot accept the Spirit, because the world does not see the Spirit or know the Spirit. But you know the Spirit, because the Spirit lives with you and will be in you."
-      },
-      {
-        "n": 18,
-        "text": "I will not leave you all alone. I will come to you."
-      },
-      {
-        "n": 19,
-        "text": "Soon the world will not see me anymore, but you will see me. Because I live, you will live too."
-      },
-      {
-        "n": 20,
-        "text": "On that day you will know that I am in my Father, and you are in me, and I am in you."
-      },
-      {
-        "n": 21,
-        "text": "Whoever has my commands and obeys them loves me, and my Father will love that believer. I will love that believer too, and show that believer who I am."
-      },
-      {
-        "n": 22,
-        "text": "Then Judas (not Judas Iscariot) said: Lord, why will You show Yourself to us, and not to the world?"
-      },
-      {
-        "n": 23,
-        "text": "Jesus answered: Whoever loves me will obey my word, and my Father will love that person. We will come to that person and make our home there."
-      },
-      {
-        "n": 24,
-        "text": "Anyone who does not love me does not obey my words. And these words you hear are not my own; they come from the Father who sent me."
-      },
-      {
-        "n": 25,
-        "text": "I have told you all this while I am still with you."
-      },
-      {
-        "n": 26,
-        "text": "But the Helper, the Holy Spirit, whom the Father will send in my name, will teach you all things. The Holy Spirit will remind you of everything I have told you."
-      },
-      {
-        "n": 27,
-        "text": "I leave you peace. My own peace I give to you. I do not give to you the way the world gives. So do not let your hearts be worried, and do not be afraid."
-      },
-      {
-        "n": 28,
-        "text": "You heard me say: I am going away, and I will come back to you. If you loved me, you would be glad that I am going to the Father, because the Father is greater than I am."
-      },
-      {
-        "n": 29,
-        "text": "I have told you now, before it happens, so that when it does happen, you will believe."
-      },
-      {
-        "n": 30,
-        "text": "I will not talk with you much longer, because the ruler of this world is coming. That ruler has no power over me."
-      },
-      {
-        "n": 31,
-        "text": "But the world must know that I love the Father and that I do exactly what the Father has commanded me. Come now, let us go."
-      }
+      { "n": 1, "text": "Let not your heart be troubled (worried). You believe in God. Believe also in Me." },
+      { "n": 2, "text": "In My Father's house are many mansions (homes). If it were not so, I would have told you. I go to prepare a place for you." },
+      { "n": 3, "text": "And if I go and prepare a place for you, I will come again, and receive you unto Myself, that where I am, there you may be also." },
+      { "n": 4, "text": "And where I go you know, and the way you know." },
+      { "n": 5, "text": "Thomas said to Him: Lord, we do not know where You go. And how can we know the way?" },
+      { "n": 6, "text": "Jesus said to him: I am the way, the truth, and the life. No man comes unto the Father, but by Me." },
+      { "n": 7, "text": "If you had known Me, you would have known My Father also. And from now on you know Him, and have seen Him." },
+      { "n": 8, "text": "Philip said to Him: Lord, show us the Father, and it is enough for us." },
+      { "n": 9, "text": "Jesus said to him: Have I been so long time with you, and yet have you not known Me, Philip? The one who has seen Me has seen the Father. And how do you say then: Show us the Father?" },
+      { "n": 10, "text": "Do you not believe that I am in the Father, and the Father in Me? The words that I speak to you I speak not of Myself. But the Father who dwells (lives) in Me, He does the works." },
+      { "n": 11, "text": "Believe Me that I am in the Father, and the Father in Me. Or else believe Me for the very works' sake." },
+      { "n": 12, "text": "Verily, verily (truly, truly), I say to you: The one who believes on Me, the works that I do he will do also. And greater works than these will he do, because I go unto My Father." },
+      { "n": 13, "text": "And whatever you will ask in My name, that will I do, that the Father may be glorified in the Son." },
+      { "n": 14, "text": "If you will ask any thing in My name, I will do it." },
+      { "n": 15, "text": "If you love Me, keep My commandments." },
+      { "n": 16, "text": "And I will pray the Father, and He will give you another Comforter (Helper), that the Comforter may abide (stay) with you for ever," },
+      { "n": 17, "text": "Even the Spirit of truth, whom the world cannot receive, because it does not see the Spirit, neither knows the Spirit. But you know the Spirit. For the Spirit dwells (lives) with you, and will be in you." },
+      { "n": 18, "text": "I will not leave you comfortless (alone like orphans). I will come to you." },
+      { "n": 19, "text": "Yet a little while, and the world sees Me no more. But you see Me. Because I live, you will live also." },
+      { "n": 20, "text": "At that day you will know that I am in My Father, and you in Me, and I in you." },
+      { "n": 21, "text": "The one who has My commandments, and keeps them, he it is who loves Me. And the one who loves Me will be loved of My Father, and I will love him, and will manifest (show) Myself to him." },
+      { "n": 22, "text": "Judas said to Him, not Iscariot: Lord, how is it that You will manifest (show) Yourself to us, and not to the world?" },
+      { "n": 23, "text": "Jesus answered and said to him: If a man love Me, he will keep My words. And My Father will love him, and We will come unto him, and make Our abode (home) with him." },
+      { "n": 24, "text": "The one who does not love Me does not keep My sayings. And the word which you hear is not Mine, but the Father's who sent Me." },
+      { "n": 25, "text": "These things have I spoken to you, being yet present with you." },
+      { "n": 26, "text": "But the Comforter (Helper), which is the Holy Spirit, whom the Father will send in My name, the Holy Spirit will teach you all things, and bring all things to your remembrance, whatever I have said to you." },
+      { "n": 27, "text": "Peace I leave with you, My peace I give to you. Not as the world gives, give I to you. Let not your heart be troubled (worried), neither let it be afraid." },
+      { "n": 28, "text": "You have heard how I said to you: I go away, and come again unto you. If you loved Me, you would rejoice, because I said: I go unto the Father. For My Father is greater than I." },
+      { "n": 29, "text": "And now I have told you before it comes to pass, that, when it has come to pass, you might believe." },
+      { "n": 30, "text": "From now on I will not talk much with you. For the prince (ruler) of this world comes, and has nothing in Me." },
+      { "n": 31, "text": "But that the world may know that I love the Father, and as the Father gave Me commandment, even so I do. Arise (get up), let us go from here." }
     ]
   },
   "15": {
