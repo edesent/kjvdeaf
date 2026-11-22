@@ -246,164 +246,47 @@
   "5": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers the miraculous catch of fish and calling of Simon, James, and John, the healing of a man with a serious skin disease, the healing of a paralyzed man let down through the roof, the calling of Levi the tax collector, and the teaching about new wine and new wineskins.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "One day Jesus was standing by the Lake of Gennesaret, and the crowd was pressing in on Him to hear the word of God."
-      },
-      {
-        "n": 2,
-        "text": "Jesus saw two boats at the edge of the lake, left there by the fishermen, who were washing their nets."
-      },
-      {
-        "n": 3,
-        "text": "He got into one of the boats, the one belonging to Simon, and asked him to push out a little from the shore. Then He sat down and taught the crowd from the boat."
-      },
-      {
-        "n": 4,
-        "text": "When He had finished speaking, He said to Simon: Push out into deep water, and let down your nets for a catch."
-      },
-      {
-        "n": 5,
-        "text": "Simon answered: Master, we worked hard all night and caught nothing. But because you say so, I will let down the nets."
-      },
-      {
-        "n": 6,
-        "text": "When they had done this, they caught such a large number of fish that their nets began to tear."
-      },
-      {
-        "n": 7,
-        "text": "So they signaled to their partners in the other boat to come and help them. The partners came, and together they filled both boats so full that they began to sink."
-      },
-      {
-        "n": 8,
-        "text": "When Simon Peter saw this, he fell at Jesus' knees and said: Go away from me, Lord, because I am a sinful man."
-      },
-      {
-        "n": 9,
-        "text": "He and everyone with Him were amazed at the number of fish they had caught,"
-      },
-      {
-        "n": 10,
-        "text": "And so were James and John, the sons of Zebedee, who were Simon's partners. Then Jesus said to Simon: Do not be afraid. From now on you will fish for people."
-      },
-      {
-        "n": 11,
-        "text": "So they brought their boats to shore, left everything, and followed Him."
-      },
-      {
-        "n": 12,
-        "text": "While Jesus was in one of the towns, a man came along who was covered with a serious skin disease. When he saw Jesus, he fell facedown and begged Him: Lord, if You are willing, You can make me clean."
-      },
-      {
-        "n": 13,
-        "text": "Jesus reached out His hand and touched the man. I am willing, He said. Be clean! And immediately the disease left him."
-      },
-      {
-        "n": 14,
-        "text": "Then Jesus ordered him: Do not tell anyone. But go, show yourself to the priest, and offer the sacrifices that Moses commanded for your cleansing, as a testimony to them."
-      },
-      {
-        "n": 15,
-        "text": "Yet the news about Jesus spread all the more, and large crowds came to hear Him and to be healed of their sicknesses."
-      },
-      {
-        "n": 16,
-        "text": "But Jesus often withdrew to lonely places and prayed."
-      },
-      {
-        "n": 17,
-        "text": "One day, as Jesus was teaching, Pharisees and teachers of the law were sitting nearby. They had come from every village of Galilee and from Judea and Jerusalem. And the power of the Lord was present for Him to heal the sick."
-      },
-      {
-        "n": 18,
-        "text": "Some men came carrying a paralyzed man on a mat, and they tried to bring him in and lay him before Jesus."
-      },
-      {
-        "n": 19,
-        "text": "The men could not carry him inside because of the huge crowd. So they climbed up on the flat roof of the house. They pulled back the roof tiles to make a big open hole. They lowered the sick man on his mat right in front of Jesus!"
-      },
-      {
-        "n": 20,
-        "text": "When Jesus saw their faith, He said: Friend, your sins are forgiven."
-      },
-      {
-        "n": 21,
-        "text": "The teachers of the law and the Pharisees began to think to themselves: Who is this who speaks blasphemy? Who can forgive sins but God alone?"
-      },
-      {
-        "n": 22,
-        "text": "But Jesus knew what they were thinking, and He asked them: Why are you thinking these things in your hearts?"
-      },
-      {
-        "n": 23,
-        "text": "Which is easier: to say, Your sins are forgiven, or to say, Get up and walk?"
-      },
-      {
-        "n": 24,
-        "text": "But I want you to know something. The Son of Man has authority on earth to forgive sins. Then He said to the paralyzed man: I tell you, get up, take your mat, and go home."
-      },
-      {
-        "n": 25,
-        "text": "Immediately the man stood up in front of them, took what he had been lying on, and went home, praising God."
-      },
-      {
-        "n": 26,
-        "text": "Everyone was amazed and gave praise to God. They were filled with awe and said: We have seen remarkable things today."
-      },
-      {
-        "n": 27,
-        "text": "After this, Jesus went out and saw a tax collector named Levi sitting at his tax booth. Follow me, Jesus said to him,"
-      },
-      {
-        "n": 28,
-        "text": "And Levi got up, left everything, and followed Him."
-      },
-      {
-        "n": 29,
-        "text": "Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them."
-      },
-      {
-        "n": 30,
-        "text": "But the Pharisees and the teachers of the law who belonged to their sect complained to Jesus' disciples. They asked: Why do you eat and drink with tax collectors and sinners?"
-      },
-      {
-        "n": 31,
-        "text": "Jesus answered them: It is not the healthy who need a doctor, but the sick."
-      },
-      {
-        "n": 32,
-        "text": "I have not come to call the righteous, but sinners to repentance."
-      },
-      {
-        "n": 33,
-        "text": "They said to Him: John's disciples often fast and pray, and so do the disciples of the Pharisees, but yours go on eating and drinking."
-      },
-      {
-        "n": 34,
-        "text": "Jesus answered: Can you make the guests of the bridegroom fast while He is still with them?"
-      },
-      {
-        "n": 35,
-        "text": "But the time will come when the bridegroom will be taken from them. In those days they will fast."
-      },
-      {
-        "n": 36,
-        "text": "Jesus told them a teaching story: No one tears a patch from a new garment and sews it on an old one. If they do, they will have torn the new garment, and the patch from the new will not match the old."
-      },
-      {
-        "n": 37,
-        "text": "And no one pours new wine into old wineskins. If they do, the new wine will burst the skins, the wine will spill, and the skins will be ruined."
-      },
-      {
-        "n": 38,
-        "text": "New wine must be poured into new wineskins."
-      },
-      {
-        "n": 39,
-        "text": "And no one who drinks old wine wants new wine, because they say: The old wine is better."
-      }
+      { "n": 1, "text": "And it came to pass (happened), that, as the people pressed upon Jesus to hear the word of God, He stood by the lake of Gennesaret," },
+      { "n": 2, "text": "And saw 2 ships (boats) standing by the lake. But the fishermen had gone out of them, and were washing their nets." },
+      { "n": 3, "text": "And Jesus entered into one of the ships (boats), which was Simon's, and prayed (asked) him that he would thrust out a little from the land. And Jesus sat down, and taught the people out of the ship." },
+      { "n": 4, "text": "Now when Jesus had left speaking, He said to Simon: Launch out into the deep, and let down your nets for a draught (catch of fish)." },
+      { "n": 5, "text": "And Simon answering said to Him: Master (Teacher), we have toiled (worked hard) all the night, and have taken nothing. Nevertheless (but) at Your word I will let down the net." },
+      { "n": 6, "text": "And when they had done this, they inclosed (caught) a great multitude (number) of fishes. And their net broke." },
+      { "n": 7, "text": "And they beckoned (waved) to their partners, who were in the other ship (boat), that they should come and help them. And they came, and filled both the ships, so that they began to sink." },
+      { "n": 8, "text": "When Simon Peter saw it, he fell down at Jesus' knees, saying: Depart from me, for I am a sinful man, O Lord." },
+      { "n": 9, "text": "For Peter was astonished (amazed), and all who were with him, at the draught (catch) of the fishes which they had taken," },
+      { "n": 10, "text": "And so also were James and John, the sons of Zebedee, who were partners with Simon. And Jesus said to Simon: Fear not. From now on you will catch men." },
+      { "n": 11, "text": "And when they had brought their ships (boats) to land, they forsook (left) all, and followed Jesus." },
+      { "n": 12, "text": "And it came to pass (happened), when Jesus was in a certain city, look, a man full of leprosy (skin disease). Seeing Jesus, the man fell on his face, and besought (begged) Him, saying: Lord, if You will, You can make me clean." },
+      { "n": 13, "text": "And Jesus put forth His hand, and touched him, saying: I will. Be clean. And immediately the leprosy (skin disease) departed from him." },
+      { "n": 14, "text": "And Jesus charged (strongly told) him to tell no man: But go, and show yourself to the priest, and offer for your cleansing, according as Moses commanded, for a testimony (proof) to them." },
+      { "n": 15, "text": "But so much the more a fame (news) of Jesus went abroad. And great multitudes (large crowds) came together to hear, and to be healed by Him of their infirmities (sicknesses)." },
+      { "n": 16, "text": "And Jesus withdrew Himself into the wilderness (desert), and prayed." },
+      { "n": 17, "text": "And it came to pass (happened) on a certain day, as Jesus was teaching, that there were Pharisees and doctors of the law (teachers of the law) sitting by, who had come out of every town of Galilee, and Judaea, and Jerusalem. And the power of the Lord was present to heal them." },
+      { "n": 18, "text": "And look, men brought in a bed a man who was taken with a palsy (could not move his body). And they sought (looked for a) means to bring him in, and to lay him before Jesus." },
+      { "n": 19, "text": "And when they could not find by what way they might bring him in because of the multitude (large crowd), they went upon the housetop, and let him down through the tiling (roof tiles) with his couch into the middle before Jesus." },
+      { "n": 20, "text": "And when Jesus saw their faith, He said to him: Man, your sins are forgiven you." },
+      { "n": 21, "text": "And the scribes (teachers of the law) and the Pharisees began to reason, saying: Who is this who speaks blasphemies (words against God)? Who can forgive sins, but God alone?" },
+      { "n": 22, "text": "But when Jesus perceived (knew) their thoughts, He answering said to them: What do you reason (think) in your hearts?" },
+      { "n": 23, "text": "Which is easier, to say: Your sins are forgiven you? Or to say: Rise up and walk?" },
+      { "n": 24, "text": "But that you may know that the Son of man has power upon earth to forgive sins, Jesus said to the man sick of the palsy (who could not move his body): I say to you, Arise (get up), and take up your couch, and go into your house." },
+      { "n": 25, "text": "And immediately the man rose up before them, and took up that on which he lay, and departed to his own house, glorifying (praising) God." },
+      { "n": 26, "text": "And they were all amazed, and they glorified (praised) God, and were filled with fear, saying: We have seen strange things today." },
+      { "n": 27, "text": "And after these things Jesus went forth, and saw a publican (tax collector), named Levi, sitting at the receipt of custom (tax booth). And Jesus said to him: Follow Me." },
+      { "n": 28, "text": "And Levi left all, rose up, and followed Jesus." },
+      { "n": 29, "text": "And Levi made Jesus a great feast in his own house. And there was a great company of publicans (tax collectors) and of others who sat down with them." },
+      { "n": 30, "text": "But their scribes (teachers of the law) and Pharisees murmured (complained) against His disciples, saying: Why do you eat and drink with publicans (tax collectors) and sinners?" },
+      { "n": 31, "text": "And Jesus answering said to them: They who are whole (healthy) do not need a physician (doctor), but they who are sick." },
+      { "n": 32, "text": "I came not to call the righteous (those right with God), but sinners to repentance (a change of heart)." },
+      { "n": 33, "text": "And they said to Jesus: Why do the disciples of John fast (go without food) often, and make prayers, and likewise the disciples of the Pharisees, but Yours eat and drink?" },
+      { "n": 34, "text": "And Jesus said to them: Can you make the children of the bridechamber (friends of the bridegroom) fast (go without food), while the bridegroom (the man getting married) is with them?" },
+      { "n": 35, "text": "But the days will come, when the bridegroom (the man getting married) will be taken away from them, and then they will fast (go without food) in those days." },
+      { "n": 36, "text": "And Jesus spoke also a parable (story that teaches a lesson) to them: No man puts a piece of a new garment (clothes) upon an old. If he does, then the new makes a rent (tear), and the piece that was taken out of the new does not agree with the old." },
+      { "n": 37, "text": "And no man puts new wine into old bottles (leather wine bags). Or else the new wine will burst the bottles, and be spilled, and the bottles will perish (be ruined)." },
+      { "n": 38, "text": "But new wine must be put into new bottles (leather wine bags), and both are preserved (kept safe)." },
+      { "n": 39, "text": "No man also having drunk old wine straightway (right away) desires new. For he says: The old is better." }
     ]
   },
   "6": {
