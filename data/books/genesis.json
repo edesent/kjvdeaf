@@ -1711,147 +1711,45 @@
   },
   "44": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Joseph told the manager of his house: Fill the men’s bags with wheat. Make it as full as they can carry and put each man’s money back into the top of his bag."
-      },
-      {
-        "n": 2,
-        "text": "Joseph said: You must put my cup, the silver cup, in the bag of the youngest brother with his money for the corn. The manager did what Joseph told him."
-      },
-      {
-        "n": 3,
-        "text": "Early the next morning, the brothers and their donkeys were sent back to their country."
-      },
-      {
-        "n": 4,
-        "text": "After Joseph's brothers had left the city, Joseph said to the manager of his house, Go and follow the men. Stop them and say to them, we were good to you! So why have you been bad to us? Why did you steal my master's silver cup?"
-      },
-      {
-        "n": 5,
-        "text": "My master drinks from that cup, and he uses it to learn secret things. What you did was wrong!"
-      },
-      {
-        "n": 6,
-        "text": "The manager went out to the brothers and stopped them. The manager told them what Joseph had said"
-      },
-      {
-        "n": 7,
-        "text": "The brothers asked the manager of the house: Why does the governor say these things? We would never do a bad thing like that."
-      },
-      {
-        "n": 8,
-        "text": "The brothers said: We brought back the money that we found in our bags before. We would never steal silver or gold from your master's house."
-      },
-      {
-        "n": 9,
-        "text": "If you find the cup in one of our bags, you may kill that person and then we will all be your slaves."
-      },
-      {
-        "n": 10,
-        "text": "The manager said: Yes, we will do as you say. But only the man in whose bag I find the cup will be my slave. All the other brothers may go."
-      },
-      {
-        "n": 11,
-        "text": "Everyone put his bag on the ground quickly and opened it"
-      },
-      {
-        "n": 12,
-        "text": "The manager looked into the bags. The manager started looking in the bag of the oldest brother and stopped at the youngest brother, and then the manager found the cup in Benjamin's bag"
-      },
-      {
-        "n": 13,
-        "text": "The brothers tore their clothes because they were sad and upset. They put everything they had on their donkeys and went back to the city."
-      },
-      {
-        "n": 14,
-        "text": "When Judah and his brothers came to Joseph's house, Joseph was still there. Judah and his brothers lay before Joseph with their faces to the ground."
-      },
-      {
-        "n": 15,
-        "text": "Joseph asked the brothers: What have you done? You must know that a man like me can tell what will happen in the future."
-      },
-      {
-        "n": 16,
-        "text": "Judah said to Joseph: Sir, what can we say to you? What can we say and how can we prove that we are innocent? God has shown that we are guilty. Sir, here we are now. We are your slaves, all of us, and the one who had your cup."
-      },
-      {
-        "n": 17,
-        "text": "Joseph said: No, I would never do that. The man who had my cup will be my slave. The others may go back to your father."
-      },
-      {
-        "n": 18,
-        "text": "Judah came to Joseph and said to Joseph: Please, sir, may I talk to you alone? Do not get angry with me. You are like Pharaoh."
-      },
-      {
-        "n": 19,
-        "text": "Sir, when we were here the first time, you asked us if we had a father and a brother."
-      },
-      {
-        "n": 20,
-        "text": "And we answered you, we have a father—he is an old man. And we have a younger brother. Our father loves him because he was born while our father was old. This youngest son's full brother is dead, so this youngest son is the only son left from that mother. Our father loves him very much"
-      },
-      {
-        "n": 21,
-        "text": "Sir, you told us to bring our youngest brother to you because you wanted to see him."
-      },
-      {
-        "n": 22,
-        "text": "Sir, we told you: That young boy cannot come. He cannot leave his father. If his father loses him, his father will be so sad that he will die"
-      },
-      {
-        "n": 23,
-        "text": "But, sir, you told us if we did not bring our youngest brother with us, then we could not see you again."
-      },
-      {
-        "n": 24,
-        "text": "We went to our father, and we told him what you said"
-      },
-      {
-        "n": 25,
-        "text": "One day our father told us that we would have to go and buy food,"
-      },
-      {
-        "n": 26,
-        "text": "But we said: We cannot go down unless our youngest brother is with us. We are not allowed to see the man's face unless our youngest brother is with us."
-      },
-      {
-        "n": 27,
-        "text": "Our father told us: You know that I had only 2 children with this wife."
-      },
-      {
-        "n": 28,
-        "text": "I let one son go away, and he was killed by a wild animal. And I haven't seen him since."
-      },
-      {
-        "n": 29,
-        "text": "If you take this son away from me and something happens to him, then I, an old man, will be so sad that I will die."
-      },
-      {
-        "n": 30,
-        "text": "Now, imagine what will happen when we go home to the father without our youngest brother—he is the most important thing in our father's life!"
-      },
-      {
-        "n": 31,
-        "text": "My father will die if he sees his son is not with us. Then it will be our fault if our father who is old dies because he is so sad."
-      },
-      {
-        "n": 32,
-        "text": "I promised my father that I would look after his son and make sure that he was safe. I said if he did not go back to my father, then it would be my fault forever."
-      },
-      {
-        "n": 33,
-        "text": "Sir, please let me stay here in my brother's place. Sir, I will be your slave, but please let the boy go back with his brothers."
-      },
-      {
-        "n": 34,
-        "text": "I cannot go back to my father if the boy is not with me. I am very afraid of what would happen to my father."
-      }
+      { "n": 1, "text": "And Joseph commanded the steward (manager) of his house, saying: Fill the men's sacks with food, as much as they can carry, and put every man's money in his sack's mouth." },
+      { "n": 2, "text": "And put my cup, the silver cup, in the sack's mouth of the youngest, and his corn (grain) money. And the steward (manager) did according to the word that Joseph had spoken." },
+      { "n": 3, "text": "As soon as the morning was light, the men were sent away, they and their asses (donkeys)." },
+      { "n": 4, "text": "And when they had gone out of the city, and were not yet far off, Joseph said to his steward (manager): Up, follow after the men. And when you overtake them, say to them: Why have you rewarded evil for good?" },
+      { "n": 5, "text": "Is not this the cup in which my lord drinks, and by which indeed he divines (tells secret things)? You have done evil in so doing." },
+      { "n": 6, "text": "And the steward (manager) overtook them, and he spoke to them these same words." },
+      { "n": 7, "text": "And they said to him: Why does my lord say these words? God forbid that your servants should do such a thing." },
+      { "n": 8, "text": "Look, the money, which we found in our sacks' mouths, we brought again to you out of the land of Canaan. How then should we steal out of your lord's house silver or gold?" },
+      { "n": 9, "text": "With whomever of your servants it is found, let him die, and we also will be my lord's bondmen (slaves)." },
+      { "n": 10, "text": "And the steward (manager) said: Now also let it be according to your words. He with whom it is found shall be my servant, and you shall be blameless." },
+      { "n": 11, "text": "Then they speedily took down every man his sack to the ground, and opened every man his sack." },
+      { "n": 12, "text": "And the steward (manager) searched, and began at the eldest, and left at the youngest. And the cup was found in Benjamin's sack." },
+      { "n": 13, "text": "Then they rent (tore) their clothes, and laded (loaded) every man his ass (donkey), and returned to the city." },
+      { "n": 14, "text": "And Judah and his brethren (brothers) came to Joseph's house, for he was yet there. And they fell before him on the ground." },
+      { "n": 15, "text": "And Joseph said to them: What deed is this that you have done? Do you not wot (know) that such a man as I can certainly divine (tell secret things)?" },
+      { "n": 16, "text": "And Judah said: What shall we say to my lord? What shall we speak? Or how shall we clear ourselves? God has found out the iniquity (sin) of your servants. Look, we are my lord's servants, both we, and he also with whom the cup is found." },
+      { "n": 17, "text": "And Joseph said: God forbid that I should do so. But the man in whose hand the cup is found, he shall be my servant. And as for you, get up in peace to your father." },
+      { "n": 18, "text": "Then Judah came near to him, and said: Oh my lord, let your servant, I pray you, speak a word in my lord's ears, and let not your anger burn against your servant. For you are even as Pharaoh." },
+      { "n": 19, "text": "My lord asked his servants, saying: Have you a father, or a brother?" },
+      { "n": 20, "text": "And we said to my lord: We have a father, an old man, and a child of his old age, a little one. And his brother is dead, and he alone is left of his mother, and his father loves him." },
+      { "n": 21, "text": "And you said to your servants: Bring him down to me, so that I may set my eyes on him." },
+      { "n": 22, "text": "And we said to my lord: The lad (boy) cannot leave his father. For if he should leave his father, his father would die." },
+      { "n": 23, "text": "And you said to your servants: Except your youngest brother comes down with you, you shall see my face no more." },
+      { "n": 24, "text": "And it came to pass when we came up to your servant my father, we told him the words of my lord." },
+      { "n": 25, "text": "And our father said: Go again, and buy us a little food." },
+      { "n": 26, "text": "And we said: We cannot go down. If our youngest brother is with us, then we will go down. For we may not see the man's face, except our youngest brother is with us." },
+      { "n": 27, "text": "And your servant my father said to us: You know that my wife bore me 2 sons." },
+      { "n": 28, "text": "And the one went out from me, and I said: Surely he is torn in pieces. And I have not seen him since." },
+      { "n": 29, "text": "And if you take this one also from me, and mischief (harm) befalls (happens to) him, you shall bring down my gray hairs with sorrow to the grave." },
+      { "n": 30, "text": "Now then when I come to your servant my father, and the lad (boy) is not with us, since his life is bound up in the lad's (boy's) life," },
+      { "n": 31, "text": "It shall come to pass, when he sees that the lad (boy) is not with us, that he will die. And your servants shall bring down the gray hairs of your servant our father with sorrow to the grave." },
+      { "n": 32, "text": "For your servant became surety (guarantee) for the lad (boy) to my father, saying: If I do not bring him to you, then I shall bear the blame to my father forever." },
+      { "n": 33, "text": "Now then, I pray you, let your servant abide (stay) instead of the lad (boy) a bondman (slave) to my lord. And let the lad (boy) go up with his brethren (brothers)." },
+      { "n": 34, "text": "For how shall I go up to my father, and the lad (boy) is not with me? Or else I will see the evil that shall come on my father." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genises-chapter-44/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. Verse 26, previously missing from this chapter, has been restored.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V5 and v15 keep the KJV's divine (tell secret things), as Joseph's steward and Joseph say it.",
     "videos": []
   },
   "45": {
