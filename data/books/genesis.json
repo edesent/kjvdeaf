@@ -41,111 +41,36 @@
   },
   "2": {
     "verses": [
-      {
-        "n": 1,
-        "text": "So the heavens and the earth were finished, with everything in them."
-      },
-      {
-        "n": 2,
-        "text": "On the seventh day, God finished His work. Then God rested from all the work He had done."
-      },
-      {
-        "n": 3,
-        "text": "God blessed the seventh day. God set that day apart as holy. On that day, God rested from all the work of creating the world."
-      },
-      {
-        "n": 4,
-        "text": "This is the story about the creation of the heavens and the earth. This is what happened when the LORD God made the earth and the heavens."
-      },
-      {
-        "n": 5,
-        "text": "There were no bushes or plants growing in the fields yet. The LORD God had not caused rain to fall on the earth. And there was no one to work the ground."
-      },
-      {
-        "n": 6,
-        "text": "So a mist rose up from the earth and watered the whole ground."
-      },
-      {
-        "n": 7,
-        "text": "Then the LORD God formed a man from the dust of the ground. He breathed the breath of life into the man's nostrils. The man became a living person."
-      },
-      {
-        "n": 8,
-        "text": "Then the LORD God planted a garden in Eden, in the east. He put the man He had formed in that garden."
-      },
-      {
-        "n": 9,
-        "text": "The LORD God planted many kinds of trees in the ground. The trees were beautiful to look at, and their fruit was good to eat. In the middle of the garden, the LORD God planted the tree of life. He also planted the tree that gives knowledge of good and evil."
-      },
-      {
-        "n": 10,
-        "text": "A river flowed from Eden and watered the garden. The river then separated and became four rivers."
-      },
-      {
-        "n": 11,
-        "text": "The name of the first river was Pison. This river flowed around the entire land of Havilah, where there was gold."
-      },
-      {
-        "n": 12,
-        "text": "There was good gold in that land, and sweet-smelling gum and onyx stones."
-      },
-      {
-        "n": 13,
-        "text": "The name of the second river was Gihon. This river flowed around the whole land of Ethiopia."
-      },
-      {
-        "n": 14,
-        "text": "The name of the third river was Hiddekel. This river flowed east of Assyria. The fourth river was the Euphrates."
-      },
-      {
-        "n": 15,
-        "text": "The LORD God put the man in the Garden of Eden to work the soil and take care of the garden."
-      },
-      {
-        "n": 16,
-        "text": "The LORD God said to the man: You may eat fruit from any tree in the garden."
-      },
-      {
-        "n": 17,
-        "text": "But you must not eat from the tree that gives knowledge of good and evil. If you eat fruit from that tree, on that day you will certainly die."
-      },
-      {
-        "n": 18,
-        "text": "Then the LORD God said: I see that it is not good for the man to be alone. I will make a helper who is right for him."
-      },
-      {
-        "n": 19,
-        "text": "Then the LORD God formed all the animals and the birds out of the ground. He brought them to Adam to see what Adam would name them. Whatever Adam called each living creature became its name."
-      },
-      {
-        "n": 20,
-        "text": "Adam gave names to all the farm animals, to all the birds in the air, and to all the wild animals. But Adam did not find a helper who was right for Adam."
-      },
-      {
-        "n": 21,
-        "text": "So the LORD God caused Adam to fall into a deep sleep. While Adam was asleep, the LORD God took one of Adam's ribs. He closed up the flesh where the rib had been."
-      },
-      {
-        "n": 22,
-        "text": "The LORD God used the rib from the man to build a woman. The LORD God brought the woman to the man."
-      },
-      {
-        "n": 23,
-        "text": "Then Adam said: Here is a person like me at last. She has bones from my bones and flesh from my flesh. She was taken out of man, so she will be called woman."
-      },
-      {
-        "n": 24,
-        "text": "That is why a man leaves his father and mother and is joined to his wife. In this way the two become one body."
-      },
-      {
-        "n": 25,
-        "text": "The man and his wife were naked, but they were not ashamed."
-      }
+      { "n": 1, "text": "So the heavens and the earth were finished, and all the host (everything) in them." },
+      { "n": 2, "text": "And on the seventh day God ended His work which He had made. And God rested on the seventh day from all His work which He had made." },
+      { "n": 3, "text": "And God blessed the seventh day, and sanctified (set apart as holy) the seventh day. Because on that day God had rested from all His work which God created and made." },
+      { "n": 4, "text": "These are the generations (the history) of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens." },
+      { "n": 5, "text": "And there was every plant of the field before it was in the earth, and every herb (plant) of the field before it grew. For the LORD God had not caused it to rain on the earth. And there was not a man to till (work) the ground." },
+      { "n": 6, "text": "But there went up a mist from the earth, and watered the whole face of the ground." },
+      { "n": 7, "text": "And the LORD God formed man of the dust of the ground. And the LORD God breathed into the man's nostrils the breath of life. And man became a living soul (a living person)." },
+      { "n": 8, "text": "And the LORD God planted a garden eastward in Eden. And there the LORD God put the man whom He had formed." },
+      { "n": 9, "text": "And out of the ground the LORD God made every tree grow that is pleasant to see, and good for food. The tree of life also was in the middle of the garden, and the tree of knowledge of good and evil." },
+      { "n": 10, "text": "And a river went out of Eden to water the garden. And from there the river was parted, and became four heads (four rivers)." },
+      { "n": 11, "text": "The name of the first river is Pison. That is the river which goes around the whole land of Havilah, where there is gold." },
+      { "n": 12, "text": "And the gold of that land is good. There is bdellium (a sweet-smelling gum) and the onyx stone." },
+      { "n": 13, "text": "And the name of the second river is Gihon. Gihon is the river that goes around the whole land of Ethiopia." },
+      { "n": 14, "text": "And the name of the third river is Hiddekel. Hiddekel is the river which goes toward the east of Assyria. And the fourth river is Euphrates." },
+      { "n": 15, "text": "And the LORD God took the man, and put the man into the garden of Eden to dress (work) the garden and to keep it." },
+      { "n": 16, "text": "And the LORD God commanded the man, saying: Of every tree of the garden you may freely eat." },
+      { "n": 17, "text": "But of the tree of the knowledge of good and evil, you shall not eat of it. For in the day that you eat of it you shall surely die." },
+      { "n": 18, "text": "And the LORD God said: It is not good that the man should be alone. I will make a help meet (a fitting helper) for the man." },
+      { "n": 19, "text": "And out of the ground the LORD God formed every beast of the field, and every fowl (birds) of the air. And the LORD God brought them to Adam to see what Adam would call them. And whatever Adam called every living creature, that was its name." },
+      { "n": 20, "text": "And Adam gave names to all cattle (farm animals), and to the fowl (birds) of the air, and to every beast of the field. But for Adam there was not found a help meet (a fitting helper) for him." },
+      { "n": 21, "text": "And the LORD God caused a deep sleep to fall on Adam, and Adam slept. And the LORD God took one of Adam's ribs, and closed up the flesh in its place." },
+      { "n": 22, "text": "And from the rib, which the LORD God had taken from man, the LORD God made a woman. And the LORD God brought the woman to the man." },
+      { "n": 23, "text": "And Adam said: This is now bone of my bones, and flesh of my flesh. She shall be called Woman, because she was taken out of Man." },
+      { "n": 24, "text": "So a man shall leave his father and his mother, and shall cleave (hold tight) to his wife. And the man and his wife shall be one flesh." },
+      { "n": 25, "text": "And they were both naked, the man and his wife, and they were not ashamed." }
     ],
     "sourceUrl": "https://kjvdeaf.com/old-testament/genesis/genesis-chapter-02/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "3": {
