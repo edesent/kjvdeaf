@@ -32,135 +32,42 @@
   },
   "14": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Then the Lord said to Moses:"
-      },
-      {
-        "n": 2,
-        "text": "Tell the Israelites to go back to the town of Pi-Hahiroth and put up their tents there, between Migdol and the sea. They must camp near the sea and near Baal-Zephon."
-      },
-      {
-        "n": 3,
-        "text": "Then Pharaoh will think that the Israelites do not know where to go. Pharaoh will say they are lost in the desert."
-      },
-      {
-        "n": 4,
-        "text": "Pharaoh is stubborn, and Pharaoh will go after the Israelites and chase them. But I will defeat Pharaoh and his army. This will bring honor to me. Then the Egyptians will know that I am the Lord. The Israelites did what Moses told them."
-      },
-      {
-        "n": 5,
-        "text": "When they told Pharaoh, the king of Egypt, that the Israelites had fled, Pharaoh and Pharaoh's officials said: We have made a mistake. We let the Israelites go and now they are not our slaves anymore."
-      },
-      {
-        "n": 6,
-        "text": "So Pharaoh prepared his chariot and took his men with him."
-      },
-      {
-        "n": 7,
-        "text": "Pharaoh took six hundred of his best men and all of his chariots. There was an officer in each chariot."
-      },
-      {
-        "n": 8,
-        "text": "The Lord made Pharaoh, king of Egypt, stubborn. Pharaoh followed and chased the Israelites, but the Israelites were leaving with boldness."
-      },
-      {
-        "n": 9,
-        "text": "The Egyptians with their war-chariots and the soldiers came near the Israelites, who were camping at the sea at PiHahiroth near BaalZephon."
-      },
-      {
-        "n": 10,
-        "text": "When the Israelites saw Pharaoh and his army coming toward them, they were very afraid and cried to the Lord for help."
-      },
-      {
-        "n": 11,
-        "text": "They said to Moses: Was it because there were no graves in Egypt that you brought us to the desert to die? What have you done to us by bringing us out of Egypt?"
-      },
-      {
-        "n": 12,
-        "text": "We told you this would happen! In Egypt we said, Please do not bother us. Let us stay and serve the Egyptians. It would have been better for us to stay and be slaves than to come out here and die in the desert."
-      },
-      {
-        "n": 13,
-        "text": "But Moses answered the children of Israel: Do not be afraid! Do not run away! Stand where you are and watch the Lord save you today. You will never see these Egyptians again."
-      },
-      {
-        "n": 14,
-        "text": "You will not have to do anything but stay calm. The Lord will do the fighting for you."
-      },
-      {
-        "n": 15,
-        "text": "Then the Lord said to Moses, Why are you still crying to me? Tell the Israelites to start moving."
-      },
-      {
-        "n": 16,
-        "text": "You must lift up your staff and hold it out over the sea. The water will separate and there will be dry ground for the Israelites to walk on."
-      },
-      {
-        "n": 17,
-        "text": "I will make the Egyptians stubborn and they will go after you. I will show that I am God who can do what I want to do with Pharaoh and his army and his war-chariots and all his men."
-      },
-      {
-        "n": 18,
-        "text": "Then Egypt will know that I am the Lord. They will honor me when I defeat Pharaoh and his horse soldiers and chariots."
-      },
-      {
-        "n": 19,
-        "text": "Then the angel of God moved to the back of the people. (The angel was usually in front of the people, leading them.) So the tall cloud moved from in front of the people and went to the back of the people."
-      },
-      {
-        "n": 20,
-        "text": "In this way the cloud stood between the Egyptians and the Israelites. There was light for the Israelites. But there was darkness for the Egyptians. So the Egyptians did not come any closer to the Israelites that night."
-      },
-      {
-        "n": 21,
-        "text": "Moses raised his hand over the Red Sea, and the Lord caused a strong wind to blow from the east. The wind blew all night long. The sea split, and the wind made the ground dry."
-      },
-      {
-        "n": 22,
-        "text": "The Israelites went through the sea on dry land. The water was like a wall on their right and on their left."
-      },
-      {
-        "n": 23,
-        "text": "Then all of Pharaoh's chariots and horse soldiers followed them into the sea."
-      },
-      {
-        "n": 24,
-        "text": "Early that morning the Lord looked down from the tall cloud and column of fire at the Egyptian army. Then the Lord threw the Egyptian army into a panic."
-      },
-      {
-        "n": 25,
-        "text": "The wheels of the chariots became stuck. It was very hard to control the chariots. The Egyptians shouted, Let's get out of here! The Lord is fighting against us. He is fighting for the Israelites."
-      },
-      {
-        "n": 26,
-        "text": "Then the Lord told Moses, Raise your hand over the sea to make the water fall and cover the Egyptian chariots and horse soldiers."
-      },
-      {
-        "n": 27,
-        "text": "Then Moses put up his hand over the sea and the water of the sea flowed back to where it had been before. The Egyptians wanted to run away but the flood of water went over the Egyptians, and that is how God drowned the Egyptians in the sea."
-      },
-      {
-        "n": 28,
-        "text": "The water returned to its normal level and covered the chariots and horse soldiers. Pharaoh's army had been chasing the Israelites, but that army was destroyed. None of them survived!"
-      },
-      {
-        "n": 29,
-        "text": "But the Israelites crossed the sea on dry land. The water was like a wall on their right and on their left."
-      },
-      {
-        "n": 30,
-        "text": "So that day the Lord saved the Israelites from the Egyptians. Later, the Israelites saw the dead bodies of the Egyptians on the shore of the Red Sea."
-      },
-      {
-        "n": 31,
-        "text": "The Israelites saw the great power of the Lord when he defeated the Egyptians. So, the people feared and respected the Lord, and they began to trust the Lord and his servant Moses."
-      }
+      { "n": 1, "text": "And the LORD spoke to Moses, saying:" },
+      { "n": 2, "text": "Speak to the children of Israel, that they turn and encamp (set up camp) before Pihahiroth, between Migdol and the sea, over against (across from) Baalzephon. You shall encamp (set up camp) before it by the sea." },
+      { "n": 3, "text": "For Pharaoh will say of the children of Israel: They are entangled (lost) in the land. The wilderness (desert) has shut them in." },
+      { "n": 4, "text": "And I will harden Pharaoh's heart (make Pharaoh stubborn), so that he shall follow after them. And I will be honoured upon Pharaoh, and upon all his host (army), so that the Egyptians may know that I am the LORD. And the children of Israel did so." },
+      { "n": 5, "text": "And it was told the king of Egypt that the people fled. And the heart of Pharaoh and of his servants was turned against the people, and they said: Why have we done this, that we have let Israel go from serving us?" },
+      { "n": 6, "text": "And Pharaoh made ready his chariot, and took his people with him." },
+      { "n": 7, "text": "And Pharaoh took 600 chosen chariots, and all the chariots of Egypt, and captains over every one of them." },
+      { "n": 8, "text": "And the LORD hardened the heart of Pharaoh king of Egypt (made him stubborn), and Pharaoh pursued (chased) after the children of Israel. And the children of Israel went out with an high hand (boldly)." },
+      { "n": 9, "text": "But the Egyptians pursued (chased) after them, all the horses and chariots of Pharaoh, and his horsemen, and his army. And they overtook (caught up with) them camping by the sea, beside Pihahiroth, before Baalzephon." },
+      { "n": 10, "text": "And when Pharaoh drew nigh (came near), the children of Israel lifted up their eyes, and look, the Egyptians marched after them. And they were sore (very) afraid. And the children of Israel cried out to the LORD." },
+      { "n": 11, "text": "And they said to Moses: Because there were no graves in Egypt, have you taken us away to die in the wilderness (desert)? Wherefore (why) have you dealt thus (done this) with us, to carry us forth (out) out of Egypt?" },
+      { "n": 12, "text": "Is not this the word that we did tell you in Egypt, saying: Let us alone, so that we may serve the Egyptians? For it had been better for us to serve the Egyptians, than that we should die in the wilderness (desert)." },
+      { "n": 13, "text": "And Moses said to the people: Fear not. Stand still, and see the salvation (saving power) of the LORD, which He will show to you to day (today). For the Egyptians whom you have seen to day (today), you shall see them again no more for ever." },
+      { "n": 14, "text": "The LORD shall fight for you, and you shall hold your peace (stay quiet)." },
+      { "n": 15, "text": "And the LORD said to Moses: Wherefore (why) do you cry to Me? Speak to the children of Israel, that they go forward." },
+      { "n": 16, "text": "But lift up your rod (staff), and stretch out your hand over the sea, and divide it. And the children of Israel shall go on dry ground through the middle of the sea." },
+      { "n": 17, "text": "And I, look, I will harden the hearts of the Egyptians (make them stubborn), and they shall follow them. And I will get Me honour upon Pharaoh, and upon all his host (army), upon his chariots, and upon his horsemen." },
+      { "n": 18, "text": "And the Egyptians shall know that I am the LORD, when I have gotten Me honour upon Pharaoh, upon his chariots, and upon his horsemen." },
+      { "n": 19, "text": "And the angel of God, which went before the camp of Israel, removed (moved) and went behind them. And the pillar (tall column) of the cloud went from before their face, and stood behind them." },
+      { "n": 20, "text": "And the cloud came between the camp of the Egyptians and the camp of Israel. And it was a cloud and darkness to the Egyptians, but it gave light by night to Israel. So the one came not near the other all the night." },
+      { "n": 21, "text": "And Moses stretched out his hand over the sea. And the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided." },
+      { "n": 22, "text": "And the children of Israel went into the middle of the sea upon the dry ground. And the waters were a wall to them on their right hand, and on their left." },
+      { "n": 23, "text": "And the Egyptians pursued (chased), and went in after them to the middle of the sea, even all Pharaoh's horses, his chariots, and his horsemen." },
+      { "n": 24, "text": "And it came to pass, that in the morning watch (early morning) the LORD looked to the host (army) of the Egyptians through the pillar (tall column) of fire and of the cloud, and troubled the host (army) of the Egyptians," },
+      { "n": 25, "text": "And took off their chariot wheels, so that they drove them heavily (with great trouble). So the Egyptians said: Let us flee (run away) from the face of Israel. For the LORD fights for them against the Egyptians." },
+      { "n": 26, "text": "And the LORD said to Moses: Stretch out your hand over the sea, so that the waters may come again upon the Egyptians, upon their chariots, and upon their horsemen." },
+      { "n": 27, "text": "And Moses stretched forth (out) his hand over the sea, and the sea returned to its strength when the morning appeared. And the Egyptians fled (ran) against it. And the LORD overthrew the Egyptians in the middle of the sea." },
+      { "n": 28, "text": "And the waters returned, and covered the chariots, and the horsemen, and all the host (army) of Pharaoh that came into the sea after them. There remained not so much as one of them." },
+      { "n": 29, "text": "But the children of Israel walked upon dry land in the middle of the sea. And the waters were a wall to them on their right hand, and on their left." },
+      { "n": 30, "text": "Thus the LORD saved Israel that day out of the hand of the Egyptians. And Israel saw the Egyptians dead upon the sea shore." },
+      { "n": 31, "text": "And Israel saw that great work which the LORD did upon the Egyptians. And the people feared the LORD, and believed the LORD, and His servant Moses." }
     ],
     "sourceUrl": "https://kjvdeaf.com/exodus-chapter-14/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that added things the KJV does not say, e.g. the angel 'usually in front' in v19 and 'that is how God drowned the Egyptians' in v27), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V13 keeps the KJV's see the salvation of the LORD.",
     "videos": []
   },
   "8": {
