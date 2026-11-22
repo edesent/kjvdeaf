@@ -880,1633 +880,454 @@
   "17": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers warnings about causing others to stumble, repeated forgiveness, faith like a mustard seed, the parable of the unworthy servants, healing the ten men with skin disease (only the Samaritan returns to give thanks), and Jesus' teaching on the sudden and visible coming of the kingdom of God (the days of Noah and Lot).",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Jesus said to His disciples: Things that cause people to stumble are bound to come, but woe to anyone through whom they come."
-      },
-      {
-        "n": 2,
-        "text": "It would be better for them to be thrown into the sea with a huge millstone tied around their neck. That is better than causing one of these little ones to stumble."
-      },
-      {
-        "n": 3,
-        "text": "So watch yourselves. If a brother or sister sins against you, rebuke them, and if they repent, forgive them."
-      },
-      {
-        "n": 4,
-        "text": "Even if they sin against you seven times in a day and seven times come back to you saying, I repent, you must forgive them."
-      },
-      {
-        "n": 5,
-        "text": "The apostles said to the Lord: Increase our faith!"
-      },
-      {
-        "n": 6,
-        "text": "The Lord answered: Suppose you have faith as small as a mustard seed. You can say to this mulberry tree: Be pulled up and planted in the sea! It will obey you."
-      },
-      {
-        "n": 7,
-        "text": "Suppose one of you has a servant plowing or looking after the sheep. Will he say to the servant when he comes in from the field: Come along now and sit down to eat?"
-      },
-      {
-        "n": 8,
-        "text": "Will not he rather say: Prepare my supper, get yourself ready, and wait on me while I eat and drink; after that you may eat and drink?"
-      },
-      {
-        "n": 9,
-        "text": "Will he thank the servant because the servant did what he was told? Certainly not."
-      },
-      {
-        "n": 10,
-        "text": "So you also, when you have done everything you were told to do, should say: We are unworthy servants. We have only done our duty."
-      },
-      {
-        "n": 11,
-        "text": "Now on His way to Jerusalem, Jesus traveled along the border between Samaria and Galilee."
-      },
-      {
-        "n": 12,
-        "text": "As He was going into a village, ten men who had a skin disease met Him. They stood at a distance"
-      },
-      {
-        "n": 13,
-        "text": "And called out in a loud voice: Jesus, Master, have pity on us!"
-      },
-      {
-        "n": 14,
-        "text": "When He saw them, He said: Go, show yourselves to the priests. And as they went, they were cleansed."
-      },
-      {
-        "n": 15,
-        "text": "One of them, when he saw that he was healed, came back, praising God in a loud voice."
-      },
-      {
-        "n": 16,
-        "text": "He threw himself at Jesus' feet and thanked Him. And he was a Samaritan."
-      },
-      {
-        "n": 17,
-        "text": "Jesus asked: Were not all ten cleansed? Where are the other nine?"
-      },
-      {
-        "n": 18,
-        "text": "Has no one returned to give praise to God except this foreigner?"
-      },
-      {
-        "n": 19,
-        "text": "Then He said to him: Rise and go. Your faith has made you well."
-      },
-      {
-        "n": 20,
-        "text": "Once, the Pharisees asked Jesus when the kingdom of God would come. He replied: The kingdom of God does not come in a way people can see."
-      },
-      {
-        "n": 21,
-        "text": "People will not say: Here it is, or, There it is. The kingdom of God is in your midst."
-      },
-      {
-        "n": 22,
-        "text": "Then He said to His disciples: The time is coming. You will long to see one of the days of the Son of Man. But you will not see it."
-      },
-      {
-        "n": 23,
-        "text": "People will tell you: There He is! or: Here He is! Do not go running off after them."
-      },
-      {
-        "n": 24,
-        "text": "For the Son of Man in His day will be like the lightning, which flashes and lights up the sky from one end to the other."
-      },
-      {
-        "n": 25,
-        "text": "But first He must suffer many things and be rejected by this generation."
-      },
-      {
-        "n": 26,
-        "text": "Just as it was in the days of Noah, so also will it be in the days of the Son of Man."
-      },
-      {
-        "n": 27,
-        "text": "People were eating, drinking, marrying, and being given in marriage up to the day Noah entered the ark. Then the flood came and destroyed them all."
-      },
-      {
-        "n": 28,
-        "text": "It was the same in the days of Lot. People were eating and drinking, buying and selling, planting and building."
-      },
-      {
-        "n": 29,
-        "text": "But the day Lot left Sodom, fire and sulfur rained down from heaven and destroyed them all."
-      },
-      {
-        "n": 30,
-        "text": "It will be just like this on the day the Son of Man is revealed."
-      },
-      {
-        "n": 31,
-        "text": "On that day, no one who is on the roof, with possessions inside, should go down to get them. Likewise, no one in the field should go back for anything."
-      },
-      {
-        "n": 32,
-        "text": "Remember Lot's wife!"
-      },
-      {
-        "n": 33,
-        "text": "Whoever tries to keep their life will lose it, and whoever loses their life will preserve it."
-      },
-      {
-        "n": 34,
-        "text": "I tell you, on that night two people will be in one bed. One will be taken and the other left."
-      },
-      {
-        "n": 35,
-        "text": "Two women will be grinding grain together. One will be taken and the other left."
-      },
-      {
-        "n": 36,
-        "text": "Two men will be in the field. One will be taken and the other left."
-      },
-      {
-        "n": 37,
-        "text": "Where, Lord? they asked. He replied: Where there is a dead body, there the vultures will gather."
-      }
+      { "n": 1, "text": "Then Jesus said to the disciples: It is impossible but that offences (things that cause sin) will come. But woe (great trouble) to the one through whom they come." },
+      { "n": 2, "text": "It would be better for them that a millstone (large heavy stone) were hanged about their neck, and they were cast into the sea, than that they should offend (cause to sin) one of these little ones." },
+      { "n": 3, "text": "Take heed (be careful) to yourselves. If your brother trespass (does wrong) against you, rebuke (correct) him. And if he repent (changes his heart), forgive him." },
+      { "n": 4, "text": "And if he trespass (does wrong) against you 7 times in a day, and 7 times in a day turns again to you, saying: I repent (I am sorry), you will forgive him." },
+      { "n": 5, "text": "And the apostles (sent ones) said to the Lord: Increase our faith." },
+      { "n": 6, "text": "And the Lord said: If you had faith as a grain of mustard seed, you might say to this sycamine (mulberry) tree: Be plucked up by the root, and be planted in the sea. And it would obey you." },
+      { "n": 7, "text": "But which of you, having a servant plowing or feeding cattle, will say to him by and by (right away), when he has come from the field: Go and sit down to meat (eat a meal)?" },
+      { "n": 8, "text": "And will not rather say to him: Make ready that I may sup (eat supper), and gird (dress) yourself, and serve me, till I have eaten and drunk. And afterward you will eat and drink?" },
+      { "n": 9, "text": "Does he thank that servant because he did the things that were commanded him? I trow (think) not." },
+      { "n": 10, "text": "So likewise you, when you will have done all those things which are commanded you, say: We are unprofitable (useless) servants. We have done that which was our duty to do." },
+      { "n": 11, "text": "And it came to pass (happened), as Jesus went to Jerusalem, that He passed through the middle of Samaria and Galilee." },
+      { "n": 12, "text": "And as Jesus entered into a certain village, there met Him 10 men who were lepers (people with a skin disease), who stood afar off (far away)." },
+      { "n": 13, "text": "And they lifted up their voices, and said: Jesus, Master (Teacher), have mercy on us." },
+      { "n": 14, "text": "And when Jesus saw them, He said to them: Go show yourselves to the priests. And it came to pass (happened), that, as they went, they were cleansed (healed)." },
+      { "n": 15, "text": "And one of them, when he saw that he was healed, turned back, and with a loud voice glorified (praised) God," },
+      { "n": 16, "text": "And fell down on his face at Jesus' feet, giving Him thanks. And he was a Samaritan." },
+      { "n": 17, "text": "And Jesus answering said: Were there not 10 cleansed (healed)? But where are the 9?" },
+      { "n": 18, "text": "There are not found who returned to give glory to God, except this stranger." },
+      { "n": 19, "text": "And Jesus said to him: Arise (get up), go your way. Your faith has made you whole (healed you)." },
+      { "n": 20, "text": "And when Jesus was demanded (asked) by the Pharisees, when the kingdom of God would come, He answered them and said: The kingdom of God does not come with observation (outward signs to watch)." },
+      { "n": 21, "text": "Neither will they say: Look here, or, look there. For look, the kingdom of God is within you." },
+      { "n": 22, "text": "And Jesus said to the disciples: The days will come, when you will desire (want) to see one of the days of the Son of man, and you will not see it." },
+      { "n": 23, "text": "And they will say to you: See here, or, see there. Do not go after them, nor follow them." },
+      { "n": 24, "text": "For as the lightning, that lightens out of the one part under heaven, shines to the other part under heaven, so will also the Son of man be in His day." },
+      { "n": 25, "text": "But first He must suffer many things, and be rejected by this generation (people living now)." },
+      { "n": 26, "text": "And as it was in the days of Noe (Noah), so will it be also in the days of the Son of man." },
+      { "n": 27, "text": "They ate, they drank, they married wives, they were given in marriage, until the day that Noe (Noah) entered into the ark (big boat), and the flood came, and destroyed them all." },
+      { "n": 28, "text": "Likewise also as it was in the days of Lot: they ate, they drank, they bought, they sold, they planted, they built." },
+      { "n": 29, "text": "But the same day that Lot went out of Sodom it rained fire and brimstone (burning sulfur) from heaven, and destroyed them all." },
+      { "n": 30, "text": "Even so will it be in the day when the Son of man is revealed (shown)." },
+      { "n": 31, "text": "In that day, whoever will be upon the housetop, and their stuff (goods) in the house, let them not come down to take it away. And whoever is in the field, let them likewise not return back." },
+      { "n": 32, "text": "Remember Lot's wife." },
+      { "n": 33, "text": "Whoever will seek to save their life will lose it. And whoever will lose their life will preserve (keep) it." },
+      { "n": 34, "text": "I tell you, in that night there will be 2 men in one bed. The one will be taken, and the other will be left." },
+      { "n": 35, "text": "There will be 2 women grinding (grain) together. The one will be taken, and the other left." },
+      { "n": 36, "text": "There will be 2 men in the field. The one will be taken, and the other left." },
+      { "n": 37, "text": "And they answered and said to Jesus: Where, Lord? And He said to them: Wherever the body is, there will the eagles be gathered together." }
     ]
   },
   "18": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers the parable of the persistent widow and the unjust judge, the parable of the Pharisee and the tax collector, blessing the little children, the rich ruler, the third prediction of Jesus' death, and healing a blind beggar near Jericho.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Then Jesus told His disciples a teaching story to show them that they should always pray and not give up."
-      },
-      {
-        "n": 2,
-        "text": "He said: In a certain town there was a judge who neither feared God nor cared what people thought."
-      },
-      {
-        "n": 3,
-        "text": "And there was a widow in that town who kept coming to him with the plea: Grant me justice against my adversary."
-      },
-      {
-        "n": 4,
-        "text": "For some time he refused. But finally he said to himself: Even though I do not fear God or care what people think,"
-      },
-      {
-        "n": 5,
-        "text": "Yet because this widow keeps bothering me, I will see that she gets justice, so that she will not eventually wear me out with her coming."
-      },
-      {
-        "n": 6,
-        "text": "And the Lord said: Listen to what the unjust judge says."
-      },
-      {
-        "n": 7,
-        "text": "And will not God bring about justice for His chosen ones, who cry out to Him day and night? Will He keep putting them off?"
-      },
-      {
-        "n": 8,
-        "text": "I tell you, He will see that they get justice, and quickly. However, when the Son of Man comes, will He find faith on the earth?"
-      },
-      {
-        "n": 9,
-        "text": "To some who were confident of their own righteousness and looked down on everyone else, Jesus told this teaching story:"
-      },
-      {
-        "n": 10,
-        "text": "Two men went up to the temple to pray, one a Pharisee and the other a tax collector."
-      },
-      {
-        "n": 11,
-        "text": "The Pharisee stood by himself and prayed: God, I thank you that I am not like other people: robbers, evildoers, adulterers, or even like this tax collector."
-      },
-      {
-        "n": 12,
-        "text": "I fast twice a week and give a tenth of all I get."
-      },
-      {
-        "n": 13,
-        "text": "But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said: God, have mercy on me, a sinner."
-      },
-      {
-        "n": 14,
-        "text": "I tell you that this man, rather than the other, went home justified before God. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted."
-      },
-      {
-        "n": 15,
-        "text": "People were also bringing babies to Jesus for Him to place His hands on them. When the disciples saw this, they rebuked them."
-      },
-      {
-        "n": 16,
-        "text": "But Jesus called the children to Him. He said: Let the little children come to me. Do not hinder them. The kingdom of God belongs to such as these."
-      },
-      {
-        "n": 17,
-        "text": "Truly I tell you, anyone who will not receive the kingdom of God like a little child will never enter it."
-      },
-      {
-        "n": 18,
-        "text": "A certain ruler asked Him: Good teacher, what must I do to inherit eternal life?"
-      },
-      {
-        "n": 19,
-        "text": "Why do you call me good? Jesus answered. No one is good except God alone."
-      },
-      {
-        "n": 20,
-        "text": "You know the commandments: Do not commit adultery. Do not murder. Do not steal. Do not give false testimony. Honor your father and mother."
-      },
-      {
-        "n": 21,
-        "text": "All these I have kept since I was a boy, he said."
-      },
-      {
-        "n": 22,
-        "text": "When Jesus heard this, He said to him: You still lack one thing. Sell everything you have and give to the poor, and you will have treasure in heaven. Then come, follow me."
-      },
-      {
-        "n": 23,
-        "text": "When he heard this, he became very sad, because he was very wealthy."
-      },
-      {
-        "n": 24,
-        "text": "Jesus looked at him and said: How hard it is for the rich to enter the kingdom of God!"
-      },
-      {
-        "n": 25,
-        "text": "Indeed, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God."
-      },
-      {
-        "n": 26,
-        "text": "Those who heard this asked: Who then can be saved?"
-      },
-      {
-        "n": 27,
-        "text": "Jesus replied: What is impossible with man is possible with God."
-      },
-      {
-        "n": 28,
-        "text": "Peter said to Him: We have left all we had to follow You!"
-      },
-      {
-        "n": 29,
-        "text": "Jesus said to them: I tell you the truth. Suppose someone has left home, wife, brothers, sisters, parents, or children. That person did it for the sake of the kingdom of God."
-      },
-      {
-        "n": 30,
-        "text": "That person will certainly receive many times as much in this present time. And in the coming age, that person will receive eternal life."
-      },
-      {
-        "n": 31,
-        "text": "Jesus took the Twelve aside and told them: We are going up to Jerusalem. Everything that is written by the prophets about the Son of Man will be fulfilled."
-      },
-      {
-        "n": 32,
-        "text": "He will be delivered over to the Gentiles. They will mock Him, insult Him, spit on Him,"
-      },
-      {
-        "n": 33,
-        "text": "And flog Him and kill Him. On the third day He will rise again."
-      },
-      {
-        "n": 34,
-        "text": "The disciples did not understand any of this. Its meaning was hidden from them, and they did not know what he was talking about."
-      },
-      {
-        "n": 35,
-        "text": "As Jesus approached Jericho, a blind man was sitting by the road begging."
-      },
-      {
-        "n": 36,
-        "text": "When he heard the crowd going by, he asked what was happening."
-      },
-      {
-        "n": 37,
-        "text": "They told him: Jesus of Nazareth is passing by."
-      },
-      {
-        "n": 38,
-        "text": "He called out: Jesus, Son of David, have mercy on me!"
-      },
-      {
-        "n": 39,
-        "text": "Those who led the way rebuked him and told him to be quiet, but he shouted all the more: Son of David, have mercy on me!"
-      },
-      {
-        "n": 40,
-        "text": "Jesus stopped and ordered the man to be brought to Him. When he came near, Jesus asked him,"
-      },
-      {
-        "n": 41,
-        "text": "What do you want me to do for you? Lord, he said, I want to see."
-      },
-      {
-        "n": 42,
-        "text": "Jesus said to him: Receive your sight; your faith has healed you."
-      },
-      {
-        "n": 43,
-        "text": "Immediately he received his sight and followed Jesus, praising God. When all the people saw it, they also praised God."
-      }
+      { "n": 1, "text": "And Jesus spoke a parable (story that teaches a lesson) to them to this end, that men ought always to pray, and not to faint (lose heart)," },
+      { "n": 2, "text": "Saying: There was in a city a judge, who did not fear God, neither regarded (respected) man." },
+      { "n": 3, "text": "And there was a widow in that city. And she came to him, saying: Avenge (give justice to) me of my adversary (enemy)." },
+      { "n": 4, "text": "And he would not for a while. But afterward he said within himself: Though I do not fear God, nor regard (respect) man," },
+      { "n": 5, "text": "Yet because this widow troubles me, I will avenge (give justice to) her, so that by her continual coming she does not weary (wear out) me." },
+      { "n": 6, "text": "And the Lord said: Hear what the unjust judge says." },
+      { "n": 7, "text": "And will not God avenge (give justice to) His own elect (chosen people), who cry day and night to Him, though He bears long (is patient) with them?" },
+      { "n": 8, "text": "I tell you that He will avenge (give justice to) them speedily (quickly). Nevertheless (but) when the Son of man comes, will He find faith on the earth?" },
+      { "n": 9, "text": "And Jesus spoke this parable (story that teaches a lesson) to certain people who trusted in themselves that they were righteous (right with God), and despised (looked down on) others:" },
+      { "n": 10, "text": "There were 2 men who went up into the temple to pray, the one a Pharisee, and the other a publican (tax collector)." },
+      { "n": 11, "text": "The Pharisee stood and prayed this way with himself: God, I thank You, that I am not as other men are, extortioners (people who steal by force), unjust, adulterers (people unfaithful in marriage), or even as this publican (tax collector)." },
+      { "n": 12, "text": "I fast (go without food) twice in the week. I give tithes (a tenth part) of all that I possess." },
+      { "n": 13, "text": "And the publican (tax collector), standing afar off (far away), would not lift up so much as his eyes to heaven, but smote (hit) upon his breast (chest), saying: God be merciful to me a sinner." },
+      { "n": 14, "text": "I tell you, this man went down to his house justified (made right with God) rather than the other. For every one who exalts (lifts up) himself will be abased (brought low). And the one who humbles himself will be exalted (lifted up)." },
+      { "n": 15, "text": "And they brought to Jesus also infants (babies), that He would touch them. But when His disciples saw it, they rebuked (scolded) them." },
+      { "n": 16, "text": "But Jesus called them to Him, and said: Suffer (allow) little children to come to Me, and forbid them not (do not stop them). For of such is the kingdom of God." },
+      { "n": 17, "text": "Verily (truly) I say to you: Whoever will not receive the kingdom of God as a little child will in no way enter it." },
+      { "n": 18, "text": "And a certain ruler asked Jesus, saying: Good Master (Teacher), what will I do to inherit (receive as my own) eternal life?" },
+      { "n": 19, "text": "And Jesus said to him: Why do you call Me good? None is good, except One, that is, God." },
+      { "n": 20, "text": "You know the commandments: Do not commit adultery (being unfaithful in marriage), Do not kill, Do not steal, Do not bear false witness (lie about others), Honour your father and your mother." },
+      { "n": 21, "text": "And he said: All these I have kept from my youth up (since I was young)." },
+      { "n": 22, "text": "Now when Jesus heard these things, He said to him: Yet you lack one thing. Sell all that you have, and distribute (give) to the poor, and you will have treasure in heaven. And come, follow Me." },
+      { "n": 23, "text": "And when he heard this, he was very sorrowful (sad), for he was very rich." },
+      { "n": 24, "text": "And when Jesus saw that he was very sorrowful (sad), He said: How hardly (with great difficulty) will they who have riches enter into the kingdom of God." },
+      { "n": 25, "text": "For it is easier for a camel to go through a needle's eye, than for a rich man to enter into the kingdom of God." },
+      { "n": 26, "text": "And they who heard it said: Who then can be saved?" },
+      { "n": 27, "text": "And Jesus said: The things which are impossible with men are possible with God." },
+      { "n": 28, "text": "Then Peter said: Look, we have left all, and followed You." },
+      { "n": 29, "text": "And Jesus said to them: Verily (truly) I say to you: There is no one who has left house, or parents, or brothers, or wife, or children, for the kingdom of God's sake," },
+      { "n": 30, "text": "Who will not receive manifold (many times) more in this present time, and in the world to come life everlasting." },
+      { "n": 31, "text": "Then Jesus took to Him the 12, and said to them: Look, we go up to Jerusalem, and all things that are written by the prophets about the Son of man will be accomplished (come true)." },
+      { "n": 32, "text": "For He will be delivered (handed over) to the Gentiles (people who are not Jews), and will be mocked, and spitefully entreated (treated cruelly), and spit on." },
+      { "n": 33, "text": "And they will scourge (whip) Him, and put Him to death. And the third day He will rise again." },
+      { "n": 34, "text": "And they understood none of these things. And this saying was hidden from them, neither did they know the things which were spoken." },
+      { "n": 35, "text": "And it came to pass (happened), that as Jesus had come nigh (near) to Jericho, a certain blind man sat by the way side (road side) begging." },
+      { "n": 36, "text": "And hearing the multitude (crowd) pass by, he asked what it meant." },
+      { "n": 37, "text": "And they told him, that Jesus of Nazareth passes by." },
+      { "n": 38, "text": "And he cried, saying: Jesus, You Son of David, have mercy on me." },
+      { "n": 39, "text": "And they who went before rebuked (scolded) him, that he should hold his peace (be quiet). But he cried so much the more: You Son of David, have mercy on me." },
+      { "n": 40, "text": "And Jesus stood, and commanded him to be brought to Him. And when he had come near, Jesus asked him," },
+      { "n": 41, "text": "Saying: What will you have Me do to you? And he said: Lord, that I may receive my sight." },
+      { "n": 42, "text": "And Jesus said to him: Receive your sight. Your faith has saved you." },
+      { "n": 43, "text": "And immediately he received his sight, and followed Jesus, glorifying (praising) God. And all the people, when they saw it, gave praise to God." }
     ]
   },
   "19": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers Zacchaeus the tax collector, the parable of the ten minas, the Triumphal Entry into Jerusalem, Jesus weeping over the city, and the cleansing of the temple.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Jesus entered Jericho and was passing through."
-      },
-      {
-        "n": 2,
-        "text": "A man was there named Zacchaeus. He was a chief tax collector and was wealthy."
-      },
-      {
-        "n": 3,
-        "text": "He wanted to see who Jesus was, but he was too short and could not see over the crowd."
-      },
-      {
-        "n": 4,
-        "text": "So he ran ahead and climbed a sycamore-fig tree to see Him, since Jesus was coming that way."
-      },
-      {
-        "n": 5,
-        "text": "When Jesus reached the spot, He looked up and said to him: Zacchaeus, come down immediately. I must stay at your house today."
-      },
-      {
-        "n": 6,
-        "text": "So he came down at once and welcomed Him gladly."
-      },
-      {
-        "n": 7,
-        "text": "All the people saw this and began to mutter: He has gone to be the guest of a sinner."
-      },
-      {
-        "n": 8,
-        "text": "But Zacchaeus stood up and said to the Lord: Look, Lord! Here and now I give half of my possessions to the poor. If I have cheated anyone, I will pay back four times as much."
-      },
-      {
-        "n": 9,
-        "text": "Jesus said to him: Today salvation has come to this house, because this man too is a son of Abraham."
-      },
-      {
-        "n": 10,
-        "text": "For the Son of Man came to seek and to save the lost."
-      },
-      {
-        "n": 11,
-        "text": "While they were listening to this, He went on to tell them a teaching story. He was near Jerusalem, and the people thought the kingdom of God was going to appear at once."
-      },
-      {
-        "n": 12,
-        "text": "He said: A man of noble birth went to a distant country to have himself appointed king and then to return."
-      },
-      {
-        "n": 13,
-        "text": "So he called ten of his servants and gave them ten minas. Put this money to work, he said, until I come back."
-      },
-      {
-        "n": 14,
-        "text": "But his subjects hated him and sent a delegation after him to say: We do not want this man to be our king."
-      },
-      {
-        "n": 15,
-        "text": "He was made king, however, and returned home. Then he sent for the servants to whom he had given the money, in order to find out what they had gained with it."
-      },
-      {
-        "n": 16,
-        "text": "The first one came and said: Sir, your mina has earned ten more."
-      },
-      {
-        "n": 17,
-        "text": "Well done, my good servant! his master replied. Because you have been trustworthy in a very small matter, take charge of ten cities."
-      },
-      {
-        "n": 18,
-        "text": "The second came and said: Sir, your mina has earned five more."
-      },
-      {
-        "n": 19,
-        "text": "His master answered: You take charge of five cities."
-      },
-      {
-        "n": 20,
-        "text": "Then another servant came and said: Sir, here is your mina. I have kept it laid away in a piece of cloth."
-      },
-      {
-        "n": 21,
-        "text": "I was afraid of you, because you are a hard man. You take out what you did not put in, and reap what you did not sow."
-      },
-      {
-        "n": 22,
-        "text": "His master replied: I will judge you by your own words, you wicked servant! You knew, did you, that I am a hard man, taking out what I did not put in, and reaping what I did not sow?"
-      },
-      {
-        "n": 23,
-        "text": "Why then did you not put my money on deposit, so that when I came back I could have collected it with interest?"
-      },
-      {
-        "n": 24,
-        "text": "Then he said to those standing by: Take his mina away from him and give it to the one who has ten minas."
-      },
-      {
-        "n": 25,
-        "text": "Sir, they said, he already has ten!"
-      },
-      {
-        "n": 26,
-        "text": "He replied: I tell you, everyone who has will be given more, but the one who has nothing will have even what they have taken away."
-      },
-      {
-        "n": 27,
-        "text": "But those enemies of mine who did not want me to be king over them, bring them here and kill them in front of me."
-      },
-      {
-        "n": 28,
-        "text": "After Jesus had said this, He went on ahead, going up to Jerusalem."
-      },
-      {
-        "n": 29,
-        "text": "As He approached Bethphage and Bethany at the hill called the Mount of Olives, He sent two of His disciples, saying:"
-      },
-      {
-        "n": 30,
-        "text": "Go to the village ahead of you, and as you enter it, you will find a colt tied there, which no one has ever ridden. Untie it and bring it here."
-      },
-      {
-        "n": 31,
-        "text": "If anyone asks you: Why are you untying it? say: The Lord needs it."
-      },
-      {
-        "n": 32,
-        "text": "Those who were sent ahead went and found it just as He had told them."
-      },
-      {
-        "n": 33,
-        "text": "As they were untying the colt, its owners asked them: Why are you untying the colt?"
-      },
-      {
-        "n": 34,
-        "text": "They replied: The Lord needs it."
-      },
-      {
-        "n": 35,
-        "text": "They brought it to Jesus, threw their cloaks on the colt, and put Jesus on it."
-      },
-      {
-        "n": 36,
-        "text": "As He went along, people spread their cloaks on the road."
-      },
-      {
-        "n": 37,
-        "text": "When He came near the place where the road goes down the Mount of Olives, the whole crowd of disciples began to praise God. They praised Him joyfully in loud voices for all the miracles they had seen:"
-      },
-      {
-        "n": 38,
-        "text": "Blessed is the king who comes in the name of the Lord! Peace in heaven and glory in the highest!"
-      },
-      {
-        "n": 39,
-        "text": "Some of the Pharisees in the crowd said to Jesus: Teacher, rebuke Your disciples!"
-      },
-      {
-        "n": 40,
-        "text": "I tell you, He replied, if they keep quiet, the stones will cry out."
-      },
-      {
-        "n": 41,
-        "text": "As He approached Jerusalem and saw the city, He wept over it"
-      },
-      {
-        "n": 42,
-        "text": "And said: If you, even you, had only known on this day what would bring you peace. But now it is hidden from your eyes."
-      },
-      {
-        "n": 43,
-        "text": "The days will come upon you when your enemies will build an embankment against you and encircle you and hem you in on every side."
-      },
-      {
-        "n": 44,
-        "text": "They will dash you to the ground, you and the children within your walls. They will not leave one stone on another, because you did not recognize the time of God's coming to you."
-      },
-      {
-        "n": 45,
-        "text": "When Jesus entered the temple courts, He began to drive out those who were selling."
-      },
-      {
-        "n": 46,
-        "text": "It is written, He said to them, My house will be a house of prayer, but you have made it a den of robbers."
-      },
-      {
-        "n": 47,
-        "text": "Every day He was teaching at the temple. But the chief priests, the teachers of the law, and the leaders among the people were trying to kill Him."
-      },
-      {
-        "n": 48,
-        "text": "Yet they could not find any way to do it, because all the people hung on His words."
-      }
+      { "n": 1, "text": "And Jesus entered and passed through Jericho." },
+      { "n": 2, "text": "And look, there was a man named Zacchaeus, who was the chief among the publicans (tax collectors), and he was rich." },
+      { "n": 3, "text": "And Zacchaeus sought (tried) to see Jesus, who He was, and could not for the press (crowd), because he was little of stature (short)." },
+      { "n": 4, "text": "And Zacchaeus ran before, and climbed up into a sycomore tree to see Jesus, for He was to pass that way." },
+      { "n": 5, "text": "And when Jesus came to the place, He looked up, and saw him, and said to him: Zacchaeus, make haste (hurry), and come down. For today I must abide (stay) at your house." },
+      { "n": 6, "text": "And Zacchaeus made haste (hurried), and came down, and received Jesus joyfully." },
+      { "n": 7, "text": "And when they saw it, they all murmured (complained), saying, that Jesus had gone to be guest with a man who is a sinner." },
+      { "n": 8, "text": "And Zacchaeus stood, and said to the Lord: Look, Lord, the half of my goods I give to the poor. And if I have taken anything from any man by false accusation, I restore (pay back) him fourfold (4 times as much)." },
+      { "n": 9, "text": "And Jesus said to him: This day salvation (saving) has come to this house, since he also is a son of Abraham." },
+      { "n": 10, "text": "For the Son of man has come to seek and to save that which was lost." },
+      { "n": 11, "text": "And as they heard these things, Jesus added and spoke a parable (story that teaches a lesson), because He was nigh (near) to Jerusalem, and because they thought that the kingdom of God would immediately appear." },
+      { "n": 12, "text": "Jesus said therefore: A certain nobleman went into a far country to receive for himself a kingdom, and to return." },
+      { "n": 13, "text": "And he called his 10 servants, and delivered (gave) them 10 pounds (sums of money), and said to them: Occupy (do business) till I come." },
+      { "n": 14, "text": "But his citizens hated him, and sent a message after him, saying: We will not have this man to reign over us." },
+      { "n": 15, "text": "And it came to pass (happened), that when he had returned, having received the kingdom, then he commanded these servants to be called to him, to whom he had given the money, that he might know how much every man had gained by trading." },
+      { "n": 16, "text": "Then came the first, saying: Lord (master), your pound has gained 10 pounds." },
+      { "n": 17, "text": "And he said to him: Well, you good servant. Because you have been faithful in a very little, have authority over 10 cities." },
+      { "n": 18, "text": "And the second came, saying: Lord (master), your pound has gained 5 pounds." },
+      { "n": 19, "text": "And he said likewise to him: Be you also over 5 cities." },
+      { "n": 20, "text": "And another came, saying: Lord (master), look, here is your pound, which I have kept laid up in a napkin (cloth)." },
+      { "n": 21, "text": "For I feared you, because you are an austere (hard and strict) man. You take up that which you did not lay down, and reap (harvest) that which you did not sow (plant)." },
+      { "n": 22, "text": "And he says to him: Out of your own mouth will I judge you, you wicked servant. You knew that I was an austere (hard and strict) man, taking up that which I did not lay down, and reaping that which I did not sow." },
+      { "n": 23, "text": "Why then did you not give my money into the bank, that at my coming I might have required my own with usury (interest)?" },
+      { "n": 24, "text": "And he said to them who stood by: Take from him the pound, and give it to him who has 10 pounds." },
+      { "n": 25, "text": "And they said to him: Lord (master), he has 10 pounds." },
+      { "n": 26, "text": "For I say to you, that to every one who has will be given. And from the one who has not, even that which they have will be taken away from them." },
+      { "n": 27, "text": "But those my enemies, who would not have me reign over them, bring here, and slay (kill) them before me." },
+      { "n": 28, "text": "And when Jesus had spoken this, He went before, ascending (going up) to Jerusalem." },
+      { "n": 29, "text": "And it came to pass (happened), when Jesus had come nigh (near) to Bethphage and Bethany, at the mount called the mount of Olives, He sent 2 of His disciples," },
+      { "n": 30, "text": "Saying: Go into the village over against (across from) you, in which at your entering you will find a colt (young donkey) tied, on which no man ever yet sat. Loose (untie) him, and bring him here." },
+      { "n": 31, "text": "And if any man asks you: Why do you loose (untie) him? You will say this to him: Because the Lord has need of him." },
+      { "n": 32, "text": "And they who were sent went their way, and found even as Jesus had said to them." },
+      { "n": 33, "text": "And as they were loosing (untying) the colt, the owners of it said to them: Why do you loose the colt?" },
+      { "n": 34, "text": "And they said: The Lord has need of him." },
+      { "n": 35, "text": "And they brought him to Jesus. And they cast their garments (clothes) upon the colt, and they set Jesus on it." },
+      { "n": 36, "text": "And as Jesus went, they spread their clothes in the way (road)." },
+      { "n": 37, "text": "And when Jesus had come nigh (near), even now at the descent (way down) of the mount of Olives, the whole multitude (crowd) of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen," },
+      { "n": 38, "text": "Saying: Blessed be the King who comes in the name of the Lord. Peace in heaven, and glory in the highest." },
+      { "n": 39, "text": "And some of the Pharisees from among the multitude (crowd) said to Jesus: Master (Teacher), rebuke (scold) Your disciples." },
+      { "n": 40, "text": "And Jesus answered and said to them: I tell you that, if these should hold their peace (be quiet), the stones would immediately cry out." },
+      { "n": 41, "text": "And when Jesus had come near, He beheld (saw) the city, and wept over it," },
+      { "n": 42, "text": "Saying: If you had known, even you, at least in this your day, the things which belong to your peace. But now they are hidden from your eyes." },
+      { "n": 43, "text": "For the days will come upon you, that your enemies will cast a trench (dig a ditch and build a wall) about you, and compass (surround) you round, and keep you in on every side," },
+      { "n": 44, "text": "And will lay you even with the ground, and your children within you. And they will not leave in you one stone upon another, because you did not know the time of your visitation (when God came to you)." },
+      { "n": 45, "text": "And Jesus went into the temple, and began to cast out them who sold in it, and them who bought," },
+      { "n": 46, "text": "Saying to them: It is written: My house is the house of prayer. But you have made it a den of thieves." },
+      { "n": 47, "text": "And Jesus taught daily in the temple. But the chief priests and the scribes (teachers of the law) and the chief of the people sought (tried) to destroy Him," },
+      { "n": 48, "text": "And could not find what they might do. For all the people were very attentive to hear Him." }
     ]
   },
   "20": {
     "verses": [
-      {
-        "n": 1,
-        "text": "One day Jesus was in the temple teaching people. Jesus told them the Good News. The chief priests and the teachers of the law came to talk to Jesus"
-      },
-      {
-        "n": 2,
-        "text": "And asked Him: Tell us what authority You have to do these things. Who gave You this authority?"
-      },
-      {
-        "n": 3,
-        "text": "Jesus said to them: I will ask you one question."
-      },
-      {
-        "n": 4,
-        "text": "John the Baptist came, and he baptized people. Who sent John to do it? Was it God who sent John, or did the people send John?"
-      },
-      {
-        "n": 5,
-        "text": "They talked to each other and said: Suppose we say that John was sent by God. Jesus will ask us: Why did you not believe what John said?"
-      },
-      {
-        "n": 6,
-        "text": "But if we say that John's baptism was from someone else, the people will stone us to death. They all believe that John was a prophet."
-      },
-      {
-        "n": 7,
-        "text": "So they answered: We do not know who sent John."
-      },
-      {
-        "n": 8,
-        "text": "Then Jesus said to them: Then I will not tell you who told me that I may do these things."
-      },
-      {
-        "n": 9,
-        "text": "Jesus told the people this story. He said: A man planted a vineyard. Then he rented out the vineyard to other farmers and went on a journey for a long time to another country."
-      },
-      {
-        "n": 10,
-        "text": "When it was time to pick the grapes, the owner sent a servant to the farmers who rented his vineyard. The owner asked the farmers to give the servant his share of the grapes. The farmers grabbed the servant and beat him and chased him away. The farmers gave the servant no grapes."
-      },
-      {
-        "n": 11,
-        "text": "The owner sent another servant to the farmers. They took this servant and beat him also. They dishonored him, and they gave him no grapes."
-      },
-      {
-        "n": 12,
-        "text": "The owner then sent a third servant, but the farmers beat him too, and they threw him out of the vineyard."
-      },
-      {
-        "n": 13,
-        "text": "Then the owner said: What can I do? I will send my son, whom I love very much. I think they will respect my son."
-      },
-      {
-        "n": 14,
-        "text": "But when the farmers saw the son, they said to each other: This son will inherit everything one day. Let us kill him, so that we will get it all."
-      },
-      {
-        "n": 15,
-        "text": "So they threw him out of the vineyard and killed him. What do you think the owner will do to those farmers? Jesus asked."
-      },
-      {
-        "n": 16,
-        "text": "He will come and kill those farmers and give the vineyard to others. When the people heard this, they said: This must never happen."
-      },
-      {
-        "n": 17,
-        "text": "But Jesus looked into their eyes and said: If you say that this must never happen, what do these words in the book of Psalms mean? The stone that the builders did not want to use is now the most important stone in the building."
-      },
-      {
-        "n": 18,
-        "text": "Everyone who falls over this stone will die and break his legs. And if this stone falls on anyone, it will scatter him like dust."
-      },
-      {
-        "n": 19,
-        "text": "The teachers of the law and the chief priests looked for a way to arrest Jesus immediately. They knew He had told this teaching story against them. But they were afraid of the people."
-      },
-      {
-        "n": 20,
-        "text": "Keeping a close watch on Him, they sent spies who pretended to be sincere. They hoped to catch Jesus in something He said, so that they could hand Him over to the power and authority of the Roman governor."
-      },
-      {
-        "n": 21,
-        "text": "The spies then asked Jesus: Teacher, we know that what You say and teach is true. It does not matter who is listening, You teach the same to all people. You always teach the truth about God's way."
-      },
-      {
-        "n": 22,
-        "text": "Now tell us: Is it right to pay taxes to Caesar? Must we pay taxes to him or not?"
-      },
-      {
-        "n": 23,
-        "text": "But Jesus knew that these men were trying to trick Him. Jesus said to them: Why are you trying to test me?"
-      },
-      {
-        "n": 24,
-        "text": "Show me a coin, Jesus said. Whose head and whose name is on this money? They answered him: It is Caesar's head and his name."
-      },
-      {
-        "n": 25,
-        "text": "Jesus said to the spies: That is right. Then you must give to Caesar what belongs to him, but you must also give to God what belongs to Him."
-      },
-      {
-        "n": 26,
-        "text": "The men were amazed at His wise answer. They could say nothing. They were not able to trick Jesus there in front of the people. He said nothing they could use against Him."
-      },
-      {
-        "n": 27,
-        "text": "Some of the Sadducees, who believe that people will not rise from death, came to Jesus and said:"
-      },
-      {
-        "n": 28,
-        "text": "Teacher, Moses wrote that if a married man dies and has no children, his brother must marry his widow. Then they will have children for the dead brother."
-      },
-      {
-        "n": 29,
-        "text": "Now, there were seven brothers. The oldest brother married a woman, but he died, and they did not have any children."
-      },
-      {
-        "n": 30,
-        "text": "The 2nd brother then married the widow of the oldest brother, but he also died, and they did not have any children."
-      },
-      {
-        "n": 31,
-        "text": "The same happened with the third brother. He also married her, and he died. It happened to all seven brothers. All of them married this woman but they did not have any children."
-      },
-      {
-        "n": 32,
-        "text": "Later, the woman also died."
-      },
-      {
-        "n": 33,
-        "text": "Now we ask You, Jesus: Whose wife will this woman be when all the dead people rise and live again? Because all of these seven brothers were married to her."
-      },
-      {
-        "n": 34,
-        "text": "Jesus said to the Sadducees: In this life people get married."
-      },
-      {
-        "n": 35,
-        "text": "But when God is King, He will give life to all the people who have believed in Jesus and have died. Then people will neither marry nor be given in marriage."
-      },
-      {
-        "n": 36,
-        "text": "They will be like the angels in heaven who do not die and who live with God in heaven. They will be children of God because God gave them life and made them live again."
-      },
-      {
-        "n": 37,
-        "text": "Moses also said that people who have died will rise and live again. He wrote about it when he spoke about the burning bush. There God said to Moses: I am the God of Abraham, the God of Isaac and the God of Jacob."
-      },
-      {
-        "n": 38,
-        "text": "God is not the God of dead people. He is the God of people who live."
-      },
-      {
-        "n": 39,
-        "text": "Some of the teachers of the law responded: Well said, teacher!"
-      },
-      {
-        "n": 40,
-        "text": "From that day on the people were afraid to ask Jesus any more questions."
-      },
-      {
-        "n": 41,
-        "text": "Then Jesus said to them: Why is it said that the Messiah is the son of David?"
-      },
-      {
-        "n": 42,
-        "text": "David says in the book of Psalms: The Lord God said to my Lord: Sit by me at my right side,"
-      },
-      {
-        "n": 43,
-        "text": "I will make your enemies bow before you. You will put your feet on them."
-      },
-      {
-        "n": 44,
-        "text": "David calls Him Lord. How then can He be His son?"
-      },
-      {
-        "n": 45,
-        "text": "While all the people were listening, Jesus said to his disciples,"
-      },
-      {
-        "n": 46,
-        "text": "Watch out for the teachers of the law. They like to walk around in flowing robes. They love to be greeted with respect in the marketplaces. They love the most important seats in the synagogues and the places of honor at banquets."
-      },
-      {
-        "n": 47,
-        "text": "They devour widows' houses and for a show make lengthy prayers. Such people will be punished most severely."
-      }
+      { "n": 1, "text": "And it came to pass (happened), that on one of those days, as Jesus taught the people in the temple, and preached the gospel (good news), the chief priests and the scribes (teachers of the law) came upon Him with the elders," },
+      { "n": 2, "text": "And spoke to Him, saying: Tell us, by what authority do You do these things? Or who is he who gave You this authority?" },
+      { "n": 3, "text": "And Jesus answered and said to them: I will also ask you one thing, and answer Me:" },
+      { "n": 4, "text": "The baptism of John, was it from heaven, or of men?" },
+      { "n": 5, "text": "And they reasoned with themselves, saying: If we will say: From heaven, He will say: Why then did you not believe him?" },
+      { "n": 6, "text": "But if we say: Of men, all the people will stone us. For they are persuaded that John was a prophet." },
+      { "n": 7, "text": "And they answered, that they could not tell where it was from." },
+      { "n": 8, "text": "And Jesus said to them: Neither do I tell you by what authority I do these things." },
+      { "n": 9, "text": "Then Jesus began to speak to the people this parable (story that teaches a lesson): A certain man planted a vineyard (grape farm), and let it forth (rented it) to husbandmen (farmers), and went into a far country for a long time." },
+      { "n": 10, "text": "And at the season he sent a servant to the husbandmen (farmers), that they should give him of the fruit of the vineyard. But the husbandmen beat him, and sent him away empty." },
+      { "n": 11, "text": "And again he sent another servant. And they beat him also, and entreated him shamefully (treated him with shame), and sent him away empty." },
+      { "n": 12, "text": "And again he sent a third. And they wounded him also, and cast him out." },
+      { "n": 13, "text": "Then the lord (owner) of the vineyard said: What will I do? I will send my beloved (dearly loved) son. It may be they will reverence (respect) him when they see him." },
+      { "n": 14, "text": "But when the husbandmen (farmers) saw him, they reasoned among themselves, saying: This is the heir (the one who will own it all). Come, let us kill him, that the inheritance may be ours." },
+      { "n": 15, "text": "So they cast him out of the vineyard, and killed him. What therefore will the lord (owner) of the vineyard do to them?" },
+      { "n": 16, "text": "He will come and destroy these husbandmen (farmers), and will give the vineyard to others. And when they heard it, they said: God forbid (may it never be)." },
+      { "n": 17, "text": "And Jesus beheld (looked at) them, and said: What is this then that is written: The stone which the builders rejected, the same has become the head of the corner (the most important stone)?" },
+      { "n": 18, "text": "Whoever will fall upon that stone will be broken. But on whomever it will fall, it will grind them to powder." },
+      { "n": 19, "text": "And the chief priests and the scribes (teachers of the law) the same hour sought (tried) to lay hands on Jesus, and they feared the people. For they perceived (knew) that He had spoken this parable against them." },
+      { "n": 20, "text": "And they watched Jesus, and sent forth spies, who should feign (pretend) themselves just (good) men, that they might take hold of His words, that so they might deliver (hand over) Him to the power and authority of the governor." },
+      { "n": 21, "text": "And they asked Him, saying: Master (Teacher), we know that You say and teach rightly, neither do You accept the person of any (favor anyone), but teach the way of God truly." },
+      { "n": 22, "text": "Is it lawful (allowed by the law) for us to give tribute (tax) to Caesar, or no?" },
+      { "n": 23, "text": "But Jesus perceived (saw) their craftiness (trickery), and said to them: Why do you tempt (test) Me?" },
+      { "n": 24, "text": "Show Me a penny (a coin worth a day's pay). Whose image (picture) and superscription (writing) does it have? They answered and said: Caesar's." },
+      { "n": 25, "text": "And Jesus said to them: Render (give) therefore to Caesar the things which are Caesar's, and to God the things which are God's." },
+      { "n": 26, "text": "And they could not take hold of His words before the people. And they marvelled (were amazed) at His answer, and held their peace (were quiet)." },
+      { "n": 27, "text": "Then came to Jesus certain of the Sadducees, who deny that there is any resurrection (rising from the dead). And they asked Him," },
+      { "n": 28, "text": "Saying: Master (Teacher), Moses wrote to us: If any man's brother dies, having a wife, and he dies without children, that his brother should take his wife, and raise up seed (children) to his brother." },
+      { "n": 29, "text": "There were therefore 7 brothers. And the first took a wife, and died without children." },
+      { "n": 30, "text": "And the second took her as wife, and he died childless." },
+      { "n": 31, "text": "And the third took her. And in the same way the 7 also. And they left no children, and died." },
+      { "n": 32, "text": "Last of all the woman died also." },
+      { "n": 33, "text": "Therefore in the resurrection (rising from the dead) whose wife of them is she? For 7 had her as wife." },
+      { "n": 34, "text": "And Jesus answering said to them: The children of this world marry, and are given in marriage." },
+      { "n": 35, "text": "But they who will be accounted (counted) worthy to obtain that world, and the resurrection (rising) from the dead, neither marry, nor are given in marriage." },
+      { "n": 36, "text": "Neither can they die any more. For they are equal to the angels, and are the children of God, being the children of the resurrection (rising from the dead)." },
+      { "n": 37, "text": "Now that the dead are raised, even Moses showed at the bush, when he calls the Lord the God of Abraham, and the God of Isaac, and the God of Jacob." },
+      { "n": 38, "text": "For He is not a God of the dead, but of the living. For all live to Him." },
+      { "n": 39, "text": "Then certain of the scribes (teachers of the law) answering said: Master (Teacher), You have well said." },
+      { "n": 40, "text": "And after that they durst (dared) not ask Him any question at all." },
+      { "n": 41, "text": "And Jesus said to them: How do they say that Christ is David's son?" },
+      { "n": 42, "text": "And David himself says in the book of Psalms: The LORD said to my Lord: Sit on My right hand," },
+      { "n": 43, "text": "Till I make Your enemies Your footstool (a place to rest Your feet)." },
+      { "n": 44, "text": "David therefore calls Him Lord. How is He then his son?" },
+      { "n": 45, "text": "Then in the audience (hearing) of all the people Jesus said to His disciples:" },
+      { "n": 46, "text": "Beware of the scribes (teachers of the law), who desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues (meeting houses), and the chief rooms (best places) at feasts," },
+      { "n": 47, "text": "Who devour (eat up) widows' houses, and for a show make long prayers. The same will receive greater damnation (punishment)." }
     ],
     "sourceUrl": "https://kjvdeaf.com/luke-chapter-20/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed two merged-verse numbering bugs (5/6, 31/32), a stray text fragment, and several grammar issues.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "21": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers the widow's offering (praised for giving out of her poverty), and Jesus' Olivet Discourse: the prediction of the temple's destruction, signs of persecution and the end times, and the coming of the Son of Man.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "As Jesus looked up, He saw the rich putting their gifts into the temple treasury."
-      },
-      {
-        "n": 2,
-        "text": "He also saw a poor widow put in two very small copper coins."
-      },
-      {
-        "n": 3,
-        "text": "Truly I tell you, He said, this poor widow has put in more than all the others."
-      },
-      {
-        "n": 4,
-        "text": "All these people gave their gifts out of their wealth, but she out of her poverty put in all she had to live on."
-      },
-      {
-        "n": 5,
-        "text": "Some of His disciples were remarking about how the temple was adorned with beautiful stones and with gifts dedicated to God. But Jesus said,"
-      },
-      {
-        "n": 6,
-        "text": "As for what you see here, the time will come when not one stone will be left on another. Every one of them will be thrown down."
-      },
-      {
-        "n": 7,
-        "text": "Teacher, they asked, when will these things happen? And what will be the sign that they are about to take place?"
-      },
-      {
-        "n": 8,
-        "text": "He replied: Watch out that you are not deceived. For many will come in my name, claiming: I am He, and: The time is near. Do not follow them."
-      },
-      {
-        "n": 9,
-        "text": "When you hear of wars and uprisings, do not be frightened. These things must happen first, but the end will not come right away."
-      },
-      {
-        "n": 10,
-        "text": "Then He said to them: Nation will rise against nation, and kingdom against kingdom."
-      },
-      {
-        "n": 11,
-        "text": "There will be great earthquakes, famines, and plagues in various places, and fearful events and great signs from heaven."
-      },
-      {
-        "n": 12,
-        "text": "But before all this, they will seize you and persecute you. They will hand you over to synagogues and put you in prison. You will be brought before kings and governors on account of my name."
-      },
-      {
-        "n": 13,
-        "text": "And so you will bear testimony to me."
-      },
-      {
-        "n": 14,
-        "text": "But make up your mind not to worry beforehand how you will defend yourselves."
-      },
-      {
-        "n": 15,
-        "text": "For I will give you words and wisdom that none of your adversaries will be able to resist or contradict."
-      },
-      {
-        "n": 16,
-        "text": "You will be betrayed even by parents, brothers and sisters, relatives and friends, and they will put some of you to death."
-      },
-      {
-        "n": 17,
-        "text": "Everyone will hate you because of me."
-      },
-      {
-        "n": 18,
-        "text": "But not a hair of your head will perish."
-      },
-      {
-        "n": 19,
-        "text": "Stand firm, and you will win life."
-      },
-      {
-        "n": 20,
-        "text": "When you see Jerusalem surrounded by armies, you will know that its desolation is near."
-      },
-      {
-        "n": 21,
-        "text": "Then let those who are in Judea flee to the mountains. Let those in the city get out. Let those in the country not enter the city."
-      },
-      {
-        "n": 22,
-        "text": "For this is the time of punishment in fulfillment of all that has been written."
-      },
-      {
-        "n": 23,
-        "text": "How dreadful it will be in those days for pregnant women and nursing mothers! There will be great distress in the land and wrath against this people."
-      },
-      {
-        "n": 24,
-        "text": "They will fall by the sword and will be taken as prisoners to all the nations. Jerusalem will be trampled on by the Gentiles until the times of the Gentiles are fulfilled."
-      },
-      {
-        "n": 25,
-        "text": "There will be signs in the sun, moon, and stars. On the earth, nations will be in anguish and perplexity at the roaring and tossing of the sea."
-      },
-      {
-        "n": 26,
-        "text": "People will faint from terror, apprehensive of what is coming on the world, for the heavenly bodies will be shaken."
-      },
-      {
-        "n": 27,
-        "text": "At that time they will see the Son of Man coming in a cloud with power and great glory."
-      },
-      {
-        "n": 28,
-        "text": "When these things begin to take place, stand up and lift up your heads, because your redemption is drawing near."
-      },
-      {
-        "n": 29,
-        "text": "Jesus told them this teaching story: Look at the fig tree and all the trees."
-      },
-      {
-        "n": 30,
-        "text": "When they sprout leaves, you can see for yourselves and know that summer is near."
-      },
-      {
-        "n": 31,
-        "text": "Even so, when you see these things happening, you know that the kingdom of God is near."
-      },
-      {
-        "n": 32,
-        "text": "Truly I tell you, this generation will certainly not pass away until all these things have happened."
-      },
-      {
-        "n": 33,
-        "text": "Heaven and earth will pass away, but my words will never pass away."
-      },
-      {
-        "n": 34,
-        "text": "Be careful, or your hearts will be weighed down with wild parties, drunkenness, and the worries of life. That day will close on you suddenly like a trap."
-      },
-      {
-        "n": 35,
-        "text": "For it will come on all those who live on the face of the whole earth."
-      },
-      {
-        "n": 36,
-        "text": "Always be on the watch. Pray that you will be able to escape all that is about to happen. Pray that you will be able to stand before the Son of Man."
-      },
-      {
-        "n": 37,
-        "text": "Each day Jesus was teaching at the temple, and each evening He went out to spend the night on the hill called the Mount of Olives,"
-      },
-      {
-        "n": 38,
-        "text": "And all the people came early in the morning to hear Him at the temple."
-      }
+      { "n": 1, "text": "And Jesus looked up, and saw the rich men casting their gifts into the treasury (temple money box)." },
+      { "n": 2, "text": "And Jesus saw also a certain poor widow casting in there 2 mites (smallest coins)." },
+      { "n": 3, "text": "And Jesus said: Of a truth I say to you, that this poor widow has cast in more than they all." },
+      { "n": 4, "text": "For all these have of their abundance (extra) cast in to the offerings of God. But she of her penury (being poor) has cast in all the living (money to live on) that she had." },
+      { "n": 5, "text": "And as some spoke of the temple, how it was adorned (decorated) with goodly (beautiful) stones and gifts, Jesus said:" },
+      { "n": 6, "text": "As for these things which you behold (see), the days will come, in which there will not be left one stone upon another, that will not be thrown down." },
+      { "n": 7, "text": "And they asked Jesus, saying: Master (Teacher), but when will these things be? And what sign will there be when these things will come to pass (happen)?" },
+      { "n": 8, "text": "And Jesus said: Take heed (be careful) that you are not deceived (fooled). For many will come in My name, saying: I am Christ. And the time draws near. Do not go therefore after them." },
+      { "n": 9, "text": "But when you will hear of wars and commotions (riots), be not terrified. For these things must first come to pass (happen). But the end is not by and by (right away)." },
+      { "n": 10, "text": "Then Jesus said to them: Nation will rise against nation, and kingdom against kingdom." },
+      { "n": 11, "text": "And great earthquakes will be in divers (many different) places, and famines (times of no food), and pestilences (deadly sicknesses). And fearful sights and great signs will there be from heaven." },
+      { "n": 12, "text": "But before all these, they will lay their hands on you, and persecute (attack) you, delivering (handing) you up to the synagogues (meeting houses), and into prisons, being brought before kings and rulers for My name's sake." },
+      { "n": 13, "text": "And it will turn to you for a testimony (a chance to tell about Me)." },
+      { "n": 14, "text": "Settle it therefore in your hearts, not to meditate before (plan ahead) what you will answer." },
+      { "n": 15, "text": "For I will give you a mouth and wisdom, which all your adversaries (enemies) will not be able to gainsay (argue against) nor resist." },
+      { "n": 16, "text": "And you will be betrayed both by parents, and brothers, and kinsfolks (relatives), and friends. And some of you they will cause to be put to death." },
+      { "n": 17, "text": "And you will be hated by all men for My name's sake." },
+      { "n": 18, "text": "But there will not a hair of your head perish (be lost)." },
+      { "n": 19, "text": "In your patience possess (keep) your souls." },
+      { "n": 20, "text": "And when you will see Jerusalem compassed (surrounded) with armies, then know that the desolation (ruin) of it is nigh (near)." },
+      { "n": 21, "text": "Then let them who are in Judaea flee (run away) to the mountains. And let them who are in the middle of it depart out. And let not them who are in the countries (fields) enter into it." },
+      { "n": 22, "text": "For these are the days of vengeance (punishment), that all things which are written may be fulfilled (come true)." },
+      { "n": 23, "text": "But woe (great trouble) to them who are with child (pregnant), and to them who give suck (nurse babies), in those days. For there will be great trouble in the land, and wrath (anger) upon this people." },
+      { "n": 24, "text": "And they will fall by the edge of the sword, and will be led away captive (as prisoners) into all nations. And Jerusalem will be trodden down by the Gentiles (people who are not Jews), until the times of the Gentiles are fulfilled (finished)." },
+      { "n": 25, "text": "And there will be signs in the sun, and in the moon, and in the stars. And upon the earth trouble of nations, with perplexity (confusion), the sea and the waves roaring," },
+      { "n": 26, "text": "Men's hearts failing them for fear, and for looking after those things which are coming on the earth. For the powers of heaven will be shaken." },
+      { "n": 27, "text": "And then they will see the Son of man coming in a cloud with power and great glory." },
+      { "n": 28, "text": "And when these things begin to come to pass (happen), then look up, and lift up your heads. For your redemption (being bought back and set free) draws nigh (near)." },
+      { "n": 29, "text": "And Jesus spoke to them a parable (story that teaches a lesson): Behold (look at) the fig tree, and all the trees." },
+      { "n": 30, "text": "When they now shoot forth (put out leaves), you see and know of your own selves that summer is now nigh (near) at hand." },
+      { "n": 31, "text": "So likewise you, when you see these things come to pass (happen), know that the kingdom of God is nigh (near) at hand." },
+      { "n": 32, "text": "Verily (truly) I say to you: This generation (people living now) will not pass away, till all is fulfilled (has come true)." },
+      { "n": 33, "text": "Heaven and earth will pass away. But My words will not pass away." },
+      { "n": 34, "text": "And take heed (be careful) to yourselves, so that at no time your hearts are overcharged (weighed down) with surfeiting (eating and drinking too much), and drunkenness, and cares (worries) of this life, and so that day comes upon you unawares (by surprise)." },
+      { "n": 35, "text": "For as a snare (trap) it will come on all them who dwell (live) on the face of the whole earth." },
+      { "n": 36, "text": "Watch therefore, and pray always, that you may be accounted (counted) worthy to escape all these things that will come to pass (happen), and to stand before the Son of man." },
+      { "n": 37, "text": "And in the day time Jesus was teaching in the temple. And at night He went out, and abode (stayed) in the mount that is called the mount of Olives." },
+      { "n": 38, "text": "And all the people came early in the morning to Jesus in the temple, to hear Him." }
     ]
   },
   "22": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers Judas' betrayal deal, the Last Supper and the dispute over who is greatest, Jesus' prediction of Peter's denial, Gethsemane (including the angel and the sweat like drops of blood), the arrest and healing of the servant's ear, Peter's three denials, and the trial before the Sanhedrin.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Now the Festival of Unleavened Bread, called the Passover, was approaching,"
-      },
-      {
-        "n": 2,
-        "text": "And the chief priests and the teachers of the law were looking for some way to get rid of Jesus, for they were afraid of the people."
-      },
-      {
-        "n": 3,
-        "text": "Then Satan entered Judas, called Iscariot, one of the Twelve."
-      },
-      {
-        "n": 4,
-        "text": "Judas went to the chief priests and the officers of the temple guard and discussed with them how he might betray Jesus."
-      },
-      {
-        "n": 5,
-        "text": "They were delighted and agreed to give him money."
-      },
-      {
-        "n": 6,
-        "text": "He consented, and watched for an opportunity to hand Jesus over to them when no crowd was present."
-      },
-      {
-        "n": 7,
-        "text": "Then came the day of Unleavened Bread on which the Passover lamb had to be sacrificed."
-      },
-      {
-        "n": 8,
-        "text": "Jesus sent Peter and John, saying: Go and make preparations for us to eat the Passover."
-      },
-      {
-        "n": 9,
-        "text": "Where do you want us to prepare for it? they asked."
-      },
-      {
-        "n": 10,
-        "text": "He replied: As you enter the city, a man carrying a jar of water will meet you. Follow him to the house that he enters,"
-      },
-      {
-        "n": 11,
-        "text": "And say to the owner of the house: The Teacher asks: Where is the guest room, where I may eat the Passover with my disciples?"
-      },
-      {
-        "n": 12,
-        "text": "He will show you a large room upstairs, all furnished. Make preparations there."
-      },
-      {
-        "n": 13,
-        "text": "They went and found things just as Jesus had told them, and they prepared the Passover."
-      },
-      {
-        "n": 14,
-        "text": "When the hour came, Jesus and His apostles reclined at the table."
-      },
-      {
-        "n": 15,
-        "text": "And He said to them: I have eagerly desired to eat this Passover with you before I suffer."
-      },
-      {
-        "n": 16,
-        "text": "For I tell you, I will not eat it again until it finds fulfillment in the kingdom of God."
-      },
-      {
-        "n": 17,
-        "text": "After taking the cup, He gave thanks and said: Take this and divide it among you."
-      },
-      {
-        "n": 18,
-        "text": "For I tell you, I will not drink again from the fruit of the vine until the kingdom of God comes."
-      },
-      {
-        "n": 19,
-        "text": "And He took bread, gave thanks and broke it, and gave it to them, saying: This is my body given for you. Do this in remembrance of me."
-      },
-      {
-        "n": 20,
-        "text": "In the same way, after the supper He took the cup, saying: This cup is the new agreement in my blood, which is poured out for you."
-      },
-      {
-        "n": 21,
-        "text": "But the hand of him who is going to betray me is with mine on the table."
-      },
-      {
-        "n": 22,
-        "text": "The Son of Man will go as it has been decreed, but woe to that man who betrays him."
-      },
-      {
-        "n": 23,
-        "text": "They began to question among themselves which of them it might be who would do this."
-      },
-      {
-        "n": 24,
-        "text": "A dispute also arose among them as to which of them was considered to be greatest."
-      },
-      {
-        "n": 25,
-        "text": "Jesus said to them: The kings of the Gentiles lord it over them, and those who exercise authority over them call themselves benefactors."
-      },
-      {
-        "n": 26,
-        "text": "But you are not to be like that. Instead, the greatest among you should be like the youngest, and the one who rules like the one who serves."
-      },
-      {
-        "n": 27,
-        "text": "For who is greater, the one who is at the table or the one who serves? Is it not the one who is at the table? But I am among you as one who serves."
-      },
-      {
-        "n": 28,
-        "text": "You are those who have stood by me in my trials."
-      },
-      {
-        "n": 29,
-        "text": "And I confer on you a kingdom, just as my Father conferred one on me,"
-      },
-      {
-        "n": 30,
-        "text": "So that you may eat and drink at my table in my kingdom and sit on thrones, judging the twelve tribes of Israel."
-      },
-      {
-        "n": 31,
-        "text": "Simon, Simon, Satan has asked to sift all of you as wheat."
-      },
-      {
-        "n": 32,
-        "text": "But I have prayed for you, Simon, that your faith may not fail. And when you have turned back, strengthen your brothers."
-      },
-      {
-        "n": 33,
-        "text": "But he replied: Lord, I am ready to go with you to prison and to death."
-      },
-      {
-        "n": 34,
-        "text": "Jesus answered: I tell you, Peter, before the rooster crows today, you will deny three times that you know me."
-      },
-      {
-        "n": 35,
-        "text": "Then Jesus asked them: When I sent you without purse, bag, or sandals, did you lack anything? Nothing, they answered."
-      },
-      {
-        "n": 36,
-        "text": "He said to them: But now, if you have a purse, take it, and also a bag. And if you do not have a sword, sell your cloak and buy one."
-      },
-      {
-        "n": 37,
-        "text": "It is written: He was numbered with the transgressors. I tell you that this must be fulfilled in me. Yes, what is written about me is reaching its fulfillment."
-      },
-      {
-        "n": 38,
-        "text": "The disciples said: See, Lord, here are two swords. That is enough, He replied."
-      },
-      {
-        "n": 39,
-        "text": "Jesus went out as usual to the Mount of Olives, and His disciples followed Him."
-      },
-      {
-        "n": 40,
-        "text": "On reaching the place, He said to them: Pray that you will not fall into temptation."
-      },
-      {
-        "n": 41,
-        "text": "He withdrew about a stone's throw beyond them, knelt down and prayed,"
-      },
-      {
-        "n": 42,
-        "text": "Father, if you are willing, take this cup from me. Yet not my will, but yours be done."
-      },
-      {
-        "n": 43,
-        "text": "An angel from heaven appeared to Him and strengthened Him."
-      },
-      {
-        "n": 44,
-        "text": "And being in anguish, He prayed more earnestly, and His sweat was like drops of blood falling to the ground."
-      },
-      {
-        "n": 45,
-        "text": "When He rose from prayer and went back to the disciples, He found them asleep, exhausted from sorrow."
-      },
-      {
-        "n": 46,
-        "text": "Why are you sleeping? He asked them. Get up and pray so that you will not fall into temptation."
-      },
-      {
-        "n": 47,
-        "text": "While He was still speaking, a crowd came, and the man who was called Judas, one of the Twelve, was leading them. He approached Jesus to kiss Him,"
-      },
-      {
-        "n": 48,
-        "text": "But Jesus asked him: Judas, are you betraying the Son of Man with a kiss?"
-      },
-      {
-        "n": 49,
-        "text": "When Jesus' followers saw what was going to happen, they said: Lord, should we strike with our swords?"
-      },
-      {
-        "n": 50,
-        "text": "And one of them struck the servant of the high priest, cutting off his right ear."
-      },
-      {
-        "n": 51,
-        "text": "But Jesus answered: No more of this! And He touched the man's ear and healed him."
-      },
-      {
-        "n": 52,
-        "text": "Jesus spoke to the chief priests, temple officers, and elders coming for Him. He asked: Am I leading a rebellion? Is that why you have come with swords and clubs?"
-      },
-      {
-        "n": 53,
-        "text": "Every day I was with you in the temple courts, and you did not lay a hand on me. But this is your hour, when darkness reigns."
-      },
-      {
-        "n": 54,
-        "text": "Then seizing Him, they led Him away and took Him into the house of the high priest. Peter followed at a distance."
-      },
-      {
-        "n": 55,
-        "text": "And when some there had kindled a fire in the middle of the courtyard and had sat down together, Peter sat down with them."
-      },
-      {
-        "n": 56,
-        "text": "A servant girl saw him seated there in the firelight. She looked closely at him and said: This man was with him."
-      },
-      {
-        "n": 57,
-        "text": "But he denied it: Woman, I do not know him."
-      },
-      {
-        "n": 58,
-        "text": "A little later someone else saw him and said: You also are one of them. Man, I am not! Peter replied."
-      },
-      {
-        "n": 59,
-        "text": "About an hour later another asserted: Certainly this fellow was with him, for he is a Galilean."
-      },
-      {
-        "n": 60,
-        "text": "Peter replied: Man, I do not know what you are talking about! Just as he was speaking, the rooster crowed."
-      },
-      {
-        "n": 61,
-        "text": "The Lord turned and looked straight at Peter. Then Peter remembered the word the Lord had spoken to him: Before the rooster crows today, you will disown me three times."
-      },
-      {
-        "n": 62,
-        "text": "And he went outside and wept bitterly."
-      },
-      {
-        "n": 63,
-        "text": "The men who were guarding Jesus began mocking and beating Him."
-      },
-      {
-        "n": 64,
-        "text": "They blindfolded Him and demanded: Prophesy! Who hit You?"
-      },
-      {
-        "n": 65,
-        "text": "And they said many other insulting things to Him."
-      },
-      {
-        "n": 66,
-        "text": "At daybreak the council of the elders of the people met together. It included both the chief priests and the teachers of the law. Then Jesus was led before them."
-      },
-      {
-        "n": 67,
-        "text": "If you are the Messiah, tell us, they said. Jesus answered: If I tell you, you will not believe me,"
-      },
-      {
-        "n": 68,
-        "text": "And if I asked you, you would not answer."
-      },
-      {
-        "n": 69,
-        "text": "But from now on, the Son of Man will be seated at the right hand of the mighty God."
-      },
-      {
-        "n": 70,
-        "text": "They all asked: Are you then the Son of God? He replied: You say that I am."
-      },
-      {
-        "n": 71,
-        "text": "Then they said: Why do we need any more testimony? We have heard it ourselves from His own lips."
-      }
+      { "n": 1, "text": "Now the feast of unleavened bread (bread made without yeast) drew nigh (near), which is called the Passover (feast of freedom from Egypt)." },
+      { "n": 2, "text": "And the chief priests and scribes (teachers of the law) sought (looked for a way) how they might kill Jesus, for they feared the people." },
+      { "n": 3, "text": "Then Satan entered into Judas surnamed (also called) Iscariot, being of the number of the 12." },
+      { "n": 4, "text": "And Judas went his way, and communed (talked) with the chief priests and captains, how he might betray (hand over) Jesus to them." },
+      { "n": 5, "text": "And they were glad, and covenanted (agreed) to give him money." },
+      { "n": 6, "text": "And Judas promised, and sought opportunity (looked for a chance) to betray (hand over) Jesus to them in the absence of the multitude (crowd)." },
+      { "n": 7, "text": "Then came the day of unleavened bread (bread made without yeast), when the passover (lamb) must be killed." },
+      { "n": 8, "text": "And Jesus sent Peter and John, saying: Go and prepare us the passover (meal), that we may eat." },
+      { "n": 9, "text": "And they said to Him: Where will You have us prepare?" },
+      { "n": 10, "text": "And Jesus said to them: Look, when you have entered into the city, there will a man meet you, bearing (carrying) a pitcher of water. Follow him into the house where he enters in." },
+      { "n": 11, "text": "And you will say to the goodman (owner) of the house: The Master (Teacher) says to you: Where is the guestchamber (guest room), where I will eat the passover with My disciples?" },
+      { "n": 12, "text": "And he will show you a large upper room furnished. There make ready." },
+      { "n": 13, "text": "And they went, and found as Jesus had said to them. And they made ready the passover." },
+      { "n": 14, "text": "And when the hour had come, Jesus sat down, and the 12 apostles (sent ones) with Him." },
+      { "n": 15, "text": "And Jesus said to them: With desire I have desired (I have wanted very much) to eat this passover with you before I suffer." },
+      { "n": 16, "text": "For I say to you, I will not any more eat of it, until it is fulfilled in the kingdom of God." },
+      { "n": 17, "text": "And Jesus took the cup, and gave thanks, and said: Take this, and divide it among yourselves." },
+      { "n": 18, "text": "For I say to you, I will not drink of the fruit of the vine, until the kingdom of God will come." },
+      { "n": 19, "text": "And Jesus took bread, and gave thanks, and broke it, and gave to them, saying: This is My body which is given for you. Do this in remembrance of Me." },
+      { "n": 20, "text": "Likewise also the cup after supper, saying: This cup is the new testament (new agreement) in My blood, which is shed for you." },
+      { "n": 21, "text": "But look, the hand of him who betrays (hands over) Me is with Me on the table." },
+      { "n": 22, "text": "And truly the Son of man goes, as it was determined (planned). But woe (great trouble) to that man by whom He is betrayed (handed over)." },
+      { "n": 23, "text": "And they began to enquire (ask) among themselves, which of them it was who would do this thing." },
+      { "n": 24, "text": "And there was also a strife (argument) among them, which of them should be accounted (counted) the greatest." },
+      { "n": 25, "text": "And Jesus said to them: The kings of the Gentiles (people who are not Jews) exercise lordship (rule) over them. And they who exercise authority upon them are called benefactors (people who do good)." },
+      { "n": 26, "text": "But you will not be so. But the one who is greatest among you, let them be as the younger. And the one who is chief (leader), as the one who serves." },
+      { "n": 27, "text": "For which is greater, the one who sits at meat (the meal), or the one who serves? Is it not the one who sits at meat? But I am among you as the one who serves." },
+      { "n": 28, "text": "You are they who have continued with Me in My temptations (testings)." },
+      { "n": 29, "text": "And I appoint (give) to you a kingdom, as My Father has appointed to Me," },
+      { "n": 30, "text": "That you may eat and drink at My table in My kingdom, and sit on thrones judging the 12 tribes of Israel." },
+      { "n": 31, "text": "And the Lord said: Simon, Simon, look, Satan has desired (asked) to have you, that he may sift (shake) you as wheat." },
+      { "n": 32, "text": "But I have prayed for you, that your faith will not fail. And when you are converted (turned back), strengthen your brothers." },
+      { "n": 33, "text": "And Peter said to Him: Lord, I am ready to go with You, both into prison, and to death." },
+      { "n": 34, "text": "And Jesus said: I tell you, Peter, the cock (rooster) will not crow this day, before you will thrice (3 times) deny (say you do not know) that you know Me." },
+      { "n": 35, "text": "And Jesus said to them: When I sent you without purse (money belt), and scrip (traveling bag), and shoes, did you lack anything? And they said: Nothing." },
+      { "n": 36, "text": "Then Jesus said to them: But now, the one who has a purse (money belt), let them take it, and likewise their scrip (traveling bag). And the one who has no sword, let them sell their garment (coat), and buy one." },
+      { "n": 37, "text": "For I say to you, that this that is written must yet be accomplished (come true) in Me: And He was reckoned (counted) among the transgressors (lawbreakers). For the things about Me have an end (are coming true)." },
+      { "n": 38, "text": "And they said: Lord, look, here are 2 swords. And Jesus said to them: It is enough." },
+      { "n": 39, "text": "And Jesus came out, and went, as He was wont (used to do), to the mount of Olives. And His disciples also followed Him." },
+      { "n": 40, "text": "And when Jesus was at the place, He said to them: Pray that you do not enter into temptation (testing)." },
+      { "n": 41, "text": "And Jesus was withdrawn from them about a stone's cast (as far as a stone can be thrown), and kneeled down, and prayed," },
+      { "n": 42, "text": "Saying: Father, if You are willing, remove this cup from Me. Nevertheless (but) not My will, but Yours, be done." },
+      { "n": 43, "text": "And there appeared an angel to Jesus from heaven, strengthening Him." },
+      { "n": 44, "text": "And being in an agony (great pain and struggle) Jesus prayed more earnestly (strongly). And His sweat was as it were great drops of blood falling down to the ground." },
+      { "n": 45, "text": "And when Jesus rose up from prayer, and had come to His disciples, He found them sleeping for sorrow (sadness)," },
+      { "n": 46, "text": "And said to them: Why do you sleep? Rise and pray, so that you do not enter into temptation (testing)." },
+      { "n": 47, "text": "And while Jesus yet spoke, look, a multitude (crowd), and he who was called Judas, one of the 12, went before them, and drew near to Jesus to kiss Him." },
+      { "n": 48, "text": "But Jesus said to him: Judas, do you betray (hand over) the Son of man with a kiss?" },
+      { "n": 49, "text": "When they who were about Jesus saw what would follow, they said to Him: Lord, will we smite (strike) with the sword?" },
+      { "n": 50, "text": "And one of them smote (struck) the servant of the high priest, and cut off his right ear." },
+      { "n": 51, "text": "And Jesus answered and said: Suffer (allow) this far. And Jesus touched his ear, and healed him." },
+      { "n": 52, "text": "Then Jesus said to the chief priests, and captains of the temple, and the elders, who had come to Him: Have you come out, as against a thief, with swords and staves (clubs)?" },
+      { "n": 53, "text": "When I was daily with you in the temple, you stretched forth no hands against Me. But this is your hour, and the power of darkness." },
+      { "n": 54, "text": "Then they took Jesus, and led Him, and brought Him into the high priest's house. And Peter followed afar off (far behind)." },
+      { "n": 55, "text": "And when they had kindled (lit) a fire in the middle of the hall, and were set down together, Peter sat down among them." },
+      { "n": 56, "text": "But a certain maid (servant girl) beheld (saw) Peter as he sat by the fire, and earnestly looked upon him, and said: This man was also with Him." },
+      { "n": 57, "text": "And Peter denied Him, saying: Woman, I do not know Him." },
+      { "n": 58, "text": "And after a little while another saw him, and said: You are also of them. And Peter said: Man, I am not." },
+      { "n": 59, "text": "And about the space of one hour after, another confidently affirmed (said strongly), saying: Of a truth this fellow also was with Him, for he is a Galilaean." },
+      { "n": 60, "text": "And Peter said: Man, I do not know what you say. And immediately, while he yet spoke, the cock (rooster) crowed." },
+      { "n": 61, "text": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how He had said to him: Before the cock (rooster) crows, you will deny Me thrice (3 times)." },
+      { "n": 62, "text": "And Peter went out, and wept bitterly." },
+      { "n": 63, "text": "And the men who held Jesus mocked Him, and smote (struck) Him." },
+      { "n": 64, "text": "And when they had blindfolded Him, they struck Him on the face, and asked Him, saying: Prophesy (tell us by God's power), who is it who smote (struck) You?" },
+      { "n": 65, "text": "And many other things they spoke blasphemously (with words against God) against Him." },
+      { "n": 66, "text": "And as soon as it was day, the elders of the people and the chief priests and the scribes (teachers of the law) came together, and led Jesus into their council (Jewish court), saying:" },
+      { "n": 67, "text": "Are You the Christ? Tell us. And Jesus said to them: If I tell you, you will not believe." },
+      { "n": 68, "text": "And if I also ask you, you will not answer Me, nor let Me go." },
+      { "n": 69, "text": "Hereafter (from now on) the Son of man will sit on the right hand of the power of God." },
+      { "n": 70, "text": "Then they all said: Are You then the Son of God? And Jesus said to them: You say that I am." },
+      { "n": 71, "text": "And they said: What need do we have of any further witness? For we ourselves have heard from His own mouth." }
     ]
   },
   "23": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely -- its completion finishes the whole Gospel of Luke. Covers the trial before Pilate and Herod, the crowd choosing Barabbas, the crucifixion (including the penitent thief's exchange with Jesus, found only in Luke), Jesus' death, and his burial by Joseph of Arimathea.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Then the whole assembly rose and led Him off to Pilate."
-      },
-      {
-        "n": 2,
-        "text": "And they began to accuse Him, saying: We have found this man subverting our nation. He opposes payment of taxes to Caesar and claims to be Messiah, a king."
-      },
-      {
-        "n": 3,
-        "text": "So Pilate asked Jesus: Are you the king of the Jews? You have said so, Jesus replied."
-      },
-      {
-        "n": 4,
-        "text": "Then Pilate announced to the chief priests and the crowd: I find no basis for a charge against this man."
-      },
-      {
-        "n": 5,
-        "text": "But they insisted: He stirs up the people all over Judea by His teaching. He started in Galilee and has come all the way here."
-      },
-      {
-        "n": 6,
-        "text": "On hearing this, Pilate asked if the man was a Galilean."
-      },
-      {
-        "n": 7,
-        "text": "When he learned that Jesus was under Herod's jurisdiction, he sent Him to Herod, who was also in Jerusalem at that time."
-      },
-      {
-        "n": 8,
-        "text": "When Herod saw Jesus, he was greatly pleased, because for a long time he had been wanting to see Him. From what he had heard about Him, he hoped to see Him perform a sign of some sort."
-      },
-      {
-        "n": 9,
-        "text": "He plied Him with many questions, but Jesus gave him no answer."
-      },
-      {
-        "n": 10,
-        "text": "The chief priests and the teachers of the law were standing there, vehemently accusing Him."
-      },
-      {
-        "n": 11,
-        "text": "Then Herod and his soldiers ridiculed and mocked Him. Dressing Him in an elegant robe, they sent Him back to Pilate."
-      },
-      {
-        "n": 12,
-        "text": "That day Herod and Pilate became friends. Before this they had been enemies."
-      },
-      {
-        "n": 13,
-        "text": "Pilate called together the chief priests, the rulers, and the people,"
-      },
-      {
-        "n": 14,
-        "text": "And said to them: You brought me this man as one who was inciting the people to rebellion. I have examined Him in your presence and have found no basis for your charges against Him."
-      },
-      {
-        "n": 15,
-        "text": "Neither has Herod, for he sent Him back to us. As you can see, He has done nothing to deserve death."
-      },
-      {
-        "n": 16,
-        "text": "Therefore I will punish Him and then release Him."
-      },
-      {
-        "n": 17,
-        "text": "For it was necessary for him to release one prisoner to them at the festival."
-      },
-      {
-        "n": 18,
-        "text": "But the whole crowd shouted: Away with this man! Release Barabbas to us!"
-      },
-      {
-        "n": 19,
-        "text": "(Barabbas had been thrown into prison for an insurrection in the city, and for murder.)"
-      },
-      {
-        "n": 20,
-        "text": "Wanting to release Jesus, Pilate appealed to them again."
-      },
-      {
-        "n": 21,
-        "text": "But they kept shouting: Crucify Him! Crucify Him!"
-      },
-      {
-        "n": 22,
-        "text": "For the third time he spoke to them: Why? What crime has this man committed? I have found in Him no grounds for the death penalty. Therefore I will have Him punished and then release Him."
-      },
-      {
-        "n": 23,
-        "text": "But with loud shouts they insistently demanded that He be crucified, and their shouts prevailed."
-      },
-      {
-        "n": 24,
-        "text": "So Pilate decided to grant their demand."
-      },
-      {
-        "n": 25,
-        "text": "He released the man who had been thrown into prison for insurrection and murder, the one they asked for, and surrendered Jesus to their will."
-      },
-      {
-        "n": 26,
-        "text": "As they led Him away, they seized Simon from Cyrene. He was on his way in from the country. They put the cross on him. They made him carry it behind Jesus."
-      },
-      {
-        "n": 27,
-        "text": "A large number of people followed Him, including women who mourned and wailed for Him."
-      },
-      {
-        "n": 28,
-        "text": "Jesus turned and said to them: Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children."
-      },
-      {
-        "n": 29,
-        "text": "For the time will come when you will say: Blessed are the childless women, the wombs that never bore and the breasts that never nursed."
-      },
-      {
-        "n": 30,
-        "text": "Then they will say to the mountains: Fall on us! and to the hills: Cover us!"
-      },
-      {
-        "n": 31,
-        "text": "For if people do these things when the tree is green, what will happen when it is dry?"
-      },
-      {
-        "n": 32,
-        "text": "Two other men, both criminals, were also led out with Him to be executed."
-      },
-      {
-        "n": 33,
-        "text": "When they came to the place called the Skull, they crucified Him there, along with the criminals, one on His right, the other on His left."
-      },
-      {
-        "n": 34,
-        "text": "Jesus said: Father, forgive them, for they do not know what they are doing. And they divided up His clothes by casting lots."
-      },
-      {
-        "n": 35,
-        "text": "The people stood watching, and the rulers even sneered at Him. They said: He saved others; let Him save Himself if He is God's Messiah, the Chosen One."
-      },
-      {
-        "n": 36,
-        "text": "The soldiers also came up and mocked Him. They offered Him wine vinegar"
-      },
-      {
-        "n": 37,
-        "text": "And said: If you are the king of the Jews, save yourself."
-      },
-      {
-        "n": 38,
-        "text": "There was a written notice above Him, which read: THIS IS THE KING OF THE JEWS."
-      },
-      {
-        "n": 39,
-        "text": "One of the criminals who hung there hurled insults at Him: Are you not the Messiah? Save yourself and us!"
-      },
-      {
-        "n": 40,
-        "text": "But the other criminal rebuked Him: Do you not fear God, since you are under the same sentence?"
-      },
-      {
-        "n": 41,
-        "text": "We are punished justly, for we are getting what our deeds deserve. But this man has done nothing wrong."
-      },
-      {
-        "n": 42,
-        "text": "Then he said: Jesus, remember me when you come into your kingdom."
-      },
-      {
-        "n": 43,
-        "text": "Jesus answered him: Truly I tell you, today you will be with me in paradise."
-      },
-      {
-        "n": 44,
-        "text": "It was now about noon, and darkness came over the whole land until three in the afternoon,"
-      },
-      {
-        "n": 45,
-        "text": "For the sun stopped shining. And the curtain of the temple was torn in two."
-      },
-      {
-        "n": 46,
-        "text": "Jesus called out with a loud voice: Father, into your hands I commit my spirit. When He had said this, He breathed His last."
-      },
-      {
-        "n": 47,
-        "text": "The centurion, seeing what had happened, praised God and said: Surely this was a righteous man."
-      },
-      {
-        "n": 48,
-        "text": "When all the people who had gathered to witness this sight saw what took place, they beat their breasts and went away."
-      },
-      {
-        "n": 49,
-        "text": "But all those who knew Him, including the women who had followed Him from Galilee, stood at a distance, watching these things."
-      },
-      {
-        "n": 50,
-        "text": "Now there was a man named Joseph, a member of the Council, a good and upright man,"
-      },
-      {
-        "n": 51,
-        "text": "Who had not consented to their decision and action. He came from the Judean town of Arimathea, and he himself was waiting for the kingdom of God."
-      },
-      {
-        "n": 52,
-        "text": "Going to Pilate, he asked for Jesus' body."
-      },
-      {
-        "n": 53,
-        "text": "Then he took it down and wrapped it in linen cloth. He placed it in a tomb cut in the rock. No one had yet been laid in that tomb."
-      },
-      {
-        "n": 54,
-        "text": "It was Preparation Day, and the Sabbath was about to begin."
-      },
-      {
-        "n": 55,
-        "text": "The women who had come with Jesus from Galilee followed and saw the tomb and how His body was laid in it."
-      },
-      {
-        "n": 56,
-        "text": "Then they went home and prepared spices and perfumes. But they rested on the Sabbath in obedience to the commandment."
-      }
+      { "n": 1, "text": "And the whole multitude (crowd) of them arose, and led Jesus to Pilate." },
+      { "n": 2, "text": "And they began to accuse Him, saying: We found this fellow perverting (turning away) the nation, and forbidding to give tribute (tax) to Caesar, saying that He Himself is Christ a King." },
+      { "n": 3, "text": "And Pilate asked Him, saying: Are You the King of the Jews? And Jesus answered him and said: You say it." },
+      { "n": 4, "text": "Then Pilate said to the chief priests and to the people: I find no fault in this man." },
+      { "n": 5, "text": "And they were the more fierce, saying: He stirs up the people, teaching throughout all Jewry (the land of the Jews), beginning from Galilee to this place." },
+      { "n": 6, "text": "When Pilate heard of Galilee, he asked whether the man were a Galilaean." },
+      { "n": 7, "text": "And as soon as Pilate knew that Jesus belonged to Herod's jurisdiction (area of rule), he sent Him to Herod, who himself also was at Jerusalem at that time." },
+      { "n": 8, "text": "And when Herod saw Jesus, he was exceeding (very) glad. For he was desirous (wanting) to see Him of a long season (time), because he had heard many things of Him. And he hoped to have seen some miracle done by Him." },
+      { "n": 9, "text": "Then Herod questioned with Jesus in many words. But Jesus answered him nothing." },
+      { "n": 10, "text": "And the chief priests and scribes (teachers of the law) stood and vehemently (strongly) accused Him." },
+      { "n": 11, "text": "And Herod with his men of war (soldiers) set Jesus at nought (treated Him as nothing), and mocked Him, and arrayed (dressed) Him in a gorgeous robe, and sent Him again to Pilate." },
+      { "n": 12, "text": "And the same day Pilate and Herod were made friends together. For before they were at enmity (hate) between themselves." },
+      { "n": 13, "text": "And Pilate, when he had called together the chief priests and the rulers and the people," },
+      { "n": 14, "text": "Said to them: You have brought this man to me, as one who perverts (turns away) the people. And look, I, having examined Him before you, have found no fault in this man touching (about) those things of which you accuse Him." },
+      { "n": 15, "text": "No, nor yet Herod. For I sent you to him, and look, nothing worthy of death is done to Him." },
+      { "n": 16, "text": "I will therefore chastise (whip) Him, and release Him." },
+      { "n": 17, "text": "For of necessity Pilate must release one to them at the feast." },
+      { "n": 18, "text": "And they cried out all at once, saying: Away with this man, and release to us Barabbas," },
+      { "n": 19, "text": "Who for a certain sedition (riot against the rulers) made in the city, and for murder, was cast into prison." },
+      { "n": 20, "text": "Pilate therefore, willing to release Jesus, spoke again to them." },
+      { "n": 21, "text": "But they cried, saying: Crucify Him, crucify Him." },
+      { "n": 22, "text": "And Pilate said to them the third time: Why, what evil has He done? I have found no cause of death in Him. I will therefore chastise (whip) Him, and let Him go." },
+      { "n": 23, "text": "And they were instant (kept pressing) with loud voices, requiring (demanding) that He might be crucified. And the voices of them and of the chief priests prevailed (won)." },
+      { "n": 24, "text": "And Pilate gave sentence that it should be as they required (demanded)." },
+      { "n": 25, "text": "And Pilate released to them him who for sedition (riot against the rulers) and murder was cast into prison, whom they had desired (asked for). But he delivered (handed over) Jesus to their will." },
+      { "n": 26, "text": "And as they led Jesus away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear (carry) it after Jesus." },
+      { "n": 27, "text": "And there followed Jesus a great company of people, and of women, who also bewailed (cried loudly) and lamented (mourned for) Him." },
+      { "n": 28, "text": "But Jesus turning to them said: Daughters of Jerusalem, weep not for Me, but weep for yourselves, and for your children." },
+      { "n": 29, "text": "For look, the days are coming, in which they will say: Blessed (happy) are the barren (women who cannot have children), and the wombs that never bore, and the breasts which never gave suck (nursed)." },
+      { "n": 30, "text": "Then they will begin to say to the mountains: Fall on us. And to the hills: Cover us." },
+      { "n": 31, "text": "For if they do these things in a green tree, what will be done in the dry?" },
+      { "n": 32, "text": "And there were also 2 others, malefactors (evildoers), led with Jesus to be put to death." },
+      { "n": 33, "text": "And when they had come to the place, which is called Calvary (the Skull), there they crucified Jesus, and the malefactors (evildoers), one on the right hand, and the other on the left." },
+      { "n": 34, "text": "Then Jesus said: Father, forgive them, for they do not know what they do. And they parted (divided) His raiment (clothes), and cast lots (gambled)." },
+      { "n": 35, "text": "And the people stood beholding (watching). And the rulers also with them derided (made fun of) Him, saying: He saved others. Let Him save Himself, if He is Christ, the chosen of God." },
+      { "n": 36, "text": "And the soldiers also mocked Him, coming to Him, and offering Him vinegar," },
+      { "n": 37, "text": "And saying: If You are the king of the Jews, save Yourself." },
+      { "n": 38, "text": "And a superscription (sign) also was written over Him in letters of Greek, and Latin, and Hebrew: THIS IS THE KING OF THE JEWS." },
+      { "n": 39, "text": "And one of the malefactors (evildoers) who were hanged railed on (insulted) Jesus, saying: If You are Christ, save Yourself and us." },
+      { "n": 40, "text": "But the other answering rebuked (scolded) him, saying: Do you not fear God, seeing you are in the same condemnation (punishment)?" },
+      { "n": 41, "text": "And we indeed justly (fairly), for we receive the due reward of our deeds. But this man has done nothing amiss (wrong)." },
+      { "n": 42, "text": "And he said to Jesus: Lord, remember me when You come into Your kingdom." },
+      { "n": 43, "text": "And Jesus said to him: Verily (truly) I say to you: Today you will be with Me in paradise." },
+      { "n": 44, "text": "And it was about the sixth hour (noon), and there was a darkness over all the earth until the ninth hour (3 p.m.)." },
+      { "n": 45, "text": "And the sun was darkened, and the veil (curtain) of the temple was rent (torn) in the middle." },
+      { "n": 46, "text": "And when Jesus had cried with a loud voice, He said: Father, into Your hands I commend (give) My spirit. And having said this, He gave up the ghost (died)." },
+      { "n": 47, "text": "Now when the centurion (army officer) saw what was done, he glorified (praised) God, saying: Certainly this was a righteous (good and right) man." },
+      { "n": 48, "text": "And all the people who came together to that sight, beholding (seeing) the things which were done, smote (beat) their breasts (chests), and returned." },
+      { "n": 49, "text": "And all His acquaintance (friends), and the women who followed Him from Galilee, stood afar off (far away), beholding (watching) these things." },
+      { "n": 50, "text": "And look, there was a man named Joseph, a counsellor (member of the Jewish court). And he was a good man, and a just (right with God) man." },
+      { "n": 51, "text": "The same had not consented (agreed) to the counsel (plan) and deed of them. He was of Arimathaea, a city of the Jews, who also himself waited for the kingdom of God." },
+      { "n": 52, "text": "This man went to Pilate, and begged the body of Jesus." },
+      { "n": 53, "text": "And Joseph took it down, and wrapped it in linen, and laid it in a sepulchre (tomb) that was hewn (cut) in stone, in which no man was ever laid before." },
+      { "n": 54, "text": "And that day was the preparation (day to get ready), and the sabbath (day of rest) drew on (was beginning)." },
+      { "n": 55, "text": "And the women also, who came with Jesus from Galilee, followed after, and beheld (saw) the sepulchre (tomb), and how His body was laid." },
+      { "n": 56, "text": "And they returned, and prepared spices and ointments (perfumed oils). And they rested the sabbath day (day of rest) according to the commandment." }
     ]
   },
   "24": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Very early Sunday morning, the women came to the tomb where Jesus' body was laid. They brought the sweet-smelling spices they had prepared."
-      },
-      {
-        "n": 2,
-        "text": "When the women came to the tomb, they saw that someone had rolled away the stone that was in front of the tomb."
-      },
-      {
-        "n": 3,
-        "text": "The women went into the tomb but they did not see the body of the Lord Jesus there."
-      },
-      {
-        "n": 4,
-        "text": "The women did not understand what had happened. While they were thinking about this, two men in shining clothes stood beside them."
-      },
-      {
-        "n": 5,
-        "text": "The women were afraid and they bowed down with their faces to the ground. The men said to them: Why do you look for the One who lives, here in a tomb for dead people?"
-      },
-      {
-        "n": 6,
-        "text": "Jesus is not here. God has raised Him up and made Him live again. Remember what Jesus told you when you were in Galilee."
-      },
-      {
-        "n": 7,
-        "text": "Jesus said God would give Him to bad people and they would kill Him, the Son of Man. They would nail Jesus to the cross but on the third day Jesus would rise and live again."
-      },
-      {
-        "n": 8,
-        "text": "The women then remembered what Jesus had said."
-      },
-      {
-        "n": 9,
-        "text": "The women went back home and told everything to the eleven apostles and the other believers."
-      },
-      {
-        "n": 10,
-        "text": "The women who saw what happened at the tomb were Mary Magdalene, Joanna, Mary the mother of James and some other women with them. When they told these things to the apostles,"
-      },
-      {
-        "n": 11,
-        "text": "The apostles did not believe them. They said it could not be true."
-      },
-      {
-        "n": 12,
-        "text": "Then Peter got up and ran to the tomb. Peter bowed down and looked into the tomb and he saw only the cloth that they had put around the body of Jesus. Peter went back and was very surprised about what had happened."
-      },
-      {
-        "n": 13,
-        "text": "That same Sunday, two of the men who followed Jesus walked to the town of Emmaus. It is about seven miles from Jerusalem."
-      },
-      {
-        "n": 14,
-        "text": "They talked to each other about everything that had happened to Jesus."
-      },
-      {
-        "n": 15,
-        "text": "While they were talking and thinking about the events that had happened, Jesus came and walked with them."
-      },
-      {
-        "n": 16,
-        "text": "But they did not know that it was Jesus. Jesus did not want them to know at that time who He was."
-      },
-      {
-        "n": 17,
-        "text": "Jesus asked them: Why are you so sad? What are you talking about as you walk down this road?"
-      },
-      {
-        "n": 18,
-        "text": "Cleopas, one of the men, asked Jesus: You must be the only person in Jerusalem who does not know what has just happened there."
-      },
-      {
-        "n": 19,
-        "text": "Jesus asked them: What things? They said: All the things that happened to Jesus, the Man from Nazareth. Jesus was a prophet who did wonderful miracles. Jesus was a Teacher from God. God was with Him and all the people listened to Jesus."
-      },
-      {
-        "n": 20,
-        "text": "But the chief leading priests and our leaders handed Him over to be judged and killed. They nailed Him to a cross."
-      },
-      {
-        "n": 21,
-        "text": "We were hoping that Jesus would be the one to free Israel. But then all this happened. And it has been three days since Jesus was killed."
-      },
-      {
-        "n": 22,
-        "text": "Also, today some of our women told us an amazing thing. Early this morning they went to the tomb where the body of Jesus was laid."
-      },
-      {
-        "n": 23,
-        "text": "But the women did not find Jesus' body there. They came and told us they had seen some angels in a vision. The angels told them Jesus was alive!"
-      },
-      {
-        "n": 24,
-        "text": "So some of our group went to the tomb too. It was just as the women said. They saw the tomb, but they did not see Jesus."
-      },
-      {
-        "n": 25,
-        "text": "Jesus said to them: You are foolish and slow to realize what is true. You should believe everything the prophets said."
-      },
-      {
-        "n": 26,
-        "text": "The prophets said the Messiah must suffer these things before He begins His time of glory."
-      },
-      {
-        "n": 27,
-        "text": "Then Jesus started to explain to them what the books of Moses and the prophets and the other books of the Old Testament said about Jesus."
-      },
-      {
-        "n": 28,
-        "text": "When they got near the town of Emmaus, Jesus said He wanted to go to the next town."
-      },
-      {
-        "n": 29,
-        "text": "But they wanted Jesus to stay. They begged Jesus: Stay with us. It is almost night. There is hardly any daylight left. So Jesus went in to stay with them."
-      },
-      {
-        "n": 30,
-        "text": "When they started to eat, Jesus took the bread and thanked God for it. Jesus broke the bread and gave it to them."
-      },
-      {
-        "n": 31,
-        "text": "Immediately God opened their eyes and they saw that it was Jesus. But then Jesus disappeared. They could not see Jesus anymore."
-      },
-      {
-        "n": 32,
-        "text": "They said to each other: Now we know why we were so happy when Jesus talked to us on the road. When Jesus explained the Bible to us."
-      },
-      {
-        "n": 33,
-        "text": "They immediately got up and went back to Jerusalem. They found the eleven apostles and other believers with them."
-      },
-      {
-        "n": 34,
-        "text": "They said: The Lord really has risen from death! Jesus did appear to Simon."
-      },
-      {
-        "n": 35,
-        "text": "Then they told the apostles and other people everything that had happened on the road to Emmaus. They told how they saw that it was Jesus when He broke the bread."
-      },
-      {
-        "n": 36,
-        "text": "While the two men were saying these things to the other followers, Jesus stood there with them and Jesus said to them: Peace be with you."
-      },
-      {
-        "n": 37,
-        "text": "The followers of Jesus were afraid. They thought they had seen a ghost."
-      },
-      {
-        "n": 38,
-        "text": "But Jesus said to them: Why are you afraid? Why do you not believe what you see?"
-      },
-      {
-        "n": 39,
-        "text": "Look at my hands and my feet. It is really me. Touch me. You can see that I have a living body; ghost does not have a body with flesh and bones."
-      },
-      {
-        "n": 40,
-        "text": "After Jesus said this, Jesus showed His followers His hands and His feet."
-      },
-      {
-        "n": 41,
-        "text": "His followers were amazed and very, very happy to see that Jesus was alive. But they still could not believe what they saw. Jesus said to them: Do you have any food here?"
-      },
-      {
-        "n": 42,
-        "text": "They gave Jesus a piece of fish and honey."
-      },
-      {
-        "n": 43,
-        "text": "Jesus took it and His followers watched Jesus eat it."
-      },
-      {
-        "n": 44,
-        "text": "Then Jesus said to His followers: Do you remember what I said when I was with you before I died? I told you that everything written about me must happen. This includes the books of Moses, the books of the prophets, and the book of Psalms."
-      },
-      {
-        "n": 45,
-        "text": "Then Jesus helped them to understand the Bible."
-      },
-      {
-        "n": 46,
-        "text": "Jesus told His followers: The Old Testament says that the Christ must suffer and die. It also says that the Christ will rise and start to live again on the third day."
-      },
-      {
-        "n": 47,
-        "text": "It is written that people who believe in God must go and tell everyone this: God forgives the sins of everyone who believes in Christ. God forgives everyone who turns to Him and starts living as He wants. You must start telling this to the people in Jerusalem."
-      },
-      {
-        "n": 48,
-        "text": "Tell the people what you saw me do and what I said."
-      },
-      {
-        "n": 49,
-        "text": "And I will send upon you what my Father has promised. But you must wait in the city of Jerusalem, until the power from above comes down upon you."
-      },
-      {
-        "n": 50,
-        "text": "Then Jesus told the apostles to go with Him. Jesus took the apostles to a place near the town of Bethany. Then Jesus held up His hands and blessed them."
-      },
-      {
-        "n": 51,
-        "text": "Jesus blessed the apostles then He was separated from them and carried into heaven."
-      },
-      {
-        "n": 52,
-        "text": "The apostles worshipped Jesus and then they went back to Jerusalem. They were very happy."
-      },
-      {
-        "n": 53,
-        "text": "They went to the temple every day and they praised God."
-      }
+      { "n": 1, "text": "Now upon the first day of the week, very early in the morning, they came to the sepulchre (tomb), bringing the spices which they had prepared, and certain others with them." },
+      { "n": 2, "text": "And they found the stone rolled away from the sepulchre (tomb)." },
+      { "n": 3, "text": "And they entered in, and did not find the body of the Lord Jesus." },
+      { "n": 4, "text": "And it came to pass (happened), as they were much perplexed (confused) about this, look, 2 men stood by them in shining garments (clothes)." },
+      { "n": 5, "text": "And as they were afraid, and bowed down their faces to the earth, the men said to them: Why do you seek (look for) the living among the dead?" },
+      { "n": 6, "text": "He is not here, but is risen. Remember how He spoke to you when He was yet in Galilee," },
+      { "n": 7, "text": "Saying: The Son of man must be delivered (handed over) into the hands of sinful men, and be crucified, and the third day rise again." },
+      { "n": 8, "text": "And they remembered His words," },
+      { "n": 9, "text": "And returned from the sepulchre (tomb), and told all these things to the 11, and to all the rest." },
+      { "n": 10, "text": "It was Mary Magdalene, and Joanna, and Mary the mother of James, and other women who were with them, who told these things to the apostles (sent ones)." },
+      { "n": 11, "text": "And their words seemed to them as idle tales (nonsense), and they did not believe them." },
+      { "n": 12, "text": "Then Peter arose, and ran to the sepulchre (tomb). And stooping down, he beheld (saw) the linen clothes laid by themselves, and departed, wondering in himself at that which had come to pass (happened)." },
+      { "n": 13, "text": "And look, 2 of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs (about 7 miles)." },
+      { "n": 14, "text": "And they talked together of all these things which had happened." },
+      { "n": 15, "text": "And it came to pass (happened), that, while they communed (talked) together and reasoned, Jesus Himself drew near, and went with them." },
+      { "n": 16, "text": "But their eyes were holden (held back) that they should not know Him." },
+      { "n": 17, "text": "And Jesus said to them: What kind of communications (talk) are these that you have one to another, as you walk, and are sad?" },
+      { "n": 18, "text": "And the one of them, whose name was Cleopas, answering said to Him: Are You only a stranger in Jerusalem, and have not known the things which have come to pass there in these days?" },
+      { "n": 19, "text": "And Jesus said to them: What things? And they said to Him: About Jesus of Nazareth, who was a prophet mighty in deed and word before God and all the people," },
+      { "n": 20, "text": "And how the chief priests and our rulers delivered (handed over) Him to be condemned (judged guilty) to death, and have crucified Him." },
+      { "n": 21, "text": "But we trusted that it had been He who should have redeemed (bought back and set free) Israel. And beside all this, today is the third day since these things were done." },
+      { "n": 22, "text": "Yes, and certain women also of our company made us astonished (amazed), who were early at the sepulchre (tomb)." },
+      { "n": 23, "text": "And when they did not find His body, they came, saying, that they had also seen a vision of angels, who said that He was alive." },
+      { "n": 24, "text": "And certain of them who were with us went to the sepulchre (tomb), and found it even so as the women had said. But Him they did not see." },
+      { "n": 25, "text": "Then Jesus said to them: O fools, and slow of heart to believe all that the prophets have spoken." },
+      { "n": 26, "text": "Ought not Christ to have suffered these things, and to enter into His glory?" },
+      { "n": 27, "text": "And beginning at Moses and all the prophets, Jesus expounded (explained) to them in all the scriptures the things about Himself." },
+      { "n": 28, "text": "And they drew nigh (near) to the village, where they went. And Jesus made as though He would have gone further." },
+      { "n": 29, "text": "But they constrained (urged) Him, saying: Abide (stay) with us, for it is toward evening, and the day is far spent. And Jesus went in to tarry (stay) with them." },
+      { "n": 30, "text": "And it came to pass (happened), as Jesus sat at meat (the meal) with them, He took bread, and blessed it, and broke, and gave to them." },
+      { "n": 31, "text": "And their eyes were opened, and they knew Him. And He vanished out of their sight." },
+      { "n": 32, "text": "And they said one to another: Did not our heart burn within us, while He talked with us by the way, and while He opened to us the scriptures?" },
+      { "n": 33, "text": "And they rose up the same hour, and returned to Jerusalem, and found the 11 gathered together, and them who were with them," },
+      { "n": 34, "text": "Saying: The Lord is risen indeed, and has appeared to Simon." },
+      { "n": 35, "text": "And they told what things were done in the way, and how Jesus was known by them in breaking of bread." },
+      { "n": 36, "text": "And as they spoke this, Jesus Himself stood in the middle of them, and says to them: Peace be to you." },
+      { "n": 37, "text": "But they were terrified and affrighted (scared), and supposed (thought) that they had seen a spirit." },
+      { "n": 38, "text": "And Jesus said to them: Why are you troubled? And why do thoughts arise in your hearts?" },
+      { "n": 39, "text": "Behold (look at) My hands and My feet, that it is I Myself. Handle (touch) Me, and see. For a spirit does not have flesh and bones, as you see Me have." },
+      { "n": 40, "text": "And when Jesus had spoken this, He showed them His hands and His feet." },
+      { "n": 41, "text": "And while they yet did not believe for joy, and wondered, Jesus said to them: Do you have here any meat (food)?" },
+      { "n": 42, "text": "And they gave Him a piece of a broiled fish, and of a honeycomb." },
+      { "n": 43, "text": "And Jesus took it, and ate before them." },
+      { "n": 44, "text": "And Jesus said to them: These are the words which I spoke to you, while I was yet with you, that all things must be fulfilled (come true), which were written in the law of Moses, and in the prophets, and in the psalms, about Me." },
+      { "n": 45, "text": "Then Jesus opened their understanding, that they might understand the scriptures," },
+      { "n": 46, "text": "And said to them: Thus it is written, and thus it behoved (was needed for) Christ to suffer, and to rise from the dead the third day," },
+      { "n": 47, "text": "And that repentance (a change of heart) and remission (forgiveness) of sins should be preached in His name among all nations, beginning at Jerusalem." },
+      { "n": 48, "text": "And you are witnesses of these things." },
+      { "n": 49, "text": "And look, I send the promise of My Father upon you. But tarry (stay) in the city of Jerusalem, until you are endued (clothed) with power from on high." },
+      { "n": 50, "text": "And Jesus led them out as far as to Bethany, and He lifted up His hands, and blessed them." },
+      { "n": 51, "text": "And it came to pass (happened), while Jesus blessed them, He was parted from them, and carried up into heaven." },
+      { "n": 52, "text": "And they worshipped Him, and returned to Jerusalem with great joy," },
+      { "n": 53, "text": "And were continually in the temple, praising and blessing God. Amen." }
     ],
     "sourceUrl": "https://kjvdeaf.com/luke-chapter-24/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed several typos and grammar issues throughout the resurrection and Emmaus road narratives.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   }
 }
