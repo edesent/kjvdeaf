@@ -577,143 +577,44 @@
   },
   "18": {
     "verses": [
-      {
-        "n": 1,
-        "text": "The LORD appeared to Abraham near the trees of Mamre. Abraham was sitting in front of the door of his tent. It was very hot."
-      },
-      {
-        "n": 2,
-        "text": "Abraham looked up and suddenly saw 3 men standing not far away. Abraham ran from his tent to meet the men and bowed down with his face to the ground."
-      },
-      {
-        "n": 3,
-        "text": "Abraham said: My Lord, if I have found favor with You, please do not go past my tent. Please stay for a short while."
-      },
-      {
-        "n": 4,
-        "text": "I will bring you some water, and then you can wash your feet. You can rest here under this tree."
-      },
-      {
-        "n": 5,
-        "text": "I will also bring you some bread. When you have eaten enough, you can go on. You have come to your servant, so let me serve you. The men said to Abraham: Yes, do what you have said."
-      },
-      {
-        "n": 6,
-        "text": "Abraham quickly went to Sarah in the tent and told her: Prepare enough flour for 3 loaves of bread."
-      },
-      {
-        "n": 7,
-        "text": "Then Abraham ran to his farm animals and chose the best young calf. Abraham gave the calf to a servant. Abraham told the servant to kill it and cook it."
-      },
-      {
-        "n": 8,
-        "text": "Abraham brought some cream and milk and the meat of the calf and Abraham gave it to the 3 men. They ate and Abraham stood with them under the tree."
-      },
-      {
-        "n": 9,
-        "text": "Then the 3 men asked Abraham: Where is your wife, Sarah? Abraham answered and said: She is here in the tent."
-      },
-      {
-        "n": 10,
-        "text": "One of the men said to Abraham: I will come back next year. Then Sarah will have a baby boy. Sarah was in the tent and heard what the LORD said."
-      },
-      {
-        "n": 11,
-        "text": "Abraham and Sarah were very old. Sarah was too old to have a baby."
-      },
-      {
-        "n": 12,
-        "text": "Sarah laughed and said to herself: I am too old. I cannot have a baby now, and my husband is old too."
-      },
-      {
-        "n": 13,
-        "text": "The LORD said to Abraham: Why did Sarah laugh and say: Can I really have a baby when I am old?"
-      },
-      {
-        "n": 14,
-        "text": "Nothing is too hard for the LORD. I will come back next year at the time I said. Then Sarah will have a son."
-      },
-      {
-        "n": 15,
-        "text": "Sarah was afraid. Sarah lied and said: I did not laugh. But the LORD said: Yes, you did."
-      },
-      {
-        "n": 16,
-        "text": "The 3 men wanted to go. They looked toward the city of Sodom. Abraham walked with them to send them on their way."
-      },
-      {
-        "n": 17,
-        "text": "The LORD said: Should I keep secret from Abraham what I am about to do?"
-      },
-      {
-        "n": 18,
-        "text": "Abraham will become a great and powerful nation, and all the nations on earth will be blessed because of Abraham."
-      },
-      {
-        "n": 19,
-        "text": "I chose Abraham for this reason. Abraham will command his children and his household after him to keep the way of the LORD. They will do what is right and just. Then I will give Abraham everything I have promised."
-      },
-      {
-        "n": 20,
-        "text": "The LORD said: The outcry against the sin of Sodom and Gomorrah is very great, and their sin is very serious."
-      },
-      {
-        "n": 21,
-        "text": "I will go down now to see whether the people there have done as bad as the outcry says. If not, I will know."
-      },
-      {
-        "n": 22,
-        "text": "Then the other 2 of the men started to walk to the city of Sodom. But the LORD did not go. He stayed with Abraham."
-      },
-      {
-        "n": 23,
-        "text": "Abraham approached and said: Will You destroy the righteous along with the wicked?"
-      },
-      {
-        "n": 24,
-        "text": "Suppose there are 50 righteous people in the city. Will You destroy the city? Will You not spare it for the sake of the 50 righteous people in it?"
-      },
-      {
-        "n": 25,
-        "text": "You would never do such a thing. You would never kill the righteous with the wicked, as if they were the same. Should not the Judge of all the earth do what is right?"
-      },
-      {
-        "n": 26,
-        "text": "The LORD said: If I find 50 righteous people in the city of Sodom, I will spare the whole place for their sake."
-      },
-      {
-        "n": 27,
-        "text": "Then Abraham said: Compared to You, Lord, I am only dust and ashes. But let me bother You again and ask You this question."
-      },
-      {
-        "n": 28,
-        "text": "Abraham said: Suppose there are only 45 righteous people instead of 50. Will You destroy the whole city for the lack of 5? The LORD said: If I find 45 there, I will not destroy the city."
-      },
-      {
-        "n": 29,
-        "text": "Abraham spoke again: Suppose 40 are found there. The LORD said: I will not destroy it, for the sake of the 40."
-      },
-      {
-        "n": 30,
-        "text": "Abraham said: Lord, please do not be angry with me if I speak. Suppose 30 are found there. The LORD said: I will not destroy it, if I find 30 there."
-      },
-      {
-        "n": 31,
-        "text": "Then Abraham said: Let me be so bold as to speak to the Lord again. Suppose 20 are found there. The LORD said: I will not destroy it, for the sake of the 20."
-      },
-      {
-        "n": 32,
-        "text": "Then Abraham said: Lord, please do not be angry with me. Let me speak just once more. Suppose 10 are found there. The LORD said: I will not destroy it, for the sake of the 10."
-      },
-      {
-        "n": 33,
-        "text": "After the LORD had talked to Abraham, the LORD went away. Abraham went to his home."
-      }
+      { "n": 1, "text": "And the LORD appeared to Abraham in the plains of Mamre. And Abraham sat in the tent door in the heat of the day." },
+      { "n": 2, "text": "And Abraham lifted up his eyes and looked, and look, 3 men stood by him. And when Abraham saw them, he ran to meet them from the tent door, and bowed himself toward the ground," },
+      { "n": 3, "text": "And said: My Lord, if now I have found favour (kindness) in Your sight, do not pass away, I pray You, from Your servant." },
+      { "n": 4, "text": "Let a little water, I pray you, be fetched (brought), and wash your feet, and rest yourselves under the tree." },
+      { "n": 5, "text": "And I will fetch a morsel (piece) of bread, and comfort your hearts. After that you shall pass on, for that is why you have come to your servant. And the men said: Do so, as you have said." },
+      { "n": 6, "text": "And Abraham hastened (hurried) into the tent to Sarah, and said: Make ready quickly 3 measures of fine meal (flour). Knead it, and make cakes on the hearth (fireplace)." },
+      { "n": 7, "text": "And Abraham ran to the herd, and fetched a calf tender and good, and gave it to a young man. And the young man hurried to dress (cook) it." },
+      { "n": 8, "text": "And Abraham took butter, and milk, and the calf which he had dressed, and set it before the men. And Abraham stood by them under the tree, and they ate." },
+      { "n": 9, "text": "And the men said to Abraham: Where is Sarah your wife? And Abraham said: Look, in the tent." },
+      { "n": 10, "text": "And the LORD said: I will certainly return to you according to the time of life (at this time next year). And look, Sarah your wife shall have a son. And Sarah heard it in the tent door, which was behind him." },
+      { "n": 11, "text": "Now Abraham and Sarah were old and well stricken (far along) in age. And it ceased to be with Sarah after the manner of women (Sarah was past the age to have children)." },
+      { "n": 12, "text": "So Sarah laughed within herself, saying: After I have waxed (grown) old, shall I have pleasure, my lord being old also?" },
+      { "n": 13, "text": "And the LORD said to Abraham: Why did Sarah laugh, saying: Shall I of a surety (for sure) bear a child, when I am old?" },
+      { "n": 14, "text": "Is any thing too hard for the LORD? At the time appointed I will return to you, according to the time of life, and Sarah shall have a son." },
+      { "n": 15, "text": "Then Sarah denied, saying: I did not laugh. For she was afraid. And the LORD said: No, but you did laugh." },
+      { "n": 16, "text": "And the men rose up from there, and looked toward Sodom. And Abraham went with them to bring them on the way." },
+      { "n": 17, "text": "And the LORD said: Shall I hide from Abraham that thing which I do," },
+      { "n": 18, "text": "Since Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?" },
+      { "n": 19, "text": "For I know Abraham, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment (what is right). So the LORD may bring on Abraham that which He has spoken of him." },
+      { "n": 20, "text": "And the LORD said: Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous (very bad)," },
+      { "n": 21, "text": "I will go down now, and see whether they have done altogether according to the cry of it, which has come to Me. And if not, I will know." },
+      { "n": 22, "text": "And the men turned their faces from there, and went toward Sodom. But Abraham stood yet before the LORD." },
+      { "n": 23, "text": "And Abraham drew near, and said: Will You also destroy the righteous (people right with God) with the wicked?" },
+      { "n": 24, "text": "Peradventure (maybe) there are 50 righteous (people right with God) within the city. Will You also destroy and not spare the place for the 50 righteous (people right with God) that are in it?" },
+      { "n": 25, "text": "That be far from You to do after this manner, to slay (kill) the righteous (people right with God) with the wicked, so that the righteous (people right with God) should be as the wicked. That be far from You. Shall not the Judge of all the earth do right?" },
+      { "n": 26, "text": "And the LORD said: If I find in Sodom 50 righteous (people right with God) within the city, then I will spare all the place for their sakes." },
+      { "n": 27, "text": "And Abraham answered and said: Look now, I have taken on me to speak to the Lord, though I am but dust and ashes." },
+      { "n": 28, "text": "Peradventure (maybe) there shall lack 5 of the 50 righteous (people right with God). Will You destroy all the city for lack of 5? And the LORD said: If I find there 45, I will not destroy it." },
+      { "n": 29, "text": "And Abraham spoke to Him yet again, and said: Peradventure (maybe) there shall be 40 found there. And the LORD said: I will not do it for 40's sake." },
+      { "n": 30, "text": "And Abraham said to Him: Oh let not the Lord be angry, and I will speak. Peradventure (maybe) there shall 30 be found there. And the LORD said: I will not do it, if I find 30 there." },
+      { "n": 31, "text": "And Abraham said: Look now, I have taken on me to speak to the Lord. Peradventure (maybe) there shall be 20 found there. And the LORD said: I will not destroy it for 20's sake." },
+      { "n": 32, "text": "And Abraham said: Oh let not the Lord be angry, and I will speak yet but this once. Peradventure (maybe) 10 shall be found there. And the LORD said: I will not destroy it for 10's sake." },
+      { "n": 33, "text": "And the LORD went His way, as soon as He had left communing (talking) with Abraham. And Abraham returned to his place." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genesis-chapter-18/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V3 keeps the KJV's My Lord (capital L) where Abraham speaks to the LORD; v12 keeps my lord (small l) for Sarah's husband.",
     "videos": []
   },
   "19": {
