@@ -381,108 +381,33 @@
   "9": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his' rendered gender-neutral in v35, v42. V42's 'huge millstone' matches the same fix applied to the parallel passage in Matthew 18:6. 'Hell' in v43-48 correctly refers to Gehenna (fire imagery), so kept as-is per the site's standard.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. dropping \"and fasting\" in 9:29, \"Lord\" and \"with tears\" in 9:24, and \"believe\" in 9:23 (\"If you can?\")), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, with generic 'he/his' rendered gender-neutral in v35, v41-42. V44 and v46 are kept (modern Bibles drop them). 'Hell' in v43-47 is Gehenna and stays 'hell'.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Then Jesus said to them: I tell you the truth, some of you standing here will not die before you see God's kingdom come with power."
-      },
-      {
-        "n": 2,
-        "text": "Six days later Jesus took Peter, James, and John up a high mountain by themselves. There Jesus was changed in front of them."
-      },
-      {
-        "n": 3,
-        "text": "His clothes became shining white, whiter than anyone on earth could make them."
-      },
-      {
-        "n": 4,
-        "text": "Then Elijah and Moses appeared, and they were talking with Jesus."
-      },
-      {
-        "n": 5,
-        "text": "Peter said to Jesus: Teacher, it is good for us to be here. Let us put up three shelters: one for You, one for Moses, and one for Elijah."
-      },
-      {
-        "n": 6,
-        "text": "Peter did not know what to say, because he and the others were so afraid."
-      },
-      {
-        "n": 7,
-        "text": "Then a cloud came and covered them, and a voice came from the cloud: This is my Son, whom I love. Listen to Him!"
-      },
-      {
-        "n": 8,
-        "text": "They looked around, and suddenly they saw no one with them except Jesus."
-      },
-      {
-        "n": 9,
-        "text": "As they came down the mountain, Jesus told them not to tell anyone what they had seen until the Son of Man had risen from the dead."
-      },
-      {
-        "n": 10,
-        "text": "They kept this to themselves, but they asked each other what rising from the dead meant."
-      },
-      {
-        "n": 11,
-        "text": "Then they asked Jesus: Why do the teachers of the law say that Elijah must come first?"
-      },
-      {
-        "n": 12,
-        "text": "Jesus answered: Elijah does come first to make everything ready. But why is it written that the Son of Man must suffer many things and be treated like nothing?"
-      },
-      {
-        "n": 13,
-        "text": "I tell you, Elijah has already come, and they did to him whatever they wanted, just as it is written about him."
-      },
-      {
-        "n": 14,
-        "text": "When Jesus and the three disciples came back to the others, they saw a large crowd around them. The teachers of the law were arguing with them."
-      },
-      {
-        "n": 15,
-        "text": "As soon as the people saw Jesus, they were amazed and ran to greet Him."
-      },
-      {
-        "n": 16,
-        "text": "Jesus asked: What are you arguing about with them?"
-      },
-      {
-        "n": 17,
-        "text": "A man in the crowd answered: Teacher, I brought my son to You. He has an evil spirit that keeps him from talking."
-      },
-      {
-        "n": 18,
-        "text": "Whenever the spirit takes hold of him, it throws him to the ground. He foams at the mouth, grinds his teeth, and becomes stiff. I asked Your disciples to drive out the spirit, but they could not."
-      },
-      {
-        "n": 19,
-        "text": "Jesus said: You people have no faith! How long must I stay with you? How long must I put up with you? Bring the boy to me."
-      },
-      {
-        "n": 20,
-        "text": "So they brought the boy. As soon as the spirit saw Jesus, it threw the boy into a fit. He fell to the ground, rolling around and foaming at the mouth."
-      },
-      {
-        "n": 21,
-        "text": "Jesus asked the boy's father: How long has this been happening to him? The father answered: Since he was a child."
-      },
-      {
-        "n": 22,
-        "text": "The spirit has often thrown him into fire or water to kill him. But if You can do anything, please feel sorry for us and help us."
-      },
-      {
-        "n": 23,
-        "text": "Jesus said: If you can? Everything is possible for the one who believes."
-      },
-      {
-        "n": 24,
-        "text": "At once the boy's father cried out: I do believe! Help me with my unbelief!"
-      },
-      {
-        "n": 25,
-        "text": "When Jesus saw the packed crowd running toward the boy, He acted. He commanded the evil spirit that kept the boy from hearing or speaking. Jesus said to it: I command you to come out of him now! Leave this child immediately, and never enter into him again in the future!"
-      },
+      { "n": 1, "text": "Jesus said to them: Truly I say to you: There are some of those standing here who will not taste of death (die), until they have seen the kingdom of God come with power." },
+      { "n": 2, "text": "After six days Jesus took with Him Peter, and James, and John, and led them up into a high mountain, apart by themselves. And He was transfigured (changed in appearance) before them." },
+      { "n": 3, "text": "His raiment (clothes) became shining, exceeding (very) white as snow, whiter than any fuller (cloth cleaner) on earth could make them." },
+      { "n": 4, "text": "Elias (Elijah) with Moses appeared to them. And they were talking with Jesus." },
+      { "n": 5, "text": "Peter answered Jesus: Master (Teacher), it is good for us to be here. Let us make three tabernacles (tents): one for You, and one for Moses, and one for Elias (Elijah)." },
+      { "n": 6, "text": "For Peter wist (knew) not what to say, for they were sore (very) afraid." },
+      { "n": 7, "text": "A cloud overshadowed (covered) them. And a voice came out of the cloud: This is My beloved (dearly loved) Son. Hear Him." },
+      { "n": 8, "text": "Suddenly, when they had looked round about, they saw no one any more, except Jesus only with themselves." },
+      { "n": 9, "text": "As they came down from the mountain, Jesus charged (strongly told) them to tell no one what things they had seen, until the Son of Man was risen from the dead." },
+      { "n": 10, "text": "They kept that saying with themselves, questioning one with another what the rising from the dead should mean." },
+      { "n": 11, "text": "They asked Jesus: Why do the scribes (teachers of the law) say that Elias (Elijah) must come first?" },
+      { "n": 12, "text": "Jesus answered them: Elias (Elijah) truly comes first, and restores (makes right again) all things. And it is written of the Son of Man that He must suffer many things, and be set at nought (treated as nothing)." },
+      { "n": 13, "text": "But I say to you: Elias (Elijah) has indeed come, and they have done to him whatever they listed (wanted), as it is written about him." },
+      { "n": 14, "text": "When Jesus came to His disciples, He saw a great multitude (crowd) around them, and the scribes (teachers of the law) questioning with them." },
+      { "n": 15, "text": "Right away all the people, when they beheld (saw) Jesus, were greatly amazed. And running to Him, they saluted (greeted) Him." },
+      { "n": 16, "text": "Jesus asked the scribes (teachers of the law): What are you questioning with them?" },
+      { "n": 17, "text": "One of the multitude (crowd) answered: Master (Teacher), I have brought my son to You. He has a dumb spirit (a spirit that keeps him from speaking)." },
+      { "n": 18, "text": "Wherever it takes him, it tears (throws) him down. He foams, and gnashes (grinds) his teeth, and pines away (wastes away). I spoke to Your disciples, that they should cast it out (drive it out). And they could not." },
+      { "n": 19, "text": "Jesus answered him: O faithless generation (people living now), how long will I be with you? How long will I suffer (put up with) you? Bring him to Me." },
+      { "n": 20, "text": "They brought the boy to Jesus. When the spirit saw Jesus, right away it tore (threw) the boy. He fell on the ground, and wallowed (rolled around), foaming." },
+      { "n": 21, "text": "Jesus asked his father: How long is it since this came to him? The father said: Of a child (since he was a child)." },
+      { "n": 22, "text": "Ofttimes (often) it has thrown him into the fire, and into the waters, to destroy him. But if You can do anything, have compassion (deep pity) on us, and help us." },
+      { "n": 23, "text": "Jesus said to him: If you can believe, all things are possible to the one who believes." },
+      { "n": 24, "text": "Right away the father of the child cried out, and said with tears: Lord, I believe. Help my unbelief." },
+      { "n": 25, "text": "When Jesus saw that the people came running together, He rebuked (gave a strong command to) the foul (evil) spirit. Jesus said to it: You dumb and deaf spirit (spirit that keeps him from speaking and hearing), I charge (command) you, come out of him, and enter no more into him." },
       {
         "n": 26,
         "text": "The spirit screamed, shook the boy hard, and came out. The boy looked like a dead body, so that many said: He is dead."
