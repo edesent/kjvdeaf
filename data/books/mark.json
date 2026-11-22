@@ -712,104 +712,32 @@
   "15": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with 'Pilate' named explicitly in v15 in place of bare pronouns. V38's curtain 'torn in two' already matches the same Greek root (schizo) as the heavens 'torn open' in Mark 1:10, completing that literary bookend within this Gospel. No capitalization issues found.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. dropping \"but he answered nothing\" in 15:3, \"crying aloud\" in 15:8 and \"cried out\" in 15:39), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Very early in the morning, the chief priests, the elders, the teachers of the law, and the whole council made their decision. They tied Jesus up, led Him away, and handed Him over to Pilate."
-      },
-      {
-        "n": 2,
-        "text": "Pilate asked Him: Are you the King of the Jews? Jesus answered: Yes, it is as you say."
-      },
-      {
-        "n": 3,
-        "text": "The chief priests accused Him of many things."
-      },
-      {
-        "n": 4,
-        "text": "So Pilate asked Him again: Have you no answer? Look how many things they are accusing you of."
-      },
-      {
-        "n": 5,
-        "text": "But Jesus still said nothing, and Pilate was amazed."
-      },
-      {
-        "n": 6,
-        "text": "Now at every Passover feast, Pilate would set free one prisoner that the people asked for."
-      },
-      {
-        "n": 7,
-        "text": "A man named Barabbas was in prison with the rebels who had committed murder during an uprising."
-      },
-      {
-        "n": 8,
-        "text": "The crowd came and asked Pilate to do what he usually did for them."
-      },
-      {
-        "n": 9,
-        "text": "Will you have me set free the King of the Jews? Pilate asked,"
-      },
-      {
-        "n": 10,
-        "text": "because he knew that the chief priests had handed Jesus over because they were jealous."
-      },
-      {
-        "n": 11,
-        "text": "But the chief priests stirred up the crowd to have Pilate set Barabbas free instead."
-      },
-      {
-        "n": 12,
-        "text": "Pilate asked them again: Then what should I do with the one you call the King of the Jews?"
-      },
-      {
-        "n": 13,
-        "text": "They shouted: Nail Him to a cross!"
-      },
-      {
-        "n": 14,
-        "text": "Pilate asked: Why? What wrong has He done? But they shouted even louder: Nail Him to a cross!"
-      },
-      {
-        "n": 15,
-        "text": "Pilate wanted to please the crowd. So he set Barabbas free. Then he had Jesus beaten with whips and handed him over to be nailed to a cross."
-      },
-      {
-        "n": 16,
-        "text": "The soldiers led Jesus away into the palace, called the Praetorium, and called the whole group of soldiers together."
-      },
-      {
-        "n": 17,
-        "text": "They put a purple robe on Him and made a crown out of thorns and put it on His head."
-      },
-      {
-        "n": 18,
-        "text": "Then they began to mock Him: Hail, King of the Jews!"
-      },
-      {
-        "n": 19,
-        "text": "Again and again they hit Him on the head with a stick and spit on Him. They knelt down and pretended to worship Him."
-      },
-      {
-        "n": 20,
-        "text": "After they had mocked Him, they took off the purple robe and put His own clothes back on Him. Then they led Him out to nail Him to a cross."
-      },
-      {
-        "n": 21,
-        "text": "A man named Simon from Cyrene, the father of Alexander and Rufus, was passing by on his way in from the country. The soldiers forced him to carry the cross."
-      },
-      {
-        "n": 22,
-        "text": "They brought Jesus to a place called Golgotha (which means The Place of the Skull)."
-      },
-      {
-        "n": 23,
-        "text": "There they offered Him wine mixed with myrrh, but He would not take it."
-      },
-      {
-        "n": 24,
-        "text": "Then they nailed Him to the cross. They divided His clothes among themselves, rolling dice to decide who would get what."
-      },
+      { "n": 1, "text": "Right away in the morning the chief priests held a consultation (meeting) with the elders and scribes (teachers of the law) and the whole council (Jewish court). They bound (tied up) Jesus, and carried Him away, and delivered (handed) Him to Pilate." },
+      { "n": 2, "text": "Pilate asked Jesus: Are You the King of the Jews? Jesus answered him: You say it." },
+      { "n": 3, "text": "The chief priests accused Jesus of many things. But Jesus answered nothing." },
+      { "n": 4, "text": "Pilate asked Him again: Do You answer nothing? Look how many things they witness against You." },
+      { "n": 5, "text": "But Jesus still answered nothing, so that Pilate marvelled (was amazed)." },
+      { "n": 6, "text": "At that feast Pilate released (set free) to them one prisoner, whoever they desired (asked for)." },
+      { "n": 7, "text": "There was one named Barabbas. He was bound (in chains) with those who had made insurrection (a revolt) with him. They had committed murder in the insurrection (revolt)." },
+      { "n": 8, "text": "The multitude (crowd), crying aloud (shouting), began to desire (ask) Pilate to do as he had ever (always) done for them." },
+      { "n": 9, "text": "But Pilate answered them: Do you want me to release (set free) to you the King of the Jews?" },
+      { "n": 10, "text": "For Pilate knew that the chief priests had delivered (handed) Jesus over for envy (jealousy)." },
+      { "n": 11, "text": "But the chief priests moved (stirred up) the people, so that Pilate would rather release (set free) Barabbas to them." },
+      { "n": 12, "text": "Pilate answered and said again to them: What then do you want me to do to the one you call the King of the Jews?" },
+      { "n": 13, "text": "They cried out again: Crucify (nail to a cross) Him!" },
+      { "n": 14, "text": "Then Pilate said to them: Why, what evil has He done? And they cried out even more: Crucify (nail to a cross) Him!" },
+      { "n": 15, "text": "So Pilate, willing to content (please) the people, released (set free) Barabbas to them. Pilate delivered (handed) Jesus over, when he had scourged (whipped) Him, to be crucified (nailed to a cross)." },
+      { "n": 16, "text": "The soldiers led Jesus away into the hall, called Praetorium (the governor's palace). And they called together the whole band (group of soldiers)." },
+      { "n": 17, "text": "They clothed Jesus with purple, and plaited (wove) a crown of thorns, and put it on His head." },
+      { "n": 18, "text": "They began to salute (greet) Him: Hail (greetings), King of the Jews!" },
+      { "n": 19, "text": "They smote (hit) Jesus on the head with a reed (stick), and spit on Him. Bowing their knees, they worshipped Him." },
+      { "n": 20, "text": "When they had mocked (made fun of) Jesus, they took off the purple from Him, and put His own clothes on Him. Then they led Him out to crucify (nail to a cross) Him." },
+      { "n": 21, "text": "They compelled (forced) one Simon, a Cyrenian (man from Cyrene), who passed by, coming out of the country, the father of Alexander and Rufus, to bear (carry) the cross of Jesus." },
+      { "n": 22, "text": "They brought Jesus to the place Golgotha, which means: The place of a skull." },
+      { "n": 23, "text": "They gave Jesus wine mingled (mixed) with myrrh (a bitter spice) to drink. But He received (took) it not." },
+      { "n": 24, "text": "When they had crucified (nailed to a cross) Jesus, they parted (divided) His clothes, casting lots (a kind of dice) on them, to see what every man should take." },
       {
         "n": 25,
         "text": "It was nine o'clock in the morning when they nailed Him to the cross."
