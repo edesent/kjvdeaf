@@ -1,71 +1,42 @@
 {
   "34": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "The word of the Lord came to me. He said,"
-      },
-      {
-        "n": 2,
-        "text": "Son of man, you must prophesy against the leaders of Israel and tell them: The Lord God says: You are like bad shepherds of Israel. You care only for yourselves. Shepherds must care for the sheep and goats"
-      },
-      {
-        "n": 3,
-        "text": "You leaders eat the fat sheep and use their wool to make clothes for yourselves. You kill the fat sheep, but you don’t feed the flock."
-      },
-      {
-        "n": 4,
-        "text": "You leaders did not help the weak sheep to become strong again, you did not heal the sick sheep, you did not put anything on the wounds of the sheep that were hurt, you did not bring back the sheep that were lost, and you did not go and look for the sheep that were lost. No, you ruled harshly and cruelly over them"
-      },
-      {
-        "n": 5,
-        "text": "And now the sheep are scattered because there was no shepherd. They became food for every wild animal, so they were scattered."
-      },
-      {
-        "n": 6,
-        "text": "My sheep wandered over all the mountains and on every high hill. My sheep were scattered over all the face of the earth. There was no one to search or to look for them"
-      },
-      {
-        "n": 7,
-        "text": "Leaders of Israel, listen to what the Lord says."
-      },
-      {
-        "n": 8,
-        "text": "The Lord God says, I swear that wild animals will catch my sheep, and my people will become food for all those animals because they did not have any real shepherds. My shepherds did not look out for my flock. They did not feed my flock. No, they only killed the sheep and fed themselves!"
-      },
-      {
-        "n": 9,
-        "text": "You shepherds, leaders of Israel listen to the word of the Lord!"
-      },
-      {
-        "n": 10,
-        "text": "The Lord God says, I am against the shepherds, leaders of Israel. I will demand my sheep from them. I will fire them. They will not be my shepherds anymore. Then the shepherds will not be able to feed themselves, and I will save my flock from their mouths. Then my sheep will not be food for them."
-      },
-      {
-        "n": 11,
-        "text": "The Lord God says: Now I will look after my sheep and take care of them and find them."
-      },
-      {
-        "n": 12,
-        "text": "Like a shepherd who is with his sheep when they begin to wander away, he will go searching for them. In the same way I will search for my sheep. I will save them and bring them back from all the places where they were scattered on that dark and cloudy day."
-      },
-      {
-        "n": 13,
-        "text": "I will bring them from among the nations, I will bring them together from the other lands and I will bring them to their own land I will feed them on the mountains of Israel, by the streams, and in all the places where people live"
-      },
-      {
-        "n": 14,
-        "text": "I will lead them to grassy fields. They will go to the high mountains of Israel and lie down on good ground and eat the grass. They will eat in rich grassland on the mountains of Israel"
-      },
-      {
-        "n": 15,
-        "text": "I will be the Shepherd of my sheep and I will let them lie down and rest after they have eaten. This is what the Lord God said. to be continued"
-      }
-    ],
-    "sourceUrl": "https://kjvdeaf.com/ezekiel-chapter-34/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a typo and grammar issue in v6. NOTE: this chapter is incomplete -- only verses 1-15 of the chapter's 31 verses are present, and the chapter itself ends with 'to be continued.' Verses 16-31 need to be drafted before this chapter is truly finished.",
-    "videos": []
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase and stopped at verse 15 with 'to be continued'), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Verses 16-31 have now been added, so the chapter is complete. V23 keeps the KJV's My servant David, one shepherd. V25 writes covenant as agreement, as elsewhere on the site.",
+    "sourceUrl": "https://kjvdeaf.com/ezekiel-chapter-34/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "And the word of the LORD came to me (Ezekiel), saying:" },
+      { "n": 2, "text": "Son of man, prophesy against the shepherds of Israel, prophesy, and say to them: This is what the Lord GOD says to the shepherds: Woe (great trouble) be to the shepherds of Israel that do feed themselves! Should not the shepherds feed the flocks?" },
+      { "n": 3, "text": "You eat the fat, and you clothe yourselves with the wool. You kill those that are fed. But you feed not the flock." },
+      { "n": 4, "text": "The diseased have you not strengthened, neither have you healed that which was sick, neither have you bound up (bandaged) that which was broken, neither have you brought again that which was driven away, neither have you sought (looked for) that which was lost. But with force and with cruelty have you ruled them." },
+      { "n": 5, "text": "And they were scattered, because there is no shepherd. And they became meat (food) to all the beasts (animals) of the field, when they were scattered." },
+      { "n": 6, "text": "My sheep wandered through all the mountains, and upon every high hill. Yes, My flock was scattered upon all the face of the earth, and none did search or seek (look) after them." },
+      { "n": 7, "text": "Therefore, you shepherds, hear the word of the LORD:" },
+      { "n": 8, "text": "As I live, says the Lord GOD, surely because My flock became a prey (were caught), and My flock became meat (food) to every beast (animal) of the field, because there was no shepherd, neither did My shepherds search for My flock, but the shepherds fed themselves, and fed not My flock," },
+      { "n": 9, "text": "Therefore, O you shepherds, hear the word of the LORD:" },
+      { "n": 10, "text": "This is what the Lord GOD says: Look, I am against the shepherds. And I will require (demand) My flock at their hand, and cause them to cease (stop) from feeding the flock. Neither shall the shepherds feed themselves any more. For I will deliver (rescue) My flock from their mouth, so that they may not be meat (food) for them." },
+      { "n": 11, "text": "For this is what the Lord GOD says: Look, I, even I, will both search My sheep, and seek them out." },
+      { "n": 12, "text": "As a shepherd seeks out his flock in the day that he is among his sheep that are scattered, so will I seek out My sheep, and will deliver (rescue) them out of all places where they have been scattered in the cloudy and dark day." },
+      { "n": 13, "text": "And I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country." },
+      { "n": 14, "text": "I will feed them in a good pasture (grassy field), and upon the high mountains of Israel shall their fold (resting place) be. There shall they lie in a good fold, and in a fat (rich) pasture shall they feed upon the mountains of Israel." },
+      { "n": 15, "text": "I will feed My flock, and I will cause them to lie down, says the Lord GOD." },
+      { "n": 16, "text": "I will seek (look for) that which was lost, and bring again that which was driven away, and will bind up (bandage) that which was broken, and will strengthen that which was sick. But I will destroy the fat and the strong. I will feed them with judgment (justice)." },
+      { "n": 17, "text": "And as for you, O My flock, this is what the Lord GOD says: Look, I judge between cattle and cattle, between the rams and the he goats (male goats)." },
+      { "n": 18, "text": "Does it seem a small thing to you to have eaten up the good pasture, but you must tread down with your feet the residue (rest) of your pastures? And to have drunk of the deep waters, but you must foul (make muddy) the residue (rest) with your feet?" },
+      { "n": 19, "text": "And as for My flock, they eat that which you have trodden with your feet. And they drink that which you have fouled (made muddy) with your feet." },
+      { "n": 20, "text": "Therefore this is what the Lord GOD says to them: Look, I, even I, will judge between the fat cattle and between the lean (thin) cattle." },
+      { "n": 21, "text": "Because you have thrust with side and with shoulder, and pushed all the diseased with your horns, till you have scattered them abroad," },
+      { "n": 22, "text": "Therefore will I save My flock, and they shall no more be a prey (caught). And I will judge between cattle and cattle." },
+      { "n": 23, "text": "And I will set up one Shepherd over them, and He shall feed them, even My servant David. He shall feed them, and He shall be their Shepherd." },
+      { "n": 24, "text": "And I the LORD will be their God, and My servant David a Prince among them. I the LORD have spoken it." },
+      { "n": 25, "text": "And I will make with them an agreement of peace, and will cause the evil beasts (wild animals) to cease (stop) out of the land. And they shall dwell (live) safely in the wilderness (desert), and sleep in the woods." },
+      { "n": 26, "text": "And I will make them and the places round about My hill a blessing. And I will cause the shower to come down in his season (at the right time). There shall be showers of blessing." },
+      { "n": 27, "text": "And the tree of the field shall yield her fruit, and the earth shall yield her increase (harvest), and they shall be safe in their land, and shall know that I am the LORD, when I have broken the bands of their yoke (chains of slavery), and delivered (rescued) them out of the hand of those who served themselves of them (made them slaves)." },
+      { "n": 28, "text": "And they shall no more be a prey (caught) to the heathen (nations), neither shall the beast (wild animal) of the land devour (eat) them. But they shall dwell (live) safely, and none shall make them afraid." },
+      { "n": 29, "text": "And I will raise up for them a plant of renown (famous plant), and they shall be no more consumed (destroyed) with hunger in the land, neither bear the shame of the heathen (nations) any more." },
+      { "n": 30, "text": "Thus shall they know that I the LORD their God am with them, and that they, even the house of Israel, are My people, says the Lord GOD." },
+      { "n": 31, "text": "And you My flock, the flock of My pasture, are men, and I am your God, says the Lord GOD." }
+    ]
   }
 }
