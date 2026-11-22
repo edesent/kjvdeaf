@@ -438,112 +438,34 @@
   "10": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No pronoun ambiguity found -- v11-12 already addresses both husband and wife explicitly, and other generic statements use 'whoever' without needing gendered follow-up pronouns.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. dropping \"take up the cross\" in 10:21 and \"for them that trust in riches\" in 10:24), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, with generic 'he' rendered gender-neutral in v15, v29-30, v43-44.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Then Jesus left there and went into the area of Judea and across the Jordan River. Again crowds came to Him, and as usual He taught them."
-      },
-      {
-        "n": 2,
-        "text": "Some Pharisees came to test Jesus. They asked: Is it right for a man to divorce his wife?"
-      },
-      {
-        "n": 3,
-        "text": "Jesus answered: What did Moses command you?"
-      },
-      {
-        "n": 4,
-        "text": "They said: Moses allowed a man to write a paper of divorce and send his wife away."
-      },
-      {
-        "n": 5,
-        "text": "Jesus said to them: Moses wrote that rule because your hearts were hard."
-      },
-      {
-        "n": 6,
-        "text": "But at the beginning, when God made the world, He made them male and female."
-      },
-      {
-        "n": 7,
-        "text": "For this reason a man will leave his father and mother and be joined to his wife,"
-      },
-      {
-        "n": 8,
-        "text": "and the two will become one. So they are no longer two, but one."
-      },
-      {
-        "n": 9,
-        "text": "No one should separate what God has joined together."
-      },
-      {
-        "n": 10,
-        "text": "Later, in the house, the disciples asked Jesus about this again."
-      },
-      {
-        "n": 11,
-        "text": "He told them: Anyone who divorces his wife and marries another woman is guilty of adultery against her."
-      },
-      {
-        "n": 12,
-        "text": "And if a woman divorces her husband and marries another man, she is guilty of adultery."
-      },
-      {
-        "n": 13,
-        "text": "People were bringing little children to Jesus so He could touch them. But the disciples told them to stop."
-      },
-      {
-        "n": 14,
-        "text": "When Jesus saw this, He was upset. He said to them: Let the little children come to me. Do not stop them, because God's kingdom belongs to people like these."
-      },
-      {
-        "n": 15,
-        "text": "I tell you the truth, anyone who does not receive God's kingdom like a little child will never enter it."
-      },
-      {
-        "n": 16,
-        "text": "Then Jesus took the children in His arms, put His hands on them, and blessed them."
-      },
-      {
-        "n": 17,
-        "text": "As Jesus was starting on His way, a man ran up and knelt before Him. He asked: Good Teacher, what must I do to receive eternal life?"
-      },
-      {
-        "n": 18,
-        "text": "Jesus said: Why do you call me good? No one is good except God alone."
-      },
-      {
-        "n": 19,
-        "text": "You know the commands: Do not murder, do not commit adultery, do not steal, do not lie, do not cheat, honor your father and mother."
-      },
-      {
-        "n": 20,
-        "text": "The man said: Teacher, I have obeyed all these since I was a boy."
-      },
-      {
-        "n": 21,
-        "text": "Jesus looked at him and loved him. Jesus said: There is one thing you still need to do. Go, sell everything you have, and give the money to the poor. Then you will have treasure in heaven. After that, come and follow me."
-      },
-      {
-        "n": 22,
-        "text": "When the man heard this, his face fell, and he went away sad, because he was very rich."
-      },
-      {
-        "n": 23,
-        "text": "Jesus looked around and said to His disciples: How hard it is for rich people to enter God's kingdom!"
-      },
-      {
-        "n": 24,
-        "text": "The disciples were surprised at His words. But Jesus said again: Children, how hard it is to enter God's kingdom!"
-      },
-      {
-        "n": 25,
-        "text": "It is easier for a camel to go through the eye of a needle than for a rich person to enter God's kingdom."
-      },
-      {
-        "n": 26,
-        "text": "The disciples were even more amazed. They said to each other: Then who can be saved?"
-      },
+      { "n": 1, "text": "Jesus arose (got up) and went from there into the coasts (land) of Judaea, by the farther side of Jordan. The people resort (came) to Him again. And as He was wont (used to), He taught them again." },
+      { "n": 2, "text": "The Pharisees came to Jesus, and asked Him: Is it lawful (allowed by the law) for a man to put away (divorce) his wife? They asked this tempting (testing) Him." },
+      { "n": 3, "text": "Jesus answered them: What did Moses command you?" },
+      { "n": 4, "text": "They said: Moses suffered (allowed) a man to write a bill of divorcement (written divorce paper), and to put her away (divorce her)." },
+      { "n": 5, "text": "Jesus answered them: For the hardness of your heart Moses wrote you this precept (rule)." },
+      { "n": 6, "text": "But from the beginning of the creation God made them male and female." },
+      { "n": 7, "text": "For this cause a man will leave his father and mother, and cleave (hold tight) to his wife." },
+      { "n": 8, "text": "And they twain (two) will be one flesh. So then they are no more twain (two), but one flesh." },
+      { "n": 9, "text": "So what God has joined together, let not man put asunder (pull apart)." },
+      { "n": 10, "text": "In the house His disciples asked Him again about the same matter." },
+      { "n": 11, "text": "Jesus said to them: Whoever puts away (divorces) his wife, and marries another, commits adultery against her." },
+      { "n": 12, "text": "And if a woman puts away (divorces) her husband, and is married to another, she commits adultery." },
+      { "n": 13, "text": "They brought young children to Jesus, so that He would touch them. And His disciples rebuked (scolded) those who brought them." },
+      { "n": 14, "text": "But when Jesus saw it, He was much displeased. Jesus said to them: Suffer (allow) the little children to come to Me, and forbid them not (do not stop them). For of such is the kingdom of God." },
+      { "n": 15, "text": "Truly I say to you: Whoever will not receive the kingdom of God like a little child will not enter into it." },
+      { "n": 16, "text": "Jesus took them up in His arms, put His hands on them, and blessed them." },
+      { "n": 17, "text": "When Jesus had gone out into the way (road), a man came running, and kneeled to Him. He asked Jesus: Good Master (Teacher), what will I do so that I may inherit (receive) eternal life?" },
+      { "n": 18, "text": "Jesus said to him: Why do you call Me good? There is none good but one, that is, God." },
+      { "n": 19, "text": "You know the commandments: Do not commit adultery (be unfaithful in marriage). Do not kill. Do not steal. Do not bear false witness (lie about others). Defraud (cheat) not. Honour (respect) your father and mother." },
+      { "n": 20, "text": "He answered Jesus: Master (Teacher), all these I have observed (kept) from my youth (since I was young)." },
+      { "n": 21, "text": "Then Jesus beholding (looking at) him loved him. Jesus said to him: One thing you lack (still need). Go your way. Sell whatever you have, and give to the poor, and you will have treasure in heaven. And come, take up the cross, and follow Me." },
+      { "n": 22, "text": "He was sad at that saying, and went away grieved (very sad). For he had great possessions (many things he owned)." },
+      { "n": 23, "text": "Jesus looked round about, and said to His disciples: How hardly (with great difficulty) will those who have riches enter into the kingdom of God!" },
+      { "n": 24, "text": "The disciples were astonished (amazed) at His words. But Jesus answered again, and said to them: Children, how hard it is for those who trust in riches to enter into the kingdom of God!" },
+      { "n": 25, "text": "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God." },
+      { "n": 26, "text": "They were astonished (amazed) out of measure (beyond words). They said among themselves: Who then can be saved?" },
       {
         "n": 27,
         "text": "Jesus looked at them and said: For people this is impossible, but not for God. Everything is possible for God."
