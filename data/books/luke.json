@@ -1085,160 +1085,46 @@
   "21": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers the widow's offering (praised for giving out of her poverty), and Jesus' Olivet Discourse: the prediction of the temple's destruction, signs of persecution and the end times, and the coming of the Son of Man.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "As Jesus looked up, He saw the rich putting their gifts into the temple treasury."
-      },
-      {
-        "n": 2,
-        "text": "He also saw a poor widow put in two very small copper coins."
-      },
-      {
-        "n": 3,
-        "text": "Truly I tell you, He said, this poor widow has put in more than all the others."
-      },
-      {
-        "n": 4,
-        "text": "All these people gave their gifts out of their wealth, but she out of her poverty put in all she had to live on."
-      },
-      {
-        "n": 5,
-        "text": "Some of His disciples were remarking about how the temple was adorned with beautiful stones and with gifts dedicated to God. But Jesus said,"
-      },
-      {
-        "n": 6,
-        "text": "As for what you see here, the time will come when not one stone will be left on another. Every one of them will be thrown down."
-      },
-      {
-        "n": 7,
-        "text": "Teacher, they asked, when will these things happen? And what will be the sign that they are about to take place?"
-      },
-      {
-        "n": 8,
-        "text": "He replied: Watch out that you are not deceived. For many will come in my name, claiming: I am He, and: The time is near. Do not follow them."
-      },
-      {
-        "n": 9,
-        "text": "When you hear of wars and uprisings, do not be frightened. These things must happen first, but the end will not come right away."
-      },
-      {
-        "n": 10,
-        "text": "Then He said to them: Nation will rise against nation, and kingdom against kingdom."
-      },
-      {
-        "n": 11,
-        "text": "There will be great earthquakes, famines, and plagues in various places, and fearful events and great signs from heaven."
-      },
-      {
-        "n": 12,
-        "text": "But before all this, they will seize you and persecute you. They will hand you over to synagogues and put you in prison. You will be brought before kings and governors on account of my name."
-      },
-      {
-        "n": 13,
-        "text": "And so you will bear testimony to me."
-      },
-      {
-        "n": 14,
-        "text": "But make up your mind not to worry beforehand how you will defend yourselves."
-      },
-      {
-        "n": 15,
-        "text": "For I will give you words and wisdom that none of your adversaries will be able to resist or contradict."
-      },
-      {
-        "n": 16,
-        "text": "You will be betrayed even by parents, brothers and sisters, relatives and friends, and they will put some of you to death."
-      },
-      {
-        "n": 17,
-        "text": "Everyone will hate you because of me."
-      },
-      {
-        "n": 18,
-        "text": "But not a hair of your head will perish."
-      },
-      {
-        "n": 19,
-        "text": "Stand firm, and you will win life."
-      },
-      {
-        "n": 20,
-        "text": "When you see Jerusalem surrounded by armies, you will know that its desolation is near."
-      },
-      {
-        "n": 21,
-        "text": "Then let those who are in Judea flee to the mountains. Let those in the city get out. Let those in the country not enter the city."
-      },
-      {
-        "n": 22,
-        "text": "For this is the time of punishment in fulfillment of all that has been written."
-      },
-      {
-        "n": 23,
-        "text": "How dreadful it will be in those days for pregnant women and nursing mothers! There will be great distress in the land and wrath against this people."
-      },
-      {
-        "n": 24,
-        "text": "They will fall by the sword and will be taken as prisoners to all the nations. Jerusalem will be trampled on by the Gentiles until the times of the Gentiles are fulfilled."
-      },
-      {
-        "n": 25,
-        "text": "There will be signs in the sun, moon, and stars. On the earth, nations will be in anguish and perplexity at the roaring and tossing of the sea."
-      },
-      {
-        "n": 26,
-        "text": "People will faint from terror, apprehensive of what is coming on the world, for the heavenly bodies will be shaken."
-      },
-      {
-        "n": 27,
-        "text": "At that time they will see the Son of Man coming in a cloud with power and great glory."
-      },
-      {
-        "n": 28,
-        "text": "When these things begin to take place, stand up and lift up your heads, because your redemption is drawing near."
-      },
-      {
-        "n": 29,
-        "text": "Jesus told them this teaching story: Look at the fig tree and all the trees."
-      },
-      {
-        "n": 30,
-        "text": "When they sprout leaves, you can see for yourselves and know that summer is near."
-      },
-      {
-        "n": 31,
-        "text": "Even so, when you see these things happening, you know that the kingdom of God is near."
-      },
-      {
-        "n": 32,
-        "text": "Truly I tell you, this generation will certainly not pass away until all these things have happened."
-      },
-      {
-        "n": 33,
-        "text": "Heaven and earth will pass away, but my words will never pass away."
-      },
-      {
-        "n": 34,
-        "text": "Be careful, or your hearts will be weighed down with wild parties, drunkenness, and the worries of life. That day will close on you suddenly like a trap."
-      },
-      {
-        "n": 35,
-        "text": "For it will come on all those who live on the face of the whole earth."
-      },
-      {
-        "n": 36,
-        "text": "Always be on the watch. Pray that you will be able to escape all that is about to happen. Pray that you will be able to stand before the Son of Man."
-      },
-      {
-        "n": 37,
-        "text": "Each day Jesus was teaching at the temple, and each evening He went out to spend the night on the hill called the Mount of Olives,"
-      },
-      {
-        "n": 38,
-        "text": "And all the people came early in the morning to hear Him at the temple."
-      }
+      { "n": 1, "text": "And Jesus looked up, and saw the rich men casting their gifts into the treasury (temple money box)." },
+      { "n": 2, "text": "And Jesus saw also a certain poor widow casting in there 2 mites (smallest coins)." },
+      { "n": 3, "text": "And Jesus said: Of a truth I say to you, that this poor widow has cast in more than they all." },
+      { "n": 4, "text": "For all these have of their abundance (extra) cast in to the offerings of God. But she of her penury (being poor) has cast in all the living (money to live on) that she had." },
+      { "n": 5, "text": "And as some spoke of the temple, how it was adorned (decorated) with goodly (beautiful) stones and gifts, Jesus said:" },
+      { "n": 6, "text": "As for these things which you behold (see), the days will come, in which there will not be left one stone upon another, that will not be thrown down." },
+      { "n": 7, "text": "And they asked Jesus, saying: Master (Teacher), but when will these things be? And what sign will there be when these things will come to pass (happen)?" },
+      { "n": 8, "text": "And Jesus said: Take heed (be careful) that you are not deceived (fooled). For many will come in My name, saying: I am Christ. And the time draws near. Do not go therefore after them." },
+      { "n": 9, "text": "But when you will hear of wars and commotions (riots), be not terrified. For these things must first come to pass (happen). But the end is not by and by (right away)." },
+      { "n": 10, "text": "Then Jesus said to them: Nation will rise against nation, and kingdom against kingdom." },
+      { "n": 11, "text": "And great earthquakes will be in divers (many different) places, and famines (times of no food), and pestilences (deadly sicknesses). And fearful sights and great signs will there be from heaven." },
+      { "n": 12, "text": "But before all these, they will lay their hands on you, and persecute (attack) you, delivering (handing) you up to the synagogues (meeting houses), and into prisons, being brought before kings and rulers for My name's sake." },
+      { "n": 13, "text": "And it will turn to you for a testimony (a chance to tell about Me)." },
+      { "n": 14, "text": "Settle it therefore in your hearts, not to meditate before (plan ahead) what you will answer." },
+      { "n": 15, "text": "For I will give you a mouth and wisdom, which all your adversaries (enemies) will not be able to gainsay (argue against) nor resist." },
+      { "n": 16, "text": "And you will be betrayed both by parents, and brothers, and kinsfolks (relatives), and friends. And some of you they will cause to be put to death." },
+      { "n": 17, "text": "And you will be hated by all men for My name's sake." },
+      { "n": 18, "text": "But there will not a hair of your head perish (be lost)." },
+      { "n": 19, "text": "In your patience possess (keep) your souls." },
+      { "n": 20, "text": "And when you will see Jerusalem compassed (surrounded) with armies, then know that the desolation (ruin) of it is nigh (near)." },
+      { "n": 21, "text": "Then let them who are in Judaea flee (run away) to the mountains. And let them who are in the middle of it depart out. And let not them who are in the countries (fields) enter into it." },
+      { "n": 22, "text": "For these are the days of vengeance (punishment), that all things which are written may be fulfilled (come true)." },
+      { "n": 23, "text": "But woe (great trouble) to them who are with child (pregnant), and to them who give suck (nurse babies), in those days. For there will be great trouble in the land, and wrath (anger) upon this people." },
+      { "n": 24, "text": "And they will fall by the edge of the sword, and will be led away captive (as prisoners) into all nations. And Jerusalem will be trodden down by the Gentiles (people who are not Jews), until the times of the Gentiles are fulfilled (finished)." },
+      { "n": 25, "text": "And there will be signs in the sun, and in the moon, and in the stars. And upon the earth trouble of nations, with perplexity (confusion), the sea and the waves roaring," },
+      { "n": 26, "text": "Men's hearts failing them for fear, and for looking after those things which are coming on the earth. For the powers of heaven will be shaken." },
+      { "n": 27, "text": "And then they will see the Son of man coming in a cloud with power and great glory." },
+      { "n": 28, "text": "And when these things begin to come to pass (happen), then look up, and lift up your heads. For your redemption (being bought back and set free) draws nigh (near)." },
+      { "n": 29, "text": "And Jesus spoke to them a parable (story that teaches a lesson): Behold (look at) the fig tree, and all the trees." },
+      { "n": 30, "text": "When they now shoot forth (put out leaves), you see and know of your own selves that summer is now nigh (near) at hand." },
+      { "n": 31, "text": "So likewise you, when you see these things come to pass (happen), know that the kingdom of God is nigh (near) at hand." },
+      { "n": 32, "text": "Verily (truly) I say to you: This generation (people living now) will not pass away, till all is fulfilled (has come true)." },
+      { "n": 33, "text": "Heaven and earth will pass away. But My words will not pass away." },
+      { "n": 34, "text": "And take heed (be careful) to yourselves, so that at no time your hearts are overcharged (weighed down) with surfeiting (eating and drinking too much), and drunkenness, and cares (worries) of this life, and so that day comes upon you unawares (by surprise)." },
+      { "n": 35, "text": "For as a snare (trap) it will come on all them who dwell (live) on the face of the whole earth." },
+      { "n": 36, "text": "Watch therefore, and pray always, that you may be accounted (counted) worthy to escape all these things that will come to pass (happen), and to stand before the Son of man." },
+      { "n": 37, "text": "And in the day time Jesus was teaching in the temple. And at night He went out, and abode (stayed) in the mount that is called the mount of Olives." },
+      { "n": 38, "text": "And all the people came early in the morning to Jesus in the temple, to hear Him." }
     ]
   },
   "22": {
