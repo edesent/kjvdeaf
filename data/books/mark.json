@@ -538,96 +538,30 @@
   "12": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Additional bare pronouns replaced with 'Jesus' explicitly (v15, v34) for clarity. Parable characters (the man/farmer, servants, son) kept as single-referent within the story.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. dropping \"at him they cast stones\" in 12:4, \"this is the first commandment\" in 12:30, \"when they shall rise\" in 12:23 and \"and with all the soul\" in 12:33), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Parable characters (the man, servants, son) keep their 'he'.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Then Jesus began to teach them with a teaching story: A man planted a vineyard. He put a wall around it, dug a pit for the winepress, and built a watchtower. Then he rented the vineyard to some farmers and went away to another country."
-      },
-      {
-        "n": 2,
-        "text": "At harvest time he sent a servant to the farmers to collect his share of the fruit."
-      },
-      {
-        "n": 3,
-        "text": "But the farmers grabbed the servant, beat him, and sent him away with nothing."
-      },
-      {
-        "n": 4,
-        "text": "So the man sent another servant. They hit this one on the head and treated him shamefully."
-      },
-      {
-        "n": 5,
-        "text": "He sent another, and they killed him. He sent many others. Some they beat, and some they killed."
-      },
-      {
-        "n": 6,
-        "text": "The man had one person left to send: his own dear son. Last of all he sent him, thinking: They will respect my son."
-      },
-      {
-        "n": 7,
-        "text": "But the farmers said to each other: This is the one who will inherit the vineyard. Come, let us kill him, and the vineyard will be ours."
-      },
-      {
-        "n": 8,
-        "text": "So they grabbed the son, killed him, and threw him out of the vineyard."
-      },
-      {
-        "n": 9,
-        "text": "What will the owner of the vineyard do? He will come and kill those farmers and give the vineyard to others."
-      },
-      {
-        "n": 10,
-        "text": "Have you not read this Scripture? The stone the builders threw away has become the most important stone."
-      },
-      {
-        "n": 11,
-        "text": "The Lord did this, and it is wonderful in our eyes."
-      },
-      {
-        "n": 12,
-        "text": "The leaders knew that Jesus had told this teaching story against them. So they wanted to arrest Him, but they were afraid of the crowd. So they left Him and went away."
-      },
-      {
-        "n": 13,
-        "text": "Later they sent some Pharisees and some followers of Herod to Jesus, to trap Him with His own words."
-      },
-      {
-        "n": 14,
-        "text": "They came and said to Him: Teacher, we know you are honest. You are not afraid of anyone, because you do not care who they are. You teach the way of God truthfully. Tell us: is it right to pay taxes to Caesar or not? Should we pay or not?"
-      },
-      {
-        "n": 15,
-        "text": "But Jesus knew they were only pretending. Jesus said to them: Why are you trying to trap me? Bring me a coin and let me look at it."
-      },
-      {
-        "n": 16,
-        "text": "They brought one, and Jesus asked them: Whose picture is this? Whose name is on it? They answered: Caesar's."
-      },
-      {
-        "n": 17,
-        "text": "Then Jesus said to them: Give to Caesar what belongs to Caesar, and give to God what belongs to God. And they were amazed at Him."
-      },
-      {
-        "n": 18,
-        "text": "Then some Sadducees came to Jesus. (The Sadducees say that people do not rise from the dead.) They asked Him:"
-      },
-      {
-        "n": 19,
-        "text": "Teacher, Moses wrote that if a man dies and leaves a wife but no children, his brother must marry the widow and have children for him."
-      },
-      {
-        "n": 20,
-        "text": "Now there were seven brothers. The first one married and died without children."
-      },
-      {
-        "n": 21,
-        "text": "The second brother married the widow, but he also died without children. The same thing happened to the third."
-      },
-      {
-        "n": 22,
-        "text": "None of the seven brothers had any children. Last of all, the woman died too."
-      },
+      { "n": 1, "text": "Jesus began to speak to them by parables (stories that teach a lesson): A certain man planted a vineyard (grape farm). He set a hedge (fence) around it, and dug a place for the winefat (vat for grape juice), and built a tower. He let it out (rented it) to husbandmen (farmers), and went into a far country." },
+      { "n": 2, "text": "At the season (harvest time) he sent a servant to the husbandmen (farmers), so that he might receive from the husbandmen (farmers) the fruit of the vineyard (grape farm)." },
+      { "n": 3, "text": "They caught the servant, and beat him, and sent him away empty." },
+      { "n": 4, "text": "Again he sent another servant to them. At him they threw stones, and wounded him in the head, and sent him away shamefully handled (badly treated)." },
+      { "n": 5, "text": "Again he sent another, and him they killed, and many others. They beat some, and killed some." },
+      { "n": 6, "text": "So having still one son, his wellbeloved (dearly loved), he sent him also last to them. He said: They will reverence (respect) my son." },
+      { "n": 7, "text": "But those husbandmen (farmers) said among themselves: This is the heir (the one who will own it all). Come, let us kill him, and the inheritance will be ours." },
+      { "n": 8, "text": "They took him, and killed him, and threw him out of the vineyard (grape farm)." },
+      { "n": 9, "text": "So what will the lord (owner) of the vineyard (grape farm) do? He will come and destroy the husbandmen (farmers), and will give the vineyard (grape farm) to others." },
+      { "n": 10, "text": "Have you not read this scripture: The stone which the builders rejected has become the head of the corner (the most important stone)." },
+      { "n": 11, "text": "This was the Lord's doing, and it is marvellous (wonderful) in our eyes?" },
+      { "n": 12, "text": "They sought (tried) to lay hold on (take hold of) Jesus, but feared the people. For they knew that He had spoken the parable (story) against them. And they left Him, and went their way." },
+      { "n": 13, "text": "They sent to Jesus some of the Pharisees and of the Herodians (followers of King Herod), to catch Him in His words." },
+      { "n": 14, "text": "When they came, they said to Him: Master (Teacher), we know that You are true, and care for no one's opinion. For You regard not the person of men (do not favor anyone), but teach the way of God in truth. Is it lawful (allowed by the law) to give tribute (tax) to Caesar, or not?" },
+      { "n": 15, "text": "Should we give, or should we not give? But Jesus, knowing their hypocrisy (pretending), said to them: Why do you tempt (test) Me? Bring Me a penny (a coin worth a day's pay), so I may see it." },
+      { "n": 16, "text": "They brought it. Jesus said to them: Whose is this image (picture) and superscription (writing)? They said to Him: Caesar's." },
+      { "n": 17, "text": "Jesus answering said to them: Render (give) to Caesar the things that are Caesar's, and to God the things that are God's. And they marvelled (were amazed) at Him." },
+      { "n": 18, "text": "Then the Sadducees came to Jesus. They say there is no resurrection (rising from the dead). They asked Him:" },
+      { "n": 19, "text": "Master (Teacher), Moses wrote to us: If a man's brother dies, and leaves his wife behind him, and leaves no children, his brother should take his wife, and raise up seed (children) for his brother." },
+      { "n": 20, "text": "Now there were seven brethren (brothers). The first took a wife, and dying left no seed (children)." },
+      { "n": 21, "text": "The second took her, and died, and he did not leave any seed (children) either. And the third did the same." },
+      { "n": 22, "text": "All seven had her, and left no seed (children). Last of all the woman died also." },
       {
         "n": 23,
         "text": "Now when people rise from the dead, whose wife will she be? All seven were married to her."
