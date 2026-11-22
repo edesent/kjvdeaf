@@ -1,135 +1,42 @@
 {
   "1": {
     "verses": [
-      {
-        "n": 1,
-        "text": "In the beginning, God created the heavens and the earth."
-      },
-      {
-        "n": 2,
-        "text": "The earth was formless and empty, and darkness covered the deep waters. And the Spirit of God was hovering over the surface of the waters."
-      },
-      {
-        "n": 3,
-        "text": "Then God said: Let there be light. And there was light."
-      },
-      {
-        "n": 4,
-        "text": "God saw that the light was good. God separated the light from the darkness."
-      },
-      {
-        "n": 5,
-        "text": "God named the light day, and God named the darkness night. There was evening, and then there was morning. This was the first day."
-      },
-      {
-        "n": 6,
-        "text": "God said: There must be sky between the waters. The sky will separate the water above from the water below."
-      },
-      {
-        "n": 7,
-        "text": "God made the sky. God separated the water above the sky from the water below it."
-      },
-      {
-        "n": 8,
-        "text": "God named that sky Heaven. There was evening, and then there was morning. This was the second day."
-      },
-      {
-        "n": 9,
-        "text": "Then God said: Let the water under the sky be gathered together. Let the dry land appear. And it happened."
-      },
-      {
-        "n": 10,
-        "text": "God named the dry land Earth. God named the water Seas. God saw that it was good."
-      },
-      {
-        "n": 11,
-        "text": "Then God said: Let the earth grow grass. Let it grow plants that make grain, and fruit trees. The fruit trees will make fruit with seeds in it. And each plant will make its own kind of seed. Let these plants grow on the earth. And it happened."
-      },
-      {
-        "n": 12,
-        "text": "The earth grew grass and plants that made grain. And it grew trees that made fruit with seeds in it. Every plant made its own kind of seeds. And God saw that this was good."
-      },
-      {
-        "n": 13,
-        "text": "There was evening, and then there was morning. This was the third day."
-      },
-      {
-        "n": 14,
-        "text": "God said: There must be lights in the sky. The lights will show when it is day and when it is night. The lights will also show the seasons and the special times. The lights will show when days and years begin and end."
-      },
-      {
-        "n": 15,
-        "text": "Let the lights in the sky shine and give light to the earth. And it happened."
-      },
-      {
-        "n": 16,
-        "text": "God made two big lights. God made the bigger light, the sun, to rule the day. God made the smaller light, the moon, to rule the night. God also made the stars."
-      },
-      {
-        "n": 17,
-        "text": "God put the sun, moon, and stars in the sky. They gave light on the earth."
-      },
-      {
-        "n": 18,
-        "text": "The sun, moon, and stars ruled over the day and over the night. They separated the light from the darkness. And God saw that this was good."
-      },
-      {
-        "n": 19,
-        "text": "There was evening, and then there was morning. This was the fourth day."
-      },
-      {
-        "n": 20,
-        "text": "Then God said: Let the water be filled with many living things. Let birds fly across the sky."
-      },
-      {
-        "n": 21,
-        "text": "God created the huge sea animals. God also created all the living things in the sea. God created every kind of bird that flies in the air. God saw that it was good."
-      },
-      {
-        "n": 22,
-        "text": "God blessed the fish and birds. God said: There must be more and more fish and water animals. The water must be full of fish. And there must be many birds on earth."
-      },
-      {
-        "n": 23,
-        "text": "There was evening, and then there was morning. This was the fifth day."
-      },
-      {
-        "n": 24,
-        "text": "God said: Let the land bring out all kinds of living animals. Let each animal have young of its own kind. There will be farm animals, animals that crawl on the ground, and wild animals. And it happened."
-      },
-      {
-        "n": 25,
-        "text": "God made the wild animals and the farm animals. God made the animals that crawl on the ground. Each kind had young of its own kind. God saw that it was good."
-      },
-      {
-        "n": 26,
-        "text": "Then God said: Now let Us make people who will be like Us. The people will rule over the fish in the sea. They will rule over the birds in the air. They will rule over the large animals. They will rule over all the little things that crawl on the earth."
-      },
-      {
-        "n": 27,
-        "text": "So God created humans in His own image. God created humans, male and female."
-      },
-      {
-        "n": 28,
-        "text": "God blessed the humans. God said: You must have many children and fill the earth with people. You must take charge of the earth. You must rule over the fish in the sea. You must rule over the birds in the sky. You must rule over all the animals on the earth."
-      },
-      {
-        "n": 29,
-        "text": "God said: I am giving you every plant on the earth that makes seeds. I am giving you every tree that makes fruit with seeds in it. This will be your food."
-      },
-      {
-        "n": 30,
-        "text": "I am also giving the green plants to every animal on earth. I am giving the green plants to every bird in the air. I am giving the green plants to every little thing that crawls on the earth. The green plants will be their food. And it happened."
-      },
-      {
-        "n": 31,
-        "text": "God saw everything He had made, and it was very good. There was evening, and then there was morning. This was the sixth day."
-      }
+      { "n": 1, "text": "In the beginning God created the heaven and the earth." },
+      { "n": 2, "text": "And the earth was without form, and void (empty). And darkness was on the face of the deep (the deep waters). And the Spirit of God moved on the face of the waters." },
+      { "n": 3, "text": "And God said: Let there be light. And there was light." },
+      { "n": 4, "text": "And God saw the light, that it was good. And God divided the light from the darkness." },
+      { "n": 5, "text": "And God called the light Day, and the darkness God called Night. And the evening and the morning were the first day." },
+      { "n": 6, "text": "And God said: Let there be a firmament (sky, a wide open space) in the middle of the waters. And let the firmament (sky) divide the waters from the waters." },
+      { "n": 7, "text": "And God made the firmament (sky). God divided the waters which were under the firmament (sky) from the waters which were above the firmament (sky). And it was so." },
+      { "n": 8, "text": "And God called the firmament (sky) Heaven. And the evening and the morning were the second day." },
+      { "n": 9, "text": "And God said: Let the waters under the heaven be gathered together to one place. And let the dry land appear. And it was so." },
+      { "n": 10, "text": "And God called the dry land Earth. And the gathering together of the waters God called Seas. And God saw that it was good." },
+      { "n": 11, "text": "And God said: Let the earth bring out grass, the herb (plant) giving seed, and the fruit tree giving fruit after its kind, whose seed is in itself, on the earth. And it was so." },
+      { "n": 12, "text": "And the earth brought out grass, and herb (plant) giving seed after its kind, and the tree giving fruit, whose seed was in itself, after its kind. And God saw that it was good." },
+      { "n": 13, "text": "And the evening and the morning were the third day." },
+      { "n": 14, "text": "And God said: Let there be lights in the firmament (sky) of the heaven to divide the day from the night. And let the lights be for signs, and for seasons, and for days, and years." },
+      { "n": 15, "text": "And let the lights be in the firmament (sky) of the heaven to give light on the earth. And it was so." },
+      { "n": 16, "text": "And God made two great lights: the greater light (the sun) to rule the day, and the lesser light (the moon) to rule the night. God made the stars also." },
+      { "n": 17, "text": "And God set the lights in the firmament (sky) of the heaven to give light on the earth," },
+      { "n": 18, "text": "And to rule over the day and over the night, and to divide the light from the darkness. And God saw that it was good." },
+      { "n": 19, "text": "And the evening and the morning were the fourth day." },
+      { "n": 20, "text": "And God said: Let the waters bring out many moving creatures that have life. And let fowl (birds) fly above the earth in the open firmament (sky) of heaven." },
+      { "n": 21, "text": "And God created great whales (great sea creatures), and every living creature that moves, which the waters brought out in great numbers, after their kind. And God created every winged fowl (birds) after its kind. And God saw that it was good." },
+      { "n": 22, "text": "And God blessed the creatures of the sea and the fowl (birds), saying: Be fruitful (have many young), and multiply, and fill the waters in the seas. And let the fowl (birds) multiply on the earth." },
+      { "n": 23, "text": "And the evening and the morning were the fifth day." },
+      { "n": 24, "text": "And God said: Let the earth bring out the living creature after its kind: cattle (farm animals), and creeping things, and beasts (wild animals) of the earth after their kind. And it was so." },
+      { "n": 25, "text": "And God made the beast of the earth after its kind, and cattle (farm animals) after their kind, and every thing that creeps on the earth after its kind. And God saw that it was good." },
+      { "n": 26, "text": "And God said: Let Us make man in Our image, after Our likeness. And let man have dominion (rule) over the fish of the sea, and over the fowl (birds) of the air, and over the cattle (farm animals), and over all the earth, and over every creeping thing that creeps on the earth." },
+      { "n": 27, "text": "So God created man in His own image. In the image of God, God created him. Male and female God created them." },
+      { "n": 28, "text": "And God blessed the man and the woman. And God said to them: Be fruitful (have many children), and multiply, and replenish (fill) the earth, and subdue (take control of) the earth. And have dominion (rule) over the fish of the sea, and over the fowl (birds) of the air, and over every living thing that moves on the earth." },
+      { "n": 29, "text": "And God said: Look, I have given you every herb (plant) bearing seed, which is on the face of all the earth, and every tree which has fruit giving seed. To you it will be for meat (food)." },
+      { "n": 30, "text": "And to every beast of the earth, and to every fowl (birds) of the air, and to every thing that creeps on the earth, which has life, I have given every green herb (plant) for meat (food). And it was so." },
+      { "n": 31, "text": "And God saw every thing that He had made, and look, it was very good. And the evening and the morning were the sixth day." }
     ],
     "sourceUrl": "https://kjvdeaf.com/old-testament/genesis/genesis-chapter-01/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "2": {
