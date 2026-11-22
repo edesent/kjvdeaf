@@ -179,180 +179,51 @@
   "5": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No pronoun ambiguity found -- this chapter is entirely narrative about specific individuals (the demon-possessed man, Jairus, the bleeding woman, Jairus' daughter), not generic statements.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. \"Gerasenes\" instead of \"Gadarenes\" in 5:1, dropping \"all the devils\" in 5:12 and \"forthwith Jesus\" in 5:13, and \"paid no attention\" instead of \"as soon as Jesus heard\" in 5:36), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. 5:30 'virtue' is explained as 'power' (Greek dunamis): the 1611 English word does not match the modern sign.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Jesus and His disciples came to the other side of the lake, to the area of the Gerasenes."
-      },
-      {
-        "n": 2,
-        "text": "As soon as Jesus got out of the boat, a man with an evil spirit came out from the tombs to meet Him."
-      },
-      {
-        "n": 3,
-        "text": "This man lived among the tombs. No one could tie him up anymore, not even with chains."
-      },
-      {
-        "n": 4,
-        "text": "Many times his hands and feet had been tied with chains, but he broke the chains and smashed the irons on his feet. No one was strong enough to control him."
-      },
-      {
-        "n": 5,
-        "text": "Night and day he stayed among the tombs and in the hills, screaming and cutting himself with stones."
-      },
-      {
-        "n": 6,
-        "text": "When the man saw Jesus far away, he ran and bowed down in front of Him."
-      },
-      {
-        "n": 7,
-        "text": "He shouted with a loud voice: What do you want with me, Jesus, Son of the Most High God? Promise God that You will not hurt me!"
-      },
-      {
-        "n": 8,
-        "text": "He said this because Jesus had said to him: Come out of this man, you evil spirit!"
-      },
-      {
-        "n": 9,
-        "text": "Then Jesus asked him: What is your name? The man answered: My name is Legion, because there are many of us."
-      },
-      {
-        "n": 10,
-        "text": "And he begged Jesus again and again not to send them out of that area."
-      },
-      {
-        "n": 11,
-        "text": "A large herd of pigs was feeding nearby on the hill."
-      },
-      {
-        "n": 12,
-        "text": "The evil spirits begged Jesus: Send us to the pigs. Let us go into them."
-      },
-      {
-        "n": 13,
-        "text": "Jesus allowed them. So the evil spirits came out of the man and went into the pigs. The whole herd, about two thousand pigs, rushed down the steep hill into the lake and drowned."
-      },
-      {
-        "n": 14,
-        "text": "The men who took care of the pigs ran away. They told the news in the town and in the countryside, and the people came to see what had happened."
-      },
-      {
-        "n": 15,
-        "text": "They came to Jesus and saw the man who had been controlled by the demons. He was sitting there, dressed and in his right mind. And the people were afraid."
-      },
-      {
-        "n": 16,
-        "text": "The ones who had seen it told the others what had happened to the man and to the pigs."
-      },
-      {
-        "n": 17,
-        "text": "Then the people began to beg Jesus to leave their area."
-      },
-      {
-        "n": 18,
-        "text": "As Jesus was getting into the boat, the man who had been set free begged to go with Him."
-      },
-      {
-        "n": 19,
-        "text": "But Jesus would not let him. He said: Go home to your family, and tell them how much the Lord has done for you and how kind He has been to you."
-      },
-      {
-        "n": 20,
-        "text": "So the man went away and began to tell everyone in the Ten Towns how much Jesus had done for him. And everyone was amazed."
-      },
-      {
-        "n": 21,
-        "text": "Jesus went back across the lake in the boat. A large crowd gathered around Him by the shore."
-      },
-      {
-        "n": 22,
-        "text": "A leader of the synagogue named Jairus came there. When he saw Jesus, he fell at His feet."
-      },
-      {
-        "n": 23,
-        "text": "He begged Jesus again and again: My little daughter is dying. Please come and put Your hands on her, so she will be healed and live."
-      },
-      {
-        "n": 24,
-        "text": "So Jesus went with him. A large crowd followed and pushed close around Jesus."
-      },
-      {
-        "n": 25,
-        "text": "A woman was there who had been bleeding for twelve years."
-      },
-      {
-        "n": 26,
-        "text": "She had suffered very much under the care of many doctors. She had spent all her money, but she was not better. Instead, she was getting worse."
-      },
-      {
-        "n": 27,
-        "text": "She had heard about Jesus. So she came up behind Him in the crowd and touched His coat."
-      },
-      {
-        "n": 28,
-        "text": "She thought: If I can just touch His clothes, I will be healed."
-      },
-      {
-        "n": 29,
-        "text": "As soon as she touched Him, her bleeding stopped. She could feel in her body that she was healed."
-      },
-      {
-        "n": 30,
-        "text": "At once Jesus knew that power had gone out of Him. He turned around in the crowd and asked: Who touched my clothes?"
-      },
-      {
-        "n": 31,
-        "text": "His disciples said: You can see the crowd pushing against you. Why do you ask who touched You?"
-      },
-      {
-        "n": 32,
-        "text": "But Jesus kept looking around to see who had done it."
-      },
-      {
-        "n": 33,
-        "text": "Then the woman, shaking with fear, came and fell down in front of Jesus. She knew what had happened to her, and she told Him the whole truth."
-      },
-      {
-        "n": 34,
-        "text": "Jesus said to her: Daughter, your faith has saved you! Go in peace. You are completely free from your suffering."
-      },
-      {
-        "n": 35,
-        "text": "While Jesus was still speaking, some men came from the house of Jairus, the synagogue leader. They said: Your daughter is dead. Why bother the Teacher anymore?"
-      },
-      {
-        "n": 36,
-        "text": "But Jesus paid no attention to what they said. He told Jairus: Do not be afraid. Just believe."
-      },
-      {
-        "n": 37,
-        "text": "Jesus let no one go with Him except Peter, James, and John, the brother of James."
-      },
-      {
-        "n": 38,
-        "text": "They came to the house of the synagogue leader. Jesus saw the people crying loudly and very upset."
-      },
-      {
-        "n": 39,
-        "text": "He went inside and said to them: Why all this crying and noise? The child is not dead. She is only sleeping."
-      },
-      {
-        "n": 40,
-        "text": "But the people laughed at Him. So Jesus sent them all outside. He took the child's father and mother and His three disciples, and went in to where the child was."
-      },
-      {
-        "n": 41,
-        "text": "He took her by the hand and said to her: Talitha koum! This means: Little girl, I say to you, get up!"
-      },
-      {
-        "n": 42,
-        "text": "At once the girl stood up and walked around. She was twelve years old. The people were completely amazed."
-      },
-      {
-        "n": 43,
-        "text": "Jesus gave them strict orders not to tell anyone about it. Then He told them to give her something to eat."
-      }
+      { "n": 1, "text": "They came over to the other side of the sea, into the country of the Gadarenes." },
+      { "n": 2, "text": "When Jesus had come out of the ship (boat), right away a man with an unclean spirit met Him, coming out of the tombs." },
+      { "n": 3, "text": "This man had his dwelling (home) among the tombs. No one could bind (tie up) him, no, not with chains." },
+      { "n": 4, "text": "For he had often been bound (tied up) with fetters (chains for the feet) and chains. But he had plucked the chains asunder (pulled the chains apart), and broken the fetters in pieces. No one could tame him." },
+      { "n": 5, "text": "Always, night and day, he was in the mountains, and in the tombs, crying out, and cutting himself with stones." },
+      { "n": 6, "text": "But when he saw Jesus afar off (from a distance), he ran and worshipped Him." },
+      { "n": 7, "text": "He cried with a loud voice: What do I have to do with You, Jesus, You Son of the most high God? I adjure (beg) You by God, do not torment (hurt) me." },
+      { "n": 8, "text": "For Jesus said to him: Come out of the man, you unclean spirit." },
+      { "n": 9, "text": "Jesus asked him: What is your name? He answered: My name is Legion (an army of thousands). For we are many." },
+      { "n": 10, "text": "He besought (begged) Jesus much that He would not send them away out of the country." },
+      { "n": 11, "text": "Now there was a great herd of swine (pigs) feeding there, nigh (near) to the mountains." },
+      { "n": 12, "text": "All the devils (demons) besought (begged) Jesus: Send us into the swine (pigs), so we may enter into them." },
+      { "n": 13, "text": "Right away Jesus gave them leave (permission). The unclean spirits went out, and entered into the swine (pigs). The herd ran violently down a steep place into the sea. (There were about two thousand.) And they were choked (drowned) in the sea." },
+      { "n": 14, "text": "Those who fed the swine (pigs) fled (ran away), and told it in the city, and in the country. And the people went out to see what had been done." },
+      { "n": 15, "text": "They came to Jesus. They saw the man who had been possessed with the devil (demon), and had the legion (army of demons), sitting, and clothed, and in his right mind. And they were afraid." },
+      { "n": 16, "text": "Those who saw it told them how it befell (happened) to the man who had been possessed with the devil (demon), and also about the swine (pigs)." },
+      { "n": 17, "text": "They began to pray (beg) Jesus to leave their coasts (land)." },
+      { "n": 18, "text": "When Jesus had come into the ship (boat), the man who had been possessed with the devil (demon) prayed (begged) Jesus that he might be with Him." },
+      { "n": 19, "text": "But Jesus suffered (allowed) him not. Jesus said to him: Go home to your friends, and tell them how great things the Lord has done for you, and how He has had compassion (deep pity) on you." },
+      { "n": 20, "text": "The man left, and began to publish (tell) in Decapolis (the Ten Cities) how great things Jesus had done for him. And all men did marvel (were amazed)." },
+      { "n": 21, "text": "When Jesus had passed over again by ship (boat) to the other side, many people gathered to Him. And He was nigh (near) to the sea." },
+      { "n": 22, "text": "And look, one of the rulers of the synagogue (meeting house) came, named Jairus. When he saw Jesus, he fell at His feet." },
+      { "n": 23, "text": "Jairus besought (begged) Jesus greatly: My little daughter lies at the point of death. I pray (beg) You, come and lay Your hands on her, so that she may be healed. And she will live." },
+      { "n": 24, "text": "Jesus went with him. Many people followed Jesus, and thronged (crowded against) Him." },
+      { "n": 25, "text": "A certain woman had an issue of blood (bleeding) for twelve years." },
+      { "n": 26, "text": "She had suffered many things from many physicians (doctors), and had spent all that she had. She was nothing bettered (not any better), but instead grew worse." },
+      { "n": 27, "text": "When she had heard of Jesus, she came in the press (crowd) behind Him, and touched His garment (clothes)." },
+      { "n": 28, "text": "For she said: If I may touch only His clothes, I will be whole (healed)." },
+      { "n": 29, "text": "Right away the fountain (flow) of her blood was dried up. And she felt in her body that she was healed of that plague (sickness)." },
+      { "n": 30, "text": "Right away Jesus knew in Himself that virtue (power) had gone out of Him. Jesus turned around in the press (crowd), and said: Who touched My clothes?" },
+      { "n": 31, "text": "His disciples said to Him: You see the multitude (crowd) thronging (crowding against) You, and You say: Who touched Me?" },
+      { "n": 32, "text": "Jesus looked round about to see her who had done this thing." },
+      { "n": 33, "text": "But the woman, fearing and trembling, knowing what was done in her, came and fell down before Jesus, and told Him all the truth." },
+      { "n": 34, "text": "Jesus said to her: Daughter, your faith has made you whole (healed). Go in peace, and be whole (healed) of your plague (sickness)." },
+      { "n": 35, "text": "While Jesus was still speaking, some people came from the house of the ruler of the synagogue (meeting house). They said: Your daughter is dead. Why do you trouble the Master (Teacher) any further?" },
+      { "n": 36, "text": "As soon as Jesus heard the word that was spoken, He said to the ruler of the synagogue (meeting house): Do not be afraid. Only believe." },
+      { "n": 37, "text": "Jesus suffered (allowed) no one to follow Him, except Peter, and James, and John the brother of James." },
+      { "n": 38, "text": "Jesus came to the house of the ruler of the synagogue (meeting house). He saw the tumult (noise and confusion), and those who wept and wailed (cried loudly) greatly." },
+      { "n": 39, "text": "When Jesus had come in, He said to them: Why do you make this ado (noisy fuss), and weep? The damsel (girl) is not dead, but sleeps." },
+      { "n": 40, "text": "They laughed Him to scorn (laughed at Him). But when Jesus had put them all out, He took the father and the mother of the damsel (girl), and those who were with Him, and entered in where the damsel (girl) was lying." },
+      { "n": 41, "text": "Jesus took the damsel (girl) by the hand, and said to her: Talitha cumi. That means: Damsel (girl), I say to you, arise (get up)." },
+      { "n": 42, "text": "Right away the damsel (girl) arose (got up), and walked. For she was twelve years old. And they were astonished (amazed) with a great astonishment (amazement)." },
+      { "n": 43, "text": "Jesus charged them straitly (strongly warned them) that no one should know it. And He commanded that something should be given to her to eat." }
     ]
   },
   "6": {
