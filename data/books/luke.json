@@ -798,139 +798,43 @@
   },
   "15": {
     "verses": [
-      {
-        "n": 1,
-        "text": "All the tax-collectors and sinners came to Jesus to listen to Him."
-      },
-      {
-        "n": 2,
-        "text": "The Pharisees and teacher of the Laws began to complain, Look, this man welcomes sinners and even eats with them!"
-      },
-      {
-        "n": 3,
-        "text": "Then Jesus told them this teaching story. He said:"
-      },
-      {
-        "n": 4,
-        "text": "If one of you has one hundred sheep and one sheep gets lost, what will he do? He will leave the other ninety-nine sheep in the desert, and he will go and look for the lost sheep until he finds it."
-      },
-      {
-        "n": 5,
-        "text": "And when the man finds the sheep that was lost, he will be very happy and he will carry the sheep on his shoulders."
-      },
-      {
-        "n": 6,
-        "text": "When he comes home, he will call his friends and neighbors and say to them, Be happy with me because I found my lost sheep."
-      },
-      {
-        "n": 7,
-        "text": "In the same way, I tell you, the angels in heaven are happy when one sinner turns to God and starts to do what God wants. There is more joy in heaven over that one sinner than over ninety-nine people who think they are right and do not need to repent."
-      },
-      {
-        "n": 8,
-        "text": "Jesus said: And if a woman has ten silver coins and she loses one of the coins, what will she do? She will light a lamp and sweep and clean the floor and look in her house until she finds the coin that was lost."
-      },
-      {
-        "n": 9,
-        "text": "When she finds the coin, she will call her friends and her neighbors. She will say to them: Be happy with me, because I have found the coin that I lost!"
-      },
-      {
-        "n": 10,
-        "text": "In the same way, it is a happy time for the angels of God when one sinner decides to repent"
-      },
-      {
-        "n": 11,
-        "text": "Jesus also said: A man had two sons."
-      },
-      {
-        "n": 12,
-        "text": "The youngest son said to his father: Father, please give me my part of your money and the things that I will inherit when you die. So, the father gave his sons their part of everything he had."
-      },
-      {
-        "n": 13,
-        "text": "A few days later the younger son gathered up all that he had and left. He traveled far away to another country, and there he wasted his money living like a fool."
-      },
-      {
-        "n": 14,
-        "text": "After he spent everything he had, there was a terrible famine throughout the country. He was hungry and needed money."
-      },
-      {
-        "n": 15,
-        "text": "So he went and got a job with one of the people who lived there. The man sent him into the fields to feed pigs."
-      },
-      {
-        "n": 16,
-        "text": "The son wanted to eat the food that the pigs ate because he was hungry, but no one gave him any food."
-      },
-      {
-        "n": 17,
-        "text": "The son realized that he had been very foolish. He thought, all my father's hired workers have plenty of food. But here I am, almost dead because I have nothing to eat."
-      },
-      {
-        "n": 18,
-        "text": "I will get up and go back to my father. I will say to him: Father, I have sinned against God. I have done wrong to you."
-      },
-      {
-        "n": 19,
-        "text": "I am no longer worthy to be called your son. But let me be like one of your hired workers."
-      },
-      {
-        "n": 20,
-        "text": "The son got up and he went back to his father. When he was still far away, his father saw him, and his father was moved with love. His father ran to his son and hugged and kissed him."
-      },
-      {
-        "n": 21,
-        "text": "Then the son said to his father: Father, I have sinned against God, and I have sinned against you. I am no longer worthy to be called your son."
-      },
-      {
-        "n": 22,
-        "text": "But his father told his servant: Bring the best clothes and put them on him. Put a ring on his finger and put sandals on his feet."
-      },
-      {
-        "n": 23,
-        "text": "And bring our best calf and kill it so that we can celebrate with plenty to eat."
-      },
-      {
-        "n": 24,
-        "text": "My son was dead, but now he is alive again! He was lost, but now he is found! So, they began to have a party."
-      },
-      {
-        "n": 25,
-        "text": "The oldest son was in the field. When he came near the house, he heard people making music and dancing."
-      },
-      {
-        "n": 26,
-        "text": "He called one of the servants and asked him what was happening at home."
-      },
-      {
-        "n": 27,
-        "text": "The servant said: Your brother has come back, and your father killed the best calf to eat. He is happy because he has his son back safe and sound."
-      },
-      {
-        "n": 28,
-        "text": "The oldest son was very angry, and he did not want to go into the house. His father came out and he begged his oldest son to come inside."
-      },
-      {
-        "n": 29,
-        "text": "But the older son said to his father: Listen to me now! I worked hard for you like a slave for many long years. I always listened to you and obeyed every single command you gave. Yet you never gave me a young goat to party with friends!"
-      },
-      {
-        "n": 30,
-        "text": "But then this son of yours comes home after wasting your money on prostitutes, and you kill the best calf for him!"
-      },
-      {
-        "n": 31,
-        "text": "The father said to the oldest son: My son, you are always with me and everything that I have is yours."
-      },
-      {
-        "n": 32,
-        "text": "But this was a day to be happy and celebrate. Your brother was dead, but now he is alive. He was lost, but now he is found."
-      }
+      { "n": 1, "text": "Then all the publicans (tax collectors) and sinners drew near to Jesus to hear Him." },
+      { "n": 2, "text": "And the Pharisees and scribes (teachers of the law) murmured (complained), saying: This man receives sinners, and eats with them." },
+      { "n": 3, "text": "And Jesus spoke this parable (story that teaches a lesson) to them, saying:" },
+      { "n": 4, "text": "What man of you, having 100 sheep, if he loses one of them, does not leave the 99 in the wilderness (desert), and go after that which is lost, until he finds it?" },
+      { "n": 5, "text": "And when he has found it, he lays it on his shoulders, rejoicing." },
+      { "n": 6, "text": "And when he comes home, he calls together his friends and neighbours, saying to them: Rejoice with me, for I have found my sheep which was lost." },
+      { "n": 7, "text": "I say to you, that likewise joy will be in heaven over one sinner who repents (changes their heart), more than over 99 just (right with God) persons, who need no repentance (change of heart)." },
+      { "n": 8, "text": "Or what woman having 10 pieces of silver, if she loses one piece, does not light a candle (lamp), and sweep the house, and seek diligently (search carefully) till she finds it?" },
+      { "n": 9, "text": "And when she has found it, she calls her friends and her neighbours together, saying: Rejoice with me, for I have found the piece which I had lost." },
+      { "n": 10, "text": "Likewise, I say to you, there is joy in the presence of the angels of God over one sinner who repents (changes their heart)." },
+      { "n": 11, "text": "And Jesus said: A certain man had 2 sons." },
+      { "n": 12, "text": "And the younger of them said to his father: Father, give me the portion (share) of goods that falls to me. And the father divided to them his living (property)." },
+      { "n": 13, "text": "And not many days after, the younger son gathered all together, and took his journey into a far country, and there wasted his substance (money) with riotous (wild) living." },
+      { "n": 14, "text": "And when he had spent all, there arose a mighty famine (time of no food) in that land, and he began to be in want (need)." },
+      { "n": 15, "text": "And he went and joined himself to a citizen of that country. And the citizen sent him into his fields to feed swine (pigs)." },
+      { "n": 16, "text": "And he would fain (gladly) have filled his belly (stomach) with the husks that the swine (pigs) ate. And no man gave to him." },
+      { "n": 17, "text": "And when he came to himself, he said: How many hired servants of my father's have bread enough and to spare, and I perish (am dying) with hunger." },
+      { "n": 18, "text": "I will arise and go to my father, and will say to him: Father, I have sinned against heaven, and before you," },
+      { "n": 19, "text": "And am no more worthy to be called your son. Make me as one of your hired servants." },
+      { "n": 20, "text": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion (deep pity), and ran, and fell on his neck, and kissed him." },
+      { "n": 21, "text": "And the son said to him: Father, I have sinned against heaven, and in your sight, and am no more worthy to be called your son." },
+      { "n": 22, "text": "But the father said to his servants: Bring forth the best robe, and put it on him. And put a ring on his hand, and shoes on his feet." },
+      { "n": 23, "text": "And bring here the fatted calf (the calf made fat for a feast), and kill it. And let us eat, and be merry (happy)." },
+      { "n": 24, "text": "For this my son was dead, and is alive again. He was lost, and is found. And they began to be merry (happy)." },
+      { "n": 25, "text": "Now his elder son was in the field. And as he came and drew nigh (near) to the house, he heard music and dancing." },
+      { "n": 26, "text": "And he called one of the servants, and asked what these things meant." },
+      { "n": 27, "text": "And the servant said to him: Your brother has come. And your father has killed the fatted calf, because he has received him safe and sound." },
+      { "n": 28, "text": "And the elder son was angry, and would not go in. Therefore his father came out, and intreated (begged) him." },
+      { "n": 29, "text": "And he answering said to his father: Look, these many years I serve you, neither did I transgress (break) at any time your commandment. And yet you never gave me a kid (young goat), that I might make merry (have a party) with my friends." },
+      { "n": 30, "text": "But as soon as this your son had come, who has devoured (wasted) your living with harlots (prostitutes), you have killed for him the fatted calf." },
+      { "n": 31, "text": "And the father said to him: Son, you are ever (always) with me, and all that I have is yours." },
+      { "n": 32, "text": "It was meet (right) that we should make merry (be happy), and be glad. For this your brother was dead, and is alive again, and was lost, and is found." }
     ],
     "sourceUrl": "https://kjvdeaf.com/luke-chapter-15/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a missing word in v13.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "16": {
