@@ -246,6 +246,9 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - lay hold on (take hold of); beside Himself (out of His mind); sons of men (people); eternal damnation (punishment forever)
   - hearken (listen); yielded (gave); gladness (joy); endure (last) -- Mark 4:17; affliction (trouble); candle (lamp); manifested (shown); come abroad (out into the open)
   - mete (give out); ear (head of grain); sickle (curved knife for cutting grain); liken (compare); expounded (explained); hinder part (back)
+  - dwelling (home); fetters (chains for the feet); plucked asunder (pulled apart); adjure (beg) -- Mark 5:7; Legion (an army of thousands); gave leave (permission); choked (drowned)
+  - befell (happened); pray (beg) -- Mark 5:17-18, 23; Decapolis (the Ten Cities); nothing bettered (not any better); fountain (flow); virtue (power) -- Mark 5:30
+  - tumult (noise and confusion); wailed (cried loudly); ado (noisy fuss); astonishment (amazement)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
