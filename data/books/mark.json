@@ -259,118 +259,34 @@
       { "n": 26, "text": "The king was exceeding (very) sorry. Yet for his oath's (promise's) sake, and for the sake of those who sat with him, he would not reject (refuse) her." },
       { "n": 27, "text": "Right away the king sent an executioner (a man who kills prisoners), and commanded John's head to be brought. He went and beheaded (cut off the head of) John in the prison." },
       { "n": 28, "text": "He brought John's head in a charger (large platter), and gave it to the damsel (girl). And the damsel (girl) gave it to her mother." },
-      {
-        "n": 29,
-        "text": "When John's disciples heard about it, they came and took his body and laid it in a tomb."
-      },
-      {
-        "n": 30,
-        "text": "The apostles came back to Jesus and told Him everything they had done and taught."
-      },
-      {
-        "n": 31,
-        "text": "There were so many people coming and going that Jesus and the apostles did not even have time to eat. So Jesus said to them: Come away with me to a quiet place and rest a while."
-      },
-      {
-        "n": 32,
-        "text": "So they went away by themselves in a boat to a quiet place."
-      },
-      {
-        "n": 33,
-        "text": "But many people saw them leaving and knew where they were going. So they ran on foot from all the towns and got there ahead of them."
-      },
-      {
-        "n": 34,
-        "text": "When Jesus came ashore, He saw the large crowd. He felt sorry for them, because they were like sheep without a shepherd. So He began to teach them many things."
-      },
-      {
-        "n": 35,
-        "text": "By now it was getting late. His disciples came to Him and said: This is a lonely place, and it is already very late."
-      },
-      {
-        "n": 36,
-        "text": "Send the people away, so they can go to the farms and villages around here and buy themselves something to eat."
-      },
-      {
-        "n": 37,
-        "text": "But Jesus answered: You give them something to eat. They said to Him: Do you want us to go and spend a small fortune on bread to feed them?"
-      },
-      {
-        "n": 38,
-        "text": "Jesus asked: How many loaves of bread do you have? Go and see. When they found out, they said: Five loaves and two fish."
-      },
-      {
-        "n": 39,
-        "text": "Then Jesus told them to have all the people sit down in groups on the green grass."
-      },
-      {
-        "n": 40,
-        "text": "So they sat down in groups of a hundred and groups of fifty."
-      },
-      {
-        "n": 41,
-        "text": "Jesus took the five loaves and the two fish. He looked up to heaven and thanked God. Then He broke the loaves and gave them to His disciples to give to the people. He also divided the two fish among them all."
-      },
-      {
-        "n": 42,
-        "text": "Everyone ate and was full."
-      },
-      {
-        "n": 43,
-        "text": "Afterward the disciples picked up twelve small hand-baskets full of leftover bread and fish."
-      },
-      {
-        "n": 44,
-        "text": "There were about five thousand men who had eaten."
-      },
-      {
-        "n": 45,
-        "text": "Right away Jesus made His disciples get into the boat and go ahead of Him to Bethsaida, while He sent the people away."
-      },
-      {
-        "n": 46,
-        "text": "After Jesus had sent them away, He went up on a mountain to pray."
-      },
-      {
-        "n": 47,
-        "text": "When evening came, the boat was in the middle of the lake, and Jesus was alone on the land."
-      },
-      {
-        "n": 48,
-        "text": "Jesus saw that the disciples were having trouble rowing, because the wind was against them. Between three and six in the morning, during the fourth watch of the night, Jesus came to them, walking on the water. He was about to walk past them,"
-      },
-      {
-        "n": 49,
-        "text": "but when they saw Him walking on the water, they thought He was a ghost. They cried out,"
-      },
-      {
-        "n": 50,
-        "text": "Because they all saw Him and were terrified. But Jesus spoke to them right away. He said: Be brave! It is I. Do not be afraid."
-      },
-      {
-        "n": 51,
-        "text": "Then He climbed into the boat with them, and the wind stopped. They were completely amazed,"
-      },
-      {
-        "n": 52,
-        "text": "Because they still did not understand about the loaves. Their hearts were hard."
-      },
-      {
-        "n": 53,
-        "text": "When they had crossed the lake, they came to the shore at Gennesaret and tied up the boat."
-      },
-      {
-        "n": 54,
-        "text": "As soon as they got out of the boat, the people recognized Jesus."
-      },
-      {
-        "n": 55,
-        "text": "They ran through that whole area, carrying the sick on mats to wherever they heard He was."
-      },
-      {
-        "n": 56,
-        "text": "Wherever Jesus went, into villages, towns, or the countryside, the people laid the sick in the marketplaces. They begged Him to let them touch even the edge of His coat, and all who touched Him were healed."
-      }
+      { "n": 29, "text": "When John's disciples heard of it, they came and took up his corpse (dead body), and laid it in a tomb." },
+      { "n": 30, "text": "The apostles (sent ones) gathered together to Jesus. They told Him all things, both what they had done, and what they had taught." },
+      { "n": 31, "text": "Jesus said to them: Come apart (away) by yourselves into a desert place, and rest a while. For there were many coming and going, and they had no leisure (free time) even to eat." },
+      { "n": 32, "text": "They left by ship (boat) privately into a desert place." },
+      { "n": 33, "text": "The people saw them leaving, and many knew Jesus. They ran afoot (on foot) there out of all cities, and outwent (got there before) them, and came together to Jesus." },
+      { "n": 34, "text": "When Jesus came out, He saw many people. He was moved with compassion (deep pity) toward them, because they were like sheep without a shepherd. And He began to teach them many things." },
+      { "n": 35, "text": "When the day was now far spent (almost over), His disciples came to Jesus. They said: This is a desert place, and now the time is far passed (late)." },
+      { "n": 36, "text": "Send them away, so they may go into the country around, and into the villages, and buy themselves bread. For they have nothing to eat." },
+      { "n": 37, "text": "Jesus answered them: You give them something to eat. They said to Jesus: Will we go and buy two hundred pennyworth (two hundred days' pay) of bread, and give them to eat?" },
+      { "n": 38, "text": "Jesus said to them: How many loaves (of bread) do you have? Go and see. When they knew, they said: Five, and two fishes." },
+      { "n": 39, "text": "Jesus commanded them to make all sit down by companies (groups) on the green grass." },
+      { "n": 40, "text": "They sat down in ranks (rows), by hundreds, and by fifties." },
+      { "n": 41, "text": "When Jesus had taken the five loaves and the two fishes, He looked up to heaven, and blessed, and broke the loaves. He gave them to His disciples to set before the people. And He divided the two fishes among them all." },
+      { "n": 42, "text": "They all ate, and were filled." },
+      { "n": 43, "text": "They took up twelve baskets (small hand-baskets) full of the fragments (pieces), and of the fishes." },
+      { "n": 44, "text": "Those who ate of the loaves were about five thousand men." },
+      { "n": 45, "text": "Right away Jesus constrained (made) His disciples get into the ship (boat), and go before Him to the other side to Bethsaida, while He sent away the people." },
+      { "n": 46, "text": "When Jesus had sent them away, He went into a mountain to pray." },
+      { "n": 47, "text": "When evening came, the ship (boat) was in the middle of the sea, and Jesus was alone on the land." },
+      { "n": 48, "text": "Jesus saw them toiling (working hard) in rowing, for the wind was contrary (blowing against them). About the fourth watch of the night (between 3 and 6 in the morning) He came to them, walking on the sea, and would have passed by them." },
+      { "n": 49, "text": "But when they saw Jesus walking on the sea, they supposed (thought) it was a spirit (ghost), and cried out." },
+      { "n": 50, "text": "For they all saw Him, and were troubled (afraid). Right away Jesus talked with them. He said to them: Be of good cheer (take heart). It is I. Do not be afraid." },
+      { "n": 51, "text": "Jesus went up to them into the ship (boat), and the wind ceased (stopped). They were sore (very) amazed in themselves beyond measure, and wondered." },
+      { "n": 52, "text": "For they did not consider (understand) the miracle of the loaves. For their heart was hardened." },
+      { "n": 53, "text": "When they had passed over, they came into the land of Gennesaret, and drew to the shore." },
+      { "n": 54, "text": "When they had come out of the ship (boat), right away the people knew Jesus." },
+      { "n": 55, "text": "They ran through that whole region around, and began to carry around in beds those who were sick, to where they heard Jesus was." },
+      { "n": 56, "text": "Wherever Jesus entered, into villages, or cities, or country, they laid the sick in the streets. They besought (begged) Him that they might touch even the border (edge) of His garment (clothes). And as many as touched Him were made whole (healed)." }
     ]
   },
   "7": {
