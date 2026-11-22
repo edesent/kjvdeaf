@@ -1,331 +1,121 @@
 {
   "7": {
-    "verses": [
-      { "n": 1, "text": "When Solomon finished praying, fire came down from heaven. The fire burned up the burnt offering and the sacrifices. The glory of the LORD filled the temple." },
-      { "n": 2, "text": "The priests could not go into the house of the LORD, because the glory of the LORD filled it." },
-      { "n": 3, "text": "All the people of Israel saw the fire come down. They saw the glory of the LORD on the temple. They bowed down with their faces to the stone floor. They worshiped the LORD and said: He is good. His mercy lasts forever." },
-      { "n": 4, "text": "Then the king and all the people offered sacrifices to the LORD." },
-      { "n": 5, "text": "King Solomon offered 22,000 oxen and 120,000 sheep as a sacrifice. So the king and all the people dedicated the house of God." },
-      { "n": 6, "text": "The priests stood at their places. The Levites stood with the instruments King David had made for praising the LORD. David used them when he praised the LORD. The song was: His mercy lasts forever. The priests blew trumpets across from the Levites. All Israel stood." },
-      { "n": 7, "text": "Solomon made the middle of the courtyard in front of the temple holy. There he offered burnt offerings and the fat of the peace offerings. The bronze altar Solomon had made was too small. It could not hold all the burnt offerings, grain offerings and fat." },
-      { "n": 8, "text": "At that time Solomon held the festival for 7 days. All Israel was with him. It was a very large crowd. People came from Lebo Hamath in the north. They came from the stream of Egypt in the south." },
-      { "n": 9, "text": "On the 8th day they held a holy gathering. They had celebrated the dedication of the altar for 7 days. They had celebrated the festival for 7 days." },
-      { "n": 10, "text": "On the 23rd day of the 7th month, Solomon sent the people home. They were happy and glad in their hearts. The LORD had been good to David, to Solomon and to His people Israel." },
-      { "n": 11, "text": "Solomon finished the house of the LORD and the king's palace. Solomon succeeded in everything he planned to build. He built in the house of the LORD and in his own palace." },
-      { "n": 12, "text": "Then the LORD appeared to Solomon at night. The LORD said: I have heard your prayer. I have chosen this place for Myself as a house of sacrifice." },
-      { "n": 13, "text": "Suppose I shut up the sky so there is no rain. Suppose I command locusts to eat up the land. Suppose I send a deadly sickness among My people." },
-      { "n": 14, "text": "My people are called by My name. Suppose they become humble and pray. Suppose they seek My face and turn from their evil ways. Then I will hear them from heaven. I will forgive their sin and heal their land." },
-      { "n": 15, "text": "Now My eyes will be open. My ears will listen to the prayers made in this place." },
-      { "n": 16, "text": "I have chosen this house and made it holy. My name will be there forever. My eyes and My heart will be there always." },
-      { "n": 17, "text": "Solomon, suppose you walk before Me as your father David did. Suppose you do everything I have commanded you and obey My laws and My rules." },
-      { "n": 18, "text": "Then I will make your royal throne strong. This is the agreement I made with your father David. I told him: You will always have a man to rule Israel." },
-      { "n": 19, "text": "But suppose you turn away and leave My laws and commands that I gave you. Suppose you go and serve other gods and worship them." },
-      { "n": 20, "text": "Then I will pull you up by the roots from My land. I gave you this land. I made this house holy for My name. But I will throw it out of My sight. I will make it something that people laugh at in all the nations." },
-      { "n": 21, "text": "This house is great now. But everyone who passes by will be shocked. They will say: Why did the LORD do this to this land and this house?" },
-      { "n": 22, "text": "People will answer: Because they left the LORD, the God of their fathers, who brought them out of Egypt. They held on to other gods, worshiped them and served them. That is why the LORD brought all this trouble on them." }
-    ],
-    "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. Verses 13-14 use 'Suppose' for the long 'if' sentences so each action is its own sentence. Check: verse 14 keeps 'seek My face'; verse 6 (the Levites and David's instruments) and verse 20 ('proverb and byword' rendered 'something that people laugh at') need careful review; verse 18 'covenanted' is rendered 'agreement'; 'river of Egypt' (verse 8) is the stream on Egypt's border.",
-    "sourceUrl": "https://kjvdeaf.com/old-testament/2-chronicles/2-chronicles-chapter-7/",
     "status": "published",
-    "videos": []
+    "generated": true,
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version, checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V14 keeps the KJV's If my people, which are called by my name, shall humble themselves.",
+    "sourceUrl": "https://kjvdeaf.com/old-testament/2-chronicles/2-chronicles-chapter-7/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "Now when Solomon had made an end of praying, the fire came down from heaven, and consumed (burned up) the burnt offering and the sacrifices. And the glory of the LORD filled the house (temple)." },
+      { "n": 2, "text": "And the priests could not enter into the house of the LORD, because the glory of the LORD had filled the LORD's house." },
+      { "n": 3, "text": "And when all the children of Israel saw how the fire came down, and the glory of the LORD upon the house, they bowed themselves with their faces to the ground upon the pavement (stone floor), and worshipped, and praised the LORD, saying: For He is good, for His mercy endures for ever." },
+      { "n": 4, "text": "Then the king and all the people offered sacrifices before the LORD." },
+      { "n": 5, "text": "And king Solomon offered a sacrifice of 22,000 oxen, and 120,000 sheep. So the king and all the people dedicated (gave to God) the house of God." },
+      { "n": 6, "text": "And the priests waited on their offices (stood at their jobs). The Levites also stood with instruments of music of the LORD, which David the king had made to praise the LORD, because His mercy endures for ever, when David praised by their ministry (service). And the priests sounded trumpets before them, and all Israel stood." },
+      { "n": 7, "text": "Moreover (also) Solomon hallowed (made holy) the middle of the court (courtyard) that was before the house of the LORD. For there he offered burnt offerings, and the fat of the peace offerings, because the brasen (bronze) altar which Solomon had made was not able to receive the burnt offerings, and the meat offerings (grain offerings), and the fat." },
+      { "n": 8, "text": "Also at the same time Solomon kept the feast 7 days, and all Israel with him, a very great congregation (crowd), from the entering in of Hamath to the river of Egypt." },
+      { "n": 9, "text": "And in the 8th day they made a solemn assembly (holy meeting). For they kept the dedication of the altar 7 days, and the feast 7 days." },
+      { "n": 10, "text": "And on the 23rd day of the 7th month Solomon sent the people away into their tents, glad and merry (happy) in heart for the goodness that the LORD had showed to David, and to Solomon, and to Israel His people." },
+      { "n": 11, "text": "Thus Solomon finished the house of the LORD, and the king's house. And all that came into Solomon's heart to make in the house of the LORD, and in his own house, he prosperously effected (did it with success)." },
+      { "n": 12, "text": "And the LORD appeared to Solomon by night, and said to him: I have heard your prayer, and have chosen this place to Myself for an house of sacrifice." },
+      { "n": 13, "text": "If I shut up heaven so that there be no rain, or if I command the locusts (grasshoppers) to devour (eat up) the land, or if I send pestilence (deadly sickness) among My people," },
+      { "n": 14, "text": "If My people, which are called by My name, shall humble themselves, and pray, and seek My face, and turn from their wicked ways, then will I hear from heaven, and will forgive their sin, and will heal their land." },
+      { "n": 15, "text": "Now My eyes shall be open, and My ears attent (listening) to the prayer that is made in this place." },
+      { "n": 16, "text": "For now have I chosen and sanctified (made holy) this house, so that My name may be there for ever. And My eyes and My heart shall be there perpetually (always)." },
+      { "n": 17, "text": "And as for you, if you will walk before Me, as David your father walked, and do according to all that I have commanded you, and shall observe (keep) My statutes (laws) and My judgments (rules)," },
+      { "n": 18, "text": "Then will I stablish (make firm) the throne of your kingdom, according as I have covenanted (made an agreement) with David your father, saying: There shall not fail you a man to be ruler in Israel." },
+      { "n": 19, "text": "But if you turn away, and forsake (leave) My statutes (laws) and My commandments, which I have set before you, and shall go and serve other gods, and worship them," },
+      { "n": 20, "text": "Then will I pluck them up by the roots out of My land which I have given them. And this house, which I have sanctified (made holy) for My name, will I cast (throw) out of My sight, and will make it to be a proverb and a byword (something people mock) among all nations." },
+      { "n": 21, "text": "And this house, which is high, shall be an astonishment (shock) to every one that passes by it, so that he shall say: Why has the LORD done thus to this land, and to this house?" },
+      { "n": 22, "text": "And it shall be answered: Because they forsook (left) the LORD God of their fathers, which brought them forth (out) out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them. Therefore has He brought all this evil upon them." }
+    ]
   },
   "20": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "Sometime later the Moabite and Ammonite soldiers came to make war against King Jehoshaphat of Judah. Also other people also came with the Ammonites."
-      },
-      {
-        "n": 2,
-        "text": "Some people came to Jehoshaphat and said: There are a lot of men who have come here to attack you. They have come from the other side of the Dead Sea, out of Syria; and behold, they are in Hazazontamar (that is, Engedi)"
-      },
-      {
-        "n": 3,
-        "text": "Jehoshaphat was afraid, and he asked the Lord what he should do. Jehoshaphat told all the people in Judah to fast."
-      },
-      {
-        "n": 4,
-        "text": "The people of Judah came together to ask the Lord what they must do. They came from all the towns of Judah to ask the Lord to help them."
-      },
-      {
-        "n": 5,
-        "text": "Jehoshaphat went and stood in the new courtyard of the temple in front of the congregation of Judah and Jerusalem."
-      },
-      {
-        "n": 6,
-        "text": "Jehoshaphat prayed and said: Lord, God of our grandfathers, You are the God in heaven. You rule over all the lands and all the nations. You are strong and powerful, and no one can stand against You."
-      },
-      {
-        "n": 7,
-        "text": "You are our God, You chased away the people who lived in this land before and You gave this land to your people of Israel. You gave this land to the family of your friend Abraham."
-      },
-      {
-        "n": 8,
-        "text": "We came to live here and we built a temple for You and we said:"
-      },
-      {
-        "n": 9,
-        "text": "When we suffer or trouble comes, the sword, punishment, sicknesses, or famine, we will stand in front of this Temple and in front of God. Your name is on this Temple. We will pray to you when we are in trouble. Then you will hear and save us."
-      },
-      {
-        "n": 10,
-        "text": "Now the people from Ammon and Moab and the people from Mount Seir have come to attack us. When the people of Israel came out of Egypt, You did not let the people of Israel go into these lands to defeat them. You said the Israelites must turn away from them and the Israelites did not kill those people."
-      },
-      {
-        "n": 11,
-        "text": "But now the people from Ammon and Moab and the people from Mount Seir have come to attack us. They want to chase us away from this land that You gave us."
-      },
-      {
-        "n": 12,
-        "text": "You are our God, please punish them, We don’t have the strength to stop this large army that is coming against us. We do not know what to do, and that is why we are asking You to help us."
-      },
-      {
-        "n": 13,
-        "text": "All the men of Judah were standing there before the Lord, with their babies, their wives and their children."
-      },
-      {
-        "n": 14,
-        "text": "Then the Spirit of the Lord went into Jahaziel in front of the congregation. Jahaziel was the son of Zechariah, son of Benaiah, son of Jeiel, son of Mattaniah, a Levite and a descendant of Asaph."
-      },
-      {
-        "n": 15,
-        "text": "Then Jahaziel said, Listen to me King Jehoshaphat and everyone living in Judah and Jerusalem! The Lord says this to you: Don’t be afraid or discourage about this large army, because the battle is not your battle. It is God’s battle!"
-      },
-      {
-        "n": 16,
-        "text": "Tomorrow morning you must go down to them. They will climb up the cliff of Ziz. When you get there, they will be at the end of the valley near the side of the Jeruel Desert."
-      },
-      {
-        "n": 17,
-        "text": "You will not have to make war yourselves. You can just stand and look how the Lord will save you. People of Judah and Jerusalem, do not be discourage, and do not be afraid. Go to them tomorrow. The Lord will be with you."
-      },
-      {
-        "n": 18,
-        "text": "Then Jehoshaphat bowed down with his face to the ground and all the people of Judah and Jerusalem bowed down before the Lord and worship the Lord."
-      },
-      {
-        "n": 19,
-        "text": "Then the Levites from the Kohath and Korah families stood up and started to praise the Lord, the God of Israel. They sang very loudly."
-      },
-      {
-        "n": 20,
-        "text": "Early the next morning, Jehoshaphat’s army went out into the desert of Tekoa. As they marched out, Jehoshaphat stood there saying, Listen to me, men of Judah and Jerusalem. Have faith in the Lord your God, and you will stand strong! Have faith in his prophets, and you will succeed!"
-      },
-      {
-        "n": 21,
-        "text": "Jehoshaphat encouraged the men and gave them instructions, and then Jehoshaphat appointed those who sang to the LORD and those who praised Him in their holy priestly attire, as they went out before the army and said, Praise and give thanks to the LORD, for His mercy and lovingkindness endure forever."
-      },
-      {
-        "n": 22,
-        "text": "As they began to sing and to praise God, the Lord set an ambush for the army from Ammon, Moab, and Mount Seir who had come to attack Judah. The enemy was defeated!"
-      },
-      {
-        "n": 23,
-        "text": "Then the people of Ammon and Moab started to attack the people from mount Seir and they killed all of them. And then people from Ammon and Moab started to kill each other."
-      },
-      {
-        "n": 24,
-        "text": "The men from Judah arrived at the lookout point in the desert. They looked for the enemy's large army, but all they saw were dead bodies lying on the ground. There were no survivors."
-      },
-      {
-        "n": 25,
-        "text": "Jehoshaphat and his men came and took things from the dead bodies of the enemy. They found many animals, riches, clothes, and other valuable things. It was more than Jehoshaphat and his men could carry away. There was so much that they spent three days taking everything from the dead bodies."
-      },
-      {
-        "n": 26,
-        "text": "After they gather for three days the next day they came together in the Berachah Valley and they praised the Lord. This is why people today still call it the Berachah Valley."
-      },
-      {
-        "n": 27,
-        "text": "Then Jehoshaphat walked in front of the men of Judah and Jerusalem and they all went back to Jerusalem. All of them were very happy because the Lord had made them happy when He defeated their enemies."
-      },
-      {
-        "n": 28,
-        "text": "Then Jehoshaphat and the men returned they went to the temple and they played their harps, viol and trumpets."
-      },
-      {
-        "n": 29,
-        "text": "People in all the surrounding kingdoms became afraid of God when they heard that the Lord fought against the enemies of Israel"
-      },
-      {
-        "n": 30,
-        "text": "That is why there was peace for Jehoshaphat’s kingdom. God brought him rest from the enemies that were all around him."
-      },
-      {
-        "n": 31,
-        "text": "Jehoshaphat was 35 years old when he became king of Judah. Jehoshaphat ruled in Jerusalem for 25 years. His mother’s name was Azubah, daughter of Shilhi."
-      },
-      {
-        "n": 32,
-        "text": "Jehoshaphat listened to the Lord and he lived in the right way like his father Asa had done and he did not stop serving the Lord. He did what the Lord said was right."
-      },
-      {
-        "n": 33,
-        "text": "Only the high places for pagan sacrifices were not removed, for the people did not listen to the God of their grandfathers."
-      },
-      {
-        "n": 34,
-        "text": "The other things that Jehoshaphat did, from the time when he became king to the end, are written in the history of Jehu, son of Hanani, in the book of the kings of Israel."
-      },
-      {
-        "n": 35,
-        "text": "King Jehoshaphat of Judah later made an agreement with Ahaziah, king of Israel. Ahaziah was a bad man who did evil things."
-      },
-      {
-        "n": 36,
-        "text": "Jehoshaphat made an agreement with Ahaziah to build boats for him that could go to Tarshish. They built the boats in Ezion-Geber."
-      },
-      {
-        "n": 37,
-        "text": "But a man of God, Eliezer, son of Dodavahu from the town of Mareshah, came to Jehoshaphat and gave him a message from God. Eliezer said, Jehoshaphat, since you have joined with Ahaziah, the Lord will destroy what you have built. The ships were wrecked, so Jehoshaphat and Ahaziah were not able to send them to Tarshish."
-      }
-    ],
-    "sourceUrl": "https://kjvdeaf.com/2-chronicles-chapter-20/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. A merged-verse numbering bug (2/3) has been split apart.",
-    "videos": []
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V15 keeps the KJV's the battle is not yours, but God's. V20 keeps Believe in the LORD your God, so shall ye be established.",
+    "sourceUrl": "https://kjvdeaf.com/2-chronicles-chapter-20/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "It came to pass after this also, that the children of Moab, and the children of Ammon, and with them other beside the Ammonites, came against Jehoshaphat to battle." },
+      { "n": 2, "text": "Then there came some that told Jehoshaphat, saying: There comes a great multitude (crowd) against you from beyond the sea on this side Syria. And look, they are in Hazazontamar, which is Engedi." },
+      { "n": 3, "text": "And Jehoshaphat feared, and set himself to seek (look to) the LORD, and proclaimed a fast (announced a time of no eating) throughout all Judah." },
+      { "n": 4, "text": "And Judah gathered themselves together, to ask help of the LORD. Even out of all the cities of Judah they came to seek (look to) the LORD." },
+      { "n": 5, "text": "And Jehoshaphat stood in the congregation (crowd) of Judah and Jerusalem, in the house of the LORD, before the new court (courtyard)," },
+      { "n": 6, "text": "And said: O LORD God of our fathers, are not You God in heaven? And rule not You over all the kingdoms of the heathen (nations)? And in Your hand is there not power and might, so that none is able to withstand (stand against) You?" },
+      { "n": 7, "text": "Are not You our God, who did drive out the inhabitants (people) of this land before Your people Israel, and gave it to the seed (children) of Abraham Your friend for ever?" },
+      { "n": 8, "text": "And they dwelt (lived) in it, and have built You a sanctuary (holy house) in it for Your name, saying:" },
+      { "n": 9, "text": "If, when evil comes upon us, as the sword, judgment, or pestilence (deadly sickness), or famine (no food), we stand before this house, and in Your presence (for Your name is in this house), and cry to You in our affliction (trouble), then You will hear and help." },
+      { "n": 10, "text": "And now, look, the children of Ammon and Moab and mount Seir, whom You would not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not," },
+      { "n": 11, "text": "Look, I say, how they reward us, to come to cast (throw) us out of Your possession, which You have given us to inherit (own)." },
+      { "n": 12, "text": "O our God, will You not judge them? For we have no might against this great company (army) that comes against us. Neither know we what to do. But our eyes are upon You." },
+      { "n": 13, "text": "And all Judah stood before the LORD, with their little ones, their wives, and their children." },
+      { "n": 14, "text": "Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the LORD in the middle of the congregation (crowd)." },
+      { "n": 15, "text": "And Jahaziel said: Hearken (listen), all Judah, and you inhabitants (people) of Jerusalem, and you king Jehoshaphat. This is what the LORD says to you: Be not afraid nor dismayed (discouraged) by reason of (because of) this great multitude (army). For the battle is not yours, but God's." },
+      { "n": 16, "text": "To morrow (tomorrow) go down against them. Look, they come up by the cliff of Ziz. And you shall find them at the end of the brook (valley), before the wilderness (desert) of Jeruel." },
+      { "n": 17, "text": "You shall not need to fight in this battle. Set yourselves, stand still, and see the salvation (saving power) of the LORD with you, O Judah and Jerusalem. Fear not, nor be dismayed (discouraged). To morrow (tomorrow) go out against them, for the LORD will be with you." },
+      { "n": 18, "text": "And Jehoshaphat bowed his head with his face to the ground. And all Judah and the inhabitants (people) of Jerusalem fell before the LORD, worshipping the LORD." },
+      { "n": 19, "text": "And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the LORD God of Israel with a loud voice on high." },
+      { "n": 20, "text": "And they rose early in the morning, and went forth (out) into the wilderness (desert) of Tekoa. And as they went forth (out), Jehoshaphat stood and said: Hear me, O Judah, and you inhabitants (people) of Jerusalem. Believe in the LORD your God, so shall you be established (made firm). Believe His prophets, so shall you prosper (succeed)." },
+      { "n": 21, "text": "And when Jehoshaphat had consulted with the people, he appointed singers to the LORD, and that should praise the beauty of holiness, as they went out before the army, and to say: Praise the LORD, for His mercy endures for ever." },
+      { "n": 22, "text": "And when they began to sing and to praise, the LORD set ambushments (surprise attacks) against the children of Ammon, Moab, and mount Seir, which were come against Judah. And they were smitten (struck down)." },
+      { "n": 23, "text": "For the children of Ammon and Moab stood up against the inhabitants (people) of mount Seir, utterly to slay (kill) and destroy them. And when they had made an end of the inhabitants (people) of Seir, every one helped to destroy another." },
+      { "n": 24, "text": "And when Judah came toward the watch tower in the wilderness (desert), they looked to the multitude (army), and look, they were dead bodies fallen to the earth, and none escaped." },
+      { "n": 25, "text": "And when Jehoshaphat and his people came to take away the spoil (riches) of them, they found among them in abundance (a great amount) both riches with the dead bodies, and precious jewels, which they stripped off for themselves, more than they could carry away. And they were 3 days in gathering of the spoil (riches), it was so much." },
+      { "n": 26, "text": "And on the 4th day they assembled (gathered) themselves in the valley of Berachah (blessing). For there they blessed the LORD. Therefore the name of the same place was called: The valley of Berachah (blessing), to this day." },
+      { "n": 27, "text": "Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy. For the LORD had made them to rejoice over their enemies." },
+      { "n": 28, "text": "And they came to Jerusalem with psalteries (stringed instruments) and harps and trumpets to the house of the LORD." },
+      { "n": 29, "text": "And the fear of God was on all the kingdoms of those countries, when they had heard that the LORD fought against the enemies of Israel." },
+      { "n": 30, "text": "So the realm (kingdom) of Jehoshaphat was quiet. For his God gave him rest round about." },
+      { "n": 31, "text": "And Jehoshaphat reigned over Judah. He was 35 years old when he began to reign, and he reigned 25 years in Jerusalem. And his mother's name was Azubah the daughter of Shilhi." },
+      { "n": 32, "text": "And Jehoshaphat walked in the way of Asa his father, and departed not from it, doing that which was right in the sight of the LORD." },
+      { "n": 33, "text": "However, the high places (idol altars) were not taken away. For as yet the people had not prepared their hearts to the God of their fathers." },
+      { "n": 34, "text": "Now the rest of the acts of Jehoshaphat, first and last, look, they are written in the book of Jehu the son of Hanani, who is mentioned in the book of the kings of Israel." },
+      { "n": 35, "text": "And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly." },
+      { "n": 36, "text": "And Jehoshaphat joined himself with Ahaziah to make ships to go to Tarshish. And they made the ships in Eziongeber." },
+      { "n": 37, "text": "Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying: Because you have joined yourself with Ahaziah, the LORD has broken your works. And the ships were broken, so that they were not able to go to Tarshish." }
+    ]
   },
   "34": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "Josiah was 8 years old when he became king, and he was king in Jerusalem for 31 years."
-      },
-      {
-        "n": 2,
-        "text": "Josiah lived in a way that pleased the Lord, as his grandfather David had done. Josiah always did what was right, and never changed his way of life."
-      },
-      {
-        "n": 3,
-        "text": "In the 8th year after Josiah had become king, Josiah was still a young man then, Josiah started serving the God of his grandfather David. In the 12th year after Josiah had become king, he started to destroy the places of sacrifice, the sacred pillars and the images of wood and metal. Josiah destroyed all of them."
-      },
-      {
-        "n": 4,
-        "text": "Josiah told the people to break down the altars of Baal. They also cut down the incense altars that stood high above the people. They broke the idols that were carved and the idols that were made from molds. Josiah beat the idols into powder and sprinkled the powder on the graves of the people who had offered sacrifices to the Baal."
-      },
-      {
-        "n": 5,
-        "text": "Josiah took the bones of the Baal priests, and Josiah burnt them on their altars. Josiah also removed the idols from Judah and Jerusalem"
-      },
-      {
-        "n": 6,
-        "text": "Josiah did the same in the towns of the tribes of Manasseh, Ephraim, Simeon to Naphtali and all area around them, with pickaxe."
-      },
-      {
-        "n": 7,
-        "text": "Josiah told the people to break down all the altars and the sacred pillars, and to beat the images and the incense altars into small pieces. Josiah did this in all the places of the land of Israel and then Josiah came back to Jerusalem."
-      },
-      {
-        "n": 8,
-        "text": "In the 18th year after Josiah had become king and after he had purified the land and the temple, he sent Shaphan, son of Azaliah, and Maaseiah, the chief of the city, with Joah, son of Joahaz the secretary, to repair the temple of the Lord his God."
-      },
-      {
-        "n": 9,
-        "text": "These men came to Hilkiah the high priest, they gave the money that had been brought into the house of God, which the Levites, who guarded the doors, had collected from Manasseh and Ephraim, and from all the people of Israel, and from all Judah and Benjamin, and the people of Jerusalem."
-      },
-      {
-        "n": 10,
-        "text": "Then the Levites paid the men who supervised the work on the Lord’s Temple. And the supervisors paid the workers who repaired and fixed up the Lord’s Temple."
-      },
-      {
-        "n": 11,
-        "text": "The supervisors gave the money to carpenters and builders to buy large rocks that were already cut, and to buy wood to make beams for the buildings. They bought wood to make the floor because the kings of Judah had destroyed them."
-      },
-      {
-        "n": 12,
-        "text": "The men worked faithfully. Their supervisors were Jahath and Obadiah, the sons of Merari, and Zechariah and Meshullam, the sons of Kohath, who made sure the work was done right. All the Levites who played the musical instruments"
-      },
-      {
-        "n": 13,
-        "text": "The supervisors were in charge of the men who had to carry the heavy loads. The supervisors also told the workers what to do. Some of the Levites were secretaries, managers, and guards at the doors."
-      },
-      {
-        "n": 14,
-        "text": "When they went into the temple to get the money that the people had given, the high priest Hilkiah found the book of the laws that God had given to Moses."
-      },
-      {
-        "n": 15,
-        "text": "Hilkiah said to Shaphan, the secretary: I have found the book of the laws in the temple. Then Hilkiah gave the book to Shaphan."
-      },
-      {
-        "n": 16,
-        "text": "Shaphan took the book to King Josiah. Shaphan reported to the king, Your servants are doing everything you told them to do."
-      },
-      {
-        "n": 17,
-        "text": "They took the money that they found in the temple of the God, and they gave it to the supervisors and workers."
-      },
-      {
-        "n": 18,
-        "text": "Then Shaphan, the secretary, told the king about the book that the priest Hilkiah had given him, and Shaphan started to read to king Josiah what was written in the book."
-      },
-      {
-        "n": 19,
-        "text": "When Shaphan told king Josiah what was written in the laws, King Josiah tore his clothes"
-      },
-      {
-        "n": 20,
-        "text": "King Josiah said to Hilkiah and Ahikam, son of Shaphan, to Abdon, son of Micah, and Shaphan, the secretary, and Asaiah the servant:"
-      },
-      {
-        "n": 21,
-        "text": "Go and ask the Lord to tell me and everyone who is still alive in Israel and Judah what will happen. Ask about the words in the book that was found. The Lord is very angry with us because our grandfathers did not obey the Lord’s word. They did not do everything this book says to do."
-      },
-      {
-        "n": 22,
-        "text": "Hilkiah and the other men with him went to the prophetess Huldah, the wife of Shallum the son of Tikvath, the son of Hasrah. Huldah's husband had to guard the clothes of the king and they lived in the lower part of Jerusalem. The men told her what the king had said."
-      },
-      {
-        "n": 23,
-        "text": "The prophetess Huldah said to them: This is what the Lord, the God of Israel, says: Tell the man who sent you to me:"
-      },
-      {
-        "n": 24,
-        "text": "The Lord says: I will bring trouble to this place and to the people living here. I will bring all the terrible things that are written in the book that was read in front of the king of Judah."
-      },
-      {
-        "n": 25,
-        "text": "I will do it because they have turned away from Me and they have served other gods. They have made Me angry because of all the bad things that they have done. I will punish this place and I will not stop."
-      },
-      {
-        "n": 26,
-        "text": "Go back to King Josiah of Judah, the one who sent you to ask what the Lord wants. Tell him, This is what the Lord, the God of Israel, says about the words you heard being read:"
-      },
-      {
-        "n": 27,
-        "text": "Josiah, I, the Lord, saw that you humbled yourself when you heard what I had said about this place. I, the Lord, saw when you tore your clothes and I listened to you when you cried."
-      },
-      {
-        "n": 28,
-        "text": "That is why I, the Lord, will be with you. I will not punish this place while you are alive, I will wait until you have died, and you are buried. You will not see how these people will suffer. Hilkiah and the other men went to the king and told him what the prophetess had said."
-      },
-      {
-        "n": 29,
-        "text": "Then king Josiah told all the leaders of Judah and Jerusalem to come to him."
-      },
-      {
-        "n": 30,
-        "text": "king Josiah went to the temple of the Lord and all the people of Judah and Jerusalem went with him, as well as the priests and Levites, all the adults and the children. Then King Josiah read to them so that they could all hear. He read what was written in the book of the covenant, that they had found in the temple of the Lord."
-      },
-      {
-        "n": 31,
-        "text": "King Josiah stood in the place where the king always stood, and he made a covenant before the Lord. He promised to do what the Lord said and to obey everything in the laws of the Lord. He promised to do what the laws said with all his heart and soul, and he would do everything that was written in that book."
-      },
-      {
-        "n": 32,
-        "text": "Then king Josiah asked every person in Jerusalem and in the tribe of Benjamin to promise that they would also do it. And the people of Jerusalem did what the covenant of the God of their grandfathers said."
-      },
-      {
-        "n": 33,
-        "text": "Josiah took away all the things which the Lord hates. He took them away from the homes of the children of Israel. He said that everyone in the land of Israel must serve the Lord their God. And the people served the Lord, the God of their forefathers. They did not stop doing it as long as Josiah lived."
-      }
-    ],
-    "sourceUrl": "https://kjvdeaf.com/2-chronicles-chapter-34/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. Typos ('idles', 'Stephan') and a garbled verse (v23) have been corrected.",
-    "videos": []
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Covenant is written as agreement, as elsewhere on the site.",
+    "sourceUrl": "https://kjvdeaf.com/2-chronicles-chapter-34/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "Josiah was 8 years old when he began to reign, and he reigned in Jerusalem 31 years." },
+      { "n": 2, "text": "And Josiah did that which was right in the sight of the LORD, and walked in the ways of David his father, and declined (turned aside) neither to the right hand, nor to the left." },
+      { "n": 3, "text": "For in the 8th year of his reign, while he was yet young, Josiah began to seek after the God of David his father. And in the 12th year he began to purge (clean) Judah and Jerusalem from the high places (idol altars), and the groves (Asherah idols), and the carved images, and the molten images (metal idols)." },
+      { "n": 4, "text": "And they brake down (broke down) the altars of Baalim (the Baal idols) in his presence. And the images, that were on high above them, he cut down. And the groves (Asherah idols), and the carved images, and the molten images (metal idols), he brake in pieces (broke in pieces), and made dust of them, and strewed (scattered) it upon the graves of those who had sacrificed to them." },
+      { "n": 5, "text": "And Josiah burnt the bones of the priests upon their altars, and cleansed Judah and Jerusalem." },
+      { "n": 6, "text": "And so did he in the cities of Manasseh, and Ephraim, and Simeon, even to Naphtali, with their mattocks (picks) round about." },
+      { "n": 7, "text": "And when Josiah had broken down the altars and the groves (Asherah idols), and had beaten the graven images (carved idols) into powder, and cut down all the idols throughout all the land of Israel, he returned to Jerusalem." },
+      { "n": 8, "text": "Now in the 18th year of his reign, when he had purged (cleaned) the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder (official record keeper), to repair the house of the LORD his God." },
+      { "n": 9, "text": "And when they came to Hilkiah the high priest, they delivered (gave) the money that was brought into the house of God, which the Levites that kept the doors had gathered of the hand of Manasseh and Ephraim, and of all the remnant (rest) of Israel, and of all Judah and Benjamin. And they returned to Jerusalem." },
+      { "n": 10, "text": "And they put it in the hand of the workmen that had the oversight (were in charge) of the house of the LORD. And they gave it to the workmen that wrought (worked) in the house of the LORD, to repair and amend (fix) the house." },
+      { "n": 11, "text": "Even to the artificers (craftsmen) and builders gave they it, to buy hewn stone (cut stone), and timber for couplings (joining beams), and to floor the houses which the kings of Judah had destroyed." },
+      { "n": 12, "text": "And the men did the work faithfully. And the overseers (bosses) of them were Jahath and Obadiah, the Levites, of the sons of Merari. And Zechariah and Meshullam, of the sons of the Kohathites, set it forward (led the work). And other of the Levites, all that could skill of (play) instruments of music." },
+      { "n": 13, "text": "Also they were over the bearers of burdens (carriers of loads), and were overseers (bosses) of all that wrought (worked) the work in any manner of service. And of the Levites there were scribes (writers), and officers, and porters (doorkeepers)." },
+      { "n": 14, "text": "And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD given by Moses." },
+      { "n": 15, "text": "And Hilkiah answered and said to Shaphan the scribe (writer): I have found the book of the law in the house of the LORD. And Hilkiah delivered (gave) the book to Shaphan." },
+      { "n": 16, "text": "And Shaphan carried the book to the king, and brought the king word back again, saying: All that was committed to your servants, they do it." },
+      { "n": 17, "text": "And they have gathered together the money that was found in the house of the LORD, and have delivered (given) it into the hand of the overseers (bosses), and to the hand of the workmen." },
+      { "n": 18, "text": "Then Shaphan the scribe (writer) told the king, saying: Hilkiah the priest has given me a book. And Shaphan read it before the king." },
+      { "n": 19, "text": "And it came to pass, when the king had heard the words of the law, that he rent (tore) his clothes." },
+      { "n": 20, "text": "And the king commanded Hilkiah, and Ahikam the son of Shaphan, and Abdon the son of Micah, and Shaphan the scribe (writer), and Asaiah a servant of the king's, saying:" },
+      { "n": 21, "text": "Go, enquire (ask) of the LORD for me, and for those who are left in Israel and in Judah, concerning the words of the book that is found. For great is the wrath (anger) of the LORD that is poured out upon us, because our fathers have not kept the word of the LORD, to do after all that is written in this book." },
+      { "n": 22, "text": "And Hilkiah, and those the king had appointed, went to Huldah the prophetess, the wife of Shallum the son of Tikvath, the son of Hasrah, keeper of the wardrobe (the king's clothes). Now she dwelt (lived) in Jerusalem in the college (second part of the city). And they spoke to her to that effect." },
+      { "n": 23, "text": "And Huldah answered them: This is what the LORD God of Israel says: Tell the man that sent you to me:" },
+      { "n": 24, "text": "This is what the LORD says: Look, I will bring evil upon this place, and upon the inhabitants (people) of it, even all the curses that are written in the book which they have read before the king of Judah." },
+      { "n": 25, "text": "Because they have forsaken (left) Me, and have burned incense (sweet-smelling spice) to other gods, so that they might provoke (anger) Me to anger with all the works of their hands, therefore My wrath (anger) shall be poured out upon this place, and shall not be quenched (put out)." },
+      { "n": 26, "text": "And as for the king of Judah, who sent you to enquire (ask) of the LORD, so shall you say to him: This is what the LORD God of Israel says concerning the words which you have heard:" },
+      { "n": 27, "text": "Because your heart was tender, and you did humble yourself before God, when you heard His words against this place, and against the inhabitants (people) of it, and humbled yourself before Me, and did rend (tear) your clothes, and weep before Me, I have even heard you also, says the LORD." },
+      { "n": 28, "text": "Look, I will gather you to your fathers, and you shall be gathered to your grave in peace. Neither shall your eyes see all the evil that I will bring upon this place, and upon the inhabitants (people) of the same. So they brought the king word again." },
+      { "n": 29, "text": "Then the king sent and gathered together all the elders of Judah and Jerusalem." },
+      { "n": 30, "text": "And the king went up into the house of the LORD, and all the men of Judah, and the inhabitants (people) of Jerusalem, and the priests, and the Levites, and all the people, great and small. And he read in their ears all the words of the book of the agreement that was found in the house of the LORD." },
+      { "n": 31, "text": "And the king stood in his place, and made an agreement before the LORD, to walk after the LORD, and to keep His commandments, and His testimonies, and His statutes (laws), with all his heart, and with all his soul, to perform the words of the agreement which are written in this book." },
+      { "n": 32, "text": "And Josiah caused all that were present in Jerusalem and Benjamin to stand to it. And the inhabitants (people) of Jerusalem did according to the agreement of God, the God of their fathers." },
+      { "n": 33, "text": "And Josiah took away all the abominations (hated things) out of all the countries that pertained (belonged) to the children of Israel, and made all that were present in Israel to serve, even to serve the LORD their God. And all his days they departed not from following the LORD, the God of their fathers." }
+    ]
   }
 }
