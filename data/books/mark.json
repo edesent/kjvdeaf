@@ -633,104 +633,32 @@
   "14": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with additional bare pronouns replaced with explicit names (Jesus in v40, Judas in v45) per the site's editorial guidelines. No capitalization issues found.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. dropping \"eat\" in 14:22, \"new\" testament in 14:24, \"and the cock crew\" in 14:68 and \"thy speech agreeth thereto\" in 14:70), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "It was now two days before the Passover and the Feast of Bread Without Yeast. The chief priests and the teachers of the law were looking for a sneaky way to arrest Jesus and kill Him."
-      },
-      {
-        "n": 2,
-        "text": "But they said: Not during the feast, or the people may riot."
-      },
-      {
-        "n": 3,
-        "text": "Jesus was in Bethany, eating at the home of Simon, a man who had once had a skin disease. A woman came with a jar of expensive perfume made of pure nard. She broke the jar and poured the perfume on Jesus' head."
-      },
-      {
-        "n": 4,
-        "text": "Some of the people there were upset. They said to each other: Why waste this perfume?"
-      },
-      {
-        "n": 5,
-        "text": "It could have been sold for a large sum of money and given to the poor. And they spoke against the woman."
-      },
-      {
-        "n": 6,
-        "text": "But Jesus said: Leave her alone. Why are you troubling her? She has done a beautiful thing for me."
-      },
-      {
-        "n": 7,
-        "text": "You will always have the poor with you, and you can help them whenever you want. But you will not always have me."
-      },
-      {
-        "n": 8,
-        "text": "She did what she could. She poured perfume on my body ahead of time, to prepare it for burial."
-      },
-      {
-        "n": 9,
-        "text": "I tell you the truth, wherever the good news is preached in all the world, what this woman did will be told, so people will remember her."
-      },
-      {
-        "n": 10,
-        "text": "Then Judas Iscariot, one of the twelve, went to the chief priests to hand Jesus over to them."
-      },
-      {
-        "n": 11,
-        "text": "They were glad to hear this and promised to give him money. So Judas began looking for a good chance to hand Jesus over."
-      },
-      {
-        "n": 12,
-        "text": "On the first day of the Feast of Bread Without Yeast, the Passover lamb was killed. The disciples asked Jesus: Where do You want us to go? Where should we prepare the Passover meal for You?"
-      },
-      {
-        "n": 13,
-        "text": "Jesus sent two of His disciples and said: Go into the city. A man carrying a jar of water will meet you. Follow him."
-      },
-      {
-        "n": 14,
-        "text": "When he goes into a house, say to the owner: The Teacher asks, Where is my guest room? I will eat the Passover meal there with my disciples."
-      },
-      {
-        "n": 15,
-        "text": "He will show you a large upstairs room, set up and ready. Prepare the meal for us there."
-      },
-      {
-        "n": 16,
-        "text": "The disciples left, went into the city, and found everything just as Jesus had told them. So they prepared the Passover meal."
-      },
-      {
-        "n": 17,
-        "text": "When evening came, Jesus arrived with the twelve."
-      },
-      {
-        "n": 18,
-        "text": "While they were at the table eating, Jesus said: I tell you the truth, one of you eating with me will hand me over."
-      },
-      {
-        "n": 19,
-        "text": "They became sad, and one after another they asked Him: Surely you do not mean me?"
-      },
-      {
-        "n": 20,
-        "text": "Jesus answered: It is one of the twelve, one who is dipping his bread into the bowl with me."
-      },
-      {
-        "n": 21,
-        "text": "The Son of Man will die, just as the Scriptures say. But how terrible it will be for the man who hands over the Son of Man! It would be better for that man if he had never been born."
-      },
-      {
-        "n": 22,
-        "text": "While they were eating, Jesus took bread and thanked God for it. He broke it, gave it to them, and said: Take it. This is my body."
-      },
-      {
-        "n": 23,
-        "text": "Then he took a cup, thanked God, and gave it to them, and they all drank from it."
-      },
-      {
-        "n": 24,
-        "text": "He said to them: This is my blood, which begins the new agreement. It is poured out for many people."
-      },
+      { "n": 1, "text": "After two days was the feast of the passover (feast of freedom from Egypt), and of unleavened bread (bread made without yeast). The chief priests and the scribes (teachers of the law) sought (tried to find) how they might take Jesus by craft (trickery), and put Him to death." },
+      { "n": 2, "text": "But they said: Not on the feast day, or there may be an uproar (riot) of the people." },
+      { "n": 3, "text": "Jesus was in Bethany, in the house of Simon the leper (a man with a skin disease). As He sat at meat (at the meal), a woman came with an alabaster box (a stone jar) of ointment (perfumed oil) of spikenard (costly perfume), very precious. She broke the box, and poured it on His head." },
+      { "n": 4, "text": "Some had indignation (were angry) within themselves. They said: Why was this waste of the ointment (perfumed oil) made?" },
+      { "n": 5, "text": "For it might have been sold for more than three hundred pence (a year's pay), and given to the poor. And they murmured (complained) against her." },
+      { "n": 6, "text": "Jesus said: Let her alone. Why do you trouble her? She has wrought (done) a good work for Me." },
+      { "n": 7, "text": "For you have the poor with you always, and whenever you want, you may do them good. But you do not have Me always." },
+      { "n": 8, "text": "She has done what she could. She has come aforehand (ahead of time) to anoint (put oil on) My body for the burying." },
+      { "n": 9, "text": "Truly I say to you: Wherever this gospel (good news) is preached throughout the whole world, what she has done will also be spoken of, for a memorial (a way to remember) of her." },
+      { "n": 10, "text": "Judas Iscariot, one of the twelve, went to the chief priests, to betray (hand over) Jesus to them." },
+      { "n": 11, "text": "When they heard it, they were glad, and promised to give him money. And Judas sought (looked for) how he might conveniently (at a good time) betray (hand over) Jesus." },
+      { "n": 12, "text": "On the first day of unleavened bread (bread made without yeast), when they killed the passover (feast of freedom from Egypt) lamb, His disciples said to Him: Where do You want us to go and prepare, so that You may eat the passover (feast of freedom from Egypt)?" },
+      { "n": 13, "text": "Jesus sent out two of His disciples. He said to them: Go into the city, and a man carrying a pitcher (jar) of water will meet you. Follow him." },
+      { "n": 14, "text": "Wherever he goes in, say to the goodman (owner) of the house: The Master (Teacher) says: Where is the guestchamber (guest room), where I will eat the passover (feast of freedom from Egypt) with My disciples?" },
+      { "n": 15, "text": "He will show you a large upper room furnished (with tables and couches) and prepared. Make ready for us there." },
+      { "n": 16, "text": "His disciples went out, and came into the city, and found it just as He had said to them. And they made ready the passover (feast of freedom from Egypt)." },
+      { "n": 17, "text": "In the evening Jesus came with the twelve." },
+      { "n": 18, "text": "As they sat and ate, Jesus said: Truly I say to you: One of you who eats with Me will betray (hand over) Me." },
+      { "n": 19, "text": "They began to be sorrowful (sad), and to say to Him one by one: Is it I? And another said: Is it I?" },
+      { "n": 20, "text": "Jesus answered them: It is one of the twelve, who dips with Me in the dish." },
+      { "n": 21, "text": "The Son of Man indeed goes, as it is written of Him. But woe (great trouble) to that man by whom the Son of Man is betrayed (handed over)! It would be good for that man if he had never been born." },
+      { "n": 22, "text": "As they ate, Jesus took bread, and blessed, and broke it. He gave it to them, and said: Take, eat. This is My body." },
+      { "n": 23, "text": "Jesus took the cup. When He had given thanks, He gave it to them, and they all drank of it." },
+      { "n": 24, "text": "Jesus said to them: This is My blood of the new testament (new agreement), which is shed for many." },
       {
         "n": 25,
         "text": "I tell you the truth, I will not drink wine again until the day I drink it new in God's kingdom."
