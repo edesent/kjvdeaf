@@ -37,6 +37,7 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - Gentiles (people who are not Jews)
   - bishop (church leader)
   - perdition (destruction)
+  - curse (God's punishment); cursed / accursed (punished by God); made a curse (took God's punishment) -- Galatians 3:13. Always explain it, so Deaf readers do not read "curse" as a swear word
   - contention (fighting)
   - moderation (gentle self-control)
   - of no reputation (nothing important)
