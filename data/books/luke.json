@@ -292,204 +292,57 @@
   "6": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers two Sabbath controversies (v1-11), choosing the twelve apostles (v12-16), and the Sermon on the Plain -- Luke's version of the Beatitudes paired with matching woes (v20-26), love your enemies (v27-36), judging others (v37-42), and the parable of the wise and foolish builders (v46-49).",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "One Sabbath day, Jesus was walking through the grain fields, and His disciples were picking the heads of grain, rubbing them in their hands, and eating them."
-      },
-      {
-        "n": 2,
-        "text": "Some of the Pharisees asked: Why are you doing what is not lawful on the Sabbath?"
-      },
-      {
-        "n": 3,
-        "text": "Jesus answered them: Have you not read what David did when he and his companions were hungry?"
-      },
-      {
-        "n": 4,
-        "text": "He went into the house of God, took the consecrated bread, ate it, and also gave some to his companions. But this bread was not lawful for anyone to eat except the priests."
-      },
-      {
-        "n": 5,
-        "text": "Then Jesus said to them: The Son of Man is Lord of the Sabbath."
-      },
-      {
-        "n": 6,
-        "text": "On another Sabbath, Jesus went into the synagogue and was teaching. A man was there whose right hand was withered."
-      },
-      {
-        "n": 7,
-        "text": "The teachers of the law and the Pharisees were watching Jesus closely to see if He would heal on the Sabbath. Then they could find a reason to accuse Him."
-      },
-      {
-        "n": 8,
-        "text": "But Jesus knew what they were thinking, and He said to the man with the withered hand: Get up and stand here in front of everyone. The man got up and stood there."
-      },
-      {
-        "n": 9,
-        "text": "Then Jesus said to them: I ask you, is it lawful on the Sabbath to do good or to do evil? Is it lawful to save life or to destroy it?"
-      },
-      {
-        "n": 10,
-        "text": "He looked around at all of them and said to the man: Stretch out your hand. He did so, and his hand was completely restored."
-      },
-      {
-        "n": 11,
-        "text": "But they were furious and began to discuss with one another what they might do to Jesus."
-      },
-      {
-        "n": 12,
-        "text": "During those days Jesus went out to a mountain to pray, and He spent the whole night praying to God."
-      },
-      {
-        "n": 13,
-        "text": "When morning came, He called His disciples to Him and chose twelve of them, whom He also named apostles:"
-      },
-      {
-        "n": 14,
-        "text": "Simon, whom He named Peter, his brother Andrew, James, John, Philip, Bartholomew,"
-      },
-      {
-        "n": 15,
-        "text": "Matthew, Thomas, James son of Alphaeus, Simon who was called the Zealot,"
-      },
-      {
-        "n": 16,
-        "text": "Judas son of James, and Judas Iscariot, who became a traitor."
-      },
-      {
-        "n": 17,
-        "text": "Jesus came down with them and stood on a level place. A large crowd of His disciples was there. A great number of people had come from all over Judea, from Jerusalem, and from the coastal region around Tyre and Sidon."
-      },
-      {
-        "n": 18,
-        "text": "They had come to hear Him and to be healed of their diseases. Those troubled by evil spirits were also healed."
-      },
-      {
-        "n": 19,
-        "text": "Everyone in the crowd was trying to touch Him, because power was going out from Him and healing them all."
-      },
-      {
-        "n": 20,
-        "text": "Jesus looked at His disciples and said: Blessed are you who are poor, for the kingdom of God is yours."
-      },
-      {
-        "n": 21,
-        "text": "Blessed are you who hunger now, for you will be satisfied. Blessed are you who weep now, for you will laugh."
-      },
-      {
-        "n": 22,
-        "text": "Blessed are you when people hate you, when they exclude you and insult you and reject your name as evil, because of the Son of Man."
-      },
-      {
-        "n": 23,
-        "text": "Rejoice on that day and leap for joy, because great is your reward in heaven. For that is how their ancestors treated the prophets."
-      },
-      {
-        "n": 24,
-        "text": "But how terrible for you who are rich, for you have already received your comfort."
-      },
-      {
-        "n": 25,
-        "text": "How terrible for you who are well fed now, for you will go hungry. How terrible for you who laugh now, for you will mourn and weep."
-      },
-      {
-        "n": 26,
-        "text": "How terrible for you when everyone speaks well of you, for that is how their ancestors treated the false prophets."
-      },
-      {
-        "n": 27,
-        "text": "But I tell you who are listening: Love your enemies, do good to those who hate you,"
-      },
-      {
-        "n": 28,
-        "text": "Bless those who curse you, pray for those who mistreat you."
-      },
-      {
-        "n": 29,
-        "text": "If anyone slaps you on one cheek, offer the other also. If anyone takes your coat, do not stop them from taking your shirt as well."
-      },
-      {
-        "n": 30,
-        "text": "Give to everyone who asks you, and if anyone takes what belongs to you, do not demand it back."
-      },
-      {
-        "n": 31,
-        "text": "Do to others as you would have them do to you."
-      },
-      {
-        "n": 32,
-        "text": "If you love those who love you, what credit is that to you? Even sinners love those who love them."
-      },
-      {
-        "n": 33,
-        "text": "And if you do good to those who are good to you, what credit is that to you? Even sinners do that."
-      },
-      {
-        "n": 34,
-        "text": "And if you lend to those from whom you expect to be repaid, what credit is that to you? Even sinners lend to sinners, expecting to be repaid in full."
-      },
-      {
-        "n": 35,
-        "text": "But love your enemies, do good to them, and lend to them without expecting anything back. Then your reward will be great, and you will be children of the Most High, because He is kind to the ungrateful and the wicked."
-      },
-      {
-        "n": 36,
-        "text": "Be merciful, just as your Father is merciful."
-      },
-      {
-        "n": 37,
-        "text": "Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven."
-      },
-      {
-        "n": 38,
-        "text": "Give, and it will be given to you. A good measure, pressed down, shaken together, and running over will be poured into your lap. For the measure you use will be measured back to you."
-      },
-      {
-        "n": 39,
-        "text": "Jesus also told them a teaching story: Can the blind lead the blind? Will they not both fall into a pit?"
-      },
-      {
-        "n": 40,
-        "text": "A student is not greater than the teacher, but everyone who is fully trained will be like their teacher."
-      },
-      {
-        "n": 41,
-        "text": "Why do you look at the speck of sawdust in your brother's eye, but pay no attention to the plank in your own eye?"
-      },
-      {
-        "n": 42,
-        "text": "How can you say to your brother: Brother, let me take the speck out of your eye? You cannot even see the plank in your own eye. You hypocrite, first take the plank out of your own eye. Then you will see clearly to remove the speck from your brother's eye."
-      },
-      {
-        "n": 43,
-        "text": "No good tree produces bad fruit, and no bad tree produces good fruit."
-      },
-      {
-        "n": 44,
-        "text": "Each tree is known by its own fruit. People do not gather figs from thornbushes, or grapes from briers."
-      },
-      {
-        "n": 45,
-        "text": "A good person brings good things out of a good, clean heart. An evil person pours out wickedness from a heart full of evil. A person's mouth simply speaks whatever fills their inner heart most."
-      },
-      {
-        "n": 46,
-        "text": "Why do you call me Lord, Lord, and do not do what I say?"
-      },
-      {
-        "n": 47,
-        "text": "I will show you what someone is like who comes to me, hears my words, and puts them into practice."
-      },
-      {
-        "n": 48,
-        "text": "They are like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built."
-      },
-      {
-        "n": 49,
-        "text": "But the one who hears my words and does not put them into practice is like a man. He built a house on the ground without a foundation. The moment the torrent struck that house, it collapsed. Its destruction was complete."
-      }
+      { "n": 1, "text": "And it came to pass (happened) on the second sabbath after the first, that Jesus went through the corn (grain) fields. And His disciples plucked the ears of corn (heads of grain), and ate, rubbing them in their hands." },
+      { "n": 2, "text": "And certain of the Pharisees said to them: Why do you that which is not lawful (allowed by the law) to do on the sabbath days (days of rest)?" },
+      { "n": 3, "text": "And Jesus answering them said: Have you not read so much as this, what David did, when he himself was hungry, and they who were with him," },
+      { "n": 4, "text": "How he went into the house of God, and took and ate the shewbread (holy bread set before God), and gave also to them who were with him, which it is not lawful (allowed by the law) to eat but for the priests alone?" },
+      { "n": 5, "text": "And Jesus said to them: The Son of man is Lord also of the sabbath (day of rest)." },
+      { "n": 6, "text": "And it came to pass (happened) also on another sabbath (day of rest), that Jesus entered into the synagogue (meeting house) and taught. And there was a man whose right hand was withered (dried up and useless)." },
+      { "n": 7, "text": "And the scribes (teachers of the law) and Pharisees watched Jesus, whether He would heal on the sabbath day (day of rest), that they might find an accusation against Him." },
+      { "n": 8, "text": "But Jesus knew their thoughts, and said to the man who had the withered (dried up) hand: Rise up, and stand forth in the middle. And the man arose and stood forth." },
+      { "n": 9, "text": "Then Jesus said to them: I will ask you one thing: Is it lawful (allowed by the law) on the sabbath days (days of rest) to do good, or to do evil? To save life, or to destroy it?" },
+      { "n": 10, "text": "And looking round about upon them all, Jesus said to the man: Stretch forth your hand. And the man did so. And his hand was restored whole (healed) as the other." },
+      { "n": 11, "text": "And they were filled with madness (great anger), and communed (talked) one with another what they might do to Jesus." },
+      { "n": 12, "text": "And it came to pass (happened) in those days, that Jesus went out into a mountain to pray, and continued all night in prayer to God." },
+      { "n": 13, "text": "And when it was day, Jesus called to Him His disciples. And of them He chose 12, whom also He named apostles (sent ones):" },
+      { "n": 14, "text": "Simon, whom He also named Peter, and Andrew his brother, James and John, Philip and Bartholomew," },
+      { "n": 15, "text": "Matthew and Thomas, James the son of Alphaeus, and Simon called Zelotes (the Zealot)," },
+      { "n": 16, "text": "And Judas the brother of James, and Judas Iscariot, who also was the traitor." },
+      { "n": 17, "text": "And Jesus came down with them, and stood in the plain (flat land), and the company of His disciples, and a great multitude (large crowd) of people out of all Judaea and Jerusalem, and from the sea coast of Tyre and Sidon, who came to hear Him, and to be healed of their diseases," },
+      { "n": 18, "text": "And they who were vexed (troubled) with unclean spirits. And they were healed." },
+      { "n": 19, "text": "And the whole multitude (large crowd) sought (tried) to touch Jesus. For there went virtue (power) out of Him, and healed them all." },
+      { "n": 20, "text": "And Jesus lifted up His eyes on His disciples, and said: Blessed are you poor, for yours is the kingdom of God." },
+      { "n": 21, "text": "Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh." },
+      { "n": 22, "text": "Blessed are you, when men will hate you, and when they will separate you from their company, and will reproach (insult) you, and cast out your name as evil, for the Son of man's sake." },
+      { "n": 23, "text": "Rejoice in that day, and leap for joy. For look, your reward is great in heaven. For in the same way their fathers did to the prophets." },
+      { "n": 24, "text": "But woe (great trouble) to you who are rich, for you have received your consolation (comfort)." },
+      { "n": 25, "text": "Woe (great trouble) to you who are full, for you will hunger. Woe to you who laugh now, for you will mourn and weep." },
+      { "n": 26, "text": "Woe (great trouble) to you, when all men will speak well of you, for so did their fathers to the false prophets." },
+      { "n": 27, "text": "But I say to you who hear: Love your enemies, do good to them who hate you," },
+      { "n": 28, "text": "Bless them who curse you, and pray for them who despitefully use (mistreat) you." },
+      { "n": 29, "text": "And to the one who smites (strikes) you on the one cheek, offer also the other. And the one who takes away your cloke (coat), do not forbid them to take your coat also." },
+      { "n": 30, "text": "Give to every man who asks of you. And of the one who takes away your goods, do not ask them again." },
+      { "n": 31, "text": "And as you would want men to do to you, you also do to them likewise." },
+      { "n": 32, "text": "For if you love them who love you, what thank (credit) do you have? For sinners also love those who love them." },
+      { "n": 33, "text": "And if you do good to them who do good to you, what thank (credit) do you have? For sinners also do even the same." },
+      { "n": 34, "text": "And if you lend to them from whom you hope to receive, what thank (credit) do you have? For sinners also lend to sinners, to receive as much again." },
+      { "n": 35, "text": "But love your enemies, and do good, and lend, hoping for nothing again. And your reward will be great, and you will be the children of the Highest. For He is kind to the unthankful and to the evil." },
+      { "n": 36, "text": "Be therefore merciful, as your Father also is merciful." },
+      { "n": 37, "text": "Judge not, and you will not be judged. Condemn (judge guilty) not, and you will not be condemned (judged guilty). Forgive, and you will be forgiven." },
+      { "n": 38, "text": "Give, and it will be given to you, good measure, pressed down, and shaken together, and running over, will men give into your bosom (lap). For with the same measure that you mete (measure out), it will be measured to you again." },
+      { "n": 39, "text": "And Jesus spoke a parable (story that teaches a lesson) to them: Can the blind lead the blind? Will they not both fall into the ditch?" },
+      { "n": 40, "text": "The disciple is not above their master (teacher). But every one who is perfect (fully trained) will be as their master (teacher)." },
+      { "n": 41, "text": "And why do you behold (see) the mote (speck of dust) that is in your brother's eye, but do not perceive (notice) the beam (big piece of wood) that is in your own eye?" },
+      { "n": 42, "text": "Or how can you say to your brother: Brother, let me pull out the mote (speck of dust) that is in your eye, when you yourself do not see the beam (big piece of wood) that is in your own eye? You hypocrite (pretender), cast out first the beam out of your own eye, and then you will see clearly to pull out the mote that is in your brother's eye." },
+      { "n": 43, "text": "For a good tree does not bring forth corrupt (rotten) fruit, neither does a corrupt tree bring forth good fruit." },
+      { "n": 44, "text": "For every tree is known by its own fruit. For of thorns men do not gather figs, nor of a bramble bush (thorn bush) do they gather grapes." },
+      { "n": 45, "text": "A good person out of the good treasure of their heart brings forth that which is good. And an evil person out of the evil treasure of their heart brings forth that which is evil. For out of the abundance (overflow) of the heart their mouth speaks." },
+      { "n": 46, "text": "And why do you call Me: Lord, Lord, and do not do the things which I say?" },
+      { "n": 47, "text": "Whoever comes to Me, and hears My sayings, and does them, I will show you whom they are like." },
+      { "n": 48, "text": "They are like a man who built a house, and dug deep, and laid the foundation on a rock. And when the flood arose, the stream beat vehemently (hard) upon that house, and could not shake it, for it was founded upon a rock." },
+      { "n": 49, "text": "But the one who hears, and does not do, is like a man who without a foundation built a house upon the earth. Against it the stream beat vehemently (hard), and immediately it fell. And the ruin of that house was great." }
     ]
   },
   "7": {
