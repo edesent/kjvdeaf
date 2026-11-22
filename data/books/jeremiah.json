@@ -1,200 +1,111 @@
 {
   "4": {
-    "verses": [
-      { "n": 1, "text": "The LORD says: Israel, if you will come back, come back to Me. If you remove your hated idols from My sight, you will not be driven away." },
-      { "n": 2, "text": "You will swear: As the LORD lives. You will say it with truth, fairness and what is right. Then the nations will be blessed through Him. They will praise Him." },
-      { "n": 3, "text": "The LORD says to the people of Judah and Jerusalem: Break up your hard ground. Do not plant seeds among thorns." },
-      { "n": 4, "text": "Belong fully to the LORD. Cut away the hardness from your hearts, people of Judah and Jerusalem. If you do not, My anger will burn like a fire. No one will be able to put it out, because of your evil deeds." },
-      { "n": 5, "text": "Announce this in Judah and Jerusalem: Blow the trumpet in the land. Shout: Gather together. Let us run into the strong cities." },
-      { "n": 6, "text": "Raise a signal flag toward Zion. Run for safety. Do not stand still. I am bringing terrible trouble from the north. It will be a great destruction." },
-      { "n": 7, "text": "A lion has come out of its hiding place. The destroyer of nations has set out. The destroyer has left his home to make your land empty. Your cities will be ruined, and no one will live in them." },
-      { "n": 8, "text": "So put on rough sackcloth. Cry and wail. The fierce anger of the LORD has not turned away from us." },
-      { "n": 9, "text": "The LORD says: On that day the king and the leaders will lose heart. The priests will be shocked. The prophets will be amazed." },
-      { "n": 10, "text": "Then Jeremiah said: Lord GOD, You have truly deceived this people and Jerusalem. You said: You will have peace. But now the sword is at our throats." },
-      { "n": 11, "text": "At that time this people and Jerusalem will be told: A hot wind from the bare hills in the desert is blowing toward My people. It is not a wind to blow the grain clean." },
-      { "n": 12, "text": "A wind too strong for that comes from those places at My command. Now I will pass judgment on them." },
-      { "n": 13, "text": "Look, the enemy comes up like clouds. The enemy's chariots are like a whirlwind. His horses are faster than eagles. How terrible for us. We are ruined." },
-      { "n": 14, "text": "Jerusalem, wash the evil from your heart so that you can be saved. How long will you hold on to your evil thoughts?" },
-      { "n": 15, "text": "Listen, a voice is calling from Dan. A voice from the hills of Ephraim announces trouble." },
-      { "n": 16, "text": "Tell the nations. Announce this against Jerusalem: Armies are coming from a faraway land. They shout against the cities of Judah." },
-      { "n": 17, "text": "They surround Jerusalem like people guarding a field, because Jerusalem has rebelled against Me, says the LORD." },
-      { "n": 18, "text": "Your own ways and deeds have brought this on you. This is the result of your evil. It is bitter, and it pierces your heart." },
-      { "n": 19, "text": "Jeremiah says: My stomach, my stomach hurts. I am in pain deep in my heart. My heart pounds inside me. I cannot keep quiet. I have heard the sound of the trumpet and the cry of war." },
-      { "n": 20, "text": "Destruction after destruction is announced, because the whole land is ruined. Suddenly my tents are destroyed. My curtains are gone in a moment." },
-      { "n": 21, "text": "How long must I see the signal flag and hear the sound of the trumpet?" },
-      { "n": 22, "text": "The LORD says: My people are foolish. They do not know Me. They are children without sense. They have no understanding. They are clever at doing evil. They do not know how to do good." },
-      { "n": 23, "text": "Jeremiah says: I looked at the earth, and it was empty and without shape. I looked at the sky, and it had no light." },
-      { "n": 24, "text": "I looked at the mountains, and they were shaking. All the hills moved back and forth." },
-      { "n": 25, "text": "I looked, and there were no people. All the birds of the sky had flown away." },
-      { "n": 26, "text": "I looked, and the fruitful land had become a desert. All its cities were torn down. This was because of the LORD and His fierce anger." },
-      { "n": 27, "text": "The LORD says: The whole land will be empty and ruined. But I will not completely destroy it." },
-      { "n": 28, "text": "Because of this, the earth will mourn. The sky above will turn dark. I have spoken, and I have decided. I will not change My mind. I will not turn back." },
-      { "n": 29, "text": "The people of every city will run away from the noise of horsemen and archers. They will hide in thickets and climb up on rocks. Every city will be empty. No one will live there." },
-      { "n": 30, "text": "Jerusalem, you will be destroyed. What will you do then? You dress in red clothes. You put on gold jewelry. You paint your eyes. But you make yourself beautiful for nothing. Your lovers hate you. They want to kill you." },
-      { "n": 31, "text": "Jeremiah says: I hear a cry like a woman giving birth. It sounds like the pain of a woman having her first child. It is the cry of Jerusalem, the daughter of Zion. She gasps for breath and holds out her hands. She says: How terrible for me. I am fainting before the killers." }
-    ],
-    "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. Speakers are not marked in the KJV: the LORD speaks in verses 1-9, 11-18 (with Jerusalem addressed), 22, 27-30; Jeremiah speaks in verses 10, 19-21, 23-26, 31. Check: verse 4 'circumcise yourselves' is rendered 'Belong fully to the LORD. Cut away the hardness from your hearts'; verse 10 'the sword reaches the soul' is rendered 'the sword is at our throats'; verses 11-12 (the dry wind), 16-18 and 30 use hard Hebrew wording; 'my bowels' (verse 19) is rendered 'my stomach'.",
-    "sourceUrl": "https://kjvdeaf.com/old-testament/jeremiah/jeremiah-chapter-4/",
     "status": "published",
-    "videos": []
+    "generated": true,
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase and added speaker labels that are not in the KJV), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V4 keeps the KJV's circumcise yourselves to the LORD, explained in parentheses. V23 keeps without form, and void.",
+    "sourceUrl": "https://kjvdeaf.com/old-testament/jeremiah/jeremiah-chapter-4/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "If you will return, O Israel, says the LORD, return to Me. And if you will put away your abominations (hated idols) out of My sight, then shall you not remove (wander)." },
+      { "n": 2, "text": "And you shall swear: The LORD lives, in truth, in judgment (justice), and in righteousness. And the nations shall bless themselves in Him, and in Him shall they glory." },
+      { "n": 3, "text": "For this is what the LORD says to the men of Judah and Jerusalem: Break up your fallow ground (hard unplowed ground), and sow not among thorns." },
+      { "n": 4, "text": "Circumcise yourselves to the LORD, and take away the foreskins of your heart (give your hearts fully to the LORD), you men of Judah and inhabitants (people) of Jerusalem. Lest (or else) My fury come forth like fire, and burn so that none can quench (put out) it, because of the evil of your doings." },
+      { "n": 5, "text": "Declare in Judah, and publish (announce) in Jerusalem, and say: Blow the trumpet in the land. Cry, gather together, and say: Assemble yourselves, and let us go into the defenced (walled) cities." },
+      { "n": 6, "text": "Set up the standard (flag) toward Zion. Retire (run for safety), stay not. For I will bring evil from the north, and a great destruction." },
+      { "n": 7, "text": "The lion is come up from his thicket (bushes), and the destroyer of the Gentiles (nations) is on his way. He is gone forth (out) from his place to make your land desolate (empty). And your cities shall be laid waste (ruined), without an inhabitant (person living there)." },
+      { "n": 8, "text": "For this gird you with sackcloth (put on rough cloth worn in sorrow), lament (mourn) and howl. For the fierce anger of the LORD is not turned back from us." },
+      { "n": 9, "text": "And it shall come to pass at that day, says the LORD, that the heart of the king shall perish (fail), and the heart of the princes (leaders). And the priests shall be astonished (shocked), and the prophets shall wonder." },
+      { "n": 10, "text": "Then said I (Jeremiah): Ah, Lord GOD! Surely You have greatly deceived this people and Jerusalem, saying: You shall have peace. Whereas the sword reaches to the soul." },
+      { "n": 11, "text": "At that time shall it be said to this people and to Jerusalem: A dry wind of the high places in the wilderness (desert) toward the daughter of My people, not to fan (separate grain), nor to cleanse," },
+      { "n": 12, "text": "Even a full wind from those places shall come to Me. Now also will I give sentence (judgment) against them." },
+      { "n": 13, "text": "Look, he shall come up as clouds, and his chariots shall be as a whirlwind. His horses are swifter (faster) than eagles. Woe to us (we are in great trouble)! For we are spoiled (ruined)." },
+      { "n": 14, "text": "O Jerusalem, wash your heart from wickedness, so that you may be saved. How long shall your vain (empty) thoughts lodge (stay) within you?" },
+      { "n": 15, "text": "For a voice declares from Dan, and publishes (announces) affliction (trouble) from mount Ephraim." },
+      { "n": 16, "text": "Make mention to the nations. Look, publish (announce) against Jerusalem, that watchers come from a far country, and give out their voice against the cities of Judah." },
+      { "n": 17, "text": "As keepers of a field, are they against her round about, because she has been rebellious against Me, says the LORD." },
+      { "n": 18, "text": "Your way and your doings have procured (brought) these things to you. This is your wickedness, because it is bitter, because it reaches to your heart." },
+      { "n": 19, "text": "My bowels (deep inside), my bowels! I am pained at my very heart. My heart makes a noise in me. I cannot hold my peace (stay quiet), because you have heard, O my soul, the sound of the trumpet, the alarm of war." },
+      { "n": 20, "text": "Destruction upon destruction is cried. For the whole land is spoiled (ruined). Suddenly are my tents spoiled (ruined), and my curtains in a moment." },
+      { "n": 21, "text": "How long shall I see the standard (flag), and hear the sound of the trumpet?" },
+      { "n": 22, "text": "For My people is foolish, they have not known Me. They are sottish (foolish) children, and they have none understanding. They are wise to do evil, but to do good they have no knowledge." },
+      { "n": 23, "text": "I beheld (looked at) the earth, and, lo (look), it was without form, and void (empty). And I looked at the heavens, and they had no light." },
+      { "n": 24, "text": "I beheld (looked at) the mountains, and, lo (look), they trembled (shook), and all the hills moved lightly (back and forth)." },
+      { "n": 25, "text": "I beheld (looked), and, lo (look), there was no man, and all the birds of the heavens were fled (gone)." },
+      { "n": 26, "text": "I beheld (looked), and, lo (look), the fruitful place was a wilderness (desert), and all the cities of it were broken down at the presence of the LORD, and by His fierce anger." },
+      { "n": 27, "text": "For this is what the LORD has said: The whole land shall be desolate (empty). Yet will I not make a full end." },
+      { "n": 28, "text": "For this shall the earth mourn, and the heavens above be black. Because I have spoken it, I have purposed (decided) it, and will not repent (change My mind), neither will I turn back from it." },
+      { "n": 29, "text": "The whole city shall flee (run away) for the noise of the horsemen and bowmen (archers). They shall go into thickets (bushes), and climb up upon the rocks. Every city shall be forsaken (left), and not a man dwell (live) in it." },
+      { "n": 30, "text": "And when you are spoiled (ruined), what will you do? Though you clothe yourself with crimson (red), though you deck (dress) yourself with ornaments of gold, though you rent (paint) your face with painting, in vain (for nothing) shall you make yourself fair (beautiful). Your lovers will despise (hate) you. They will seek (want) your life." },
+      { "n": 31, "text": "For I have heard a voice as of a woman in travail (giving birth), and the anguish (pain) as of her that brings forth her first child, the voice of the daughter of Zion, that bewails (cries over) herself, that spreads her hands, saying: Woe is me now (I am in great trouble)! For my soul is wearied (faint) because of murderers." }
+    ]
   },
   "6": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "People of Benjamin, gather together and run away from Jerusalem! Blow the trumpet in the town of Tekoa. Light a fire signal over the town of Beth Haccerem. Trouble is coming from the north. Great destruction is coming."
-      },
-      {
-        "n": 2,
-        "text": "I, the LORD, have compared Jerusalem, the daughter of Zion, to a beautiful and delicate woman."
-      },
-      {
-        "n": 3,
-        "text": "Enemy kings will come against Jerusalem with their armies. They will be like shepherds coming with their flocks. The enemy kings will set up their tents all around the city. Like sheep eating grass, each king will eat up his part of the land."
-      },
-      {
-        "n": 4,
-        "text": "The enemy kings say: Get ready for war against Jerusalem! Get up, and let us attack at noon! Then they say: Too bad for us! The day is ending, and the evening shadows are getting long."
-      },
-      {
-        "n": 5,
-        "text": "The enemy kings say: Get up! Let us attack at night and destroy the strong palaces of Jerusalem."
-      },
-      {
-        "n": 6,
-        "text": "The LORD of all armies says: Cut down trees, and build a dirt ramp against the walls of Jerusalem. Jerusalem is the city that must be punished. The city is full of people who hurt and cheat others."
-      },
-      {
-        "n": 7,
-        "text": "A well keeps its water flowing. In the same way, Jerusalem keeps its evil flowing. In Jerusalem I hear violence and destruction. I always see sick and wounded people there."
-      },
-      {
-        "n": 8,
-        "text": "People of Jerusalem, listen to my warning! If you do not listen, I will turn away from you. I will make Jerusalem empty, a land where nobody lives."
-      },
-      {
-        "n": 9,
-        "text": "The LORD of all armies says: The enemy will pick Israel clean, like the last grapes on a vine. Like a grape picker, go back over the branches again."
-      },
-      {
-        "n": 10,
-        "text": "Jeremiah says: Who can I speak to? Who can I warn so that the people will listen? Look, the people have made up their minds not to listen. They refuse to pay attention. They make fun of the word of the LORD. They do not enjoy it."
-      },
-      {
-        "n": 11,
-        "text": "Jeremiah says: So I am full of the anger of the LORD. I am tired of holding it in. The LORD says to Jeremiah: Pour out my anger on the children in the street. Pour it out on the groups of young men too. Husbands and wives will be taken away. Old people and very old people will be taken away."
-      },
-      {
-        "n": 12,
-        "text": "The LORD says: The people's houses will be given to other people. Their fields and their wives will be given to others too. I will use my power to punish the people who live in this land."
-      },
-      {
-        "n": 13,
-        "text": "Everyone is greedy for money that is not theirs. This is true from the least important person to the most important. Even the prophets and the priests all lie and cheat."
-      },
-      {
-        "n": 14,
-        "text": "My people have a deep wound. But the prophets and priests treat it like a small cut. They say: Peace, peace! But there is no peace."
-      },
-      {
-        "n": 15,
-        "text": "Were the people ashamed when they did the things God hates? No, they were not ashamed at all. They did not even know how to blush. So they will fall with the others who fall. When I punish them, they will be thrown down, says the LORD."
-      },
-      {
-        "n": 16,
-        "text": "The LORD says: Stand at the crossroads and look. Ask where the old paths are. Ask where the good way is, and walk in it. Then you will find rest for your souls. But the people said: We will not walk in it."
-      },
-      {
-        "n": 17,
-        "text": "The LORD says: I put watchmen over you to warn you of danger. I said: Watch and listen for the trumpet warning! But the people said: We will not listen."
-      },
-      {
-        "n": 18,
-        "text": "So listen, you nations! All you people gathered together, learn what will happen to my people."
-      },
-      {
-        "n": 19,
-        "text": "Listen, earth! I will bring trouble on these people. The trouble is the result of their own evil plans. They did not listen to my words, and they rejected my law."
-      },
-      {
-        "n": 20,
-        "text": "Why do you bring me incense from the land of Sheba? Why do you bring me sweet-smelling cane from a faraway country? I do not accept your burnt offerings. Your sacrifices do not please me."
-      },
-      {
-        "n": 21,
-        "text": "So the LORD says: Look, I will put things in the way of these people. These things will make them trip and fall. Fathers and sons will fall together. Neighbors and friends will die."
-      },
-      {
-        "n": 22,
-        "text": "The LORD says: Look, an army is coming from the land in the north. A great nation is being stirred up from the far parts of the earth."
-      },
-      {
-        "n": 23,
-        "text": "The enemy soldiers carry bows and spears. They are cruel and show no mercy. Their army is loud and powerful, like the crashing waves of the sea. They ride on horses and line up ready for war against you, Jerusalem."
-      },
-      {
-        "n": 24,
-        "text": "The people of Jerusalem say: We have heard the news about that army. We have lost all our strength. Trouble has taken hold of us, and pain like a woman giving birth."
-      },
-      {
-        "n": 25,
-        "text": "Do not go out into the fields! Do not walk on the roads! The enemy has swords, and there is terror everywhere."
-      },
-      {
-        "n": 26,
-        "text": "My people, put on rough sackcloth to show your sorrow, and roll in the ashes! Cry loudly and bitterly, like parents crying for their only son. The destroyer will come against us suddenly."
-      },
-      {
-        "n": 27,
-        "text": "The LORD says to Jeremiah: Among my people, I have made you like a tester of metal. I have also made you like a strong fortress. You will watch how my people live, and you will test their ways."
-      },
-      {
-        "n": 28,
-        "text": "My people are all very stubborn rebels. They go around telling lies about others. They are hard like bronze and iron, and they all do evil things."
-      },
-      {
-        "n": 29,
-        "text": "The metal worker blows air into the fire as hard as he can. The fire burns up the lead. But the metal worker works for nothing. The evil people are still not separated out."
-      },
-      {
-        "n": 30,
-        "text": "People will call them worthless silver, because the LORD has thrown them away."
-      }
-    ],
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible). Notes: v2 Hebrew damiti can mean 'I have compared' or 'I will destroy'; kept the KJV reading. v9 salsillot means vine branches, not baskets; the command is left unnamed as in the Hebrew. v10 the idiom 'uncircumcised ear' is given as its meaning, refusing to listen. v11 follows the Hebrew imperative 'pour out' (shefokh), with the LORD commanding Jeremiah. v18 the Hebrew phrase is difficult; rendered as an address to the gathered nations. v27 bahon (tester of metal) and mivtsar (fortress) are both kept. 'LORD of hosts' is rendered 'the LORD of all armies'."
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase and added speaker labels that are not in the KJV), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V16 keeps the KJV's ask for the old paths, where is the good way. V10 keeps their ear is uncircumcised, explained in parentheses.",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "O you children of Benjamin, gather yourselves to flee (run) out of the middle of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Bethhaccerem. For evil appears out of the north, and great destruction." },
+      { "n": 2, "text": "I have likened (compared) the daughter of Zion to a comely (lovely) and delicate woman." },
+      { "n": 3, "text": "The shepherds with their flocks shall come to her. They shall pitch (set up) their tents against her round about. They shall feed every one in his place." },
+      { "n": 4, "text": "Prepare war against her. Arise (get up), and let us go up at noon. Woe to us (too bad for us)! For the day goes away, for the shadows of the evening are stretched out." },
+      { "n": 5, "text": "Arise (get up), and let us go by night, and let us destroy her palaces." },
+      { "n": 6, "text": "For this is what the LORD of hosts (armies) has said: Hew down (cut down) trees, and cast (build) a mount (dirt ramp) against Jerusalem. This is the city to be visited (punished). She is wholly (completely) oppression (cruelty) in the middle of her." },
+      { "n": 7, "text": "As a fountain casts out (pours out) her waters, so she casts out (pours out) her wickedness. Violence and spoil (destruction) is heard in her. Before Me continually is grief and wounds." },
+      { "n": 8, "text": "Be instructed (take warning), O Jerusalem, lest (or else) My soul depart from you, lest (or else) I make you desolate (empty), a land not inhabited (with no one living there)." },
+      { "n": 9, "text": "This is what the LORD of hosts (armies) says: They shall throughly glean (pick clean) the remnant (rest) of Israel as a vine. Turn back your hand as a grapegatherer into the baskets." },
+      { "n": 10, "text": "To whom shall I speak, and give warning, so that they may hear? Look, their ear is uncircumcised (closed), and they cannot hearken (listen). Look, the word of the LORD is to them a reproach (something to mock). They have no delight in it." },
+      { "n": 11, "text": "Therefore I am full of the fury of the LORD. I am weary with holding in. I will pour it out upon the children abroad (in the street), and upon the assembly (group) of young men together. For even the husband with the wife shall be taken, the aged (old) with him that is full of days (very old)." },
+      { "n": 12, "text": "And their houses shall be turned to others, with their fields and wives together. For I will stretch out My hand upon the inhabitants (people) of the land, says the LORD." },
+      { "n": 13, "text": "For from the least of them even to the greatest of them every one is given to covetousness (greed). And from the prophet even to the priest every one deals falsely (lies)." },
+      { "n": 14, "text": "They have healed also the hurt of the daughter of My people slightly, saying: Peace, peace. When there is no peace." },
+      { "n": 15, "text": "Were they ashamed when they had committed abomination (hateful things)? No, they were not at all ashamed, neither could they blush. Therefore they shall fall among those who fall. At the time that I visit (punish) them they shall be cast down (thrown down), says the LORD." },
+      { "n": 16, "text": "This is what the LORD says: Stand in the ways, and see, and ask for the old paths, where is the good way, and walk in it, and you shall find rest for your souls. But they said: We will not walk in it." },
+      { "n": 17, "text": "Also I set watchmen (guards) over you, saying: Hearken (listen) to the sound of the trumpet. But they said: We will not hearken (listen)." },
+      { "n": 18, "text": "Therefore hear, you nations, and know, O congregation (gathered people), what is among them." },
+      { "n": 19, "text": "Hear, O earth: Look, I will bring evil upon this people, even the fruit of their thoughts, because they have not hearkened (listened) to My words, nor to My law, but rejected it." },
+      { "n": 20, "text": "To what purpose comes there to Me incense (sweet-smelling spice) from Sheba, and the sweet cane from a far country? Your burnt offerings are not acceptable, nor your sacrifices sweet to Me." },
+      { "n": 21, "text": "Therefore this is what the LORD says: Look, I will lay stumblingblocks (things to trip over) before this people, and the fathers and the sons together shall fall upon them. The neighbour and his friend shall perish (die)." },
+      { "n": 22, "text": "This is what the LORD says: Look, a people comes from the north country, and a great nation shall be raised from the sides (far parts) of the earth." },
+      { "n": 23, "text": "They shall lay hold on bow and spear. They are cruel, and have no mercy. Their voice roars like the sea. And they ride upon horses, set in array (lined up) as men for war against you, O daughter of Zion." },
+      { "n": 24, "text": "We have heard the fame (report) of it. Our hands wax feeble (grow weak). Anguish (great pain) has taken hold of us, and pain, as of a woman in travail (giving birth)." },
+      { "n": 25, "text": "Go not forth (out) into the field, nor walk by the way. For the sword of the enemy and fear is on every side." },
+      { "n": 26, "text": "O daughter of My people, gird you with sackcloth (put on rough cloth worn in sorrow), and wallow (roll) yourself in ashes. Make you mourning, as for an only son, most bitter lamentation (crying). For the spoiler (destroyer) shall suddenly come upon us." },
+      { "n": 27, "text": "I have set you (Jeremiah) for a tower and a fortress among My people, so that you may know and try (test) their way." },
+      { "n": 28, "text": "They are all grievous revolters (stubborn rebels), walking with slanders (lies about others). They are brass (bronze) and iron. They are all corrupters (evil)." },
+      { "n": 29, "text": "The bellows are burned, the lead is consumed (burned up) of the fire. The founder (metal worker) melts in vain (for nothing). For the wicked are not plucked away (separated out)." },
+      { "n": 30, "text": "Reprobate (rejected) silver shall men call them, because the LORD has rejected them." }
+    ]
   },
   "8": {
-    "verses": [
-      { "n": 1, "text": "The LORD says: At that time, enemies will dig up the bones of the kings of Judah. They will dig up the bones of the leaders, priests and prophets. They will dig up the bones of everyone in Jerusalem." },
-      { "n": 2, "text": "They will spread the bones out under the sun, the moon and all the stars of the sky. The people loved those things and served them. They followed them, asked them for help and worshiped them. No one will gather the bones or bury them. They will lie on the ground like dung." },
-      { "n": 3, "text": "The LORD of all armies says: Some of these evil people will be left alive in the places where I have driven them. They will choose death instead of life." },
-      { "n": 4, "text": "The LORD said to Jeremiah: Tell the people what I say. When people fall down, do they not get up again? When people turn away, do they not come back?" },
-      { "n": 5, "text": "Then why do the people of Jerusalem keep turning away from Me? They hold on to lies. They refuse to come back." },
-      { "n": 6, "text": "I listened carefully, but they did not speak what is right. No one is sorry for doing evil. No one asks: What have I done? Everyone runs their own way like a horse rushing into battle." },
-      { "n": 7, "text": "Even the stork in the sky knows when to come back. The dove, the swallow and the crane know when to return. But My people do not know what the LORD requires of them." },
-      { "n": 8, "text": "How can you say: We are wise. We have the law of the LORD. Look, the lying pen of the teachers of the law has turned the law into lies." },
-      { "n": 9, "text": "The wise people will be ashamed. They will be terrified and caught. They have rejected the word of the LORD. So what wisdom do they have?" },
-      { "n": 10, "text": "So I will give their wives to other men. I will give their fields to new owners. Everyone from the least important to the most important is greedy for money. From the prophet to the priest, everyone lies and cheats." },
-      { "n": 11, "text": "They treat the deep wound of My people like a small cut. They say: Peace, peace. But there is no peace." },
-      { "n": 12, "text": "Were they ashamed when they did hateful things? No, they were not ashamed at all. They did not even know how to blush. So they will fall with the others who fall. When I punish them, they will be thrown down, says the LORD." },
-      { "n": 13, "text": "The LORD says: I will completely destroy them. There will be no grapes on the vine and no figs on the fig tree. The leaves will dry up. What I gave them will be taken away." },
-      { "n": 14, "text": "The people say: Why are we sitting here? Let us gather together. Let us go into the strong cities and die there. The LORD our God has decided that we will die. He has given us bitter poisoned water to drink. We sinned against the LORD." },
-      { "n": 15, "text": "We hoped for peace, but nothing good came. We hoped for a time of healing, but only terror came." },
-      { "n": 16, "text": "The snorting of the enemy horses is heard from the town of Dan. The whole land shakes at the sound of their strong horses neighing. The enemy comes and eats up the land and everything in it. They eat up the city and the people who live there." },
-      { "n": 17, "text": "The LORD says: Look, I am sending poisonous snakes among you. No one can charm them. They will bite you." },
-      { "n": 18, "text": "Jeremiah says: I try to comfort myself, but my sorrow is too heavy. My heart is weak inside me." },
-      { "n": 19, "text": "I hear the cry of my people from a faraway land. They ask: Is the LORD not in Zion? Is Zion's King not there? The LORD answers: Why did they make Me angry with their carved idols and their worthless foreign gods?" },
-      { "n": 20, "text": "The people say: The harvest is over. The summer is gone. We are not saved." },
-      { "n": 21, "text": "Jeremiah says: My people are hurt, so I am hurt. I am full of sorrow. Terror has taken hold of me." },
-      { "n": 22, "text": "Is there no healing ointment in Gilead? Is there no doctor there? Then why are my people not healed?" }
-    ],
-    "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. Speakers are not marked in the KJV: verses 1-17 are the LORD (with the people speaking in verses 14-15), verses 18-22 are Jeremiah (the LORD answers in verse 19). Verses 8 (the scribes' pen), 13 (end of verse), 14 ('put us to silence' and 'water of gall'), 18 and 21 ('I am black' means deep mourning) use hard Hebrew wording and need careful review. Verses 10-12 match Jeremiah 6:12-15 and use the same wording.",
-    "sourceUrl": "https://kjvdeaf.com/old-testament/jeremiah/jeremiah-chapter-8/",
     "status": "published",
-    "videos": []
+    "generated": true,
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase and added speaker labels that are not in the KJV), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V20 keeps the KJV's The harvest is past, the summer is ended, and we are not saved. V22 keeps Is there no balm in Gilead?",
+    "sourceUrl": "https://kjvdeaf.com/old-testament/jeremiah/jeremiah-chapter-8/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "At that time, says the LORD, they shall bring out the bones of the kings of Judah, and the bones of his princes (leaders), and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants (people) of Jerusalem, out of their graves." },
+      { "n": 2, "text": "And they shall spread them before the sun, and the moon, and all the host (stars) of heaven, whom they have loved, and whom they have served, and after whom they have walked, and whom they have sought (looked to), and whom they have worshipped. They shall not be gathered, nor be buried. They shall be for dung upon the face of the earth." },
+      { "n": 3, "text": "And death shall be chosen rather than life by all the residue (rest) of those who remain of this evil family, which remain in all the places where I have driven them, says the LORD of hosts (armies)." },
+      { "n": 4, "text": "Moreover (also) you shall say to them: This is what the LORD says: Shall they fall, and not arise (get up)? Shall he turn away, and not return?" },
+      { "n": 5, "text": "Why then is this people of Jerusalem slidden back (turned away) by a perpetual (constant) backsliding (turning away)? They hold fast deceit (lies), they refuse to return." },
+      { "n": 6, "text": "I hearkened (listened) and heard, but they spoke not aright (rightly). No man repented (was sorry) of his wickedness, saying: What have I done? Every one turned to his course (way), as the horse rushes into the battle." },
+      { "n": 7, "text": "Yes, the stork in the heaven knows her appointed times. And the turtle (turtledove) and the crane and the swallow observe (know) the time of their coming. But My people know not the judgment (law) of the LORD." },
+      { "n": 8, "text": "How do you say: We are wise, and the law of the LORD is with us? Lo (look), certainly in vain (for nothing) made he it. The pen of the scribes (writers) is in vain (for nothing)." },
+      { "n": 9, "text": "The wise men are ashamed, they are dismayed (afraid) and taken. Lo (look), they have rejected the word of the LORD. And what wisdom is in them?" },
+      { "n": 10, "text": "Therefore will I give their wives to others, and their fields to those who shall inherit (own) them. For every one from the least even to the greatest is given to covetousness (greed). From the prophet even to the priest every one deals falsely (lies)." },
+      { "n": 11, "text": "For they have healed the hurt of the daughter of My people slightly, saying: Peace, peace. When there is no peace." },
+      { "n": 12, "text": "Were they ashamed when they had committed abomination (hateful things)? No, they were not at all ashamed, neither could they blush. Therefore shall they fall among those who fall. In the time of their visitation (punishment) they shall be cast down (thrown down), says the LORD." },
+      { "n": 13, "text": "I will surely consume (destroy) them, says the LORD. There shall be no grapes on the vine, nor figs on the fig tree, and the leaf shall fade. And the things that I have given them shall pass away from them." },
+      { "n": 14, "text": "Why do we sit still? Assemble yourselves, and let us enter into the defenced (walled) cities, and let us be silent there. For the LORD our God has put us to silence, and given us water of gall (bitter poison) to drink, because we have sinned against the LORD." },
+      { "n": 15, "text": "We looked for peace, but no good came. And for a time of health, and look, trouble!" },
+      { "n": 16, "text": "The snorting of his horses was heard from Dan. The whole land trembled (shook) at the sound of the neighing of his strong ones. For they are come, and have devoured (eaten up) the land, and all that is in it, the city, and those who dwell (live) in it." },
+      { "n": 17, "text": "For, look, I will send serpents (snakes), cockatrices (poisonous snakes), among you, which will not be charmed, and they shall bite you, says the LORD." },
+      { "n": 18, "text": "When I would comfort myself against sorrow, my heart is faint in me." },
+      { "n": 19, "text": "Look, the voice of the cry of the daughter of My people because of them that dwell (live) in a far country: Is not the LORD in Zion? Is not her King in her? Why have they provoked (angered) Me to anger with their graven images (carved idols), and with strange vanities (empty foreign idols)?" },
+      { "n": 20, "text": "The harvest is past, the summer is ended, and we are not saved." },
+      { "n": 21, "text": "For the hurt of the daughter of My people am I hurt. I am black (in deep mourning). Astonishment (shock) has taken hold on me." },
+      { "n": 22, "text": "Is there no balm (healing ointment) in Gilead? Is there no physician (doctor) there? Why then is not the health of the daughter of My people recovered?" }
+    ]
   }
 }
