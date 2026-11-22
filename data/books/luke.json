@@ -839,135 +839,42 @@
   },
   "16": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Jesus said to His disciples: There was a rich man who hired a manager to take care of his business. Later, he learned that his manager was wasting the rich man's money."
-      },
-      {
-        "n": 2,
-        "text": "Then the rich man called his manager and said to him: I have heard bad things about you. Give me a report of what you have done with my money. You can not be my manager anymore."
-      },
-      {
-        "n": 3,
-        "text": "The manager then said to himself: What will I do? My master is taking my job away from me. I am not strong enough to dig ditches. I am too proud to beg."
-      },
-      {
-        "n": 4,
-        "text": "But now I know what I will do. I will do something to make friends. Then when I lose my job, they will welcome me into their homes."
-      },
-      {
-        "n": 5,
-        "text": "Then the manager called all the people who owed the master. He asked the first man: How much oil do you owe my master?"
-      },
-      {
-        "n": 6,
-        "text": "The man answered him: I owe him one hundred jars of oil. The manager said to him: Here is your bill. Hurry! Sit down and write it as fifty jars of oil."
-      },
-      {
-        "n": 7,
-        "text": "Then the manager asked another man: How much do you owe my master? The man answered and said: I owe him one hundred measures of wheat. Then the manager said to him: Here is your bill; write it for eighty measures of wheat."
-      },
-      {
-        "n": 8,
-        "text": "The master told the dishonest manager that he had done a smart thing. The people of this world look out for themselves better than the people who belong to the light."
-      },
-      {
-        "n": 9,
-        "text": "I tell you the truth: make friends for yourselves by using the wealth of this world. Then when it is all gone, they will receive you into the eternal homes."
-      },
-      {
-        "n": 10,
-        "text": "He who is faithful in a very little is faithful also in much; and he who is dishonest in little is dishonest also in much."
-      },
-      {
-        "n": 11,
-        "text": "If you have not been faithful in the wealth of the unrighteous, who will entrust to you the true riches?"
-      },
-      {
-        "n": 12,
-        "text": "If you have not been faithful in that which is another man's, who will give you that which is your own?"
-      },
-      {
-        "n": 13,
-        "text": "No servant can serve two masters. He will hate the one and love the other. Or he will work hard for the one and despise the other. You cannot serve God and money at the same time."
-      },
-      {
-        "n": 14,
-        "text": "When the Pharisees heard the things that Jesus said, they did not want to believe Him. They laughed at Him because they loved money."
-      },
-      {
-        "n": 15,
-        "text": "Then Jesus said to the Pharisees: When people look at you, you want them to think that you are good people. But God knows what you are thinking. There are things that people think are very good and important, but God hate this thinking."
-      },
-      {
-        "n": 16,
-        "text": "The law and the prophets were important until John the Baptist came. Since then, I have been bringing the Good News about God who is King. Now everyone is trying to force their way into where God is King."
-      },
-      {
-        "n": 17,
-        "text": "But it is easier for heaven and earth to pass away than for one stroke of a letter of the Law to fail."
-      },
-      {
-        "n": 18,
-        "text": "Everyone who divorces his wife and marries another commits adultery, and he who marries a woman divorced from her husband commits adultery."
-      },
-      {
-        "n": 19,
-        "text": "Jesus said: There was a rich man who wore expensive clothes of purple. Every day he ate the best food."
-      },
-      {
-        "n": 20,
-        "text": "At the rich man's gate was a poor beggar who lay there. His name was Lazarus. He was full of sores."
-      },
-      {
-        "n": 21,
-        "text": "Lazarus longed to eat the food that fell from the rich man's table. Moreover, even the dogs came and licked his sores"
-      },
-      {
-        "n": 22,
-        "text": "The poor man, Lazarus, died and was carried by the angels to Abraham's side in heaven. The rich man also died and was buried;"
-      },
-      {
-        "n": 23,
-        "text": "When the rich man opened his eyes in hell, he was suffering with a lot of pain. He saw Lazarus far away. Lazarus was with Abraham."
-      },
-      {
-        "n": 24,
-        "text": "The rich man cried out: Father Abraham, please show pity on me! Send Lazarus to dip the tip of his finger in cold water. Let him cool my dry tongue, because this fire hurts so bad!"
-      },
-      {
-        "n": 25,
-        "text": "But Abraham said: Son, you must remember that in your life on earth you had all the good things and Lazarus had the bad things. Lazarus is now happy and comfortable, and you have a lot of pain."
-      },
-      {
-        "n": 26,
-        "text": "There is a very deep hole between you and us. We can not go to you, and you can not come to us."
-      },
-      {
-        "n": 27,
-        "text": "The rich man said: Please send Lazarus to my father's house."
-      },
-      {
-        "n": 28,
-        "text": "The rich man said: I have five brothers. Please send Lazarus to warn them so that they do not also come to this place of pain."
-      },
-      {
-        "n": 29,
-        "text": "Abraham said to the rich man: Your brothers have the books of Moses and the books of the prophets. Your brothers must read them and listen to them."
-      },
-      {
-        "n": 30,
-        "text": "But the rich man answered and said: but if someone goes to them from the dead, they will repent."
-      },
-      {
-        "n": 31,
-        "text": "But Abraham said: If they do not want to do what the books of Moses and the prophets say, they will never listen to anyone. They will not listen even if someone who has died comes back to them."
-      }
+      { "n": 1, "text": "And Jesus said also to His disciples: There was a certain rich man, who had a steward (manager). And the same was accused to him that he had wasted his goods." },
+      { "n": 2, "text": "And the rich man called him, and said to him: How is it that I hear this of you? Give an account of your stewardship (managing). For you may be no longer steward (manager)." },
+      { "n": 3, "text": "Then the steward said within himself: What will I do? For my lord (master) takes away from me the stewardship (job of managing). I cannot dig. To beg I am ashamed." },
+      { "n": 4, "text": "I am resolved (have decided) what to do, that, when I am put out of the stewardship (job), they may receive me into their houses." },
+      { "n": 5, "text": "So he called every one of his lord's (master's) debtors (people who owed money) to him, and said to the first: How much do you owe to my lord?" },
+      { "n": 6, "text": "And he said: 100 measures of oil. And the steward said to him: Take your bill, and sit down quickly, and write 50." },
+      { "n": 7, "text": "Then he said to another: And how much do you owe? And he said: 100 measures of wheat. And the steward said to him: Take your bill, and write 80." },
+      { "n": 8, "text": "And the lord (master) commended (praised) the unjust steward (manager), because he had done wisely. For the children of this world are in their generation (time) wiser than the children of light." },
+      { "n": 9, "text": "And I say to you: Make to yourselves friends of the mammon (money) of unrighteousness (wrong), that, when you fail, they may receive you into everlasting habitations (homes)." },
+      { "n": 10, "text": "The one who is faithful in that which is least is faithful also in much. And the one who is unjust in the least is unjust also in much." },
+      { "n": 11, "text": "If therefore you have not been faithful in the unrighteous (wrong) mammon (money), who will commit (trust) to you the true riches?" },
+      { "n": 12, "text": "And if you have not been faithful in that which is another man's, who will give you that which is your own?" },
+      { "n": 13, "text": "No servant can serve 2 masters. For either he will hate the one, and love the other. Or else he will hold to the one, and despise (look down on) the other. You cannot serve God and mammon (money)." },
+      { "n": 14, "text": "And the Pharisees also, who were covetous (loved money), heard all these things. And they derided (made fun of) Jesus." },
+      { "n": 15, "text": "And Jesus said to them: You are they who justify (say you are right) yourselves before men. But God knows your hearts. For that which is highly esteemed (honored) among men is abomination (hateful) in the sight of God." },
+      { "n": 16, "text": "The law and the prophets were until John. Since that time the kingdom of God is preached, and every man presses (pushes hard) into it." },
+      { "n": 17, "text": "And it is easier for heaven and earth to pass (go away), than one tittle (smallest mark) of the law to fail." },
+      { "n": 18, "text": "Whoever puts away (divorces) his wife, and marries another, commits adultery (being unfaithful in marriage). And whoever marries her who is put away (divorced) from her husband commits adultery." },
+      { "n": 19, "text": "There was a certain rich man, who was clothed in purple and fine linen, and fared sumptuously (lived richly) every day." },
+      { "n": 20, "text": "And there was a certain beggar named Lazarus, who was laid at his gate, full of sores," },
+      { "n": 21, "text": "And desiring (wanting) to be fed with the crumbs which fell from the rich man's table. Moreover the dogs came and licked his sores." },
+      { "n": 22, "text": "And it came to pass (happened), that the beggar died, and was carried by the angels into Abraham's bosom (side). The rich man also died, and was buried." },
+      { "n": 23, "text": "And in hell he lifted up his eyes, being in torments (great pain), and sees Abraham far off, and Lazarus in his bosom (at his side)." },
+      { "n": 24, "text": "And he cried and said: Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue. For I am tormented (in great pain) in this flame." },
+      { "n": 25, "text": "But Abraham said: Son, remember that you in your lifetime received your good things, and likewise Lazarus evil things. But now he is comforted, and you are tormented (in great pain)." },
+      { "n": 26, "text": "And beside all this, between us and you there is a great gulf (deep gap) fixed, so that they who would pass from here to you cannot. Neither can they pass to us, who would come from there." },
+      { "n": 27, "text": "Then he said: I pray you therefore, father, that you would send Lazarus to my father's house," },
+      { "n": 28, "text": "For I have 5 brothers, that he may testify (warn) to them, so that they will not also come into this place of torment (great pain)." },
+      { "n": 29, "text": "Abraham says to him: They have Moses and the prophets. Let them hear them." },
+      { "n": 30, "text": "And he said: No, father Abraham. But if one went to them from the dead, they will repent (change their hearts)." },
+      { "n": 31, "text": "And Abraham said to him: If they do not hear Moses and the prophets, neither will they be persuaded, though one rose from the dead." }
     ],
     "sourceUrl": "https://kjvdeaf.com/luke-chapter-16/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed a merged-verse numbering bug (8/9), a mislabeled verse number (121 -> 12), and several grammar/word-choice issues.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "17": {
