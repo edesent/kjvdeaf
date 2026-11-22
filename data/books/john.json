@@ -888,168 +888,48 @@
   "18": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with every pronoun's referent named explicitly (Deaf-first clarity standard). This is the most character-dense chapter in the Gospel -- Jesus, Peter, Judas, the high priest, and Pilate all appear in close proximity -- so particular care was taken at scene transitions (vv1-13, 22-26, 32-38) where the KJV's bare 'he/him' could refer to more than one person present.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "When Jesus had finished praying, Jesus went out with His disciples across the Kidron Valley. There was a garden there, and Jesus and His disciples went into it."
-      },
-      {
-        "n": 2,
-        "text": "Judas, who was going to betray Jesus, knew the place, because Jesus had often met there with His disciples."
-      },
-      {
-        "n": 3,
-        "text": "So Judas came to the garden, leading a group of soldiers and some officers from the chief priests and the Pharisees. They were carrying lanterns, torches, and weapons."
-      },
-      {
-        "n": 4,
-        "text": "Jesus knew everything that was going to happen to Him. So Jesus stepped forward and asked them: Who are you looking for?"
-      },
-      {
-        "n": 5,
-        "text": "They answered: Jesus of Nazareth. Jesus said: I am He. And Judas, who betrayed Jesus, was standing there with them."
-      },
-      {
-        "n": 6,
-        "text": "When Jesus said: I am He, they drew back and fell to the ground."
-      },
-      {
-        "n": 7,
-        "text": "So Jesus asked them again: Who are you looking for? And they said: Jesus of Nazareth."
-      },
-      {
-        "n": 8,
-        "text": "Jesus answered: I told you that I am He. So if you are looking for me, let these others go."
-      },
-      {
-        "n": 9,
-        "text": "This happened so that the words Jesus had spoken would come true: I have not lost one of those You gave me."
-      },
-      {
-        "n": 10,
-        "text": "Then Simon Peter, who had a sword, drew it and struck the high priest's servant, cutting off the servant's right ear. The servant's name was Malchus."
-      },
-      {
-        "n": 11,
-        "text": "But Jesus said to Peter: Put your sword away! Should I not drink the cup the Father has given me?"
-      },
-      {
-        "n": 12,
-        "text": "Then the soldiers, their captain, and the Jewish officers arrested Jesus. They tied Jesus up."
-      },
-      {
-        "n": 13,
-        "text": "And led Jesus first to Annas, who was the father-in-law of Caiaphas, the high priest that year."
-      },
-      {
-        "n": 14,
-        "text": "Caiaphas was the one who had told the Jewish leaders that it would be better for one man to die for the people."
-      },
-      {
-        "n": 15,
-        "text": "Simon Peter and another disciple were following Jesus. That other disciple was known to the high priest, so that other disciple went with Jesus into the high priest's courtyard."
-      },
-      {
-        "n": 16,
-        "text": "But Peter waited outside at the door. Then the other disciple, who was known to the high priest, came back, spoke to the girl at the door, and brought Peter in."
-      },
-      {
-        "n": 17,
-        "text": "The girl at the door said to Peter: Are you not also one of this man's disciples? Peter said: I am not."
-      },
-      {
-        "n": 18,
-        "text": "It was cold, so the servants and officers had made a charcoal fire. They were standing around it, warming themselves. And Peter stood there with them, warming himself too."
-      },
-      {
-        "n": 19,
-        "text": "Meanwhile the high priest questioned Jesus about His disciples and His teaching."
-      },
-      {
-        "n": 20,
-        "text": "Jesus answered: I have spoken openly to the world. I always taught in the synagogues and at the temple, where all the Jewish people come together. I said nothing in secret."
-      },
-      {
-        "n": 21,
-        "text": "Why are you asking me? Ask the people who heard me. They know what I said."
-      },
-      {
-        "n": 22,
-        "text": "When Jesus said this, one of the officers standing nearby slapped Jesus in the face and said: Is that how you answer the high priest?"
-      },
-      {
-        "n": 23,
-        "text": "Jesus answered: If I said something wrong, then say what was wrong. But if I spoke the truth, why did you hit me?"
-      },
-      {
-        "n": 24,
-        "text": "Then Annas sent Jesus, still tied up, to Caiaphas the high priest."
-      },
-      {
-        "n": 25,
-        "text": "As Simon Peter stood warming himself, they asked him: Are you not also one of Jesus' disciples? Peter denied it and said: I am not."
-      },
-      {
-        "n": 26,
-        "text": "One of the high priest's servants was a relative of the man whose ear Peter had cut off. He said: Did I not see you with Jesus in the garden?"
-      },
-      {
-        "n": 27,
-        "text": "Again Peter denied it, and at that moment a rooster crowed."
-      },
-      {
-        "n": 28,
-        "text": "Then they led Jesus from Caiaphas to the Roman governor's palace. It was early morning. The Jewish leaders did not go inside, because they did not want to make themselves unclean; they wanted to be able to eat the Passover."
-      },
-      {
-        "n": 29,
-        "text": "So Pilate came outside to them and asked: What charge are you bringing against this man?"
-      },
-      {
-        "n": 30,
-        "text": "They answered: If He were not a criminal, we would not have handed Him over to you."
-      },
-      {
-        "n": 31,
-        "text": "Pilate said to them: Take him yourselves and judge him by your own law. But the Jewish leaders said: We are not allowed to put anyone to death."
-      },
-      {
-        "n": 32,
-        "text": "This happened so that the words of Jesus would come true, about the kind of death Jesus was going to die."
-      },
-      {
-        "n": 33,
-        "text": "Then Pilate went back inside the palace, called Jesus, and asked Him: Are you the King of the Jews?"
-      },
-      {
-        "n": 34,
-        "text": "Jesus answered: Is that your own question, or did others tell you about me?"
-      },
-      {
-        "n": 35,
-        "text": "Pilate answered: Am I a Jew? It was your own people and the chief priests who handed you over to me. What have you done?"
-      },
-      {
-        "n": 36,
-        "text": "Jesus said: My kingdom does not belong to this world. If it did, my servants would fight to keep me from being handed over to the Jewish leaders. But my kingdom is not from here."
-      },
-      {
-        "n": 37,
-        "text": "So Pilate said to Him: Then you are a king? Jesus answered: You are right to say that I am a king. I was born for this, and I came into the world for this: to tell people the truth. Everyone who belongs to the truth listens to my voice."
-      },
-      {
-        "n": 38,
-        "text": "Pilate said to Jesus: What is truth? After Pilate said this, Pilate went out again to the Jewish leaders and told them: I find nothing wrong with this man."
-      },
-      {
-        "n": 39,
-        "text": "But it is your custom for me to set one prisoner free for you at the Passover. So do you want me to set free the King of the Jews?"
-      },
-      {
-        "n": 40,
-        "text": "They shouted back: No, not this man! Give us Barabbas! Now Barabbas was a robber."
-      }
+      { "n": 1, "text": "When Jesus had spoken these words, He went forth with His disciples over the brook Cedron (Kidron), where there was a garden, which He entered, and His disciples." },
+      { "n": 2, "text": "And Judas also, who betrayed Him, knew the place. For Jesus often went there with His disciples." },
+      { "n": 3, "text": "Judas then, having received a band of men (soldiers) and officers from the chief priests and Pharisees, comes there with lanterns and torches and weapons." },
+      { "n": 4, "text": "Jesus therefore, knowing all things that would come upon Him, went forth, and said to them: Whom do you seek (look for)?" },
+      { "n": 5, "text": "They answered Him: Jesus of Nazareth. Jesus says to them: I am He. And Judas also, who betrayed Him, stood with them." },
+      { "n": 6, "text": "As soon then as Jesus had said to them, I am He, they went backward, and fell to the ground." },
+      { "n": 7, "text": "Then Jesus asked them again: Whom do you seek (look for)? And they said: Jesus of Nazareth." },
+      { "n": 8, "text": "Jesus answered: I have told you that I am He. If therefore you seek Me, let these go their way." },
+      { "n": 9, "text": "That the saying might be fulfilled, which Jesus spoke: Of them whom You gave Me I have lost none." },
+      { "n": 10, "text": "Then Simon Peter, having a sword, drew it, and smote (struck) the high priest's servant, and cut off his right ear. The servant's name was Malchus." },
+      { "n": 11, "text": "Then Jesus said to Peter: Put up your sword into the sheath. The cup which My Father has given Me, will I not drink it?" },
+      { "n": 12, "text": "Then the band (soldiers) and the captain and officers of the Jews took Jesus, and bound Him," },
+      { "n": 13, "text": "And led Him away to Annas first. For Annas was father in law to Caiaphas, who was the high priest that same year." },
+      { "n": 14, "text": "Now Caiaphas was the one who gave counsel to the Jews, that it was expedient (better) that one man should die for the people." },
+      { "n": 15, "text": "And Simon Peter followed Jesus, and so did another disciple. That disciple was known to the high priest, and went in with Jesus into the palace of the high priest." },
+      { "n": 16, "text": "But Peter stood at the door outside. Then that other disciple, who was known to the high priest, went out, and spoke to her who kept the door, and brought in Peter." },
+      { "n": 17, "text": "Then the damsel (young woman) who kept the door says to Peter: Are you not also one of this man's disciples? Peter says: I am not." },
+      { "n": 18, "text": "And the servants and officers stood there, who had made a fire of coals, for it was cold. And they warmed themselves. And Peter stood with them, and warmed himself." },
+      { "n": 19, "text": "The high priest then asked Jesus of His disciples, and of His doctrine (teaching)." },
+      { "n": 20, "text": "Jesus answered him: I spoke openly to the world. I always taught in the synagogue (meeting house), and in the temple, where the Jews always gather. And in secret I have said nothing." },
+      { "n": 21, "text": "Why do you ask Me? Ask them who heard Me, what I have said to them. Look, they know what I said." },
+      { "n": 22, "text": "And when Jesus had spoken this, one of the officers who stood by struck Jesus with the palm of his hand, saying: Do you answer the high priest like that?" },
+      { "n": 23, "text": "Jesus answered him: If I have spoken evil, bear witness (give proof) of the evil. But if I have spoken well, why do you strike Me?" },
+      { "n": 24, "text": "Now Annas had sent Jesus bound to Caiaphas the high priest." },
+      { "n": 25, "text": "And Simon Peter stood and warmed himself. They said therefore to him: Are you not also one of His disciples? Peter denied it, and said: I am not." },
+      { "n": 26, "text": "One of the servants of the high priest, being a kinsman (relative) of the man whose ear Peter cut off, says: Did I not see you in the garden with Him?" },
+      { "n": 27, "text": "Peter then denied again. And immediately the cock (rooster) crowed." },
+      { "n": 28, "text": "Then they led Jesus from Caiaphas to the hall of judgment. And it was early. And they themselves did not go into the judgment hall, so that they would not be defiled (made unclean), but that they might eat the passover." },
+      { "n": 29, "text": "Pilate then went out to them, and said: What accusation do you bring against this man?" },
+      { "n": 30, "text": "They answered and said to him: If He were not a malefactor (evildoer), we would not have delivered Him up to you." },
+      { "n": 31, "text": "Then Pilate said to them: You take Him, and judge Him according to your law. The Jews therefore said to him: It is not lawful for us to put any man to death." },
+      { "n": 32, "text": "That the saying of Jesus might be fulfilled, which He spoke, signifying (showing) what death He would die." },
+      { "n": 33, "text": "Then Pilate entered into the judgment hall again, and called Jesus, and said to Him: Are You the King of the Jews?" },
+      { "n": 34, "text": "Jesus answered him: Do you say this thing of yourself, or did others tell it to you of Me?" },
+      { "n": 35, "text": "Pilate answered: Am I a Jew? Your own nation and the chief priests have delivered You to me. What have You done?" },
+      { "n": 36, "text": "Jesus answered: My kingdom is not of this world. If My kingdom were of this world, then would My servants fight, that I should not be delivered to the Jews. But now My kingdom is not from here." },
+      { "n": 37, "text": "Pilate therefore said to Him: Are You a king then? Jesus answered: You say that I am a king. To this end was I born, and for this cause I came into the world, that I should bear witness to the truth. Every one who is of the truth hears My voice." },
+      { "n": 38, "text": "Pilate says to Him: What is truth? And when Pilate had said this, he went out again to the Jews, and says to them: I find in Him no fault at all." },
+      { "n": 39, "text": "But you have a custom, that I should release to you one at the passover. Do you want me therefore to release to you the King of the Jews?" },
+      { "n": 40, "text": "Then they all cried again, saying: Not this man, but Barabbas. Now Barabbas was a robber." }
     ]
   },
   "19": {
