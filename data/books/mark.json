@@ -738,98 +738,29 @@
       { "n": 22, "text": "They brought Jesus to the place Golgotha, which means: The place of a skull." },
       { "n": 23, "text": "They gave Jesus wine mingled (mixed) with myrrh (a bitter spice) to drink. But He received (took) it not." },
       { "n": 24, "text": "When they had crucified (nailed to a cross) Jesus, they parted (divided) His clothes, casting lots (a kind of dice) on them, to see what every man should take." },
-      {
-        "n": 25,
-        "text": "It was nine o'clock in the morning when they nailed Him to the cross."
-      },
-      {
-        "n": 26,
-        "text": "A written notice of the charge against Him said: THE KING OF THE JEWS."
-      },
-      {
-        "n": 27,
-        "text": "They also nailed two robbers to crosses with Him, one on His right and one on His left."
-      },
-      {
-        "n": 28,
-        "text": "And the Scripture came true that says: He was counted as one of the criminals."
-      },
-      {
-        "n": 29,
-        "text": "People passing by insulted Him, shaking their heads. They said: So! You were going to destroy the temple and build it again in three days?"
-      },
-      {
-        "n": 30,
-        "text": "Come down from the cross and save yourself!"
-      },
-      {
-        "n": 31,
-        "text": "The chief priests and the teachers of the law also mocked Him among themselves. They said: He saved others, but He cannot save Himself."
-      },
-      {
-        "n": 32,
-        "text": "Let the Christ, the King of Israel, come down now from the cross, so we can see it and believe. Even the men who were nailed up with Him insulted Him."
-      },
-      {
-        "n": 33,
-        "text": "At noon, darkness came over the whole land until three o'clock in the afternoon."
-      },
-      {
-        "n": 34,
-        "text": "At three o'clock Jesus cried out in a loud voice: Eloi, Eloi, lema sabachthani? This means: My God, my God, why have You left me?"
-      },
-      {
-        "n": 35,
-        "text": "When some of the people standing nearby heard this, they said: Listen, He is calling Elijah."
-      },
-      {
-        "n": 36,
-        "text": "One man ran and filled a sponge with sour wine. He put it on a stick and offered it to Jesus to drink. He said: Leave Him alone. Let us see if Elijah comes to take Him down."
-      },
-      {
-        "n": 37,
-        "text": "With a loud cry, Jesus took His last breath."
-      },
-      {
-        "n": 38,
-        "text": "And the curtain in the temple was torn in two from top to bottom."
-      },
-      {
-        "n": 39,
-        "text": "The officer standing in front of the cross saw how Jesus died. The officer said: This man really was the Son of God!"
-      },
-      {
-        "n": 40,
-        "text": "Some women were watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome."
-      },
-      {
-        "n": 41,
-        "text": "These women had followed Jesus and cared for Him while He was in Galilee. Many other women who had come up with Him to Jerusalem were also there."
-      },
-      {
-        "n": 42,
-        "text": "It was now evening. The next day was the Sabbath, so this day was the day to get ready for it."
-      },
-      {
-        "n": 43,
-        "text": "Joseph from Arimathea, a respected member of the council who was also waiting for God's kingdom, bravely went to Pilate and asked for the body of Jesus."
-      },
-      {
-        "n": 44,
-        "text": "Pilate was surprised to hear that Jesus was already dead. Pilate called the officer and asked if Jesus had already died."
-      },
-      {
-        "n": 45,
-        "text": "When the officer told him it was so, Pilate gave the body to Joseph."
-      },
-      {
-        "n": 46,
-        "text": "Joseph bought some linen cloth. He took the body down, wrapped it in the linen, and laid it in a tomb cut out of rock. Then he rolled a stone against the entrance of the tomb."
-      },
-      {
-        "n": 47,
-        "text": "Mary Magdalene and Mary the mother of Joses saw where the body was laid."
-      }
+      { "n": 25, "text": "It was the third hour (nine in the morning), and they crucified (nailed to a cross) Him." },
+      { "n": 26, "text": "The superscription (written sign) of His accusation (charge) was written over Him: THE KING OF THE JEWS." },
+      { "n": 27, "text": "With Jesus they crucified (nailed to crosses) two thieves. One was on His right hand, and the other on His left." },
+      { "n": 28, "text": "The scripture was fulfilled (came true) which says: And He was numbered (counted) with the transgressors (lawbreakers)." },
+      { "n": 29, "text": "Those who passed by railed on (insulted) Jesus, wagging (shaking) their heads. They said: Ah, You who destroy the temple, and build it in three days," },
+      { "n": 30, "text": "Save Yourself, and come down from the cross." },
+      { "n": 31, "text": "In the same way the chief priests also, mocking (making fun of Him), said among themselves with the scribes (teachers of the law): He saved others. Himself He cannot save." },
+      { "n": 32, "text": "Let Christ the King of Israel come down now from the cross, so that we may see and believe. And those who were crucified (nailed to crosses) with Him reviled (insulted) Him." },
+      { "n": 33, "text": "When the sixth hour (noon) had come, there was darkness over the whole land until the ninth hour (three in the afternoon)." },
+      { "n": 34, "text": "At the ninth hour (three in the afternoon) Jesus cried with a loud voice: Eloi, Eloi, lama sabachthani? This means: My God, My God, why have You forsaken (left) Me?" },
+      { "n": 35, "text": "Some of those who stood by, when they heard it, said: Look, He calls Elias (Elijah)." },
+      { "n": 36, "text": "One ran and filled a spunge (sponge) full of vinegar (sour wine). He put it on a reed (stick), and gave Jesus to drink. He said: Let alone (wait). Let us see whether Elias (Elijah) will come to take Him down." },
+      { "n": 37, "text": "Jesus cried with a loud voice, and gave up the ghost (died)." },
+      { "n": 38, "text": "The veil (curtain) of the temple was rent (torn) in two, from the top to the bottom." },
+      { "n": 39, "text": "When the centurion (Roman officer over 100 soldiers), who stood across from Jesus, saw that He so cried out, and gave up the ghost (died), the centurion said: Truly this man was the Son of God." },
+      { "n": 40, "text": "There were also women looking on afar off (from a distance). Among them was Mary Magdalene, and Mary the mother of James the less (the younger) and of Joses, and Salome." },
+      { "n": 41, "text": "When Jesus was in Galilee, these women also followed Him, and ministered (served) to Him. And many other women came up with Him to Jerusalem." },
+      { "n": 42, "text": "Now when the evening had come, because it was the preparation (day to get ready), that is, the day before the sabbath (day of rest)," },
+      { "n": 43, "text": "Joseph of Arimathaea, an honourable counsellor (respected council member), came. Joseph also waited for the kingdom of God. He went in boldly to Pilate, and craved (asked for) the body of Jesus." },
+      { "n": 44, "text": "Pilate marvelled (was amazed) that Jesus was already dead. Pilate called the centurion (Roman officer), and asked him whether Jesus had been dead any while (very long)." },
+      { "n": 45, "text": "When Pilate knew it from the centurion (Roman officer), he gave the body to Joseph." },
+      { "n": 46, "text": "Joseph bought fine linen, and took Jesus down, and wrapped Him in the linen. He laid Jesus in a sepulchre (tomb) which was hewn (cut) out of a rock, and rolled a stone to the door of the sepulchre (tomb)." },
+      { "n": 47, "text": "Mary Magdalene and Mary the mother of Joses saw where Jesus was laid." }
     ]
   },
   "16": {
