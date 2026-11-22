@@ -397,91 +397,31 @@
   },
   "12": {
     "verses": [
-      {
-        "n": 1,
-        "text": "The LORD said to Abram: You must leave your land. Go away from it and from your family and the house of your father. I will show you where you must go."
-      },
-      {
-        "n": 2,
-        "text": "I will build a great nation from you. I will bless you and make your name famous. People will use your name to bless other people."
-      },
-      {
-        "n": 3,
-        "text": "I will bless those who bless you. I will curse those who curse you. I will use you to bless all the people on earth."
-      },
-      {
-        "n": 4,
-        "text": "So Abram left Haran just like the LORD said, and Lot went with him. Abram was 75 years old when he left Haran."
-      },
-      {
-        "n": 5,
-        "text": "Abram took his wife Sarai and his nephew Lot. He took all the possessions and servants they had gathered in Haran. Then they set out for the land of Canaan."
-      },
-      {
-        "n": 6,
-        "text": "Abram walked from one side of the land to the other side. At that time the Canaanite people lived in the land. Abram went to the town of Shechem, to the big tree of Moreh."
-      },
-      {
-        "n": 7,
-        "text": "The LORD appeared to Abram. The LORD said: I will give this land to your children and your family. Then Abram built an altar to the LORD there."
-      },
-      {
-        "n": 8,
-        "text": "Then Abram left Shechem and traveled to the mountains east of Bethel. Abram set up his tent there. Bethel was to the west, and Ai was to the east. Abram built an altar there to worship the LORD."
-      },
-      {
-        "n": 9,
-        "text": "Later, Abram took his tents and traveled south, toward the Negev."
-      },
-      {
-        "n": 10,
-        "text": "Then there was very little food in the land. So Abram went down to Egypt to stay there for a while."
-      },
-      {
-        "n": 11,
-        "text": "When they came near Egypt, Abram said to his wife Sarai: I know you are a beautiful woman."
-      },
-      {
-        "n": 12,
-        "text": "When the Egyptians see you, Sarai, they will say: This is his wife. Then they will kill me, but they will let you live."
-      },
-      {
-        "n": 13,
-        "text": "Please say that you are my sister. Then things will go well for me because of you. Because of you, my life will be saved."
-      },
-      {
-        "n": 14,
-        "text": "When Abram and Sarai came into the land of Egypt, the people of Egypt saw how beautiful Sarai was."
-      },
-      {
-        "n": 15,
-        "text": "Pharaoh's officials saw Sarai. They told Pharaoh how beautiful she was. Sarai was taken into Pharaoh's palace."
-      },
-      {
-        "n": 16,
-        "text": "Pharaoh was good to Abram because Pharaoh thought that Sarai was Abram's sister. Pharaoh gave Abram sheep, oxen, donkeys, slaves and camels."
-      },
-      {
-        "n": 17,
-        "text": "But the LORD struck Pharaoh and Pharaoh's household with severe sicknesses because of Sarai, Abram's wife."
-      },
-      {
-        "n": 18,
-        "text": "Then Pharaoh called Abram. Pharaoh asked: What have you done to me? Why did you not tell me that Sarai is your wife?"
-      },
-      {
-        "n": 19,
-        "text": "Why did you say: She is my sister? I took her to be my wife. Now here is your wife. Take her and go."
-      },
-      {
-        "n": 20,
-        "text": "Pharaoh gave orders to his men about Abram. They sent Abram away with his wife and everything he had."
-      }
+      { "n": 1, "text": "Now the LORD had said to Abram: Get out of your country, and from your kindred (relatives), and from your father's house, to a land that I will show you." },
+      { "n": 2, "text": "And I will make of you a great nation. And I will bless you, and make your name great. And you shall be a blessing." },
+      { "n": 3, "text": "And I will bless those who bless you, and curse the one who curses you. And in you shall all families of the earth be blessed." },
+      { "n": 4, "text": "So Abram departed, as the LORD had spoken to him, and Lot went with him. And Abram was 75 years old when he departed out of Haran." },
+      { "n": 5, "text": "And Abram took Sarai his wife, and Lot his brother's son, and all their substance (goods) that they had gathered, and the souls (people) that they had gotten in Haran. And they went out to go into the land of Canaan. And into the land of Canaan they came." },
+      { "n": 6, "text": "And Abram passed through the land to the place of Sichem (Shechem), to the plain of Moreh. And the Canaanite was then in the land." },
+      { "n": 7, "text": "And the LORD appeared to Abram, and said: To your seed (children) I will give this land. And there Abram built an altar to the LORD, who appeared to him." },
+      { "n": 8, "text": "And Abram removed (moved) from there to a mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Hai (Ai) on the east. And there Abram built an altar to the LORD, and called on the name of the LORD." },
+      { "n": 9, "text": "And Abram journeyed, going on still toward the south." },
+      { "n": 10, "text": "And there was a famine (time of no food) in the land. And Abram went down into Egypt to sojourn (live for a while) there, for the famine was grievous (very bad) in the land." },
+      { "n": 11, "text": "And it came to pass, when Abram had come near to enter into Egypt, that Abram said to Sarai his wife: Look now, I know that you are a fair (beautiful) woman to look on." },
+      { "n": 12, "text": "So it shall come to pass, when the Egyptians shall see you, that they shall say: This is his wife. And they will kill me, but they will save you alive." },
+      { "n": 13, "text": "Say, I pray you, that you are my sister, so that it may be well with me for your sake. And my soul (life) shall live because of you." },
+      { "n": 14, "text": "And it came to pass that, when Abram had come into Egypt, the Egyptians beheld (saw) the woman, that she was very fair (beautiful)." },
+      { "n": 15, "text": "The princes of Pharaoh also saw Sarai, and commended (praised) her before Pharaoh. And the woman was taken into Pharaoh's house." },
+      { "n": 16, "text": "And Pharaoh entreated (treated) Abram well for Sarai's sake. And Abram had sheep, and oxen, and he asses (male donkeys), and menservants, and maidservants, and she asses (female donkeys), and camels." },
+      { "n": 17, "text": "And the LORD plagued (struck) Pharaoh and his house with great plagues (sicknesses) because of Sarai, Abram's wife." },
+      { "n": 18, "text": "And Pharaoh called Abram and said: What is this that you have done to me? Why did you not tell me that she was your wife?" },
+      { "n": 19, "text": "Why did you say: She is my sister? So I might have taken her to me as a wife. Now then, look, here is your wife. Take her, and go your way." },
+      { "n": 20, "text": "And Pharaoh commanded his men about Abram. And they sent Abram away, and his wife, and all that he had." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genesis-chapter-12/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Sichem and Hai keep the KJV spelling with the familiar names (Shechem, Ai) in parentheses.",
     "videos": []
   },
   "13": {
