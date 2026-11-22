@@ -336,160 +336,46 @@
   "8": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. V8 restores 'large provision hampers' (spyrides), and v19-20 restore the deliberate basket-word contrast Jesus himself draws between the two feedings ('small hand-baskets' for the 5,000, 'large provision hampers' for the 4,000), matching Matthew 16:9-10. Generic 'he/his/himself' rendered gender-neutral in v34-38.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text in places, e.g. dropping \"nor tell it to any in the town\" in 8:26, and it added words not in the KJV in 8:38 such as 'that coward'), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, with generic 'he/his/him' rendered gender-neutral in v34-38. V8, 19-20 keep the KJV word 'baskets' with the small hand-baskets (5,000) / large hampers (4,000) distinction, matching Matthew 16:9-10.",
     "verses": [
-      {
-        "n": 1,
-        "text": "During those days another large crowd gathered. The people had nothing to eat. So Jesus called His disciples to Him and said:"
-      },
-      {
-        "n": 2,
-        "text": "I feel sorry for these people. They have been with me three days now and have nothing to eat."
-      },
-      {
-        "n": 3,
-        "text": "If I send them home hungry, they will faint on the way, because some of them have come a long way."
-      },
-      {
-        "n": 4,
-        "text": "His disciples answered: Where could anyone get enough bread to feed them here in this lonely place?"
-      },
-      {
-        "n": 5,
-        "text": "Jesus asked: How many loaves do you have? They answered: Seven."
-      },
-      {
-        "n": 6,
-        "text": "Jesus told the people to sit down on the ground. Then He took the seven loaves and gave thanks to God. He broke the loaves and gave them to His disciples to give to the people, and they did."
-      },
-      {
-        "n": 7,
-        "text": "They also had a few small fish. Jesus gave thanks for them too and told the disciples to give them to the people."
-      },
-      {
-        "n": 8,
-        "text": "The people ate and were full. Afterward the disciples picked up seven large provision hampers of leftover pieces."
-      },
-      {
-        "n": 9,
-        "text": "About four thousand people were there. After Jesus sent them away,"
-      },
-      {
-        "n": 10,
-        "text": "He got into the boat with His disciples and went to the area of Dalmanutha."
-      },
-      {
-        "n": 11,
-        "text": "The Pharisees came and began to argue with Jesus. To test Him, they asked Him to show them a sign from heaven."
-      },
-      {
-        "n": 12,
-        "text": "Jesus took a deep breath and said: Why do these people ask for a sign? I tell you the truth, no sign will be given to them."
-      },
-      {
-        "n": 13,
-        "text": "Then He left them, got back into the boat, and went to the other side of the lake."
-      },
-      {
-        "n": 14,
-        "text": "The disciples had forgotten to bring bread. They had only one loaf with them in the boat."
-      },
-      {
-        "n": 15,
-        "text": "Jesus warned them: Be careful. Watch out for the yeast of the Pharisees and the yeast of Herod."
-      },
-      {
-        "n": 16,
-        "text": "The disciples talked about this with each other and said: He says this because we have no bread."
-      },
-      {
-        "n": 17,
-        "text": "Jesus knew what they were saying, so He asked them: Why are you talking about having no bread? Do you still not see or understand? Are your hearts hard?"
-      },
-      {
-        "n": 18,
-        "text": "You have eyes. Can you not see? You have ears. Can you not hear? Do you not remember?"
-      },
-      {
-        "n": 19,
-        "text": "When I broke the five loaves for the five thousand, how many small hand-baskets of leftover pieces did you pick up? They answered: Twelve."
-      },
-      {
-        "n": 20,
-        "text": "And when I broke the seven loaves for the four thousand, how many large provision hampers of leftover pieces did you pick up? They answered: Seven."
-      },
-      {
-        "n": 21,
-        "text": "Then He said to them: Do you still not understand?"
-      },
-      {
-        "n": 22,
-        "text": "They came to Bethsaida. Some people brought a blind man to Jesus and begged Him to touch the man."
-      },
-      {
-        "n": 23,
-        "text": "Jesus took the blind man by the hand and led him outside the village. Then He spit on the man's eyes and put His hands on him. Jesus asked: Can you see anything?"
-      },
-      {
-        "n": 24,
-        "text": "The man looked up and said: I see people, but they look like trees walking around."
-      },
-      {
-        "n": 25,
-        "text": "Once more Jesus put His hands on the man's eyes. Then the man's eyes were opened. His sight came back, and he could see everything clearly."
-      },
-      {
-        "n": 26,
-        "text": "Jesus sent him home and said: Do not even go into the village."
-      },
-      {
-        "n": 27,
-        "text": "Jesus and His disciples went to the villages near Caesarea Philippi. On the way He asked them: Who do people say I am?"
-      },
-      {
-        "n": 28,
-        "text": "They answered: Some say John the Baptist. Others say Elijah. And still others say you are one of the prophets."
-      },
-      {
-        "n": 29,
-        "text": "But what about you? Jesus asked. Who do you say I am? Peter answered: You are the Christ."
-      },
-      {
-        "n": 30,
-        "text": "Jesus warned them not to tell anyone about Him."
-      },
-      {
-        "n": 31,
-        "text": "Then Jesus began to teach them that the Son of Man must suffer many things. He would be rejected by the elders, the chief priests, and the teachers of the law. He would be killed, and after three days he would rise again."
-      },
-      {
-        "n": 32,
-        "text": "Jesus spoke about this plainly. Then Peter took Him aside and began to argue with Him."
-      },
-      {
-        "n": 33,
-        "text": "But Jesus turned around, looked at His disciples, and corrected Peter. He said: Get behind me, Satan! You are not thinking about the things of God, but about the things of people."
-      },
-      {
-        "n": 34,
-        "text": "Then Jesus called the crowd to Him, along with His disciples. He said: If anyone wants to follow me, they must say no to themselves. They must take up their cross and follow me."
-      },
-      {
-        "n": 35,
-        "text": "For whoever wants to save their life will lose it. But whoever loses their life for me and for the good news will save it."
-      },
-      {
-        "n": 36,
-        "text": "What good is it for someone to gain the whole world but lose their soul?"
-      },
-      {
-        "n": 37,
-        "text": "Or what can a person give to buy back their soul?"
-      },
-      {
-        "n": 38,
-        "text": "Suppose someone feels ashamed of me and my words among wicked people. The Son of Man will feel ashamed of that coward as well! That happens when He returns in His Father's glorious heavenly power."
-      }
+      { "n": 1, "text": "In those days the multitude (crowd) was very great, and had nothing to eat. Jesus called His disciples to Him, and said to them:" },
+      { "n": 2, "text": "I have compassion (deep pity) on the multitude (crowd), because they have now been with Me three days, and have nothing to eat." },
+      { "n": 3, "text": "If I send them away fasting (without food) to their own houses, they will faint (pass out) on the way. For divers (some) of them came from far." },
+      { "n": 4, "text": "His disciples answered Him: Where could anyone get enough bread here in the wilderness (desert) to satisfy (fill) these men?" },
+      { "n": 5, "text": "Jesus asked them: How many loaves (of bread) do you have? They said: Seven." },
+      { "n": 6, "text": "Jesus commanded the people to sit down on the ground. He took the seven loaves, and gave thanks, and broke them. He gave them to His disciples to set before the people. And they set them before the people." },
+      { "n": 7, "text": "They had a few small fishes. Jesus blessed them, and commanded to set them also before the people." },
+      { "n": 8, "text": "So they ate, and were filled. They took up seven baskets (large hampers) of the broken meat (leftover food) that was left." },
+      { "n": 9, "text": "Those who had eaten were about four thousand. And Jesus sent them away." },
+      { "n": 10, "text": "Right away Jesus entered into a ship (boat) with His disciples, and came into the parts of Dalmanutha." },
+      { "n": 11, "text": "The Pharisees came out, and began to question with Him. They sought (asked) from Him a sign from heaven, tempting (testing) Him." },
+      { "n": 12, "text": "Jesus sighed deeply in His spirit, and said: Why does this generation (people living now) seek after a sign? Truly I say to you: No sign will be given to this generation." },
+      { "n": 13, "text": "Jesus left them, and entering into the ship (boat) again, went to the other side." },
+      { "n": 14, "text": "Now the disciples had forgotten to take bread. They did not have more than one loaf with them in the ship (boat)." },
+      { "n": 15, "text": "Jesus charged (strongly told) them: Take heed (be careful). Beware of the leaven (yeast) of the Pharisees, and of the leaven (yeast) of Herod." },
+      { "n": 16, "text": "They reasoned (talked it over) among themselves. They said: It is because we have no bread." },
+      { "n": 17, "text": "When Jesus knew it, He said to them: Why do you reason (talk it over), because you have no bread? Do you not yet perceive (see), or understand? Is your heart still hardened?" },
+      { "n": 18, "text": "Having eyes, do you not see? And having ears, do you not hear? And do you not remember?" },
+      { "n": 19, "text": "When I broke the five loaves among five thousand, how many baskets (small hand-baskets) full of fragments (pieces) did you take up? They said to Him: Twelve." },
+      { "n": 20, "text": "And when I broke the seven among four thousand, how many baskets (large hampers) full of fragments (pieces) did you take up? They said: Seven." },
+      { "n": 21, "text": "Jesus said to them: How is it that you do not understand?" },
+      { "n": 22, "text": "Jesus came to Bethsaida. They brought a blind man to Him, and besought (begged) Him to touch him." },
+      { "n": 23, "text": "Jesus took the blind man by the hand, and led him out of the town. When He had spit on the man's eyes, and put His hands on him, Jesus asked him if he saw anything." },
+      { "n": 24, "text": "The man looked up, and said: I see men like trees, walking." },
+      { "n": 25, "text": "After that Jesus put His hands again on the man's eyes, and made him look up. He was restored (healed), and saw every man clearly." },
+      { "n": 26, "text": "Jesus sent him away to his house. Jesus said: Do not go into the town, and do not tell it to anyone in the town." },
+      { "n": 27, "text": "Jesus went out with His disciples into the towns of Caesarea Philippi. On the way He asked His disciples: Who do men say that I am?" },
+      { "n": 28, "text": "They answered: John the Baptist. But some say Elias (Elijah). And others say one of the prophets." },
+      { "n": 29, "text": "Jesus said to them: But who do you say that I am? Peter answered Him: You are the Christ." },
+      { "n": 30, "text": "Jesus charged (strongly told) them to tell no one about Him." },
+      { "n": 31, "text": "Jesus began to teach them that the Son of Man must suffer many things. He must be rejected by the elders, and by the chief priests, and scribes (teachers of the law), and be killed, and after three days rise again." },
+      { "n": 32, "text": "Jesus spoke that saying openly. And Peter took Him aside, and began to rebuke (scold) Him." },
+      { "n": 33, "text": "But when Jesus had turned around and looked at His disciples, He rebuked (scolded) Peter. Jesus said: Get behind Me, Satan. For you savour (care about) not the things of God, but the things of men." },
+      { "n": 34, "text": "When Jesus had called the people to Him with His disciples also, He said to them: Whoever will come after Me, let them deny themselves (say no to self), and take up their cross, and follow Me." },
+      { "n": 35, "text": "For whoever will save their life will lose it. But whoever loses their life for My sake and the gospel's (good news'), that person will save it." },
+      { "n": 36, "text": "For what will it profit (help) a person, if they gain the whole world, and lose their own soul?" },
+      { "n": 37, "text": "Or what will a person give in exchange for their soul?" },
+      { "n": 38, "text": "So whoever is ashamed of Me and of My words in this adulterous (unfaithful to God) and sinful generation (people living now), of that person the Son of Man will also be ashamed, when He comes in the glory of His Father with the holy angels." }
     ]
   },
   "9": {
