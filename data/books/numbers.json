@@ -1,750 +1,231 @@
 {
   "13": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "And the Lord told Moses,"
-      },
-      {
-        "n": 2,
-        "text": "You must send people to go and look at the land of Canaan, the land that I gave to the Israelites. Send one person from each tribe, one of the leaders of the tribe."
-      },
-      {
-        "n": 3,
-        "text": "Moses obeyed the command of the Lord and then sent people from the Paran Desert. They were all leaders of Israel"
-      },
-      {
-        "n": 4,
-        "text": "These are their names: from the tribe of Reuben, Shammua son of Zaccur;"
-      },
-      {
-        "n": 5,
-        "text": "From the tribe of Simeon, Shaphat son of Hori;"
-      },
-      {
-        "n": 6,
-        "text": "From the tribe of Judah, Caleb son of Jephunneh;"
-      },
-      {
-        "n": 7,
-        "text": "From the tribe of Issachar, Igal son of Joseph;"
-      },
-      {
-        "n": 8,
-        "text": "From the tribe of Ephraim, Oshea son of Nun;"
-      },
-      {
-        "n": 9,
-        "text": "From the tribe of Benjamin, Palti son of Raphu;"
-      },
-      {
-        "n": 10,
-        "text": "From the tribe of Zebulun, Gaddiel son of Sodi;"
-      },
-      {
-        "n": 11,
-        "text": "From the tribe of Manasseh (a tribe from Joseph), Gaddi son of Susi;"
-      },
-      {
-        "n": 12,
-        "text": "From the tribe of Dan, Ammiel son of Gemalli;"
-      },
-      {
-        "n": 13,
-        "text": "From the tribe of Asher, Sethur son of Michael;"
-      },
-      {
-        "n": 14,
-        "text": "From the tribe of Naphtali, Nahbi son of Vophsi;"
-      },
-      {
-        "n": 15,
-        "text": "From the tribe of Gad, Geuel son of Maki."
-      },
-      {
-        "n": 16,
-        "text": "These are the names of the men Moses sent to look at and study the land. (Moses called Hoshea son of Nun by another name. Moses called him Joshua.)"
-      },
-      {
-        "n": 17,
-        "text": "When Moses was sending them out to explore Canaan, he said, Go to the south into the hill country."
-      },
-      {
-        "n": 18,
-        "text": "See what the land looks like. Learn about the people who live there. Are they strong or are they weak? Are they few or are they many?"
-      },
-      {
-        "n": 19,
-        "text": "Learn about the land that they live in. Is it good land or bad land? What kind of towns do they live in? Or do they live in camps. Do the towns have walls protecting them?"
-      },
-      {
-        "n": 20,
-        "text": "And learn other things about the land. Is the soil good for growing things, or is it poor soil? Are there trees on the land? Try to bring back some of the fruit from that land. (This was during the time when the first grapes should be ripe.)"
-      },
-      {
-        "n": 21,
-        "text": "So they went to explore the country. They explored the area from the desert of Zin to Rehob and Lebo Hamath."
-      },
-      {
-        "n": 22,
-        "text": "They entered the country through the south and went to Hebron. (The town of Hebron was built seven years before the town of Zoan in Egypt.) Ahiman, Sheshai, and Talmai lived there. These men were descendants of Anak."
-      },
-      {
-        "n": 23,
-        "text": "Then the men went to Eshcol Valley. There they cut off a branch from a grapevine that had a bunch of grapes on it. They put that branch on a pole, and two men carried it between them. They also carried some pomegranates and figs"
-      },
-      {
-        "n": 24,
-        "text": "That place is called the Eshcol Valley, because there the men of Israel cut off the bunch of grapes"
-      },
-      {
-        "n": 25,
-        "text": "The men explored that country for 40 days, and then they went back to the camp"
-      },
-      {
-        "n": 26,
-        "text": "They came to Moses and Aaron and all the Israelites who came together at the town of Kadesh in the Paran Desert. The men told them what they had seen and showed them what the fruit of the land looked like."
-      },
-      {
-        "n": 27,
-        "text": "They said to Moses: We went to the land that you sent us to. This is a land with a lot of food, milk, and honey. Here is some of the fruit of the land."
-      },
-      {
-        "n": 28,
-        "text": "But there is a problem: The people who live in the land are strong. Their cities are very large and strongly defended. We even saw some Anakites there."
-      },
-      {
-        "n": 29,
-        "text": "The Amalekites live in the south. The Hittites, Jebusites, and Amorites live in the hill country. The Canaanites live near the sea and by the Jordan River."
-      },
-      {
-        "n": 30,
-        "text": "Caleb told the people near Moses to be quiet. Then Caleb said, we should go up and take that land for ourselves. We can easily take that land."
-      },
-      {
-        "n": 31,
-        "text": "But the men who had gone with Caleb said, we cannot fight against these people! They are much stronger than we are."
-      },
-      {
-        "n": 32,
-        "text": "Then the other men said bad things to the Israelites about the land that they had seen. They said: we went through the land to look at everything. All the people that we saw there are very big. They will kill anyone who tries to attack them."
-      },
-      {
-        "n": 33,
-        "text": "We saw giants (The descendants of Anak.) We felt like little grasshoppers. Yes, we were like grasshoppers to them!"
-      }
-    ],
-    "sourceUrl": "https://kjvdeaf.com/numbers-chapter-13/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. A merged-verse numbering bug (30/31) has been split apart.",
-    "videos": []
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V32-33 keep the KJV's evil report and giants.",
+    "sourceUrl": "https://kjvdeaf.com/numbers-chapter-13/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "And the LORD spoke to Moses, saying:" },
+      { "n": 2, "text": "Send men, so that they may search (explore) the land of Canaan, which I give to the children of Israel. Of every tribe of their fathers you shall send a man, every one a ruler (leader) among them." },
+      { "n": 3, "text": "And Moses, by the commandment of the LORD, sent them from the wilderness (desert) of Paran. All those men were heads (leaders) of the children of Israel." },
+      { "n": 4, "text": "And these were their names: Of the tribe of Reuben, Shammua the son of Zaccur." },
+      { "n": 5, "text": "Of the tribe of Simeon, Shaphat the son of Hori." },
+      { "n": 6, "text": "Of the tribe of Judah, Caleb the son of Jephunneh." },
+      { "n": 7, "text": "Of the tribe of Issachar, Igal the son of Joseph." },
+      { "n": 8, "text": "Of the tribe of Ephraim, Oshea the son of Nun." },
+      { "n": 9, "text": "Of the tribe of Benjamin, Palti the son of Raphu." },
+      { "n": 10, "text": "Of the tribe of Zebulun, Gaddiel the son of Sodi." },
+      { "n": 11, "text": "Of the tribe of Joseph, that is, of the tribe of Manasseh, Gaddi the son of Susi." },
+      { "n": 12, "text": "Of the tribe of Dan, Ammiel the son of Gemalli." },
+      { "n": 13, "text": "Of the tribe of Asher, Sethur the son of Michael." },
+      { "n": 14, "text": "Of the tribe of Naphtali, Nahbi the son of Vophsi." },
+      { "n": 15, "text": "Of the tribe of Gad, Geuel the son of Machi." },
+      { "n": 16, "text": "These are the names of the men whom Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua (Joshua)." },
+      { "n": 17, "text": "And Moses sent them to spy out the land of Canaan, and said to them: Go up this way southward, and go up into the mountain." },
+      { "n": 18, "text": "And see the land, what it is, and the people that dwell (live) in it, whether they are strong or weak, few or many." },
+      { "n": 19, "text": "And see what the land is that they dwell (live) in, whether it is good or bad. And see what cities they dwell (live) in, whether in tents, or in strong holds (forts)." },
+      { "n": 20, "text": "And see what the land is, whether it is fat or lean (rich or poor soil), whether there is wood in it, or not. And be of good courage (be brave), and bring of the fruit of the land. Now the time was the time of the firstripe (first ripe) grapes." },
+      { "n": 21, "text": "So they went up, and searched (explored) the land from the wilderness (desert) of Zin to Rehob, as men come to Hamath." },
+      { "n": 22, "text": "And they went up by the south, and came to Hebron, where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built 7 years before Zoan in Egypt.)" },
+      { "n": 23, "text": "And they came to the brook (stream) of Eshcol, and cut down from there a branch with one cluster (bunch) of grapes. And they bare (carried) it between 2 men upon a staff (pole). And they brought some of the pomegranates, and of the figs." },
+      { "n": 24, "text": "The place was called the brook (stream) Eshcol (cluster), because of the cluster (bunch) of grapes which the children of Israel cut down from there." },
+      { "n": 25, "text": "And they returned from searching (exploring) the land after 40 days." },
+      { "n": 26, "text": "And they went and came to Moses, and to Aaron, and to all the congregation (people) of the children of Israel, to the wilderness (desert) of Paran, to Kadesh. And they brought back word to them, and to all the congregation (people), and showed them the fruit of the land." },
+      { "n": 27, "text": "And they told Moses, and said: We came to the land where you sent us, and surely it flows with milk and honey. And this is the fruit of it." },
+      { "n": 28, "text": "Nevertheless (but) the people that dwell (live) in the land are strong, and the cities are walled, and very great. And moreover (also) we saw the children of Anak there." },
+      { "n": 29, "text": "The Amalekites dwell (live) in the land of the south. And the Hittites, and the Jebusites, and the Amorites, dwell (live) in the mountains. And the Canaanites dwell (live) by the sea, and by the coast (side) of the Jordan." },
+      { "n": 30, "text": "And Caleb stilled (quieted) the people before Moses, and said: Let us go up at once, and possess (take) it. For we are well able to overcome (win against) it." },
+      { "n": 31, "text": "But the men that went up with Caleb said: We are not able to go up against the people, for they are stronger than we are." },
+      { "n": 32, "text": "And they brought up an evil (bad) report of the land which they had searched (explored) to the children of Israel, saying: The land, through which we have gone to search (explore) it, is a land that eats up the inhabitants (people living there). And all the people that we saw in it are men of a great stature (very tall)." },
+      { "n": 33, "text": "And there we saw the giants, the sons of Anak, which come from the giants. And we were in our own sight as grasshoppers, and so we were in their sight." }
+    ]
   },
   "14": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "That night all the Israelites in the camp began shouting loudly and crying."
-      },
-      {
-        "n": 2,
-        "text": "The Israelites complained against Moses and Aaron and they said to them: We wish we had died in Egypt or in the desert."
-      },
-      {
-        "n": 3,
-        "text": "Why did the Lord bring us to this land to die here in war? The enemies will take our wives and children. It will be better for us if we go back to Egypt."
-      },
-      {
-        "n": 4,
-        "text": "They said to each other: Let us choose a new leader and go back to Egypt."
-      },
-      {
-        "n": 5,
-        "text": "Moses and Aaron fell down with their faces to the ground in front of all the Israelites."
-      },
-      {
-        "n": 6,
-        "text": "Joshua, son of Nun, and Caleb, son of Jephunneh, were 2 of the men who had gone to see what the land was like. They tore their clothes"
-      },
-      {
-        "n": 7,
-        "text": "They said to the Israelites: We went through the land to see what the land was like, and we are telling you that this is a very good land."
-      },
-      {
-        "n": 8,
-        "text": "If the Lord is pleased with us, He will bring us into this land and He will give it to us. This is land with a lot of food, milk and honey."
-      },
-      {
-        "n": 9,
-        "text": "But you must not rebel against the LORD and you must not be afraid of the people in the land. We will easily destroy them. They have no protection, nothing to keep them safe. But we have the Lord with us, so don’t be afraid!"
-      },
-      {
-        "n": 10,
-        "text": "All of the Israelites began talking about killing Joshua and Caleb with stones. But then all of the Israelites saw the Glory of the Lord appear over the meeting tent."
-      },
-      {
-        "n": 11,
-        "text": "The Lord said to Moses: How long will these people continue to make me angry? They show that they don’t trust me or believe in my power, I have done many miracles for them."
-      },
-      {
-        "n": 12,
-        "text": "I will send a disease and kill all of them. I will destroy them, and I will use you to make another nation. Your nation will be greater and stronger than these people."
-      },
-      {
-        "n": 13,
-        "text": "Then Moses said to the Lord: If you do that, the Egyptians will hear about it. (They know that you used your great power to bring your people out of Egypt.)"
-      },
-      {
-        "n": 14,
-        "text": "The people of Egypt will talk to the people who live in this land. They will tell them that You, the Lord, were with your people and that You appeared to them. They will tell them that You led them with a cloud above them in the day and with fire at night."
-      },
-      {
-        "n": 15,
-        "text": "If you kill your people now, then all the people will say:"
-      },
-      {
-        "n": 16,
-        "text": "The Lord was not able to bring them into the land he promised them. So, he killed them in the desert."
-      },
-      {
-        "n": 17,
-        "text": "Lord, show your strength! Show it the way you said you would."
-      },
-      {
-        "n": 18,
-        "text": "The Lord is slow to become angry. He is full of great love. He forgives those who are guilty and break the law. But he always punishes those who are guilty. He punishes them, and he also punishes their children, their grandchildren, and even their great-grandchildren."
-      },
-      {
-        "n": 19,
-        "text": "Now, show your great love to these people. Forgive their sin. Forgive them the same way you have been forgiving them since the time they left Egypt until now."
-      },
-      {
-        "n": 20,
-        "text": "The Lord said to Moses: I will forgive them because you have asked Me."
-      },
-      {
-        "n": 21,
-        "text": "But I tell you the truth. As I live, the Glory of the Lord will fill the whole earth."
-      },
-      {
-        "n": 22,
-        "text": "These people have seen my glory and the great signs that I did in Egypt and in the desert. But they disobeyed me and tested me ten times."
-      },
-      {
-        "n": 23,
-        "text": "That is why none of them will see the land that I have promised their grandfathers. Not one of the people who have turned away from Me and did not want to trust Me will go into the land."
-      },
-      {
-        "n": 24,
-        "text": "But my servant Caleb is different. He follows me completely. So, I will bring him into the land that he has already seen, and his people will get that land."
-      },
-      {
-        "n": 25,
-        "text": "(The Amalekite people and the Canaanites live in the valley.) So tomorrow you must leave this place. Go back to the desert on the road to the Red Sea."
-      },
-      {
-        "n": 26,
-        "text": "The Lord talked to Moses and Aaron and He said:"
-      },
-      {
-        "n": 27,
-        "text": "How long will these evil people continue to complain against me? I have heard their complaints."
-      },
-      {
-        "n": 28,
-        "text": "So tell them: As surely as I live, says the Lord, I will do to you exactly what you have said in my hearing."
-      },
-      {
-        "n": 29,
-        "text": "Your dead bodies will lie in the sand of this desert, all of you whose names are written in the book, all who are older than 20 years, all who have accused Me."
-      },
-      {
-        "n": 30,
-        "text": "I promised that you would live in that land, but now you will not go there. Only Caleb, son of Jephunneh, and Joshua, son of Nun, will go into the land."
-      },
-      {
-        "n": 31,
-        "text": "You were afraid and complained that your enemies in that new land would take your children away from you. I tell you; I will bring them into the land. They will enjoy what you refused to accept."
-      },
-      {
-        "n": 32,
-        "text": "Your dead bodies will lie in this desert,"
-      },
-      {
-        "n": 33,
-        "text": "Your children will wander around like shepherds here in the desert for 40 years. They will suffer because you were not faithful to me. They must suffer until all of you lie dead in the desert."
-      },
-      {
-        "n": 34,
-        "text": "For 40 years you will suffer for your sins. (That is one year for each of the 40 days that the men explored the land.) You will suffer for 40 years for your sin, and you will know that I am angry with you and break my promise."
-      },
-      {
-        "n": 35,
-        "text": "I, the Lord, have spoken. I will do this to these sinful people who have rebelled against Me. In this desert. You will all die."
-      },
-      {
-        "n": 36,
-        "text": "The men Moses sent to explore the new land were the ones who came back and made all the Israelites complaining against Moses by bringing out a bad report about the land."
-      },
-      {
-        "n": 37,
-        "text": "The men who had told those bad things to the other people all died of the disease that the LORD sent."
-      },
-      {
-        "n": 38,
-        "text": "Joshua, son of Nun, and Caleb, son of Jephunneh, had also gone with the men to look at the land, but they did not die. They kept on living."
-      },
-      {
-        "n": 39,
-        "text": "When Moses told the Israelites everything that the Lord had said, the people were very sad and cried."
-      },
-      {
-        "n": 40,
-        "text": "They got up early the next morning and went to the top of the mountain. They said: We have sinned. We will go to the place that the Lord promised us."
-      },
-      {
-        "n": 41,
-        "text": "Moses said to them: Why are you not obeying the Lord’s command? You will not be successful!"
-      },
-      {
-        "n": 42,
-        "text": "Don’t go, because the Lord is not with you. If you go into the land, the enemies will defeat you."
-      },
-      {
-        "n": 43,
-        "text": "The Amalekite people and the Canaanites were there before you. You will die in war because you have turned away from the Lord. He will not be with you, and He will not help you."
-      },
-      {
-        "n": 44,
-        "text": "But the people did not believe Moses. They went toward the high hill country. But Moses and the covenant box of the Lord did not go with the people."
-      },
-      {
-        "n": 45,
-        "text": "The Amalekite people and the Canaanites who lived in those mountains came down and defeated the Israelites. They chased the Israelites who ran away and fled to as far as the town of Hormah."
-      }
-    ],
-    "sourceUrl": "https://kjvdeaf.com/numbers-chapter-14/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
-    "videos": []
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V44 writes the ark of the covenant as the ark (holy box) of the agreement, as elsewhere on the site.",
+    "sourceUrl": "https://kjvdeaf.com/numbers-chapter-14/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "And all the congregation (people) lifted up their voice, and cried. And the people wept that night." },
+      { "n": 2, "text": "And all the children of Israel murmured (complained) against Moses and against Aaron. And the whole congregation (all the people) said to them: Would God that we had died in the land of Egypt! Or would God we had died in this wilderness (desert)!" },
+      { "n": 3, "text": "And wherefore (why) has the LORD brought us to this land, to fall by the sword, so that our wives and our children should be a prey (captured)? Would it not be better for us to return into Egypt?" },
+      { "n": 4, "text": "And they said one to another: Let us make a captain (leader), and let us return into Egypt." },
+      { "n": 5, "text": "Then Moses and Aaron fell on their faces before all the assembly of the congregation (people) of the children of Israel." },
+      { "n": 6, "text": "And Joshua the son of Nun, and Caleb the son of Jephunneh, who were among those who searched (explored) the land, rent (tore) their clothes." },
+      { "n": 7, "text": "And they spoke to all the company of the children of Israel, saying: The land, which we passed through to search (explore) it, is an exceeding (very) good land." },
+      { "n": 8, "text": "If the LORD delight in (is pleased with) us, then He will bring us into this land, and give it to us, a land which flows with milk and honey." },
+      { "n": 9, "text": "Only do not rebel against the LORD, and do not fear the people of the land. For they are bread for us (we will easily win). Their defence (protection) is departed (gone) from them, and the LORD is with us. Fear them not." },
+      { "n": 10, "text": "But all the congregation (people) said to stone them with stones. And the glory of the LORD appeared in the tabernacle (holy tent) of the congregation before all the children of Israel." },
+      { "n": 11, "text": "And the LORD said to Moses: How long will this people provoke (anger) Me? And how long will it be ere (before) they believe Me, for all the signs which I have showed among them?" },
+      { "n": 12, "text": "I will smite (strike) them with the pestilence (deadly disease), and disinherit (take away their land from) them, and will make of you a greater nation and mightier than they." },
+      { "n": 13, "text": "And Moses said to the LORD: Then the Egyptians shall hear it. (For You brought up this people in Your might from among them.)" },
+      { "n": 14, "text": "And they will tell it to the inhabitants (people) of this land. For they have heard that You, LORD, are among this people, that You, LORD, are seen face to face, and that Your cloud stands over them, and that You go before them, by day time in a pillar (tall column) of a cloud, and in a pillar (tall column) of fire by night." },
+      { "n": 15, "text": "Now if You shall kill all this people as one man, then the nations which have heard the fame of You will speak, saying:" },
+      { "n": 16, "text": "Because the LORD was not able to bring this people into the land which He sware (promised) to them, therefore He has slain (killed) them in the wilderness (desert)." },
+      { "n": 17, "text": "And now, I beseech (beg) You, let the power of my LORD be great, according as You have spoken, saying:" },
+      { "n": 18, "text": "The LORD is longsuffering (patient), and of great mercy, forgiving iniquity (sin) and transgression (breaking the law), and by no means clearing the guilty, visiting (punishing) the iniquity (sin) of the fathers upon the children to the 3rd and 4th generation." },
+      { "n": 19, "text": "Pardon (forgive), I beseech (beg) You, the iniquity (sin) of this people according to the greatness of Your mercy, and as You have forgiven this people, from Egypt even until now." },
+      { "n": 20, "text": "And the LORD said: I have pardoned (forgiven) according to your word." },
+      { "n": 21, "text": "But as truly as I live, all the earth shall be filled with the glory of the LORD." },
+      { "n": 22, "text": "Because all those men which have seen My glory, and My miracles, which I did in Egypt and in the wilderness (desert), and have tempted (tested) Me now these 10 times, and have not hearkened (listened) to My voice," },
+      { "n": 23, "text": "Surely they shall not see the land which I sware (promised) to their fathers. Neither shall any of those who provoked (angered) Me see it." },
+      { "n": 24, "text": "But My servant Caleb, because he had another spirit with him, and has followed Me fully, him will I bring into the land where he went. And his seed (children) shall possess (own) it." },
+      { "n": 25, "text": "(Now the Amalekites and the Canaanites dwelt (lived) in the valley.) To morrow (tomorrow) turn, and go into the wilderness (desert) by the way of the Red sea." },
+      { "n": 26, "text": "And the LORD spoke to Moses and to Aaron, saying:" },
+      { "n": 27, "text": "How long shall I bear with this evil congregation (group), which murmur (complain) against Me? I have heard the murmurings (complaints) of the children of Israel, which they murmur (complain) against Me." },
+      { "n": 28, "text": "Say to them: As truly as I live, says the LORD, as you have spoken in My ears, so will I do to you." },
+      { "n": 29, "text": "Your carcases (dead bodies) shall fall in this wilderness (desert). And all that were numbered (counted) of you, according to your whole number, from 20 years old and upward, which have murmured (complained) against Me," },
+      { "n": 30, "text": "Doubtless (surely) you shall not come into the land, concerning which I sware (promised) to make you dwell (live) there, save (except) Caleb the son of Jephunneh, and Joshua the son of Nun." },
+      { "n": 31, "text": "But your little ones, which you said should be a prey (captured), them will I bring in, and they shall know the land which you have despised (rejected)." },
+      { "n": 32, "text": "But as for you, your carcases (dead bodies), they shall fall in this wilderness (desert)." },
+      { "n": 33, "text": "And your children shall wander in the wilderness (desert) 40 years, and bear your whoredoms (suffer for your unfaithfulness), until your carcases (dead bodies) be wasted in the wilderness (desert)." },
+      { "n": 34, "text": "After the number of the days in which you searched (explored) the land, even 40 days, each day for a year, you shall bear (suffer for) your iniquities (sins), even 40 years. And you shall know My breach of promise (what it is when I turn against you)." },
+      { "n": 35, "text": "I the LORD have said it. I will surely do it to all this evil congregation (group), that are gathered together against Me. In this wilderness (desert) they shall be consumed (destroyed), and there they shall die." },
+      { "n": 36, "text": "And the men, which Moses sent to search (explore) the land, who returned, and made all the congregation (people) murmur (complain) against Moses, by bringing up a slander (lie) upon the land," },
+      { "n": 37, "text": "Even those men that did bring up the evil (bad) report upon the land, died by the plague before the LORD." },
+      { "n": 38, "text": "But Joshua the son of Nun, and Caleb the son of Jephunneh, which were of the men that went to search (explore) the land, lived still (stayed alive)." },
+      { "n": 39, "text": "And Moses told these sayings to all the children of Israel. And the people mourned greatly." },
+      { "n": 40, "text": "And they rose up early in the morning, and gat (went) up into the top of the mountain, saying: Lo (look), we are here, and will go up to the place which the LORD has promised. For we have sinned." },
+      { "n": 41, "text": "And Moses said: Wherefore (why) now do you transgress (break) the commandment of the LORD? But it shall not prosper (succeed)." },
+      { "n": 42, "text": "Go not up, for the LORD is not among you, so that you are not smitten (struck down) before your enemies." },
+      { "n": 43, "text": "For the Amalekites and the Canaanites are there before you, and you shall fall by the sword. Because you are turned away from the LORD, therefore the LORD will not be with you." },
+      { "n": 44, "text": "But they presumed (dared) to go up to the hill top. Nevertheless (but) the ark (holy box) of the agreement of the LORD, and Moses, departed (went) not out of the camp." },
+      { "n": 45, "text": "Then the Amalekites came down, and the Canaanites which dwelt (lived) in that hill, and smote (struck) them, and discomfited (defeated) them, even to Hormah." }
+    ]
   },
   "16": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men:"
-      },
-      {
-        "n": 2,
-        "text": "And they rose up against Moses. With them were 250 Israelite men, well-known community leaders, famous in the church and some mighty men."
-      },
-      {
-        "n": 3,
-        "text": "They came together to rebel against Moses and Aaron and said to them: You have gone too far! The whole community is holy, every one of them, and the Lord is with them. Why do you set yourselves above the Lord's people?"
-      },
-      {
-        "n": 4,
-        "text": "When Moses heard this, he bowed down and lay with his face to the ground."
-      },
-      {
-        "n": 5,
-        "text": "Then Moses said to Korah and all his followers: Tomorrow morning the Lord will show who belongs to the Lord and who is holy. The Lord will choose that person and bring the person near to the Lord."
-      },
-      {
-        "n": 6,
-        "text": "Korah, you and all your followers must prepare your firepan for offering."
-      },
-      {
-        "n": 7,
-        "text": "Tomorrow put fire and incense in some pans. Then bring those pans before the Lord. The man whom the LORD chooses shall be the one who is holy. You have gone far enough, you sons of Levi."
-      },
-      {
-        "n": 8,
-        "text": "Moses also said to Korah: You Levites, listen to me."
-      },
-      {
-        "n": 9,
-        "text": "The God of Israel has chosen you from all the Israelites to be his special people, to serve Him in the tent of the Lord for the people of God. This is a very important work; don’t you think so?"
-      },
-      {
-        "n": 10,
-        "text": "He brought you Levites near to him to help the priests, but now you are trying to become priests also."
-      },
-      {
-        "n": 11,
-        "text": "You and your followers have joined together and turned against the Lord! Did Aaron do anything wrong? No, so why are you complaining against Aaron?"
-      },
-      {
-        "n": 12,
-        "text": "Then Moses called Korah, Dathan and Abiram, sons of Eliab, to come to him, but they said: We will not come."
-      },
-      {
-        "n": 13,
-        "text": "Is it not enough that you brought us out of Egypt, a land flowing with milk and honey, you brought us to the desert to kill us. And now you want to show that you have even more power over us."
-      },
-      {
-        "n": 14,
-        "text": "Why should we follow you? You did not bring us into the new land filled with many good things. You did not give us the land God promised. You did not give us the fields or the vineyards. Are you trying to fool these men? No! We will not come."
-      },
-      {
-        "n": 15,
-        "text": "Moses became very angry. He said to the Lord: Please do not accept the offerings that they want to give You. I have taken nothing from them, and I have not done anything wrong to them."
-      },
-      {
-        "n": 16,
-        "text": "Then Moses said to Korah: Tomorrow you and Aaron and all the people with you will stand before the Lord."
-      },
-      {
-        "n": 17,
-        "text": "Each of you must have a pan with incense in it to give to the Lord. Each of you must have your own pan. There will be 250 pans and you and Aaron must each have a pan."
-      },
-      {
-        "n": 18,
-        "text": "The next morning everyone took his pan with coals and put incense on it. They went to the entrance of the tent of the Lord, and they stood there, with Moses and Aaron."
-      },
-      {
-        "n": 19,
-        "text": "Korah also gathered all the people together at the entrance of the tabernacle. Then the Glory of the Lord appeared to everyone there."
-      },
-      {
-        "n": 20,
-        "text": "Then the Lord said to Moses and Aaron:"
-      },
-      {
-        "n": 21,
-        "text": "Go away from these people. I want to kill them all immediately."
-      },
-      {
-        "n": 22,
-        "text": "But Moses and Aaron bowed down and fell with their faces to the ground and said: O God, you give life to everyone. It is only a few who have sinned. Why are You angry with all your people?"
-      },
-      {
-        "n": 23,
-        "text": "Then the Lord said to Moses:"
-      },
-      {
-        "n": 24,
-        "text": "Tell the people to go away from Korah, Dathan and Abiram’s tents."
-      },
-      {
-        "n": 25,
-        "text": "Moses went to Dathan and Abiram and the leaders of Israel went with him."
-      },
-      {
-        "n": 26,
-        "text": "Moses warned the people and said: Please, go away from the tents of these bad people, and do not touch anything that belongs to them, so that you will not be destroyed because of the sin they have done."
-      },
-      {
-        "n": 27,
-        "text": "The people went away from the tents of Korah, Dathan and Abiram. Dathan and Abiram came and stood at the doors of their tents with their wives and children and their other people."
-      },
-      {
-        "n": 28,
-        "text": "Then Moses said: Now you will know that the Lord has sent me to do all these things, and you will know that it was not I who decided them."
-      },
-      {
-        "n": 29,
-        "text": "These men will die, but if they die in a normal way the way people always die then that will show that the Lord did not really send me."
-      },
-      {
-        "n": 30,
-        "text": "But if the Lord makes something happen that is different, if the earth opens its mouth and swallows them with everything they have, if they go down alive into the underworld, then you will know that these people have sinned and turned away from God."
-      },
-      {
-        "n": 31,
-        "text": "When Moses finished saying these things, the ground under the men opened."
-      },
-      {
-        "n": 32,
-        "text": "The earth opened its mouth and swallowed Korah and all the people with him and their families and everything that belonged to them."
-      },
-      {
-        "n": 33,
-        "text": "They went down into their grave alive. Everything they owned went with them. Then the earth closed over them. They disappeared from the people of God."
-      },
-      {
-        "n": 34,
-        "text": "The Israelites heard the cries of the men being destroyed. So, they all ran in different directions and said, the earth will swallow us too!"
-      },
-      {
-        "n": 35,
-        "text": "Then a fire came from the Lord and destroyed the 250 men who were offering the incense."
-      }
-    ],
-    "sourceUrl": "https://kjvdeaf.com/old-testament/numbers/numbers-chapter-16/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. Merged-verse numbering bugs (9/10/11 and 19/20) have been split apart.",
-    "videos": []
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Verses 36-50 (the censers made into altar plates, and Aaron standing between the dead and the living) were missing and have been restored. V30 and v33 keep the KJV's pit.",
+    "sourceUrl": "https://kjvdeaf.com/old-testament/numbers/numbers-chapter-16/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men." },
+      { "n": 2, "text": "And they rose up before Moses, with certain of the children of Israel, 250 princes (leaders) of the assembly, famous in the congregation (people), men of renown (well known)." },
+      { "n": 3, "text": "And they gathered themselves together against Moses and against Aaron, and said to them: You take too much upon you, seeing all the congregation (people) are holy, every one of them, and the LORD is among them. Wherefore (why) then do you lift yourselves up above the congregation (people) of the LORD?" },
+      { "n": 4, "text": "And when Moses heard it, he fell upon his face." },
+      { "n": 5, "text": "And Moses spoke to Korah and to all his company (group), saying: Even to morrow (tomorrow) the LORD will show who are His, and who is holy. And He will cause him to come near to Him. Even him whom He has chosen will He cause to come near to Him." },
+      { "n": 6, "text": "Do this: Take censers (fire pans), Korah, and all his company (group)." },
+      { "n": 7, "text": "And put fire in them, and put incense (sweet-smelling spice) in them before the LORD to morrow (tomorrow). And it shall be that the man whom the LORD chooses, he shall be holy. You take too much upon you, you sons of Levi." },
+      { "n": 8, "text": "And Moses said to Korah: Hear, I pray you (please), you sons of Levi." },
+      { "n": 9, "text": "Does it seem but a small thing to you, that the God of Israel has separated you from the congregation (people) of Israel, to bring you near to Himself to do the service of the tabernacle (holy tent) of the LORD, and to stand before the congregation (people) to minister (serve) to them?" },
+      { "n": 10, "text": "And He has brought you near to Him, and all your brethren (brothers) the sons of Levi with you. And do you seek (want) the priesthood also?" },
+      { "n": 11, "text": "For which cause both you and all your company (group) are gathered together against the LORD. And what is Aaron, that you murmur (complain) against him?" },
+      { "n": 12, "text": "And Moses sent to call Dathan and Abiram, the sons of Eliab. And they said: We will not come up." },
+      { "n": 13, "text": "Is it a small thing that you have brought us up out of a land that flows with milk and honey, to kill us in the wilderness (desert), except you make yourself altogether a prince (ruler) over us?" },
+      { "n": 14, "text": "Moreover (also) you have not brought us into a land that flows with milk and honey, or given us inheritance (property) of fields and vineyards. Will you put out the eyes of these men (fool them)? We will not come up." },
+      { "n": 15, "text": "And Moses was very wroth (angry), and said to the LORD: Respect not (do not accept) their offering. I have not taken one ass (donkey) from them, neither have I hurt one of them." },
+      { "n": 16, "text": "And Moses said to Korah: Be you and all your company (group) before the LORD, you, and they, and Aaron, to morrow (tomorrow)." },
+      { "n": 17, "text": "And take every man his censer (fire pan), and put incense (sweet-smelling spice) in them, and bring before the LORD every man his censer (fire pan), 250 censers (fire pans). You also, and Aaron, each of you his censer (fire pan)." },
+      { "n": 18, "text": "And they took every man his censer (fire pan), and put fire in them, and laid incense (sweet-smelling spice) on it, and stood in the door of the tabernacle (holy tent) of the congregation with Moses and Aaron." },
+      { "n": 19, "text": "And Korah gathered all the congregation (people) against them to the door of the tabernacle (holy tent) of the congregation. And the glory of the LORD appeared to all the congregation (people)." },
+      { "n": 20, "text": "And the LORD spoke to Moses and to Aaron, saying:" },
+      { "n": 21, "text": "Separate yourselves from among this congregation (group), so that I may consume (destroy) them in a moment." },
+      { "n": 22, "text": "And Moses and Aaron fell upon their faces, and said: O God, the God of the spirits of all flesh (all people), shall one man sin, and will You be wroth (angry) with all the congregation (people)?" },
+      { "n": 23, "text": "And the LORD spoke to Moses, saying:" },
+      { "n": 24, "text": "Speak to the congregation (people), saying: Get away from around the tabernacle (tent) of Korah, Dathan, and Abiram." },
+      { "n": 25, "text": "And Moses rose up and went to Dathan and Abiram. And the elders of Israel followed him." },
+      { "n": 26, "text": "And Moses spoke to the congregation (people), saying: Depart (go away), I pray you (please), from the tents of these wicked men, and touch nothing of theirs, lest (or else) you be consumed (destroyed) in all their sins." },
+      { "n": 27, "text": "So they got away from the tabernacle (tent) of Korah, Dathan, and Abiram, on every side. And Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children." },
+      { "n": 28, "text": "And Moses said: By this you shall know that the LORD has sent me to do all these works. For I have not done them of my own mind." },
+      { "n": 29, "text": "If these men die the common death of all men, or if they be visited after the visitation of all men (if what happens to all men happens to them), then the LORD has not sent me." },
+      { "n": 30, "text": "But if the LORD make a new thing, and the earth open her mouth, and swallow them up, with all that appertain (belong) to them, and they go down quick (alive) into the pit, then you shall understand that these men have provoked (angered) the LORD." },
+      { "n": 31, "text": "And it came to pass, as Moses had made an end of speaking all these words, that the ground clave asunder (split apart) that was under them." },
+      { "n": 32, "text": "And the earth opened her mouth, and swallowed them up, and their houses, and all the men that appertained (belonged) to Korah, and all their goods." },
+      { "n": 33, "text": "They, and all that appertained (belonged) to them, went down alive into the pit, and the earth closed upon them. And they perished (died) from among the congregation (people)." },
+      { "n": 34, "text": "And all Israel that were round about them fled (ran) at the cry of them. For they said: Lest (or else) the earth swallow us up also." },
+      { "n": 35, "text": "And there came out a fire from the LORD, and consumed (burned up) the 250 men that offered incense (sweet-smelling spice)." },
+      { "n": 36, "text": "And the LORD spoke to Moses, saying:" },
+      { "n": 37, "text": "Speak to Eleazar the son of Aaron the priest, that he take up the censers (fire pans) out of the burning, and scatter the fire yonder (over there). For they are hallowed (holy)." },
+      { "n": 38, "text": "The censers (fire pans) of these sinners against their own souls, let them make them broad plates for a covering of the altar. For they offered them before the LORD, therefore they are hallowed (holy). And they shall be a sign to the children of Israel." },
+      { "n": 39, "text": "And Eleazar the priest took the brasen (bronze) censers (fire pans), with which those who were burnt had offered. And they were made broad plates for a covering of the altar," },
+      { "n": 40, "text": "To be a memorial (a way to remember) to the children of Israel, that no stranger, which is not of the seed (family) of Aaron, come near to offer incense (sweet-smelling spice) before the LORD, so that he be not as Korah, and as his company (group), as the LORD said to him by the hand of Moses." },
+      { "n": 41, "text": "But on the morrow (next day) all the congregation (people) of the children of Israel murmured (complained) against Moses and against Aaron, saying: You have killed the people of the LORD." },
+      { "n": 42, "text": "And it came to pass, when the congregation (people) was gathered against Moses and against Aaron, that they looked toward the tabernacle (holy tent) of the congregation. And look, the cloud covered it, and the glory of the LORD appeared." },
+      { "n": 43, "text": "And Moses and Aaron came before the tabernacle (holy tent) of the congregation." },
+      { "n": 44, "text": "And the LORD spoke to Moses, saying:" },
+      { "n": 45, "text": "Get away from among this congregation (group), so that I may consume (destroy) them as in a moment. And Moses and Aaron fell upon their faces." },
+      { "n": 46, "text": "And Moses said to Aaron: Take a censer (fire pan), and put fire in it from off the altar, and put on incense (sweet-smelling spice), and go quickly to the congregation (people), and make an atonement (a covering for sin) for them. For there is wrath (anger) gone out from the LORD. The plague is begun." },
+      { "n": 47, "text": "And Aaron took as Moses commanded, and ran into the middle of the congregation (people). And look, the plague was begun among the people. And Aaron put on incense (sweet-smelling spice), and made an atonement (a covering for sin) for the people." },
+      { "n": 48, "text": "And Aaron stood between the dead and the living, and the plague was stayed (stopped)." },
+      { "n": 49, "text": "Now those who died in the plague were 14,700, beside those who died about the matter of Korah." },
+      { "n": 50, "text": "And Aaron returned to Moses to the door of the tabernacle (holy tent) of the congregation. And the plague was stayed (stopped)." }
+    ]
   },
   "26": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "After so many Israelites had died, the Lord talked to Moses and Eleazar, the priest, son of Aaron, and He said:"
-      },
-      {
-        "n": 2,
-        "text": "You must count all the Israelites, everyone who is 20 years old or older, and anyone who can go to war. You must also write down from what families they come."
-      },
-      {
-        "n": 3,
-        "text": "Then Moses and Eleazar, the priest, talked to the Israelites in the Moab Flatlands next to the Jordan River near the city of Jericho. They told them"
-      },
-      {
-        "n": 4,
-        "text": "List all the men of Israel 20 years old and older, just as the LORD commanded Moses. This is the record of all the families of Israel who came out of Egypt."
-      },
-      {
-        "n": 5,
-        "text": "Reuben was the oldest son of Israel. The families in the Reuben tribe were Hanok, Pallu,"
-      },
-      {
-        "n": 6,
-        "text": "Hezron from the Hezronite family group; Carmi from the Carmite family."
-      },
-      {
-        "n": 7,
-        "text": "There were 43,730 people in the families of the Reuben tribe."
-      },
-      {
-        "n": 8,
-        "text": "The son of Pallu was Eliab,"
-      },
-      {
-        "n": 9,
-        "text": "The sons of Eliab were Nemuel, Dathan and Abiram. The people had chosen Dathan and Abiram to be leaders. They were the people who rebelled against Moses and Aaron with the group of Korah. They were also rebellious against the Lord."
-      },
-      {
-        "n": 10,
-        "text": "Then the earth opened and swallowed them with Korah. The Korah group died when 250 of their men were burnt. They became a sign to the other people,"
-      },
-      {
-        "n": 11,
-        "text": "But the children of Korah did not die."
-      },
-      {
-        "n": 12,
-        "text": "The families in the Simeon tribe were: Nemuel, Jamin, Jakin,"
-      },
-      {
-        "n": 13,
-        "text": "Zerah from the Zerahite family; Shaul from the Shaulite family."
-      },
-      {
-        "n": 14,
-        "text": "There were 22,200 people in the families of the Simeon tribe."
-      },
-      {
-        "n": 15,
-        "text": "The families in the Gad tribe were: Zephon, Haggi, Shuni,"
-      },
-      {
-        "n": 16,
-        "text": "Ozni from the Oznite family; Eri from the Erite family;"
-      },
-      {
-        "n": 17,
-        "text": "Arodi from the Arodite family; Areli from the Arelite family."
-      },
-      {
-        "n": 18,
-        "text": "There were 40,500 people in the families of the Gad tribe."
-      },
-      {
-        "n": 19,
-        "text": "Er and Onan were sons of Judah, but they died in Canaan."
-      },
-      {
-        "n": 20,
-        "text": "The families of the Judah tribe were: Shelah, Perez and Zerah."
-      },
-      {
-        "n": 21,
-        "text": "The families of the descendants of Perez were Hezron and Hamul."
-      },
-      {
-        "n": 22,
-        "text": "There were 76,500 people in the families of the Judah tribe."
-      },
-      {
-        "n": 23,
-        "text": "The families of the Issachar tribe were Tola, Puah,"
-      },
-      {
-        "n": 24,
-        "text": "Jashub from the Jashubite family; Shimron from the Shimronite family."
-      },
-      {
-        "n": 25,
-        "text": "There were 64,300 people in the families of the Issachar tribe."
-      },
-      {
-        "n": 26,
-        "text": "The families of the Zebulun tribe were: Sered, Elon and Jahleel."
-      },
-      {
-        "n": 27,
-        "text": "There were 60,500 people in the families of the Zebulun tribe."
-      },
-      {
-        "n": 28,
-        "text": "Joseph was the forefather of the families of Manasseh and Ephraim."
-      },
-      {
-        "n": 29,
-        "text": "The first family in the Manasseh tribe was Makir and the people of Makir were the forefathers of the Gilead families."
-      },
-      {
-        "n": 30,
-        "text": "The Gilead families were: Gilead, Iezer, Helek,"
-      },
-      {
-        "n": 31,
-        "text": "Asriel from the Asrielite family; Shechem from the Shechemite family;"
-      },
-      {
-        "n": 32,
-        "text": "Shemida from the Shemidaite family; Hepher from the Hepherite family."
-      },
-      {
-        "n": 33,
-        "text": "Zelophehad, son of Hepher, had no sons. He had only daughters. The names of the daughters were Mahlah, Noah, Hoglah, Milkah and Tirzah."
-      },
-      {
-        "n": 34,
-        "text": "There were 52,700 people in the families of Manasseh."
-      },
-      {
-        "n": 35,
-        "text": "The families of Ephraim were Shuthelah, Beker and Tahan."
-      },
-      {
-        "n": 36,
-        "text": "Shuthelah was also the forefather of the Eran family."
-      },
-      {
-        "n": 37,
-        "text": "There were 32,500 people in the families of the Ephraim tribe. These were all the families who were descendants of Joseph."
-      },
-      {
-        "n": 38,
-        "text": "The families of the Benjamin tribe were: Bela, Ashbel, Ahiram,"
-      },
-      {
-        "n": 39,
-        "text": "Shupham from the Shuphamite family; Hupham from the Huphamite family."
-      },
-      {
-        "n": 40,
-        "text": "Bela was the forefather of the Ard and Naaman families."
-      },
-      {
-        "n": 41,
-        "text": "There were 45,600 people in the families of the Benjamin tribe."
-      },
-      {
-        "n": 42,
-        "text": "The Shuham family was the only family of the Dan tribe."
-      },
-      {
-        "n": 43,
-        "text": "There were 64,400 people in the family of Shuham."
-      },
-      {
-        "n": 44,
-        "text": "The families of the Asher tribe were Imnah, Ishvi and Beriah."
-      },
-      {
-        "n": 45,
-        "text": "Beriah was the forefather of the families of Heber and Malkiel."
-      },
-      {
-        "n": 46,
-        "text": "Asher also had a daughter whose name was Serah."
-      },
-      {
-        "n": 47,
-        "text": "There were 53,400 people in the families of the Asher tribe."
-      },
-      {
-        "n": 48,
-        "text": "The families of the Naphtali tribe were Jahzeel, Guni,"
-      },
-      {
-        "n": 49,
-        "text": "Jezer from the Jezerite family; Shillem from the Shillemite family."
-      },
-      {
-        "n": 50,
-        "text": "There were 45,400 people in the families of the Naphtali tribe."
-      },
-      {
-        "n": 51,
-        "text": "All of the Israelites together were 601,730."
-      },
-      {
-        "n": 52,
-        "text": "The Lord said to Moses:"
-      },
-      {
-        "n": 53,
-        "text": "You must divide the land among these families. Each family must get as much land as the number of people in the family."
-      },
-      {
-        "n": 54,
-        "text": "You must give a big family a bigger part of the land and a small family a smaller part of the land. Each family must get as much land as the number of people in the family."
-      },
-      {
-        "n": 55,
-        "text": "But you must draw lots when you divide the land."
-      },
-      {
-        "n": 56,
-        "text": "The lots will show what part of land each family must get, what land the big families must get and what land the small families must get."
-      },
-      {
-        "n": 57,
-        "text": "The families in the Levi tribe were Gershon, Kohath and Merari."
-      },
-      {
-        "n": 58,
-        "text": "There were also other Levi families. They were Libni, Hebron, Mahli, Mushi and Korah. Kohath was the father of Amram,"
-      },
-      {
-        "n": 59,
-        "text": "Amram married Jochebed. She was born in the land of Egypt, and she was a descendant of Levi. She and Amram had 3 children. They were Aaron, Moses and their sister Miriam."
-      },
-      {
-        "n": 60,
-        "text": "Aaron was the father of Nadab, Abihu, Eleazar and Ithamar."
-      },
-      {
-        "n": 61,
-        "text": "But Nadab and Abihu died when they sacrificed offerings to the Lord with fire that the Lord did not want."
-      },
-      {
-        "n": 62,
-        "text": "There were 23,000 men in the Levi families who were one month old or older. Moses and Eleazar did not count them with the other Israelites because they did not get land with the other Israelites."
-      },
-      {
-        "n": 63,
-        "text": "Moses and Eleazar the priest counted all these people. They counted the Israelites while they were in the Jordan Valley in Moab. This was near the Jordan River across from Jericho."
-      },
-      {
-        "n": 64,
-        "text": "Many years before, in the desert of Sinai, Moses and Aaron the priest counted the Israelites. But all these people were dead. Not one of them was still alive,"
-      },
-      {
-        "n": 65,
-        "text": "The Lord had told those Israelites that they would all die in the desert, that was sure. Not one of those Israelites stayed alive. Only Caleb, son of Jephunneh, and Joshua, son of Nun, were still alive."
-      }
-    ],
-    "sourceUrl": "https://kjvdeaf.com/old-testament/numbers/numbers-chapter-26/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. Merged-verse and stray-digit numbering bugs (v6, v34/35) have been fixed.",
-    "videos": []
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Population numbers are written as numerals.",
+    "sourceUrl": "https://kjvdeaf.com/old-testament/numbers/numbers-chapter-26/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "And it came to pass after the plague, that the LORD spoke to Moses and to Eleazar the son of Aaron the priest, saying:" },
+      { "n": 2, "text": "Take the sum (count) of all the congregation (people) of the children of Israel, from 20 years old and upward, throughout their fathers' house (family), all that are able to go to war in Israel." },
+      { "n": 3, "text": "And Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan near Jericho, saying:" },
+      { "n": 4, "text": "Take the sum (count) of the people, from 20 years old and upward, as the LORD commanded Moses and the children of Israel, which went forth (out) out of the land of Egypt." },
+      { "n": 5, "text": "Reuben was the eldest (oldest) son of Israel. The children of Reuben: Hanoch, of whom comes the family of the Hanochites. Of Pallu, the family of the Palluites." },
+      { "n": 6, "text": "Of Hezron, the family of the Hezronites. Of Carmi, the family of the Carmites." },
+      { "n": 7, "text": "These are the families of the Reubenites. And those who were numbered (counted) of them were 43,730." },
+      { "n": 8, "text": "And the sons of Pallu: Eliab." },
+      { "n": 9, "text": "And the sons of Eliab: Nemuel, and Dathan, and Abiram. This is that Dathan and Abiram, which were famous in the congregation (people), who strove (fought) against Moses and against Aaron in the company (group) of Korah, when they strove (fought) against the LORD." },
+      { "n": 10, "text": "And the earth opened her mouth, and swallowed them up together with Korah, when that company (group) died, at the time the fire devoured (burned up) 250 men. And they became a sign (warning)." },
+      { "n": 11, "text": "Notwithstanding (but) the children of Korah died not." },
+      { "n": 12, "text": "The sons of Simeon after their families: Of Nemuel, the family of the Nemuelites. Of Jamin, the family of the Jaminites. Of Jachin, the family of the Jachinites." },
+      { "n": 13, "text": "Of Zerah, the family of the Zarhites. Of Shaul, the family of the Shaulites." },
+      { "n": 14, "text": "These are the families of the Simeonites, 22,200." },
+      { "n": 15, "text": "The children of Gad after their families: Of Zephon, the family of the Zephonites. Of Haggi, the family of the Haggites. Of Shuni, the family of the Shunites." },
+      { "n": 16, "text": "Of Ozni, the family of the Oznites. Of Eri, the family of the Erites." },
+      { "n": 17, "text": "Of Arod, the family of the Arodites. Of Areli, the family of the Arelites." },
+      { "n": 18, "text": "These are the families of the children of Gad according to those who were numbered (counted) of them, 40,500." },
+      { "n": 19, "text": "The sons of Judah were Er and Onan. And Er and Onan died in the land of Canaan." },
+      { "n": 20, "text": "And the sons of Judah after their families were: Of Shelah, the family of the Shelanites. Of Pharez, the family of the Pharzites. Of Zerah, the family of the Zarhites." },
+      { "n": 21, "text": "And the sons of Pharez were: Of Hezron, the family of the Hezronites. Of Hamul, the family of the Hamulites." },
+      { "n": 22, "text": "These are the families of Judah according to those who were numbered (counted) of them, 76,500." },
+      { "n": 23, "text": "Of the sons of Issachar after their families: Of Tola, the family of the Tolaites. Of Pua, the family of the Punites." },
+      { "n": 24, "text": "Of Jashub, the family of the Jashubites. Of Shimron, the family of the Shimronites." },
+      { "n": 25, "text": "These are the families of Issachar according to those who were numbered (counted) of them, 64,300." },
+      { "n": 26, "text": "Of the sons of Zebulun after their families: Of Sered, the family of the Sardites. Of Elon, the family of the Elonites. Of Jahleel, the family of the Jahleelites." },
+      { "n": 27, "text": "These are the families of the Zebulunites according to those who were numbered (counted) of them, 60,500." },
+      { "n": 28, "text": "The sons of Joseph after their families were Manasseh and Ephraim." },
+      { "n": 29, "text": "Of the sons of Manasseh: Of Machir, the family of the Machirites. And Machir begat (became the father of) Gilead. Of Gilead comes the family of the Gileadites." },
+      { "n": 30, "text": "These are the sons of Gilead: Of Jeezer, the family of the Jeezerites. Of Helek, the family of the Helekites." },
+      { "n": 31, "text": "And of Asriel, the family of the Asrielites. And of Shechem, the family of the Shechemites." },
+      { "n": 32, "text": "And of Shemida, the family of the Shemidaites. And of Hepher, the family of the Hepherites." },
+      { "n": 33, "text": "And Zelophehad the son of Hepher had no sons, but daughters. And the names of the daughters of Zelophehad were Mahlah, and Noah, Hoglah, Milcah, and Tirzah." },
+      { "n": 34, "text": "These are the families of Manasseh, and those who were numbered (counted) of them, 52,700." },
+      { "n": 35, "text": "These are the sons of Ephraim after their families: Of Shuthelah, the family of the Shuthalhites. Of Becher, the family of the Bachrites. Of Tahan, the family of the Tahanites." },
+      { "n": 36, "text": "And these are the sons of Shuthelah: Of Eran, the family of the Eranites." },
+      { "n": 37, "text": "These are the families of the sons of Ephraim according to those who were numbered (counted) of them, 32,500. These are the sons of Joseph after their families." },
+      { "n": 38, "text": "The sons of Benjamin after their families: Of Bela, the family of the Belaites. Of Ashbel, the family of the Ashbelites. Of Ahiram, the family of the Ahiramites." },
+      { "n": 39, "text": "Of Shupham, the family of the Shuphamites. Of Hupham, the family of the Huphamites." },
+      { "n": 40, "text": "And the sons of Bela were Ard and Naaman: Of Ard, the family of the Ardites. And of Naaman, the family of the Naamites." },
+      { "n": 41, "text": "These are the sons of Benjamin after their families. And those who were numbered (counted) of them were 45,600." },
+      { "n": 42, "text": "These are the sons of Dan after their families: Of Shuham, the family of the Shuhamites. These are the families of Dan after their families." },
+      { "n": 43, "text": "All the families of the Shuhamites, according to those who were numbered (counted) of them, were 64,400." },
+      { "n": 44, "text": "Of the children of Asher after their families: Of Jimna, the family of the Jimnites. Of Jesui, the family of the Jesuites. Of Beriah, the family of the Beriites." },
+      { "n": 45, "text": "Of the sons of Beriah: Of Heber, the family of the Heberites. Of Malchiel, the family of the Malchielites." },
+      { "n": 46, "text": "And the name of the daughter of Asher was Sarah." },
+      { "n": 47, "text": "These are the families of the sons of Asher according to those who were numbered (counted) of them, who were 53,400." },
+      { "n": 48, "text": "Of the sons of Naphtali after their families: Of Jahzeel, the family of the Jahzeelites. Of Guni, the family of the Gunites." },
+      { "n": 49, "text": "Of Jezer, the family of the Jezerites. Of Shillem, the family of the Shillemites." },
+      { "n": 50, "text": "These are the families of Naphtali according to their families. And those who were numbered (counted) of them were 45,400." },
+      { "n": 51, "text": "These were the numbered (counted) of the children of Israel, 601,730." },
+      { "n": 52, "text": "And the LORD spoke to Moses, saying:" },
+      { "n": 53, "text": "To these the land shall be divided for an inheritance (property to keep) according to the number of names." },
+      { "n": 54, "text": "To many you shall give the more inheritance (property), and to few you shall give the less inheritance (property). To every one shall his inheritance (property) be given according to those who were numbered (counted) of him." },
+      { "n": 55, "text": "Notwithstanding (but) the land shall be divided by lot (drawing lots, a kind of dice). According to the names of the tribes of their fathers they shall inherit." },
+      { "n": 56, "text": "According to the lot (drawing lots) shall the possession (property) be divided between many and few." },
+      { "n": 57, "text": "And these are those who were numbered (counted) of the Levites after their families: Of Gershon, the family of the Gershonites. Of Kohath, the family of the Kohathites. Of Merari, the family of the Merarites." },
+      { "n": 58, "text": "These are the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites. And Kohath begat (became the father of) Amram." },
+      { "n": 59, "text": "And the name of Amram's wife was Jochebed, the daughter of Levi, whom her mother bare (gave birth) to Levi in Egypt. And Jochebed bare (gave birth) to Amram Aaron and Moses, and Miriam their sister." },
+      { "n": 60, "text": "And to Aaron was born Nadab, and Abihu, Eleazar, and Ithamar." },
+      { "n": 61, "text": "And Nadab and Abihu died, when they offered strange fire (fire God did not command) before the LORD." },
+      { "n": 62, "text": "And those who were numbered (counted) of them were 23,000, all males from a month old and upward. For they were not numbered (counted) among the children of Israel, because there was no inheritance (property) given them among the children of Israel." },
+      { "n": 63, "text": "These are those who were numbered (counted) by Moses and Eleazar the priest, who numbered (counted) the children of Israel in the plains of Moab by the Jordan near Jericho." },
+      { "n": 64, "text": "But among these there was not a man of those whom Moses and Aaron the priest numbered (counted), when they numbered (counted) the children of Israel in the wilderness (desert) of Sinai." },
+      { "n": 65, "text": "For the LORD had said of them: They shall surely die in the wilderness (desert). And there was not left a man of them, save (except) Caleb the son of Jephunneh, and Joshua the son of Nun." }
+    ]
   }
 }
