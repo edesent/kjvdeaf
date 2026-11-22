@@ -985,135 +985,42 @@
   },
   "20": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Early that Sunday morning Mary Magdalene went to the tomb where Jesus was buried. It was still dark but she saw that someone had rolled away the stone that had been in front of the tomb."
-      },
-      {
-        "n": 2,
-        "text": "Mary Magdalene ran to Simon Peter and to another disciple, John, that Jesus loved very much. Mary told Peter and John: Someone has taken away the Lord's body from the tomb and we do not know where they have put Him."
-      },
-      {
-        "n": 3,
-        "text": "Peter and John went to the tomb."
-      },
-      {
-        "n": 4,
-        "text": "Peter and John ran to the tomb but John ran faster than Peter and John got there first."
-      },
-      {
-        "n": 5,
-        "text": "John bowed over and looked into the tomb. He saw the pieces of cloth that were lying there but he did not go into the tomb."
-      },
-      {
-        "n": 6,
-        "text": "Then Simon Peter also came there. Peter went into the tomb and he saw the long pieces of cloth."
-      },
-      {
-        "n": 7,
-        "text": "Peter also saw the cloth that had been around Jesus' head. The cloth was folded and it was not in the same place as the other cloths."
-      },
-      {
-        "n": 8,
-        "text": "Then John who came to the tomb first went into the tomb. John saw that Jesus' body was not there and John believed."
-      },
-      {
-        "n": 9,
-        "text": "At that time the disciples did not understand the Old Testament where it says that Jesus will live again."
-      },
-      {
-        "n": 10,
-        "text": "Peter and John went back home."
-      },
-      {
-        "n": 11,
-        "text": "Mary stood outside the tomb, crying. While she was crying, she bent down and looked inside the tomb."
-      },
-      {
-        "n": 12,
-        "text": "Mary saw two angels. They had white clothes. They were sitting where Jesus' body had been before. One angel sat where Jesus' head had been and the other angel sat where His feet had been."
-      },
-      {
-        "n": 13,
-        "text": "The angels asked Mary: Why are you crying? Mary said: They have taken away my Lord's body and I do not know where they have put Jesus."
-      },
-      {
-        "n": 14,
-        "text": "After Mary had said this, Mary looked back and she saw Jesus. Jesus was standing there, but she did not know that it was Jesus."
-      },
-      {
-        "n": 15,
-        "text": "Jesus said to her: Why are you crying? Who are you looking for? Mary thought that it was the man who worked in the garden and Mary asked Him: Sir, have You taken away my Lord's body? If You took Him, please tell me where You put my Lord so I can go and get Him."
-      },
-      {
-        "n": 16,
-        "text": "Jesus said to her: Mary. Then Mary turned to Jesus and said: Rabboni. (Rabboni is a Hebrew word that means: My Lord)."
-      },
-      {
-        "n": 17,
-        "text": "Jesus said to her: Do not hold Me. I have to go to my Father in heaven. You must go back to my brothers, the disciples. Go and tell them that I am going to my Father and my God. He is also your Father and your God now."
-      },
-      {
-        "n": 18,
-        "text": "Mary Magdalene told the disciples: I have seen the Lord. Mary told them what Jesus had said to her."
-      },
-      {
-        "n": 19,
-        "text": "That Sunday evening, the first day of the week, the disciples were together. All the doors were closed and locked because they were afraid of the Jewish leaders. Suddenly, Jesus was standing there among them. He said: Peace be with you."
-      },
-      {
-        "n": 20,
-        "text": "After Jesus had said this, Jesus showed the disciples His hands and the side of His body where the soldier had pierced Him with his spear. The disciples were very happy when they saw the Lord."
-      },
-      {
-        "n": 21,
-        "text": "Again Jesus said to them: I give you my peace. The Father has sent Me. Now I send you."
-      },
-      {
-        "n": 22,
-        "text": "After Jesus had said this, Jesus breathed on them and said: I give you the Holy Spirit."
-      },
-      {
-        "n": 23,
-        "text": "If you forgive the sins of anyone, their sins are forgiven. If there is anyone whose sins you do not forgive, their sins are not forgiven."
-      },
-      {
-        "n": 24,
-        "text": "Thomas, one of the twelve disciples, also had another name. His other name was Didymus. He was not with the other disciples when Jesus appeared to them."
-      },
-      {
-        "n": 25,
-        "text": "Later the disciples told Thomas: We have seen the Lord. Thomas said to them: No, I do not believe it. I will believe only when I see the wounds in Jesus' hands where the nails were and when I can put my finger into those wounds. I will believe only when I can put my hand into the wound on the side of Jesus' body."
-      },
-      {
-        "n": 26,
-        "text": "Eight days later the disciples were together again and Thomas was with them. The doors were locked, but Jesus came and He stood in front of them. He said to them: I give my peace to you."
-      },
-      {
-        "n": 27,
-        "text": "Then Jesus said to Thomas: Come, put your finger into my wounds and look at my hands. Come and put your hand into the wound on the side of my body. Do not doubt. You must believe."
-      },
-      {
-        "n": 28,
-        "text": "Thomas said to Jesus: You are my Lord and my God."
-      },
-      {
-        "n": 29,
-        "text": "Jesus said to Thomas: Thomas, you believe because you see me. Great blessings belong to the people who believe without seeing me."
-      },
-      {
-        "n": 30,
-        "text": "Jesus did a lot of other miracles that the disciples saw, but those miracles are not written in this book."
-      },
-      {
-        "n": 31,
-        "text": "The miracles that you read about in this book are written so that you can believe in Jesus Christ, the Son of God. If you believe in Him, you will have eternal life because you belong to Him."
-      }
+      { "n": 1, "text": "The first day of the week Mary Magdalene comes early, when it was yet dark, to the sepulchre (tomb), and sees the stone taken away from the sepulchre." },
+      { "n": 2, "text": "Then she runs, and comes to Simon Peter, and to the other disciple, whom Jesus loved, and says to them: They have taken away the Lord out of the sepulchre (tomb), and we do not know where they have laid Him." },
+      { "n": 3, "text": "Peter therefore went forth, and that other disciple, and came to the sepulchre (tomb)." },
+      { "n": 4, "text": "So they both ran together. And the other disciple outran Peter, and came first to the sepulchre (tomb)." },
+      { "n": 5, "text": "And he, stooping down, and looking in, saw the linen clothes lying. Yet he did not go in." },
+      { "n": 6, "text": "Then Simon Peter comes following him, and went into the sepulchre (tomb), and sees the linen clothes lying," },
+      { "n": 7, "text": "And the napkin (cloth), that was about His head, not lying with the linen clothes, but wrapped together in a place by itself." },
+      { "n": 8, "text": "Then that other disciple, who came first to the sepulchre (tomb), went in also, and he saw, and believed." },
+      { "n": 9, "text": "For as yet they did not know the scripture, that He must rise again from the dead." },
+      { "n": 10, "text": "Then the disciples went away again to their own home." },
+      { "n": 11, "text": "But Mary stood outside at the sepulchre (tomb) weeping. And as she wept, she stooped down, and looked into the sepulchre," },
+      { "n": 12, "text": "And sees 2 angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain." },
+      { "n": 13, "text": "And they say to her: Woman, why do you weep? She says to them: Because they have taken away my Lord, and I do not know where they have laid Him." },
+      { "n": 14, "text": "And when she had said this, she turned herself back, and saw Jesus standing, and did not know that it was Jesus." },
+      { "n": 15, "text": "Jesus says to her: Woman, why do you weep? Whom do you seek (look for)? She, supposing Him to be the gardener, says to Him: Sir, if You have carried Him from here, tell me where You have laid Him, and I will take Him away." },
+      { "n": 16, "text": "Jesus says to her: Mary. She turned herself, and says to Him: Rabboni, which is to say, Master (Teacher)." },
+      { "n": 17, "text": "Jesus says to her: Touch Me not, for I have not yet ascended (gone up) to My Father. But go to My brothers, and say to them: I ascend to My Father, and your Father, and to My God, and your God." },
+      { "n": 18, "text": "Mary Magdalene came and told the disciples that she had seen the Lord, and that He had spoken these things to her." },
+      { "n": 19, "text": "Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled (gathered) for fear of the Jews, Jesus came and stood in the middle, and says to them: Peace be to you." },
+      { "n": 20, "text": "And when Jesus had said this, He showed to them His hands and His side. Then the disciples were glad, when they saw the Lord." },
+      { "n": 21, "text": "Then Jesus said to them again: Peace be to you. As My Father has sent Me, even so I send you." },
+      { "n": 22, "text": "And when Jesus had said this, He breathed on them, and says to them: Receive the Holy Spirit." },
+      { "n": 23, "text": "Whoever's sins you remit (forgive), they are remitted (forgiven) to them. And whoever's sins you retain (hold), they are retained (held)." },
+      { "n": 24, "text": "But Thomas, one of the 12, called Didymus (the Twin), was not with them when Jesus came." },
+      { "n": 25, "text": "The other disciples therefore said to Thomas: We have seen the Lord. But Thomas said to them: Except I see in His hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into His side, I will not believe." },
+      { "n": 26, "text": "And after 8 days again His disciples were inside, and Thomas with them. Then Jesus came, the doors being shut, and stood in the middle, and said: Peace be to you." },
+      { "n": 27, "text": "Then Jesus says to Thomas: Reach here your finger, and look at My hands. And reach here your hand, and thrust it into My side. And be not faithless (doubting), but believing." },
+      { "n": 28, "text": "And Thomas answered and said to Him: My Lord and my God." },
+      { "n": 29, "text": "Jesus says to him: Thomas, because you have seen Me, you have believed. Blessed (happy) are they who have not seen, and yet have believed." },
+      { "n": 30, "text": "And many other signs (miracles) truly Jesus did in the presence of His disciples, which are not written in this book." },
+      { "n": 31, "text": "But these are written, that you might believe that Jesus is the Christ, the Son of God, and that believing you might have life through His name." }
     ],
     "sourceUrl": "https://kjvdeaf.com/john-chapter-20/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed three merged-verse numbering bugs (8/9, 15/16, 20/21) and several typos, including 'jLord' and 'Jesus hrist' in the closing verses.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "21": {
