@@ -2,887 +2,245 @@
   "1": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers the announcements of the births of John the Baptist and Jesus, Mary's visit to Elizabeth and the Magnificat (v46-55), and the birth of John with Zechariah's prophecy (v67-79). V20, v22, and v62 restore that Zechariah was made deaf as well as mute during this period -- the Greek word used for his condition (kophos, v22) is the same word used explicitly of a deaf man in Luke 7:22, and the fact that people had to make signs to Zechariah (v62) rather than simply ask him is the detail multiple scholars and ancient commentators (including Theophylact) point to as confirming this. Most KJV-tradition translations render this as mute alone. V64 was deliberately left as speech-only, since that verse's Greek specifically names the mouth and tongue being restored with no equivalent wording for hearing -- extending 'ears opened' there would go beyond what the text supports, unlike v20/22/62.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Many people have tried to write an account of the events that have been fulfilled among us."
-      },
-      {
-        "n": 2,
-        "text": "These things were handed down to us by those who saw them from the beginning and served as ministers of God's word."
-      },
-      {
-        "n": 3,
-        "text": "So I too decided to write an orderly account for you, most honorable Theophilus, since I have carefully studied everything from the very beginning."
-      },
-      {
-        "n": 4,
-        "text": "I want you to know that the things you were taught are certain and true."
-      },
-      {
-        "n": 5,
-        "text": "In the days when Herod was king of Judea, there was a priest named Zechariah, who belonged to the priestly group of Abijah. His wife Elizabeth was also a descendant of Aaron."
-      },
-      {
-        "n": 6,
-        "text": "Zechariah and Elizabeth were both righteous before God, walking blamelessly in all the Lord's commands and rules."
-      },
-      {
-        "n": 7,
-        "text": "But they had no children, because Elizabeth could not have children, and both of them were now very old."
-      },
-      {
-        "n": 8,
-        "text": "One day Zechariah was serving as priest before God, since it was his group's turn to serve."
-      },
-      {
-        "n": 9,
-        "text": "According to the custom of the priesthood, he was chosen by lot to enter the temple of the Lord and burn incense."
-      },
-      {
-        "n": 10,
-        "text": "The whole crowd of people was praying outside at the time of the incense offering."
-      },
-      {
-        "n": 11,
-        "text": "Then an angel of the Lord appeared to Zechariah, standing at the right side of the incense altar."
-      },
-      {
-        "n": 12,
-        "text": "When Zechariah saw the angel, he was startled and gripped with fear."
-      },
-      {
-        "n": 13,
-        "text": "But the angel said to him: Do not be afraid, Zechariah. Your prayer has been heard. Your wife Elizabeth will give birth to a son, and you must name him John."
-      },
-      {
-        "n": 14,
-        "text": "You will have joy and gladness, and many will rejoice at his birth,"
-      },
-      {
-        "n": 15,
-        "text": "Because he will be great in the sight of the Lord. He will never drink wine or any strong drink, and he will be filled with the Holy Spirit even before he is born."
-      },
-      {
-        "n": 16,
-        "text": "He will turn many of the people of Israel back to the Lord their God."
-      },
-      {
-        "n": 17,
-        "text": "He will go ahead of the Lord with Elijah's spirit and power. He will turn the hearts of fathers back toward their own children. He will lead disobedient people back to the wisdom of righteous people. He will make people ready and prepared for the coming Lord."
-      },
-      {
-        "n": 18,
-        "text": "Zechariah asked the angel: How can I be sure of this? I am an old man, and my wife is well along in years."
-      },
-      {
-        "n": 19,
-        "text": "The angel answered him: I am Gabriel. I stand in the presence of God, and I was sent to speak to you and tell you this good news."
-      },
-      {
-        "n": 20,
-        "text": "Listen: you will be unable to speak until the day these things happen. You did not believe my words. But my words will come true at their appointed time."
-      },
-      {
-        "n": 21,
-        "text": "Meanwhile the people were waiting for Zechariah, wondering why he was staying so long in the temple."
-      },
-      {
-        "n": 22,
-        "text": "When he came out, he could not speak to them or hear them. They realized that he had seen a vision in the temple, because he kept making signs to them but remained unable to speak."
-      },
-      {
-        "n": 23,
-        "text": "When his time of service was over, Zechariah went home."
-      },
-      {
-        "n": 24,
-        "text": "After this, his wife Elizabeth became pregnant, and for five months she stayed in seclusion. She said:"
-      },
-      {
-        "n": 25,
-        "text": "This is what the Lord has done for me. In these days he has shown me favor and taken away my disgrace among the people."
-      },
-      {
-        "n": 26,
-        "text": "In the sixth month, God sent the angel Gabriel to a town in Galilee called Nazareth,"
-      },
-      {
-        "n": 27,
-        "text": "To a virgin who was engaged to a man named Joseph, of the family of David. The virgin's name was Mary."
-      },
-      {
-        "n": 28,
-        "text": "The angel came to her and said: Greetings, favored one! The Lord is with you."
-      },
-      {
-        "n": 29,
-        "text": "Mary was deeply troubled by these words and wondered what kind of greeting this could be."
-      },
-      {
-        "n": 30,
-        "text": "The angel said to her: Do not be afraid, Mary. You have found favor with God."
-      },
-      {
-        "n": 31,
-        "text": "You will become pregnant and give birth to a son, and you must name Him JESUS."
-      },
-      {
-        "n": 32,
-        "text": "He will be great and will be called the Son of the Most High. The Lord God will give Him the throne of His ancestor David,"
-      },
-      {
-        "n": 33,
-        "text": "And He will reign over the house of Jacob forever. His kingdom will never end."
-      },
-      {
-        "n": 34,
-        "text": "Mary asked the angel: How can this happen, since I am a virgin?"
-      },
-      {
-        "n": 35,
-        "text": "The angel answered her: The Holy Spirit will come upon you, and the power of the Most High will overshadow you. So the holy child to be born will be called the Son of God."
-      },
-      {
-        "n": 36,
-        "text": "And listen: your relative Elizabeth is also going to have a son in her old age. She was said to be unable to have children, but she is now in her sixth month."
-      },
-      {
-        "n": 37,
-        "text": "For nothing is impossible with God."
-      },
-      {
-        "n": 38,
-        "text": "Mary said: I am the Lord's servant. May it happen to me just as you have said. Then the angel left her."
-      },
-      {
-        "n": 39,
-        "text": "Soon after this, Mary got ready and hurried to a town in the hill country of Judea."
-      },
-      {
-        "n": 40,
-        "text": "She went into Zechariah's house and greeted Elizabeth."
-      },
-      {
-        "n": 41,
-        "text": "When Elizabeth heard Mary's greeting, the baby leaped inside her, and Elizabeth was filled with the Holy Spirit."
-      },
-      {
-        "n": 42,
-        "text": "She cried out in a loud voice: Blessed are you among women, and blessed is the child you will bear!"
-      },
-      {
-        "n": 43,
-        "text": "But why am I so favored, that the mother of my Lord should come to me?"
-      },
-      {
-        "n": 44,
-        "text": "As soon as I heard the sound of your greeting, the baby inside me leaped for joy."
-      },
-      {
-        "n": 45,
-        "text": "Blessed is she who believed that the Lord would fulfill what He said to her!"
-      },
-      {
-        "n": 46,
-        "text": "Then Mary said: My soul praises the greatness of the Lord,"
-      },
-      {
-        "n": 47,
-        "text": "And my spirit rejoices in God my Savior,"
-      },
-      {
-        "n": 48,
-        "text": "Because He has noticed the humble condition of His servant. From now on, all people will call me blessed,"
-      },
-      {
-        "n": 49,
-        "text": "Because the Mighty One has done great things for me. Holy is His name."
-      },
-      {
-        "n": 50,
-        "text": "His mercy extends to those who fear Him, from one generation to the next."
-      },
-      {
-        "n": 51,
-        "text": "He has done mighty deeds with His arm. He has scattered those who are proud in their inner thoughts."
-      },
-      {
-        "n": 52,
-        "text": "He has brought down rulers from their thrones and lifted up the humble."
-      },
-      {
-        "n": 53,
-        "text": "He has filled the hungry with good things and sent the rich away empty."
-      },
-      {
-        "n": 54,
-        "text": "He has helped His servant Israel, remembering to be merciful,"
-      },
-      {
-        "n": 55,
-        "text": "Just as He promised to our ancestors, to Abraham and His descendants forever."
-      },
-      {
-        "n": 56,
-        "text": "Mary stayed with Elizabeth about three months and then returned home."
-      },
-      {
-        "n": 57,
-        "text": "When it was time for Elizabeth to give birth, she had a son."
-      },
-      {
-        "n": 58,
-        "text": "Her neighbors and relatives heard that the Lord had shown her great mercy, and they shared in her joy."
-      },
-      {
-        "n": 59,
-        "text": "On the eighth day they came to circumcise the child, and they were going to name him Zechariah, after his father."
-      },
-      {
-        "n": 60,
-        "text": "But his mother spoke up and said: No! He is to be named John."
-      },
-      {
-        "n": 61,
-        "text": "They said to her: There is no one among your relatives who has that name."
-      },
-      {
-        "n": 62,
-        "text": "Since Zechariah could not hear, they made signs to him, asking what he wanted to name the child."
-      },
-      {
-        "n": 63,
-        "text": "Zechariah asked for a writing tablet, and to everyone's surprise he wrote: His name is John."
-      },
-      {
-        "n": 64,
-        "text": "At once his mouth was opened and his tongue was set free, and he began to speak, praising God."
-      },
-      {
-        "n": 65,
-        "text": "All the neighbors were filled with awe, and throughout the hill country of Judea people were talking about all these things."
-      },
-      {
-        "n": 66,
-        "text": "Everyone who heard about it wondered, asking: What then will this child become? For the Lord's hand was with him."
-      },
-      {
-        "n": 67,
-        "text": "Then his father Zechariah was filled with the Holy Spirit and prophesied:"
-      },
-      {
-        "n": 68,
-        "text": "Praise be to the Lord, the God of Israel, because He has come to help His people and has set them free."
-      },
-      {
-        "n": 69,
-        "text": "He has raised up a mighty Savior for us in the house of His servant David,"
-      },
-      {
-        "n": 70,
-        "text": "Just as He promised long ago through His holy prophets:"
-      },
-      {
-        "n": 71,
-        "text": "Salvation from our enemies and from the hand of all who hate us,"
-      },
-      {
-        "n": 72,
-        "text": "To show mercy to our ancestors and to remember His holy agreement,"
-      },
-      {
-        "n": 73,
-        "text": "The oath he swore to our father Abraham:"
-      },
-      {
-        "n": 74,
-        "text": "To rescue us from the hand of our enemies, and to enable us to serve Him without fear,"
-      },
-      {
-        "n": 75,
-        "text": "In holiness and righteousness before Him, all our days."
-      },
-      {
-        "n": 76,
-        "text": "And you, my child, will be called a prophet of the Most High, for you will go ahead of the Lord to prepare His way,"
-      },
-      {
-        "n": 77,
-        "text": "To give His people knowledge of salvation through the forgiveness of their sins,"
-      },
-      {
-        "n": 78,
-        "text": "Because of the tender mercy of our God, by which the rising sun will come to us from heaven"
-      },
-      {
-        "n": 79,
-        "text": "To shine on those living in darkness and in the shadow of death, to guide our feet into the path of peace."
-      },
-      {
-        "n": 80,
-        "text": "The child grew up and became strong in spirit. He lived in the desert until the day he appeared publicly to Israel."
-      }
+      { "n": 1, "text": "Since many have taken in hand (set out) to write in order an account of those things which are most surely believed among us," },
+      { "n": 2, "text": "Even as they delivered (handed) them to us, who from the beginning were eyewitnesses, and ministers (servants) of the word," },
+      { "n": 3, "text": "It seemed good to me also, having had perfect understanding of all things from the very first, to write to you in order, most excellent Theophilus," },
+      { "n": 4, "text": "That you might know the certainty (sure truth) of those things in which you have been instructed (taught)." },
+      { "n": 5, "text": "There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course (priest group) of Abia. And his wife was of the daughters of Aaron, and her name was Elisabeth." },
+      { "n": 6, "text": "And they were both righteous (right with God) before God, walking in all the commandments and ordinances (rules) of the Lord blameless (without fault)." },
+      { "n": 7, "text": "And they had no child, because Elisabeth was barren (not able to have children), and they both were now well stricken in years (very old)." },
+      { "n": 8, "text": "And it came to pass (happened), that while Zacharias did the priest's work before God in the order of his course (priest group)," },
+      { "n": 9, "text": "According to the custom of the priest's office, his lot (chosen turn) was to burn incense (sweet-smelling spice) when he went into the temple of the Lord." },
+      { "n": 10, "text": "And the whole multitude (large crowd) of the people were praying outside at the time of incense (sweet-smelling spice)." },
+      { "n": 11, "text": "And there appeared to Zacharias an angel of the Lord standing on the right side of the altar of incense (sweet-smelling spice)." },
+      { "n": 12, "text": "And when Zacharias saw the angel, he was troubled, and fear fell upon him." },
+      { "n": 13, "text": "But the angel said to him: Fear not, Zacharias, for your prayer is heard. And your wife Elisabeth will bear you a son, and you will call his name John." },
+      { "n": 14, "text": "And you will have joy and gladness, and many will rejoice at his birth." },
+      { "n": 15, "text": "For he will be great in the sight of the Lord, and will drink neither wine nor strong drink. And he will be filled with the Holy Spirit, even from his mother's womb." },
+      { "n": 16, "text": "And many of the children of Israel will he turn to the Lord their God." },
+      { "n": 17, "text": "And John will go before Him in the spirit and power of Elias (Elijah), to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just (those who are right with God), to make ready a people prepared for the Lord." },
+      { "n": 18, "text": "And Zacharias said to the angel: How will I know this? For I am an old man, and my wife well stricken in years (very old)." },
+      { "n": 19, "text": "And the angel answering said to him: I am Gabriel, who stands in the presence of God. And I am sent to speak to you, and to show you these glad tidings (good news)." },
+      { "n": 20, "text": "And look, you will be silent, and not able to speak, until the day that these things will be performed (done), because you do not believe my words, which will be fulfilled (come true) in their season (time)." },
+      { "n": 21, "text": "And the people waited for Zacharias, and marvelled (were amazed) that he tarried (stayed) so long in the temple." },
+      { "n": 22, "text": "And when Zacharias came out, he could not speak to them. And they perceived (understood) that he had seen a vision in the temple. For he beckoned (made signs) to them, and remained speechless (unable to speak)." },
+      { "n": 23, "text": "And it came to pass (happened), that, as soon as the days of his ministration (temple service) were finished, he departed to his own house." },
+      { "n": 24, "text": "And after those days his wife Elisabeth conceived (became pregnant), and hid herself 5 months, saying:" },
+      { "n": 25, "text": "The Lord has dealt with me this way in the days in which He looked on me, to take away my reproach (shame) among men." },
+      { "n": 26, "text": "And in the sixth month the angel Gabriel was sent from God to a city of Galilee, named Nazareth," },
+      { "n": 27, "text": "To a virgin espoused (promised in marriage) to a man whose name was Joseph, of the house of David. And the virgin's name was Mary." },
+      { "n": 28, "text": "And the angel came in to her, and said: Hail (greetings), you who are highly favoured (shown great kindness), the Lord is with you. Blessed are you among women." },
+      { "n": 29, "text": "And when Mary saw the angel, she was troubled at his saying, and cast in her mind (wondered) what kind of salutation (greeting) this should be." },
+      { "n": 30, "text": "And the angel said to her: Fear not, Mary, for you have found favour with God." },
+      { "n": 31, "text": "And look, you will conceive (become pregnant) in your womb, and bring forth a Son, and will call His name JESUS." },
+      { "n": 32, "text": "He will be great, and will be called the Son of the Highest. And the Lord God will give to Him the throne of His father David." },
+      { "n": 33, "text": "And He will reign over the house of Jacob for ever, and of His kingdom there will be no end." },
+      { "n": 34, "text": "Then Mary said to the angel: How will this be, since I know not a man (I have never been with a man)?" },
+      { "n": 35, "text": "And the angel answered and said to her: The Holy Spirit will come upon you, and the power of the Highest will overshadow (cover) you. Therefore also that holy thing (holy Child) which will be born of you will be called the Son of God." },
+      { "n": 36, "text": "And look, your cousin Elisabeth, she has also conceived (become pregnant with) a son in her old age. And this is the sixth month with her, who was called barren (not able to have children)." },
+      { "n": 37, "text": "For with God nothing will be impossible." },
+      { "n": 38, "text": "And Mary said: Look, I am the handmaid (servant girl) of the Lord. Let it be to me according to your word. And the angel departed from her." },
+      { "n": 39, "text": "And Mary arose in those days, and went into the hill country with haste (quickly), into a city of Juda (Judah)," },
+      { "n": 40, "text": "And entered into the house of Zacharias, and saluted (greeted) Elisabeth." },
+      { "n": 41, "text": "And it came to pass (happened), that, when Elisabeth heard the salutation (greeting) of Mary, the babe (baby) leaped in her womb. And Elisabeth was filled with the Holy Spirit." },
+      { "n": 42, "text": "And Elisabeth spoke out with a loud voice, and said: Blessed are you among women, and blessed is the fruit of your womb." },
+      { "n": 43, "text": "And why is this given to me, that the mother of my Lord should come to me?" },
+      { "n": 44, "text": "For look, as soon as the voice of your salutation (greeting) sounded in my ears, the babe (baby) leaped in my womb for joy." },
+      { "n": 45, "text": "And blessed (happy) is she who believed. For there will be a performance (doing) of those things which were told her from the Lord." },
+      { "n": 46, "text": "And Mary said: My soul magnifies (praises) the Lord," },
+      { "n": 47, "text": "And my spirit has rejoiced in God my Savior." },
+      { "n": 48, "text": "For He has regarded (looked upon) the low estate (lowly place) of His handmaiden (servant girl). For look, from now on all generations (people of all times) will call me blessed (happy)." },
+      { "n": 49, "text": "For He who is mighty has done to me great things, and holy is His name." },
+      { "n": 50, "text": "And His mercy is on them who fear Him from generation to generation." },
+      { "n": 51, "text": "He has shown strength with His arm. He has scattered the proud in the imagination (thoughts) of their hearts." },
+      { "n": 52, "text": "He has put down the mighty from their seats, and exalted (lifted up) them of low degree (lowly people)." },
+      { "n": 53, "text": "He has filled the hungry with good things, and the rich He has sent away empty." },
+      { "n": 54, "text": "He has holpen (helped) His servant Israel, in remembrance of His mercy," },
+      { "n": 55, "text": "As He spoke to our fathers, to Abraham, and to his seed (children) for ever." },
+      { "n": 56, "text": "And Mary abode (stayed) with Elisabeth about 3 months, and returned to her own house." },
+      { "n": 57, "text": "Now Elisabeth's full time came that she should be delivered (give birth). And she brought forth a son." },
+      { "n": 58, "text": "And her neighbours and her cousins heard how the Lord had shown great mercy upon her, and they rejoiced with her." },
+      { "n": 59, "text": "And it came to pass (happened), that on the eighth day they came to circumcise (cut the foreskin of) the child. And they called him Zacharias, after the name of his father." },
+      { "n": 60, "text": "And his mother answered and said: Not so, but he will be called John." },
+      { "n": 61, "text": "And they said to her: There is none of your kindred (relatives) who is called by this name." },
+      { "n": 62, "text": "And they made signs to his father, to ask how he would have him called." },
+      { "n": 63, "text": "And Zacharias asked for a writing table (writing tablet), and wrote, saying: His name is John. And they all marvelled (were amazed)." },
+      { "n": 64, "text": "And his mouth was opened immediately, and his tongue loosed (set free), and he spoke, and praised God." },
+      { "n": 65, "text": "And fear came on all who dwelt (lived) round about them. And all these sayings were noised abroad (told all around) throughout all the hill country of Judaea." },
+      { "n": 66, "text": "And all they who heard them laid them up (kept them) in their hearts, saying: What kind of child will this be? And the hand of the Lord was with him." },
+      { "n": 67, "text": "And his father Zacharias was filled with the Holy Spirit, and prophesied (spoke God's message), saying:" },
+      { "n": 68, "text": "Blessed be the Lord God of Israel, for He has visited and redeemed (bought back and set free) His people," },
+      { "n": 69, "text": "And has raised up a horn (mighty power) of salvation (saving) for us in the house of His servant David," },
+      { "n": 70, "text": "As He spoke by the mouth of His holy prophets, who have been since the world began," },
+      { "n": 71, "text": "That we should be saved from our enemies, and from the hand of all who hate us," },
+      { "n": 72, "text": "To perform the mercy promised to our fathers, and to remember His holy agreement," },
+      { "n": 73, "text": "The oath (promise) which He swore to our father Abraham," },
+      { "n": 74, "text": "That He would grant to us, that we, being delivered (rescued) out of the hand of our enemies, might serve Him without fear," },
+      { "n": 75, "text": "In holiness and righteousness (being right with God) before Him, all the days of our life." },
+      { "n": 76, "text": "And you, child, will be called the prophet of the Highest. For you will go before the face of the Lord to prepare His ways," },
+      { "n": 77, "text": "To give knowledge of salvation (saving) to His people by the remission (forgiveness) of their sins," },
+      { "n": 78, "text": "Through the tender mercy of our God, by which the dayspring (sunrise) from on high has visited us," },
+      { "n": 79, "text": "To give light to them who sit in darkness and in the shadow of death, to guide our feet into the way of peace." },
+      { "n": 80, "text": "And the child grew, and waxed (grew) strong in spirit, and was in the deserts till the day of his showing to Israel." }
     ]
   },
   "2": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers the birth of Jesus, the shepherds' visit, the presentation at the temple with Simeon and Anna, and the boy Jesus in the temple at age twelve.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "In those days Caesar Augustus sent out an order that a census should be taken of everyone in the Roman world."
-      },
-      {
-        "n": 2,
-        "text": "This first census took place while Quirinius was governor of Syria."
-      },
-      {
-        "n": 3,
-        "text": "Everyone went to their own town to be registered."
-      },
-      {
-        "n": 4,
-        "text": "So Joseph also went up from the town of Nazareth in Galilee. He went to Judea, to Bethlehem, the town of David. Joseph belonged to the house and family line of David."
-      },
-      {
-        "n": 5,
-        "text": "He went there to be registered with Mary, who was pledged to be married to him and was expecting a child."
-      },
-      {
-        "n": 6,
-        "text": "While they were there, the time came for the baby to be born,"
-      },
-      {
-        "n": 7,
-        "text": "And Mary gave birth to her firstborn son. She wrapped him in cloths and laid him in a manger, because there was no room for them in the guest room."
-      },
-      {
-        "n": 8,
-        "text": "That night, in the fields nearby, there were shepherds staying out and keeping watch over their flock."
-      },
-      {
-        "n": 9,
-        "text": "An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were terrified."
-      },
-      {
-        "n": 10,
-        "text": "But the angel said to them: Do not be afraid. I bring you good news that will cause great joy for all the people."
-      },
-      {
-        "n": 11,
-        "text": "Today in the town of David a Savior has been born to you. He is the Messiah, the Lord."
-      },
-      {
-        "n": 12,
-        "text": "This will be a sign to you: you will find a baby wrapped in cloths and lying in a manger."
-      },
-      {
-        "n": 13,
-        "text": "Suddenly a great company of the heavenly host appeared with the angel, praising God and saying:"
-      },
-      {
-        "n": 14,
-        "text": "Glory to God in the highest heaven, and on earth peace to those on whom his favor rests."
-      },
-      {
-        "n": 15,
-        "text": "When the angels had left them and gone back to heaven, the shepherds said to one another: Let us go to Bethlehem. Let us see this thing that has happened, the thing the Lord has told us about."
-      },
-      {
-        "n": 16,
-        "text": "So they hurried off and found Mary and Joseph, and the baby lying in the manger."
-      },
-      {
-        "n": 17,
-        "text": "When they had seen him, they spread the word about what they had been told concerning this child,"
-      },
-      {
-        "n": 18,
-        "text": "And everyone who heard it was amazed at what the shepherds said to them."
-      },
-      {
-        "n": 19,
-        "text": "But Mary treasured up all these things and thought deeply about them."
-      },
-      {
-        "n": 20,
-        "text": "The shepherds returned, glorifying and praising God for all the things they had heard and seen, just as they had been told."
-      },
-      {
-        "n": 21,
-        "text": "On the eighth day, when it was time to circumcise the child, He was named Jesus, the name the angel had given Him before He was conceived."
-      },
-      {
-        "n": 22,
-        "text": "When the time came for the purification rites required by the Law of Moses, Joseph and Mary took him to Jerusalem to present him to the Lord,"
-      },
-      {
-        "n": 23,
-        "text": "As it is written in the Law of the Lord: Every firstborn male is to be dedicated to the Lord."
-      },
-      {
-        "n": 24,
-        "text": "They also offered a sacrifice in keeping with what is said in the Law of the Lord: a pair of doves or two young pigeons."
-      },
-      {
-        "n": 25,
-        "text": "Now there was a man in Jerusalem named Simeon. He was righteous and devout, and he was waiting for the comfort of Israel. The Holy Spirit was on him,"
-      },
-      {
-        "n": 26,
-        "text": "And it had been revealed to him by the Holy Spirit that he would not die before he had seen the Lord's Messiah."
-      },
-      {
-        "n": 27,
-        "text": "Led by the Spirit, Simeon went into the temple courts. When the parents brought in the child Jesus to do for Him what the custom of the Law required,"
-      },
-      {
-        "n": 28,
-        "text": "Simeon took Him in his arms and praised God, saying:"
-      },
-      {
-        "n": 29,
-        "text": "Lord, now let your servant depart in peace, as you have promised."
-      },
-      {
-        "n": 30,
-        "text": "For my eyes have seen your salvation,"
-      },
-      {
-        "n": 31,
-        "text": "Which you have prepared in the sight of all people."
-      },
-      {
-        "n": 32,
-        "text": "A light to reveal you to the nations, and the glory of your people Israel."
-      },
-      {
-        "n": 33,
-        "text": "Joseph and the child's mother were amazed at what was said about Him."
-      },
-      {
-        "n": 34,
-        "text": "Simeon blessed them. He said to Mary, his mother: This child is destined to cause the fall and rise of many in Israel. He will be a sign that many will speak against."
-      },
-      {
-        "n": 35,
-        "text": "This will reveal the thoughts of many hearts. And a sword will pierce your own soul too."
-      },
-      {
-        "n": 36,
-        "text": "There was also a prophet named Anna, the daughter of Phanuel, of the tribe of Asher. She was very old. She had been married seven years,"
-      },
-      {
-        "n": 37,
-        "text": "And then was a widow until she was eighty-four. She never left the temple, but worshiped night and day, fasting and praying."
-      },
-      {
-        "n": 38,
-        "text": "She came up at that very moment and began to give thanks to God. She spoke about the child to all who were waiting for the redemption of Jerusalem."
-      },
-      {
-        "n": 39,
-        "text": "When Joseph and Mary had done everything required by the Law of the Lord, they returned to Galilee, to their own town of Nazareth."
-      },
-      {
-        "n": 40,
-        "text": "The child grew and became strong. He was filled with wisdom, and the grace of God was on Him."
-      },
-      {
-        "n": 41,
-        "text": "Every year Jesus' parents went to Jerusalem for the Festival of the Passover."
-      },
-      {
-        "n": 42,
-        "text": "When he was twelve years old, they went up to the festival as usual."
-      },
-      {
-        "n": 43,
-        "text": "After the festival was over, while his parents were returning home, the boy Jesus stayed behind in Jerusalem, but they were not aware of it."
-      },
-      {
-        "n": 44,
-        "text": "Thinking he was among the group of travelers, they traveled on for a day. Then they began looking for him among their relatives and friends."
-      },
-      {
-        "n": 45,
-        "text": "When they did not find him, they went back to Jerusalem to look for him."
-      },
-      {
-        "n": 46,
-        "text": "After three days they found him in the temple courts, sitting among the teachers, listening to them and asking them questions."
-      },
-      {
-        "n": 47,
-        "text": "Everyone who heard him was amazed at his understanding and his answers."
-      },
-      {
-        "n": 48,
-        "text": "When his parents saw him, they were astonished. His mother said to him: Son, why have You treated us like this? Your father and I have been anxiously looking for You."
-      },
-      {
-        "n": 49,
-        "text": "Why were you searching for me? he asked. Did you not know that I had to be in my Father's house?"
-      },
-      {
-        "n": 50,
-        "text": "But they did not understand what He meant."
-      },
-      {
-        "n": 51,
-        "text": "Then He went down to Nazareth with them and was obedient to them. His mother treasured all these things in her heart."
-      },
-      {
-        "n": 52,
-        "text": "Jesus grew in wisdom and stature, and in favor with God and people."
-      }
+      { "n": 1, "text": "And it came to pass (happened) in those days, that there went out a decree (order) from Caesar Augustus, that all the world should be taxed (listed for taxes)." },
+      { "n": 2, "text": "And this taxing was first made when Cyrenius was governor of Syria." },
+      { "n": 3, "text": "And all went to be taxed (listed for taxes), every one into his own city." },
+      { "n": 4, "text": "And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, to the city of David, which is called Bethlehem, because he was of the house and lineage (family line) of David," },
+      { "n": 5, "text": "To be taxed (listed for taxes) with Mary his espoused (promised) wife, being great with child (far along in pregnancy)." },
+      { "n": 6, "text": "And so it was, that, while they were there, the days were accomplished (completed) that Mary should be delivered (give birth)." },
+      { "n": 7, "text": "And Mary brought forth her firstborn Son, and wrapped Him in swaddling clothes (strips of cloth), and laid Him in a manger (animal feeding box), because there was no room for them in the inn." },
+      { "n": 8, "text": "And there were in the same country shepherds abiding (staying) in the field, keeping watch over their flock by night." },
+      { "n": 9, "text": "And look, the angel of the Lord came upon them, and the glory of the Lord shone round about them. And they were sore (very) afraid." },
+      { "n": 10, "text": "And the angel said to them: Fear not, for look, I bring you good tidings (news) of great joy, which will be to all people." },
+      { "n": 11, "text": "For to you is born this day in the city of David a Savior, who is Christ the Lord." },
+      { "n": 12, "text": "And this will be a sign to you: You will find the babe (baby) wrapped in swaddling clothes (strips of cloth), lying in a manger (animal feeding box)." },
+      { "n": 13, "text": "And suddenly there was with the angel a multitude (large crowd) of the heavenly host (army of angels) praising God, and saying:" },
+      { "n": 14, "text": "Glory to God in the highest, and on earth peace, good will toward men." },
+      { "n": 15, "text": "And it came to pass (happened), as the angels had gone away from them into heaven, the shepherds said one to another: Let us now go even to Bethlehem, and see this thing which has come to pass, which the Lord has made known to us." },
+      { "n": 16, "text": "And they came with haste (quickly), and found Mary, and Joseph, and the babe (baby) lying in a manger (animal feeding box)." },
+      { "n": 17, "text": "And when they had seen it, they made known abroad the saying which was told them about this Child." },
+      { "n": 18, "text": "And all they who heard it wondered at those things which were told them by the shepherds." },
+      { "n": 19, "text": "But Mary kept all these things, and pondered (thought deeply about) them in her heart." },
+      { "n": 20, "text": "And the shepherds returned, glorifying (giving honor to) and praising God for all the things that they had heard and seen, as it was told to them." },
+      { "n": 21, "text": "And when 8 days were accomplished (completed) for the circumcising (cutting the foreskin) of the Child, His name was called JESUS, which was so named by the angel before He was conceived in the womb." },
+      { "n": 22, "text": "And when the days of Mary's purification (being made clean) according to the law of Moses were accomplished (completed), they brought Jesus to Jerusalem, to present Him to the Lord," },
+      { "n": 23, "text": "As it is written in the law of the Lord: Every male that opens the womb (every firstborn son) will be called holy to the Lord," },
+      { "n": 24, "text": "And to offer a sacrifice according to that which is said in the law of the Lord: A pair of turtledoves (doves), or 2 young pigeons." },
+      { "n": 25, "text": "And look, there was a man in Jerusalem, whose name was Simeon. And the same man was just (right with God) and devout (faithful to God), waiting for the consolation (comfort) of Israel. And the Holy Spirit was upon him." },
+      { "n": 26, "text": "And it was revealed (shown) to Simeon by the Holy Spirit, that he would not see death, before he had seen the Lord's Christ." },
+      { "n": 27, "text": "And Simeon came by the Spirit into the temple. And when the parents brought in the Child Jesus, to do for Him after the custom of the law," },
+      { "n": 28, "text": "Then Simeon took Him up in his arms, and blessed God, and said:" },
+      { "n": 29, "text": "Lord, now You let Your servant depart (die) in peace, according to Your word." },
+      { "n": 30, "text": "For my eyes have seen Your salvation (saving)," },
+      { "n": 31, "text": "Which You have prepared before the face of all people," },
+      { "n": 32, "text": "A light to lighten the Gentiles (people who are not Jews), and the glory of Your people Israel." },
+      { "n": 33, "text": "And Joseph and His mother marvelled (were amazed) at those things which were spoken of Him." },
+      { "n": 34, "text": "And Simeon blessed them, and said to Mary His mother: Look, this Child is set for the fall and rising again of many in Israel, and for a sign which will be spoken against." },
+      { "n": 35, "text": "Yes, a sword will pierce through your own soul also, that the thoughts of many hearts may be revealed (shown)." },
+      { "n": 36, "text": "And there was one Anna, a prophetess (woman who spoke God's message), the daughter of Phanuel, of the tribe of Aser (Asher). She was of a great age, and had lived with a husband 7 years from her virginity (after she married)." },
+      { "n": 37, "text": "And she was a widow of about 84 years, who did not depart from the temple, but served God with fastings (going without food) and prayers night and day." },
+      { "n": 38, "text": "And Anna, coming in that instant, gave thanks likewise to the Lord, and spoke of Him to all them who looked for redemption (being bought back and set free) in Jerusalem." },
+      { "n": 39, "text": "And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth." },
+      { "n": 40, "text": "And the Child grew, and waxed (grew) strong in spirit, filled with wisdom. And the grace of God was upon Him." },
+      { "n": 41, "text": "Now His parents went to Jerusalem every year at the feast of the passover (feast of freedom from Egypt)." },
+      { "n": 42, "text": "And when Jesus was 12 years old, they went up to Jerusalem after the custom of the feast." },
+      { "n": 43, "text": "And when they had fulfilled (finished) the days, as they returned, the Child Jesus tarried (stayed) behind in Jerusalem. And Joseph and His mother did not know of it." },
+      { "n": 44, "text": "But they, supposing Him to have been in the company (group of travelers), went a day's journey. And they sought (looked for) Him among their kinsfolk (relatives) and acquaintance (friends)." },
+      { "n": 45, "text": "And when they did not find Him, they turned back again to Jerusalem, seeking (looking for) Him." },
+      { "n": 46, "text": "And it came to pass (happened), that after 3 days they found Him in the temple, sitting in the middle of the doctors (teachers of the law), both hearing them, and asking them questions." },
+      { "n": 47, "text": "And all who heard Him were astonished (amazed) at His understanding and answers." },
+      { "n": 48, "text": "And when they saw Him, they were amazed. And His mother said to Him: Son, why have You dealt with us like this? Look, Your father and I have sought (looked for) You sorrowing (full of worry)." },
+      { "n": 49, "text": "And Jesus said to them: How is it that you sought (looked for) Me? Did you not know that I must be about My Father's business?" },
+      { "n": 50, "text": "And they did not understand the saying which He spoke to them." },
+      { "n": 51, "text": "And Jesus went down with them, and came to Nazareth, and was subject (obedient) to them. But His mother kept all these sayings in her heart." },
+      { "n": 52, "text": "And Jesus increased in wisdom and stature (height), and in favour with God and man." }
     ]
   },
   "3": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers John the Baptist's preaching and practical ethical instructions (v7-14), his imprisonment by Herod, Jesus' baptism, and Luke's genealogy of Jesus traced back through David to Adam.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "These events began during the fifteenth year of Emperor Tiberius Caesar's reign. Pontius Pilate served as the Roman governor over all of Judea. King Herod governed Galilee, while his brother Philip ruled nearby northern regions. Meanwhile, another ruler named Lysanias governed the district called Abilene."
-      },
-      {
-        "n": 2,
-        "text": "During the time when Annas and Caiaphas were high priests, the word of God came to John son of Zechariah in the desert."
-      },
-      {
-        "n": 3,
-        "text": "John went into all the country around the Jordan River, preaching a baptism of repentance for the forgiveness of sins."
-      },
-      {
-        "n": 4,
-        "text": "This fulfilled what was written in the book of the prophet Isaiah: A voice is calling out in the desert: Prepare the way for the Lord. Make His paths straight."
-      },
-      {
-        "n": 5,
-        "text": "Every valley will be filled in, and every mountain and hill will be made low. The crooked roads will be made straight, and the rough ways will be made smooth."
-      },
-      {
-        "n": 6,
-        "text": "And everyone will see God's salvation."
-      },
-      {
-        "n": 7,
-        "text": "John said to the crowds coming out to be baptized by him: You brood of snakes! Who warned you to flee from the coming anger?"
-      },
-      {
-        "n": 8,
-        "text": "Produce fruit that shows you have changed your hearts. And do not begin to say to yourselves: We have Abraham as our father. I tell you, God can raise up children for Abraham even from these stones."
-      },
-      {
-        "n": 9,
-        "text": "Even now the ax is lying at the root of the trees. Every tree that does not produce good fruit will be cut down and thrown into the fire."
-      },
-      {
-        "n": 10,
-        "text": "The people asked him: Then what should we do?"
-      },
-      {
-        "n": 11,
-        "text": "John answered them: Anyone who has two coats should share with the one who has none, and anyone who has food should do the same."
-      },
-      {
-        "n": 12,
-        "text": "Even tax collectors came to be baptized, and they asked him: Teacher, what should we do?"
-      },
-      {
-        "n": 13,
-        "text": "He told them: Do not collect any more than you are required to."
-      },
-      {
-        "n": 14,
-        "text": "Then some soldiers asked him: And what should we do? He told them: Do not take money from anyone by force or false accusation. Be content with your pay."
-      },
-      {
-        "n": 15,
-        "text": "The people were waiting expectantly, and everyone wondered in their hearts whether John might be the Messiah."
-      },
-      {
-        "n": 16,
-        "text": "John answered them all: I baptize you with water, but someone more powerful than I is coming, whose sandal straps I am not worthy to untie. He will baptize you with the Holy Spirit and with fire."
-      },
-      {
-        "n": 17,
-        "text": "His winnowing fork is in His hand. He will clear His threshing floor. He will gather the wheat into His barn. But He will burn up the chaff with fire that never goes out."
-      },
-      {
-        "n": 18,
-        "text": "With many other words John appealed to the people, preaching the good news to them."
-      },
-      {
-        "n": 19,
-        "text": "But when John rebuked Herod the ruler because of Herodias, his brother's wife, and because of all the other evil things Herod had done,"
-      },
-      {
-        "n": 20,
-        "text": "Herod added this to everything else: he locked John up in prison."
-      },
-      {
-        "n": 21,
-        "text": "When all the people were being baptized, Jesus was baptized too. As He was praying, heaven was opened,"
-      },
-      {
-        "n": 22,
-        "text": "And the Holy Spirit came down on Him in bodily form like a dove. A voice came from heaven: You are my Son, whom I love. I am very pleased with You."
-      },
-      {
-        "n": 23,
-        "text": "Jesus was about thirty years old when He began His ministry. He was thought to be the son of Joseph, the son of Heli,"
-      },
-      {
-        "n": 24,
-        "text": "The son of Matthat, the son of Levi, the son of Melki, the son of Jannai, the son of Joseph,"
-      },
-      {
-        "n": 25,
-        "text": "The son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,"
-      },
-      {
-        "n": 26,
-        "text": "The son of Maath, the son of Mattathias, the son of Semein, the son of Josek, the son of Joda,"
-      },
-      {
-        "n": 27,
-        "text": "The son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,"
-      },
-      {
-        "n": 28,
-        "text": "The son of Melki, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,"
-      },
-      {
-        "n": 29,
-        "text": "The son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,"
-      },
-      {
-        "n": 30,
-        "text": "The son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eliakim,"
-      },
-      {
-        "n": 31,
-        "text": "The son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,"
-      },
-      {
-        "n": 32,
-        "text": "The son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon,"
-      },
-      {
-        "n": 33,
-        "text": "The son of Amminadab, the son of Ram, the son of Hezron, the son of Perez, the son of Judah,"
-      },
-      {
-        "n": 34,
-        "text": "The son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,"
-      },
-      {
-        "n": 35,
-        "text": "The son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,"
-      },
-      {
-        "n": 36,
-        "text": "The son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,"
-      },
-      {
-        "n": 37,
-        "text": "The son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Cainan,"
-      },
-      {
-        "n": 38,
-        "text": "The son of Enosh, the son of Seth, the son of Adam, the son of God."
-      }
+      { "n": 1, "text": "Now in the 15th year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch (ruler over part of a land) of Galilee, and his brother Philip tetrarch (ruler over part of a land) of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch (ruler over part of a land) of Abilene," },
+      { "n": 2, "text": "Annas and Caiaphas being the high priests, the word of God came to John the son of Zacharias in the wilderness (desert)." },
+      { "n": 3, "text": "And John came into all the country about Jordan, preaching the baptism of repentance (a change of heart) for the remission (forgiveness) of sins," },
+      { "n": 4, "text": "As it is written in the book of the words of Esaias (Isaiah) the prophet, saying: The voice of one crying in the wilderness (desert): Prepare the way of the Lord, make His paths straight." },
+      { "n": 5, "text": "Every valley will be filled, and every mountain and hill will be brought low. And the crooked will be made straight, and the rough ways will be made smooth." },
+      { "n": 6, "text": "And all flesh (all people) will see the salvation (saving) of God." },
+      { "n": 7, "text": "Then John said to the multitude (large crowd) that came forth to be baptized by him: O generation of vipers (children of poisonous snakes), who has warned you to flee (run away) from the wrath (God's anger) to come?" },
+      { "n": 8, "text": "Bring forth therefore fruits worthy of repentance (a change of heart), and do not begin to say within yourselves: We have Abraham as our father. For I say to you, that God is able of these stones to raise up children to Abraham." },
+      { "n": 9, "text": "And now also the axe is laid to the root of the trees. Every tree therefore which does not bring forth good fruit is hewn (cut) down, and cast into the fire." },
+      { "n": 10, "text": "And the people asked John, saying: What will we do then?" },
+      { "n": 11, "text": "John answers and says to them: The one who has 2 coats, let them impart (share) with the one who has none. And the one who has meat (food), let them do likewise." },
+      { "n": 12, "text": "Then publicans (tax collectors) also came to be baptized, and said to John: Master (Teacher), what will we do?" },
+      { "n": 13, "text": "And John said to them: Exact (collect) no more than that which is appointed (set) for you." },
+      { "n": 14, "text": "And the soldiers likewise demanded of John, saying: And what will we do? And John said to them: Do violence to no man, neither accuse any falsely. And be content with your wages (pay)." },
+      { "n": 15, "text": "And as the people were in expectation, and all men mused (wondered) in their hearts of John, whether he were the Christ, or not," },
+      { "n": 16, "text": "John answered, saying to them all: I indeed baptize you with water. But One mightier than I comes, the latchet (strap) of whose shoes I am not worthy to unloose (untie). He will baptize you with the Holy Spirit and with fire." },
+      { "n": 17, "text": "His fan (winnowing tool) is in His hand, and He will throughly purge (completely clean) His floor, and will gather the wheat into His garner (barn). But the chaff (husks) He will burn with fire unquenchable (that cannot be put out)." },
+      { "n": 18, "text": "And many other things in his exhortation (encouraging) John preached to the people." },
+      { "n": 19, "text": "But Herod the tetrarch (ruler over part of a land), being reproved (corrected) by John for Herodias his brother Philip's wife, and for all the evils which Herod had done," },
+      { "n": 20, "text": "Added yet this above all, that he shut up John in prison." },
+      { "n": 21, "text": "Now when all the people were baptized, it came to pass (happened), that Jesus also being baptized, and praying, the heaven was opened," },
+      { "n": 22, "text": "And the Holy Spirit descended (came down) in a bodily shape like a dove upon Him, and a voice came from heaven, which said: You are My beloved (dearly loved) Son. In You I am well pleased." },
+      { "n": 23, "text": "And Jesus Himself began to be about 30 years of age, being, as was supposed (thought), the son of Joseph, who was the son of Heli," },
+      { "n": 24, "text": "Who was the son of Matthat, who was the son of Levi, who was the son of Melchi, who was the son of Janna, who was the son of Joseph," },
+      { "n": 25, "text": "Who was the son of Mattathias, who was the son of Amos, who was the son of Naum, who was the son of Esli, who was the son of Nagge," },
+      { "n": 26, "text": "Who was the son of Maath, who was the son of Mattathias, who was the son of Semei, who was the son of Joseph, who was the son of Juda," },
+      { "n": 27, "text": "Who was the son of Joanna, who was the son of Rhesa, who was the son of Zorobabel (Zerubbabel), who was the son of Salathiel, who was the son of Neri," },
+      { "n": 28, "text": "Who was the son of Melchi, who was the son of Addi, who was the son of Cosam, who was the son of Elmodam, who was the son of Er," },
+      { "n": 29, "text": "Who was the son of Jose, who was the son of Eliezer, who was the son of Jorim, who was the son of Matthat, who was the son of Levi," },
+      { "n": 30, "text": "Who was the son of Simeon, who was the son of Juda, who was the son of Joseph, who was the son of Jonan, who was the son of Eliakim," },
+      { "n": 31, "text": "Who was the son of Melea, who was the son of Menan, who was the son of Mattatha, who was the son of Nathan, who was the son of David," },
+      { "n": 32, "text": "Who was the son of Jesse, who was the son of Obed, who was the son of Booz (Boaz), who was the son of Salmon, who was the son of Naasson (Nahshon)," },
+      { "n": 33, "text": "Who was the son of Aminadab, who was the son of Aram, who was the son of Esrom (Hezron), who was the son of Phares (Perez), who was the son of Juda (Judah)," },
+      { "n": 34, "text": "Who was the son of Jacob, who was the son of Isaac, who was the son of Abraham, who was the son of Thara (Terah), who was the son of Nachor (Nahor)," },
+      { "n": 35, "text": "Who was the son of Saruch (Serug), who was the son of Ragau (Reu), who was the son of Phalec (Peleg), who was the son of Heber, who was the son of Sala," },
+      { "n": 36, "text": "Who was the son of Cainan, who was the son of Arphaxad, who was the son of Sem (Shem), who was the son of Noe (Noah), who was the son of Lamech," },
+      { "n": 37, "text": "Who was the son of Mathusala (Methuselah), who was the son of Enoch, who was the son of Jared, who was the son of Maleleel, who was the son of Cainan," },
+      { "n": 38, "text": "Who was the son of Enos, who was the son of Seth, who was the son of Adam, who was the son of God." }
     ]
   },
   "4": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Jesus was filled with the Holy Spirit, Jesus returned from the Jordan River. And then the Spirit led Him into the desert."
-      },
-      {
-        "n": 2,
-        "text": "The devil tested Jesus for forty days and tried to tempt Him to do wrong. Jesus had not had any food for forty days and He was very hungry."
-      },
-      {
-        "n": 3,
-        "text": "The devil said to Jesus: If You are the Son of God, say to these stones that they must change into bread."
-      },
-      {
-        "n": 4,
-        "text": "But Jesus said to the devil: In the Old Testament it is written: Bread alone does not keep people alive. They also need to obey every word of God."
-      },
-      {
-        "n": 5,
-        "text": "Then the devil took Jesus to a high mountain and showed Him all the kingdoms of the world in a moment of time"
-      },
-      {
-        "n": 6,
-        "text": "The devil said to Jesus: I will make You king over all these places. You will have power over them, and You will get all the glory. It has all been given to me. I can give it to anyone I want"
-      },
-      {
-        "n": 7,
-        "text": "You must just worship me, then You will have it all."
-      },
-      {
-        "n": 8,
-        "text": "But Jesus said to the devil: get behind me. In the Old Testament it is written: You must worship the Lord your God and serve only Him."
-      },
-      {
-        "n": 9,
-        "text": "Then the devil took Jesus into Jerusalem and up to the top of the temple. The devil said to Jesus: If You are the Son of God, then jump down,"
-      },
-      {
-        "n": 10,
-        "text": "because it is written in the Old Testament: God will tell His angels to protect You."
-      },
-      {
-        "n": 11,
-        "text": "They will hold You in their hands, so that You will not hurt Your foot on a stone."
-      },
-      {
-        "n": 12,
-        "text": "But Jesus said to the devil: It is also written in the Old Testament: You must not test the Lord your God."
-      },
-      {
-        "n": 13,
-        "text": "After the devil had tempted Jesus to do wrong, he went away for a long time."
-      },
-      {
-        "n": 14,
-        "text": "Jesus went back to Galilee with the power of the Spirit. Stories about Him spread all over the area around Galilee."
-      },
-      {
-        "n": 15,
-        "text": "Jesus started to teach them in the synagogues, and everyone said good things about Him."
-      },
-      {
-        "n": 16,
-        "text": "Jesus came to Nazareth, the town where He had lived when He was a child. On the Sabbath day He went to the synagogue as He always did. He stood up to read."
-      },
-      {
-        "n": 17,
-        "text": "They gave Jesus the book of the prophet Isaiah. Jesus opened the book and He read what Isaiah had written. Jesus read:"
-      },
-      {
-        "n": 18,
-        "text": "The Spirit of the Lord leads me. The Lord has anointed me. God said I must bring the good news to poor people. God has sent me to heal the brokenhearted, to tell the prisoners that they are free, and they can go. He sent me to heal the blind people so they can see again. I must free all the people who are suffering."
-      },
-      {
-        "n": 19,
-        "text": "I must say: Now is the time to announce that the time has come for the Lord to show His kindness."
-      },
-      {
-        "n": 20,
-        "text": "Then Jesus closed the Book, and He gave it back to the person who had to put it away. Jesus sat down and everyone in the synagogue looked at Him."
-      },
-      {
-        "n": 21,
-        "text": "Then Jesus started to talk to the people, and He said: Today God has made these things, what I have read from the Bible, happen."
-      },
-      {
-        "n": 22,
-        "text": "Everyone there said good things about Jesus. They were amazed to hear Him speak such wonderful words. They said: How is this possible? Is He not Joseph's son?"
-      },
-      {
-        "n": 23,
-        "text": "But Jesus said to them: Later you will say the words of this proverb to Me: If You are a doctor, then You must heal Yourself. You will also say: They told us of all the miracles that You have done in Capernaum. You must do the same things here in this town."
-      },
-      {
-        "n": 24,
-        "text": "But I tell you: People do not listen to a prophet in the town where his people live."
-      },
-      {
-        "n": 25,
-        "text": "But I tell you the truth. There were many widows in Israel in Elijah's day. The sky stayed shut for three years and six months. A great famine spread over all the land."
-      },
-      {
-        "n": 26,
-        "text": "But the Lord did not send Elijah to any of them. He sent Elijah only to a widow in Zarephath, in the land of Sidon."
-      },
-      {
-        "n": 27,
-        "text": "And in the time when the prophet Elisha lived, there were a lot of lepers in the land of Israel. But the Lord did not heal all of them. He healed only Naaman, from the land of Syria."
-      },
-      {
-        "n": 28,
-        "text": "Everyone in the synagogue was angry when they heard what Jesus said."
-      },
-      {
-        "n": 29,
-        "text": "They got up and forced Jesus to go out of town. Their town was built on a hill. They took Jesus to the edge of the hill to throw Him off"
-      },
-      {
-        "n": 30,
-        "text": "But Jesus walked through the crowd of people, and He went away."
-      },
-      {
-        "n": 31,
-        "text": "Jesus went to Capernaum, a town Galilee. Jesus went to the synagogue on the Sabbath day to teach the people."
-      },
-      {
-        "n": 32,
-        "text": "They were amazed at His teaching because He spoke with authority."
-      },
-      {
-        "n": 33,
-        "text": "In the synagogue there was a man who had an evil spirit in him. The spirit shouted loudly and said:"
-      },
-      {
-        "n": 34,
-        "text": "Jesus of Nazareth, what do You want to do with us Jesus of Nazareth? Have You come to kill us all? I know who You are. You are the holy One of God."
-      },
-      {
-        "n": 35,
-        "text": "But Jesus warned the evil spirit to stop. He said, Be quiet! Come out of the man! The evil spirit threw the man down on the ground in front of everyone. Then the evil spirit left the man and did not hurt him."
-      },
-      {
-        "n": 36,
-        "text": "All the people were surprised, and they said to each other: The words that Jesus says come from God. He tells the evil spirits to go out and they listen to Him and go out."
-      },
-      {
-        "n": 37,
-        "text": "And so the news about Jesus spread to every place in the whole area."
-      },
-      {
-        "n": 38,
-        "text": "Jesus went away from the synagogue, and He went to Simon's house. Simon's mother-in-law was very sick in bed. The people asked Jesus to help her."
-      },
-      {
-        "n": 39,
-        "text": "He stood very close to her and ordered the sickness to go away. The sickness left her immediately, and she got up and began serving them."
-      },
-      {
-        "n": 40,
-        "text": "When the sun went down, the people started to bring all the sick people to Jesus. Jesus put His hands on everyone, and He healed them."
-      },
-      {
-        "n": 41,
-        "text": "He also chased demons out of many people and the demons shouted: You are the Son of God. The demons knew He was the Christ. That is why Jesus was angry with them and told them to keep quiet."
-      },
-      {
-        "n": 42,
-        "text": "The next morning Jesus went away to a desert place. Many people were looking for Him. When they saw Him, they did not want Him to go away from them."
-      },
-      {
-        "n": 43,
-        "text": "But Jesus told them: I must also go to the people in other towns. I must tell them the Good News about God who is King. This is why God sent Me."
-      },
-      {
-        "n": 44,
-        "text": "Then Jesus went to other towns in Galilee and He started to teach the people in the synagogues."
-      }
+      { "n": 1, "text": "And Jesus, being full of the Holy Spirit, returned from Jordan, and was led by the Spirit into the wilderness (desert)," },
+      { "n": 2, "text": "Being 40 days tempted (tested) by the devil. And in those days Jesus ate nothing. And when they were ended, He afterward hungered." },
+      { "n": 3, "text": "And the devil said to Him: If You are the Son of God, command this stone that it be made bread." },
+      { "n": 4, "text": "And Jesus answered him, saying: It is written, that man will not live by bread alone, but by every word of God." },
+      { "n": 5, "text": "And the devil, taking Jesus up into a high mountain, showed to Him all the kingdoms of the world in a moment of time." },
+      { "n": 6, "text": "And the devil said to Him: All this power will I give You, and the glory of them. For that is delivered (handed over) to me, and to whomever I will, I give it." },
+      { "n": 7, "text": "If You therefore will worship me, all will be Yours." },
+      { "n": 8, "text": "And Jesus answered and said to him: Get behind Me, Satan. For it is written: You will worship the Lord your God, and Him only will you serve." },
+      { "n": 9, "text": "And the devil brought Jesus to Jerusalem, and set Him on a pinnacle (high point) of the temple, and said to Him: If You are the Son of God, cast Yourself down from here." },
+      { "n": 10, "text": "For it is written: He will give His angels charge (orders) over You, to keep You," },
+      { "n": 11, "text": "And in their hands they will bear You up, so that at no time You dash (strike) Your foot against a stone." },
+      { "n": 12, "text": "And Jesus answering said to him: It is said: You will not tempt (test) the Lord your God." },
+      { "n": 13, "text": "And when the devil had ended all the temptation (testing), he departed from Jesus for a season (a while)." },
+      { "n": 14, "text": "And Jesus returned in the power of the Spirit into Galilee. And there went out a fame (news) of Him through all the region round about." },
+      { "n": 15, "text": "And Jesus taught in their synagogues (meeting houses), being glorified (praised) by all." },
+      { "n": 16, "text": "And Jesus came to Nazareth, where He had been brought up. And, as His custom was, He went into the synagogue (meeting house) on the sabbath day (day of rest), and stood up to read." },
+      { "n": 17, "text": "And there was delivered (handed) to Him the book of the prophet Esaias (Isaiah). And when Jesus had opened the book, He found the place where it was written:" },
+      { "n": 18, "text": "The Spirit of the Lord is upon Me, because He has anointed (chosen and set apart) Me to preach the gospel (good news) to the poor. He has sent Me to heal the brokenhearted, to preach deliverance (freedom) to the captives (prisoners), and recovering of sight to the blind, to set at liberty (free) them who are bruised (crushed)," },
+      { "n": 19, "text": "To preach the acceptable (welcome) year of the Lord." },
+      { "n": 20, "text": "And Jesus closed the book, and He gave it again to the minister (servant), and sat down. And the eyes of all them who were in the synagogue (meeting house) were fastened (fixed) on Him." },
+      { "n": 21, "text": "And Jesus began to say to them: This day is this scripture fulfilled (come true) in your ears." },
+      { "n": 22, "text": "And all bare Him witness (spoke well of Him), and wondered at the gracious words which came out of His mouth. And they said: Is this not Joseph's son?" },
+      { "n": 23, "text": "And Jesus said to them: You will surely say to Me this proverb (saying): Physician (doctor), heal Yourself. Whatever we have heard done in Capernaum, do also here in Your country (hometown)." },
+      { "n": 24, "text": "And Jesus said: Verily (truly) I say to you: No prophet is accepted in their own country (hometown)." },
+      { "n": 25, "text": "But I tell you of a truth, many widows were in Israel in the days of Elias (Elijah), when the heaven was shut up 3 years and 6 months, when great famine (hunger) was throughout all the land." },
+      { "n": 26, "text": "But to none of them was Elias (Elijah) sent, except to Sarepta, a city of Sidon, to a woman who was a widow." },
+      { "n": 27, "text": "And many lepers (people with a skin disease) were in Israel in the time of Eliseus (Elisha) the prophet. And none of them was cleansed (healed), except Naaman the Syrian." },
+      { "n": 28, "text": "And all they in the synagogue (meeting house), when they heard these things, were filled with wrath (great anger)," },
+      { "n": 29, "text": "And rose up, and thrust Jesus out of the city, and led Him to the brow (edge) of the hill on which their city was built, that they might cast Him down headlong." },
+      { "n": 30, "text": "But Jesus, passing through the middle of them, went His way," },
+      { "n": 31, "text": "And came down to Capernaum, a city of Galilee, and taught them on the sabbath days (days of rest)." },
+      { "n": 32, "text": "And they were astonished (amazed) at His doctrine (teaching), for His word was with power." },
+      { "n": 33, "text": "And in the synagogue (meeting house) there was a man who had a spirit of an unclean devil (demon), and he cried out with a loud voice," },
+      { "n": 34, "text": "Saying: Let us alone. What have we to do with You, You Jesus of Nazareth? Have You come to destroy us? I know You, who You are, the Holy One of God." },
+      { "n": 35, "text": "And Jesus rebuked (gave a strong command to) the demon, saying: Hold your peace (be quiet), and come out of him. And when the devil (demon) had thrown the man in the middle, it came out of him, and did not hurt him." },
+      { "n": 36, "text": "And they were all amazed, and spoke among themselves, saying: What a word this is. For with authority and power He commands the unclean spirits, and they come out." },
+      { "n": 37, "text": "And the fame (news) of Jesus went out into every place of the country round about." },
+      { "n": 38, "text": "And Jesus arose out of the synagogue (meeting house), and entered into Simon's house. And Simon's wife's mother was taken with a great fever. And they besought (begged) Jesus for her." },
+      { "n": 39, "text": "And Jesus stood over her, and rebuked (gave a strong command to) the fever, and it left her. And immediately she arose and ministered to (served) them." },
+      { "n": 40, "text": "Now when the sun was setting, all they who had any sick with divers (many different) diseases brought them to Jesus. And He laid His hands on every one of them, and healed them." },
+      { "n": 41, "text": "And devils (demons) also came out of many, crying out, and saying: You are Christ the Son of God. And Jesus, rebuking them, suffered (allowed) them not to speak, for they knew that He was Christ." },
+      { "n": 42, "text": "And when it was day, Jesus departed and went into a desert place. And the people sought (looked for) Him, and came to Him, and stayed (held on to) Him, that He should not depart from them." },
+      { "n": 43, "text": "And Jesus said to them: I must preach the kingdom of God to other cities also, for that is why I am sent." },
+      { "n": 44, "text": "And Jesus preached in the synagogues (meeting houses) of Galilee." }
     ],
     "sourceUrl": "https://kjvdeaf.com/luke-chapter-4/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. Fixed several typos and grammar issues.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "5": {
