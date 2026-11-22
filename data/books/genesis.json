@@ -108,115 +108,37 @@
   },
   "4": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Adam made love to his wife Eve, and Eve became pregnant. Eve gave birth to a son and named him Cain. Eve said: With the help of the LORD I have given birth to a male child."
-      },
-      {
-        "n": 2,
-        "text": "Later Eve gave birth again to Cain's brother, Abel. Abel became a shepherd, and Cain became a farmer."
-      },
-      {
-        "n": 3,
-        "text": "After some time, Cain brought an offering to the LORD. He brought some food that he had grown from the ground."
-      },
-      {
-        "n": 4,
-        "text": "Abel also brought an offering. He brought the first lamb born to one of his sheep and killed it. He gave the best parts of it as an offering. The LORD was pleased with Abel and his offering."
-      },
-      {
-        "n": 5,
-        "text": "But the LORD rejected Cain's offering. Cain became very angry, and Cain's face fell in sadness."
-      },
-      {
-        "n": 6,
-        "text": "Then the LORD said to Cain: Why are you angry? Why has your face fallen?"
-      },
-      {
-        "n": 7,
-        "text": "If you do the right thing, I will accept you. But if you do not, sin is crouching at the door, ready to attack you. Sin desires to have you, but you must rule over it."
-      },
-      {
-        "n": 8,
-        "text": "Cain talked with Abel, Cain's brother. Cain said: Let us go out into the field. When Cain and Abel were out in the field, Cain attacked Abel and killed Abel."
-      },
-      {
-        "n": 9,
-        "text": "The LORD asked Cain: Where is your brother Abel? Cain answered: I do not know. Am I supposed to take care of my brother?"
-      },
-      {
-        "n": 10,
-        "text": "Then the LORD said: Why have you done this terrible thing? Your brother's blood is crying out to Me from the ground."
-      },
-      {
-        "n": 11,
-        "text": "Now you are under a curse, and you can no longer farm the soil. The ground opened its mouth and took in your brother's blood when you killed him."
-      },
-      {
-        "n": 12,
-        "text": "If you try to grow crops, the ground will not help your plants grow. You will not have a home in this land. You will wander from place to place."
-      },
-      {
-        "n": 13,
-        "text": "Then Cain said to the LORD: This punishment is too hard for me to bear."
-      },
-      {
-        "n": 14,
-        "text": "You are forcing me to leave the land. I will not be able to be near You or have a home. Now I must wander from place to place, and anyone I meet could kill me."
-      },
-      {
-        "n": 15,
-        "text": "Then the LORD said to Cain: No, if anyone kills you, I will punish that person seven times as much. Then the LORD put a mark on Cain so that no one would kill Cain."
-      },
-      {
-        "n": 16,
-        "text": "Then Cain went away from the LORD's presence. Cain lived in the land of Nod, which is east of Eden."
-      },
-      {
-        "n": 17,
-        "text": "Cain and his wife had a son and named him Enoch. Then Cain built a city and named it after his son, Enoch."
-      },
-      {
-        "n": 18,
-        "text": "Enoch had a son named Irad. Irad was the father of Mehujael. Mehujael had a son named Methushael. Methushael was the father of Lamech."
-      },
-      {
-        "n": 19,
-        "text": "Lamech had two wives, Adah and Zillah."
-      },
-      {
-        "n": 20,
-        "text": "Adah gave birth to Jabal. Jabal was the father of people who live in tents and take care of farm animals."
-      },
-      {
-        "n": 21,
-        "text": "Jabal's brother was Jubal. Jubal was the father of people who play the harp and flute."
-      },
-      {
-        "n": 22,
-        "text": "Zillah gave birth to Tubalcain. Tubalcain was the father of people who make tools of bronze and iron. The sister of Tubalcain was named Naamah."
-      },
-      {
-        "n": 23,
-        "text": "Lamech said to his wives, Adah and Zillah: Listen to me. A man hurt me, so I killed him. I also killed a young man for hitting me."
-      },
-      {
-        "n": 24,
-        "text": "If anyone who kills Cain will be punished seven times, then anyone who kills me will be punished seventy-seven times."
-      },
-      {
-        "n": 25,
-        "text": "Adam and Eve made love again and had another son. Eve said: God has given me a son to replace Abel, whom Cain killed. So Eve named him Seth."
-      },
-      {
-        "n": 26,
-        "text": "Seth had a son whom Seth named Enos. At that time people began to pray to the LORD."
-      }
+      { "n": 1, "text": "And Adam knew (lay with) Eve his wife. And Eve conceived (became pregnant), and bore Cain. And Eve said: I have gotten a man from the LORD." },
+      { "n": 2, "text": "And Eve again bore Cain's brother Abel. And Abel was a keeper of sheep, but Cain was a tiller (worker) of the ground." },
+      { "n": 3, "text": "And in time it came to pass that Cain brought of the fruit of the ground an offering to the LORD." },
+      { "n": 4, "text": "And Abel also brought of the firstlings (first-born lambs) of his flock and of their fat. And the LORD had respect (looked with favor) to Abel and to Abel's offering." },
+      { "n": 5, "text": "But to Cain and to Cain's offering the LORD did not have respect (look with favor). And Cain was very wroth (angry), and Cain's countenance (face) fell." },
+      { "n": 6, "text": "And the LORD said to Cain: Why are you wroth (very angry)? And why is your countenance (face) fallen?" },
+      { "n": 7, "text": "If you do well, will you not be accepted? And if you do not do well, sin lies at the door. And to you shall be his desire, and you shall rule over him." },
+      { "n": 8, "text": "And Cain talked with Abel his brother. And it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew (killed) Abel." },
+      { "n": 9, "text": "And the LORD said to Cain: Where is Abel your brother? And Cain said: I do not know. Am I my brother's keeper?" },
+      { "n": 10, "text": "And the LORD said: What have you done? The voice of your brother's blood cries to Me from the ground." },
+      { "n": 11, "text": "And now you are cursed from the earth, which has opened its mouth to receive your brother's blood from your hand." },
+      { "n": 12, "text": "When you till (work) the ground, it will not from now on give you its strength. A fugitive and a vagabond (a wanderer with no home) you will be in the earth." },
+      { "n": 13, "text": "And Cain said to the LORD: My punishment is greater than I can bear." },
+      { "n": 14, "text": "Look, You have driven me out this day from the face of the earth. And from Your face I will be hidden. And I will be a fugitive and a vagabond (a wanderer with no home) in the earth. And it will come to pass that every one who finds me will slay (kill) me." },
+      { "n": 15, "text": "And the LORD said to Cain: So whoever slays (kills) Cain, vengeance (paying back) will be taken on that killer 7 times as much. And the LORD set a mark on Cain, so that no one finding Cain would kill him." },
+      { "n": 16, "text": "And Cain went out from the presence of the LORD, and dwelt (lived) in the land of Nod, on the east of Eden." },
+      { "n": 17, "text": "And Cain knew (lay with) his wife, and she conceived (became pregnant), and bore Enoch. And Cain built a city, and called the name of the city after the name of his son, Enoch." },
+      { "n": 18, "text": "And to Enoch was born Irad. And Irad begat (fathered) Mehujael. And Mehujael begat (fathered) Methusael. And Methusael begat (fathered) Lamech." },
+      { "n": 19, "text": "And Lamech took two wives. The name of the one was Adah, and the name of the other Zillah." },
+      { "n": 20, "text": "And Adah bore Jabal. Jabal was the father of those who dwell (live) in tents, and of those who have cattle (farm animals)." },
+      { "n": 21, "text": "And Jabal's brother's name was Jubal. Jubal was the father of all those who play the harp and organ (flute)." },
+      { "n": 22, "text": "And Zillah also bore Tubalcain, a teacher of every artificer (craftsman) in brass and iron. And the sister of Tubalcain was Naamah." },
+      { "n": 23, "text": "And Lamech said to his wives, Adah and Zillah: Hear my voice. You wives of Lamech, hearken (listen) to my speech. For I have slain (killed) a man for wounding me, and a young man for hurting me." },
+      { "n": 24, "text": "If Cain shall be avenged (paid back) 7 times, truly Lamech shall be avenged 77 times." },
+      { "n": 25, "text": "And Adam knew (lay with) his wife again, and she bore a son, and called his name Seth. For Eve said: God has appointed me another seed (child) instead of Abel, whom Cain slew (killed)." },
+      { "n": 26, "text": "And to Seth also there was born a son, and Seth called his name Enos. Then men began to call on the name of the LORD." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genesis-chapter-4/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V7 keeps the KJV's his desire and rule over him without naming who is meant, because the Hebrew leaves it open.",
     "videos": []
   },
   "5": {
