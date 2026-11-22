@@ -216,104 +216,32 @@
   "7": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V2-3 keep the KJV's by sevens without deciding whether it means 7 animals or 7 pairs, because the Hebrew leaves it open.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Then the LORD said to Noah: Go into the ark, you and all your family. I have seen that you are a good man among the people of this time."
-      },
-      {
-        "n": 2,
-        "text": "Take with you 7 pairs of every kind of clean animal, male and female. Take 1 pair of every kind of animal that is not clean, male and female."
-      },
-      {
-        "n": 3,
-        "text": "Also take 7 pairs of every kind of bird, male and female. Do this to keep them alive on the earth."
-      },
-      {
-        "n": 4,
-        "text": "In 7 days I will send rain on the earth. It will rain for 40 days and 40 nights. I will wipe from the earth every living thing I have made."
-      },
-      {
-        "n": 5,
-        "text": "Noah did everything the LORD commanded him."
-      },
-      {
-        "n": 6,
-        "text": "Noah was 600 years old when the flood waters came on the earth."
-      },
-      {
-        "n": 7,
-        "text": "Noah went into the ark to escape the flood waters. His sons, his wife, and his sons' wives went in with him."
-      },
-      {
-        "n": 8,
-        "text": "Animals of every kind came to Noah. There were clean animals and animals that are not clean. There were birds and everything that crawls on the ground."
-      },
-      {
-        "n": 9,
-        "text": "They went into the ark with Noah, 2 by 2, male and female. They went in just as God had commanded Noah."
-      },
-      {
-        "n": 10,
-        "text": "After 7 days, the flood waters came on the earth."
-      },
-      {
-        "n": 11,
-        "text": "It was the 600th year of Noah's life. On the 17th day of the 2nd month, all the underground waters burst open. The windows of the sky were opened."
-      },
-      {
-        "n": 12,
-        "text": "Rain fell on the earth for 40 days and 40 nights."
-      },
-      {
-        "n": 13,
-        "text": "On that same day, Noah went into the ark. His sons Shem, Ham, and Japheth went in with him. Noah's wife and the 3 wives of his sons went in too."
-      },
-      {
-        "n": 14,
-        "text": "Every kind of animal was with them. There were wild animals, farm animals, animals that crawl on the ground, and birds of every kind."
-      },
-      {
-        "n": 15,
-        "text": "They came to Noah and went into the ark, 2 by 2. Every living thing that breathes came."
-      },
-      {
-        "n": 16,
-        "text": "The animals that went in were male and female of every kind, just as God had commanded Noah. Then the LORD shut Noah in."
-      },
-      {
-        "n": 17,
-        "text": "The flood continued for 40 days on the earth. The waters rose and lifted the ark high above the ground."
-      },
-      {
-        "n": 18,
-        "text": "The waters rose higher and higher, and the ark floated on top of the water."
-      },
-      {
-        "n": 19,
-        "text": "The waters rose so high that they covered even the highest mountains everywhere under the sky."
-      },
-      {
-        "n": 20,
-        "text": "The water rose about 22 feet above the mountains. The mountains were covered completely."
-      },
-      {
-        "n": 21,
-        "text": "Every living thing on the earth died. This included the birds, the farm animals, the wild animals, every creature, and all the people."
-      },
-      {
-        "n": 22,
-        "text": "Everything on dry land that had the breath of life in it died."
-      },
-      {
-        "n": 23,
-        "text": "God wiped out every living thing on the earth. That included people, animals, crawling creatures and birds. Only Noah was left, and those with him in the ark."
-      },
-      {
-        "n": 24,
-        "text": "The waters covered the earth for 150 days."
-      }
+      { "n": 1, "text": "And the LORD said to Noah: Come, you and all your house (family), into the ark (big boat). For I have seen you righteous (right with God) before Me in this generation (the people living now)." },
+      { "n": 2, "text": "Of every clean beast you shall take to you by sevens, the male and his female. And of beasts that are not clean by two, the male and his female." },
+      { "n": 3, "text": "Of fowls (birds) also of the air by sevens, the male and the female, to keep seed (their young) alive on the face of all the earth." },
+      { "n": 4, "text": "For in 7 more days I will cause it to rain on the earth 40 days and 40 nights. And every living substance (thing) that I have made I will destroy from off the face of the earth." },
+      { "n": 5, "text": "And Noah did according to all that the LORD commanded him." },
+      { "n": 6, "text": "And Noah was 600 years old when the flood of waters was on the earth." },
+      { "n": 7, "text": "And Noah went into the ark (big boat), and his sons, and his wife, and his sons' wives with him, because of the waters of the flood." },
+      { "n": 8, "text": "Of clean beasts, and of beasts that are not clean, and of fowls (birds), and of every thing that creeps on the earth," },
+      { "n": 9, "text": "There went in 2 and 2 to Noah into the ark (big boat), the male and the female, as God had commanded Noah." },
+      { "n": 10, "text": "And it came to pass after 7 days that the waters of the flood were on the earth." },
+      { "n": 11, "text": "In the 600th year of Noah's life, in the 2nd month, the 17th day of the month, on that same day all the fountains of the great deep (the deep waters) were broken up. And the windows of heaven were opened." },
+      { "n": 12, "text": "And the rain was on the earth 40 days and 40 nights." },
+      { "n": 13, "text": "On that very same day Noah entered into the ark (big boat), and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the 3 wives of his sons with them." },
+      { "n": 14, "text": "They went in, and every beast after its kind, and all the cattle (farm animals) after their kind, and every creeping thing that creeps on the earth after its kind, and every fowl (birds) after its kind, every bird of every sort." },
+      { "n": 15, "text": "And they went in to Noah into the ark (big boat), 2 and 2 of all flesh, which has the breath of life." },
+      { "n": 16, "text": "And those that went in, went in male and female of all flesh, as God had commanded Noah. And the LORD shut Noah in." },
+      { "n": 17, "text": "And the flood was 40 days on the earth. And the waters increased, and bore up the ark (big boat), and it was lifted up above the earth." },
+      { "n": 18, "text": "And the waters prevailed (grew strong), and were increased greatly on the earth. And the ark (big boat) went on the face of the waters." },
+      { "n": 19, "text": "And the waters prevailed (grew strong) exceedingly (very much) on the earth. And all the high hills that were under the whole heaven were covered." },
+      { "n": 20, "text": "The waters prevailed (grew strong) 15 cubits (about 22 feet) upward, and the mountains were covered." },
+      { "n": 21, "text": "And all flesh died that moved on the earth, both of fowl (birds), and of cattle (farm animals), and of beast, and of every creeping thing that creeps on the earth, and every man." },
+      { "n": 22, "text": "All in whose nostrils was the breath of life, of all that was on the dry land, died." },
+      { "n": 23, "text": "And every living substance (thing) was destroyed which was on the face of the ground: both man, and cattle (farm animals), and the creeping things, and the fowl (birds) of the heaven. And they were destroyed from the earth. And only Noah remained alive, and those that were with him in the ark (big boat)." },
+      { "n": 24, "text": "And the waters prevailed (grew strong) on the earth 150 days." }
     ]
   },
   "8": {
