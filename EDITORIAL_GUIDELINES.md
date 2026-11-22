@@ -260,6 +260,8 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - fuller (cloth cleaner); wist (knew); set at nought (treated as nothing); saluted (greeted); dumb spirit (a spirit that keeps him from speaking); tears / tore (throws / threw) -- of a demon
   - pines away (wastes away); wallowed (rolled around); of a child (since he was a child); ofttimes (often); foul (evil); rent him sore (shook him hard)
   - disputed (argued); desires (wants); forbad / forbid (stopped / stop); lightly (quickly); on our part (side); saltness (salty taste)
+  - resort (came); wont (used to); precept (rule); inherit (receive) -- of eternal life; defraud (cheat); observed (kept) -- of commandments; out of measure (beyond words)
+  - accounted (thought of as); exercise lordship (rule as lords); chiefest (first); be of good comfort (take heart)
   - begat (became the father of); begotten (become the father of) -- Hebrew yalad (Hiphil) / Greek gennao used of a father; "bare/bore" is the mother's side and "born" the child's side, so begat never means "was born"
   - Genesis words: firmament (sky); fowl (birds); cattle (farm animals); herb (plant); dominion (rule); countenance (face); slew / slay / slain (killed / kill / killed); dwelt / dwell (lived / live); till (work); conceived (became pregnant); beguiled (tricked); help meet (a fitting helper); knew (lay with) -- of husband and wife
 - **Genesis 3:15:** the woman's seed is written "His heel" (capitalized), because the verse points to Christ.
