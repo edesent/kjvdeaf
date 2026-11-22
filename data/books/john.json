@@ -781,116 +781,35 @@
   "15": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with every pronoun's referent named explicitly (Deaf-first clarity standard) -- again including the Holy Spirit in v26, where the KJV's 'him... He... he' can blur into an unclear reference. V15 and v20 use 'his master' rather than a repeated 'that servant's master,' since each verse has only one possible servant/master pair with no competing referent.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. The Holy Spirit is named instead of a bare he/him where it could be unclear.",
     "verses": [
-      {
-        "n": 1,
-        "text": "I am the true vine, and my Father is the gardener."
-      },
-      {
-        "n": 2,
-        "text": "The Father cuts off every branch in me that does not give fruit. And the Father trims every branch that does give fruit, so that it will give even more."
-      },
-      {
-        "n": 3,
-        "text": "You are already clean because of the word I have spoken to you."
-      },
-      {
-        "n": 4,
-        "text": "Stay joined to me, and I will stay joined to you. A branch cannot give fruit by itself; it must stay joined to the vine. In the same way, you cannot give fruit unless you stay joined to me."
-      },
-      {
-        "n": 5,
-        "text": "I am the vine; you are the branches. Whoever stays joined to me, and I to that person, will give much fruit. Without me you can do nothing."
-      },
-      {
-        "n": 6,
-        "text": "Whoever does not stay joined to me is thrown away like a branch and dries up. Such branches are gathered, thrown into the fire, and burned."
-      },
-      {
-        "n": 7,
-        "text": "If you stay joined to me, and my words stay in you, you may ask for anything you want, and it will be done for you."
-      },
-      {
-        "n": 8,
-        "text": "This is how my Father is honored: that you give much fruit and show that you are my disciples."
-      },
-      {
-        "n": 9,
-        "text": "I have loved you just as the Father has loved me. Now stay in my love."
-      },
-      {
-        "n": 10,
-        "text": "If you obey my commands, you will stay in my love, just as I have obeyed my Father's commands and stay in my Father's love."
-      },
-      {
-        "n": 11,
-        "text": "I have told you this so that my joy may be in you, and that your joy may be full."
-      },
-      {
-        "n": 12,
-        "text": "This is my command: love one another, just as I have loved you."
-      },
-      {
-        "n": 13,
-        "text": "No one has greater love than this: to lay down one's life for one's friends."
-      },
-      {
-        "n": 14,
-        "text": "You are my friends if you do what I command you."
-      },
-      {
-        "n": 15,
-        "text": "I no longer call you servants, because a servant does not know what his master is doing. Instead, I have called you friends, because I have told you everything I heard from my Father."
-      },
-      {
-        "n": 16,
-        "text": "You did not choose me; I chose you. And I gave you this work: to go and give fruit that will last. Then the Father will give you whatever you ask in my name."
-      },
-      {
-        "n": 17,
-        "text": "This is my command to you: love one another."
-      },
-      {
-        "n": 18,
-        "text": "If the world hates you, remember that it hated me first."
-      },
-      {
-        "n": 19,
-        "text": "If you belonged to the world, the world would love you as its own. But you do not belong to the world. I have chosen you out of the world, so the world hates you."
-      },
-      {
-        "n": 20,
-        "text": "Remember what I told you: a servant is not greater than his master. If people treated me badly, they will treat you badly too. If they obeyed my teaching, they will obey yours too."
-      },
-      {
-        "n": 21,
-        "text": "They will do all this to you because of my name, because they do not know the One who sent me."
-      },
-      {
-        "n": 22,
-        "text": "If I had not come and spoken to them, they would not be guilty of sin. But now they have no excuse for their sin."
-      },
-      {
-        "n": 23,
-        "text": "Whoever hates me also hates my Father."
-      },
-      {
-        "n": 24,
-        "text": "If I had not done among them the works that no one else has done, they would not be guilty of sin. But now they have seen these works, and still they have hated both me and my Father."
-      },
-      {
-        "n": 25,
-        "text": "But this happened so that the word written in their law would come true: They hated me for no reason."
-      },
-      {
-        "n": 26,
-        "text": "When the Helper comes, I will send the Helper to you from the Father. This Helper is the Spirit of truth, who comes from the Father, and the Spirit will tell people about me."
-      },
-      {
-        "n": 27,
-        "text": "And you also must tell people about me, because you have been with me from the beginning."
-      }
+      { "n": 1, "text": "I am the true vine, and My Father is the husbandman (farmer)." },
+      { "n": 2, "text": "Every branch in Me that does not bear fruit He takes away. And every branch that bears fruit, He purges (cleans) it, that it may bring forth more fruit." },
+      { "n": 3, "text": "Now you are clean through the word which I have spoken to you." },
+      { "n": 4, "text": "Abide (stay) in Me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine, no more can you, except you abide in Me." },
+      { "n": 5, "text": "I am the vine, you are the branches. The one who abides (stays) in Me, and I in them, the same brings forth much fruit. For without Me you can do nothing." },
+      { "n": 6, "text": "If anyone abide (stay) not in Me, they are cast forth as a branch, and are withered (dried up). And men gather them, and cast them into the fire, and they are burned." },
+      { "n": 7, "text": "If you abide (stay) in Me, and My words abide in you, you will ask what you will, and it will be done to you." },
+      { "n": 8, "text": "Herein is My Father glorified, that you bear much fruit. So will you be My disciples." },
+      { "n": 9, "text": "As the Father has loved Me, so have I loved you. Continue in My love." },
+      { "n": 10, "text": "If you keep My commandments, you will abide (stay) in My love. Even as I have kept My Father's commandments, and abide in His love." },
+      { "n": 11, "text": "These things have I spoken to you, that My joy might remain in you, and that your joy might be full." },
+      { "n": 12, "text": "This is My commandment, that you love one another, as I have loved you." },
+      { "n": 13, "text": "Greater love has no one than this, that a person lay down their life for their friends." },
+      { "n": 14, "text": "You are My friends, if you do whatever I command you." },
+      { "n": 15, "text": "From now on I call you not servants. For the servant does not know what his lord (master) does. But I have called you friends. For all things that I have heard of My Father I have made known to you." },
+      { "n": 16, "text": "You have not chosen Me, but I have chosen you, and ordained (appointed) you, that you should go and bring forth fruit, and that your fruit should remain. So whatever you will ask of the Father in My name, He may give it you." },
+      { "n": 17, "text": "These things I command you, that you love one another." },
+      { "n": 18, "text": "If the world hate you, you know that it hated Me before it hated you." },
+      { "n": 19, "text": "If you were of the world, the world would love its own. But because you are not of the world, but I have chosen you out of the world, therefore the world hates you." },
+      { "n": 20, "text": "Remember the word that I said to you: The servant is not greater than his lord (master). If they have persecuted (attacked) Me, they will also persecute you. If they have kept My saying, they will keep yours also." },
+      { "n": 21, "text": "But all these things will they do to you for My name's sake, because they do not know Him who sent Me." },
+      { "n": 22, "text": "If I had not come and spoken to them, they had not had sin. But now they have no cloak (cover) for their sin." },
+      { "n": 23, "text": "The one who hates Me hates My Father also." },
+      { "n": 24, "text": "If I had not done among them the works which no other man did, they had not had sin. But now have they both seen and hated both Me and My Father." },
+      { "n": 25, "text": "But this comes to pass, that the word might be fulfilled that is written in their law: They hated Me without a cause." },
+      { "n": 26, "text": "But when the Comforter (Helper) is come, whom I will send to you from the Father, even the Spirit of truth, who proceeds (comes) from the Father, the Spirit will testify (tell) of Me." },
+      { "n": 27, "text": "And you also will bear witness, because you have been with Me from the beginning." }
     ]
   },
   "16": {
