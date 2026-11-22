@@ -426,83 +426,29 @@
   },
   "13": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Abram left Egypt and went to the Negev in the south of Canaan. He took his wife Sarai and everything he had. Lot went with them."
-      },
-      {
-        "n": 2,
-        "text": "Abram was very rich. Abram had many sheep, goats and oxen, and Abram also had a lot of silver and gold."
-      },
-      {
-        "n": 3,
-        "text": "Abram continued traveling around. Abram went back to Bethel. Abram went to the place between the city of Bethel and Hai where Abram and his family had camped before."
-      },
-      {
-        "n": 4,
-        "text": "The first time that Abram had been there, Abram had built an altar. Now Abram called on the name of the LORD at the altar."
-      },
-      {
-        "n": 5,
-        "text": "Lot was with Abram and Lot also had sheep, goats, oxen and tents."
-      },
-      {
-        "n": 6,
-        "text": "The land could not feed all their animals. They had too many animals to stay together."
-      },
-      {
-        "n": 7,
-        "text": "Then the shepherds of Abram and the shepherds of Lot started to fight. At that time the Canaanites and the Perizzites were still living in the land."
-      },
-      {
-        "n": 8,
-        "text": "Abram said to Lot: We are family. Let there be no fighting between you and me. Let there be no fighting between my shepherds and your shepherds."
-      },
-      {
-        "n": 9,
-        "text": "This land is big enough. It will be better if we separate. If you go to the left, then I will go to the right. If you go to the right, then I will go to the left. Lot, you can choose."
-      },
-      {
-        "n": 10,
-        "text": "Lot looked and saw the whole Jordan Valley. It had plenty of water all the way to Zoar. It was like the Garden of the LORD and like the land of Egypt. (This was before the LORD destroyed Sodom and Gomorrah.)"
-      },
-      {
-        "n": 11,
-        "text": "So Lot chose to live in the Jordan Valley. The 2 men separated, and Lot began traveling east."
-      },
-      {
-        "n": 12,
-        "text": "Abram stayed in the land of Canaan. Lot lived in the towns of the valley. Lot put up his tents near the city of Sodom."
-      },
-      {
-        "n": 13,
-        "text": "The people of Sodom were very wicked. They sinned greatly against the LORD."
-      },
-      {
-        "n": 14,
-        "text": "After Abram and Lot had separated, the LORD said to Abram: You must look around you, to the north, to the south, to the east and to the west."
-      },
-      {
-        "n": 15,
-        "text": "I will give you and your family all the land that you can see. This land will be your land and your family's land forever."
-      },
-      {
-        "n": 16,
-        "text": "I will make your descendants like the dust of the earth. If anyone can count the dust of the earth, they can count your descendants."
-      },
-      {
-        "n": 17,
-        "text": "Walk through the whole land, its length and its width. I will give it to you."
-      },
-      {
-        "n": 18,
-        "text": "Then Abram moved his tents. Abram went to stay near the big trees of Mamre near the city of Hebron. There Abram built an altar to worship the LORD."
-      }
+      { "n": 1, "text": "And Abram went up out of Egypt into the south: Abram, and his wife, and all that he had, and Lot with him." },
+      { "n": 2, "text": "And Abram was very rich in cattle (farm animals), in silver, and in gold." },
+      { "n": 3, "text": "And Abram went on his journeys from the south even to Bethel, to the place where his tent had been at the beginning, between Bethel and Hai (Ai)," },
+      { "n": 4, "text": "To the place of the altar, which Abram had made there at the first. And there Abram called on the name of the LORD." },
+      { "n": 5, "text": "And Lot also, who went with Abram, had flocks, and herds, and tents." },
+      { "n": 6, "text": "And the land was not able to bear them, so that they might dwell (live) together. For their substance (goods) was great, so that they could not dwell (live) together." },
+      { "n": 7, "text": "And there was a strife (fighting) between the herdmen (herders) of Abram's cattle (farm animals) and the herdmen (herders) of Lot's cattle (farm animals). And the Canaanite and the Perizzite dwelt (lived) then in the land." },
+      { "n": 8, "text": "And Abram said to Lot: Let there be no strife (fighting), I pray you, between me and you, and between my herdmen (herders) and your herdmen (herders), for we are brethren (family)." },
+      { "n": 9, "text": "Is not the whole land before you? Separate yourself, I pray you, from me. If you will take the left hand, then I will go to the right. Or if you depart to the right hand, then I will go to the left." },
+      { "n": 10, "text": "And Lot lifted up his eyes, and beheld (saw) all the plain of Jordan, that it was well watered everywhere, as you come to Zoar. This was before the LORD destroyed Sodom and Gomorrah. The plain was even as the garden of the LORD, like the land of Egypt." },
+      { "n": 11, "text": "Then Lot chose for himself all the plain of Jordan. And Lot journeyed east. And they separated themselves the one from the other." },
+      { "n": 12, "text": "Abram dwelt (lived) in the land of Canaan, and Lot dwelt (lived) in the cities of the plain, and pitched his tent toward Sodom." },
+      { "n": 13, "text": "But the men of Sodom were wicked and sinners before the LORD exceedingly (very much)." },
+      { "n": 14, "text": "And the LORD said to Abram, after Lot was separated from him: Lift up now your eyes, and look from the place where you are, northward, and southward, and eastward, and westward." },
+      { "n": 15, "text": "For all the land which you see, to you I will give it, and to your seed (children) forever." },
+      { "n": 16, "text": "And I will make your seed (children) as the dust of the earth. So if a man can number (count) the dust of the earth, then your seed (children) shall also be numbered (counted)." },
+      { "n": 17, "text": "Arise, walk through the land in its length and in its breadth (width), for I will give it to you." },
+      { "n": 18, "text": "Then Abram removed (moved) his tent, and came and dwelt (lived) in the plain of Mamre, which is in Hebron, and built there an altar to the LORD." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genesis-chapter-13/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Hai keeps the KJV spelling with the familiar name (Ai) in parentheses.",
     "videos": []
   },
   "14": {
