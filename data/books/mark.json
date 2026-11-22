@@ -131,172 +131,49 @@
   "4": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. No pronoun ambiguity found -- parable characters (e.g. the farmer in v26-29) keep their 'he' as a single, unambiguous referent within each story.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. \"planted in them\" instead of \"sown in their hearts\" in 4:15, dropping \"so\" fearful and \"how is it\" in 4:40, and adding \"God will treat you\" in 4:24), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Parable characters (e.g. the farmer in v26-29) keep their 'he'.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Again Jesus began to teach beside the lake. A very large crowd gathered around Him. So He got into a boat on the lake and sat down, while all the people stood on the shore."
-      },
-      {
-        "n": 2,
-        "text": "He taught them many things using teaching stories. He said:"
-      },
-      {
-        "n": 3,
-        "text": "Listen! A farmer went out to plant seed."
-      },
-      {
-        "n": 4,
-        "text": "As he scattered the seed, some fell on the path. The birds came and ate it up."
-      },
-      {
-        "n": 5,
-        "text": "Some seed fell on rocky ground, where there was not much soil. The seed grew quickly, because the soil was not deep."
-      },
-      {
-        "n": 6,
-        "text": "But when the sun came up, the young plants were burned. They had no roots, so they dried up."
-      },
-      {
-        "n": 7,
-        "text": "Some seed fell among thorns. The thorns grew up and choked the plants, so they did not produce grain."
-      },
-      {
-        "n": 8,
-        "text": "But some seed fell on good soil. It grew up, became strong, and produced grain. Some plants made thirty times more, some sixty times more, and some a hundred times more."
-      },
-      {
-        "n": 9,
-        "text": "Then Jesus said: Anyone who has ears should listen!"
-      },
-      {
-        "n": 10,
-        "text": "Later, when Jesus was alone, the twelve and the others around Him asked Him about the teaching stories."
-      },
-      {
-        "n": 11,
-        "text": "He told them: God has let you know the secret about His kingdom. But to those outside, everything is told in teaching stories,"
-      },
-      {
-        "n": 12,
-        "text": "so that they may look and look but not see, and listen and listen but not understand. If they did, they might turn to God and be forgiven."
-      },
-      {
-        "n": 13,
-        "text": "Then Jesus said to them: Do you not understand this teaching story? Then how will you understand any of them?"
-      },
-      {
-        "n": 14,
-        "text": "The farmer plants the word of God in people."
-      },
-      {
-        "n": 15,
-        "text": "Some people are like the seed on the path. As soon as they hear the word, Satan comes and takes away the word that was planted in them."
-      },
-      {
-        "n": 16,
-        "text": "Others are like the seed on rocky ground. They hear the word and are glad to accept it right away."
-      },
-      {
-        "n": 17,
-        "text": "But they have no root, so they last only a short time. When trouble or hard times come because of the word, they quickly give up."
-      },
-      {
-        "n": 18,
-        "text": "Others are like the seed planted among thorns. They hear the word,"
-      },
-      {
-        "n": 19,
-        "text": "but the worries of this life, the love of money, and the desire for other things crowd in. They choke the word, so it does not produce anything."
-      },
-      {
-        "n": 20,
-        "text": "But others are like the seed planted on good soil. They hear the word, accept it, and produce a good harvest: thirty, sixty, or a hundred times more."
-      },
-      {
-        "n": 21,
-        "text": "Then Jesus said to them: Do you bring in a lamp and put it under a bowl or under the bed? No, you put it on a lampstand."
-      },
-      {
-        "n": 22,
-        "text": "Everything that is hidden will be brought out into the open. Every secret will be made known."
-      },
-      {
-        "n": 23,
-        "text": "Anyone who has ears should listen!"
-      },
-      {
-        "n": 24,
-        "text": "Then He said: Think carefully about what you hear. The way you treat others is the way God will treat you, and He will give you even more."
-      },
-      {
-        "n": 25,
-        "text": "The person who has something will be given more. But the person who has nothing will lose even the little he has."
-      },
-      {
-        "n": 26,
-        "text": "Jesus also said: God's kingdom is like a man who plants seed in the ground."
-      },
-      {
-        "n": 27,
-        "text": "Night and day, whether he is asleep or awake, the seed grows. He does not know how it happens."
-      },
-      {
-        "n": 28,
-        "text": "The soil makes the plant grow by itself. First the blade comes up, then the head, then the full grain in the head."
-      },
-      {
-        "n": 29,
-        "text": "As soon as the grain is ready, the man cuts it, because it is harvest time."
-      },
-      {
-        "n": 30,
-        "text": "Then Jesus said: What can we compare God's kingdom to? What teaching story can we use?"
-      },
-      {
-        "n": 31,
-        "text": "It is like a mustard seed. It is the smallest of all seeds you plant in the ground."
-      },
-      {
-        "n": 32,
-        "text": "But after it is planted, it grows up and becomes bigger than all the garden plants. It grows large branches, so that the birds can rest in its shade."
-      },
-      {
-        "n": 33,
-        "text": "Jesus used many teaching stories like these to teach the people. He taught them as much as they could understand."
-      },
-      {
-        "n": 34,
-        "text": "He always used teaching stories when He spoke to them. But when He was alone with His disciples, He explained everything to them."
-      },
-      {
-        "n": 35,
-        "text": "That evening Jesus said to His disciples: Let us go across to the other side of the lake."
-      },
-      {
-        "n": 36,
-        "text": "They left the crowd and took Jesus along in the boat, just as He was. Other boats were with Him too."
-      },
-      {
-        "n": 37,
-        "text": "A strong wind began to blow. The waves came up into the boat, so that it was almost full of water."
-      },
-      {
-        "n": 38,
-        "text": "Jesus was in the back of the boat, sleeping on a pillow. The disciples woke Him up and said: Teacher, do you not care that we are going to drown?"
-      },
-      {
-        "n": 39,
-        "text": "Jesus got up and ordered the wind to stop. He said to the waves: Be quiet! Be still! Then the wind stopped, and everything was perfectly calm."
-      },
-      {
-        "n": 40,
-        "text": "Jesus said to His disciples: Why are you afraid? Do you still have no faith?"
-      },
-      {
-        "n": 41,
-        "text": "They were very afraid. They said to one another: Who is this man? Even the wind and the waves obey Him!"
-      }
+      { "n": 1, "text": "Jesus began again to teach by the sea side. A great multitude (crowd) was gathered to Him, so that He entered into a ship (boat), and sat in the sea. And the whole multitude was by the sea on the land." },
+      { "n": 2, "text": "Jesus taught them many things by parables (stories that teach a lesson). And He said to them in His doctrine (teaching):" },
+      { "n": 3, "text": "Hearken (listen). Look, a sower (a man planting seed) went out to sow (plant seed)." },
+      { "n": 4, "text": "As he sowed, some seed fell by the way side (along the path). The fowls (birds) of the air came and devoured (ate) it up." },
+      { "n": 5, "text": "Some fell on stony ground, where it did not have much earth (soil). Right away it sprang up, because it had no depth of earth (soil)." },
+      { "n": 6, "text": "But when the sun was up, it was scorched (burned). And because it had no root, it withered (dried up) away." },
+      { "n": 7, "text": "Some fell among thorns. The thorns grew up and choked it, and it yielded (gave) no fruit." },
+      { "n": 8, "text": "Other seed fell on good ground. It yielded (gave) fruit that sprang up and increased. It brought forth (produced) some thirty, some sixty, and some a hundred." },
+      { "n": 9, "text": "Jesus said to them: Whoever has ears to hear, let them hear." },
+      { "n": 10, "text": "When Jesus was alone, those who were around Him with the twelve asked Him about the parable (story that teaches a lesson)." },
+      { "n": 11, "text": "Jesus said to them: To you it is given to know the mystery (secret) of the kingdom of God. But to those who are without (outside), all these things are done in parables (stories that teach a lesson)." },
+      { "n": 12, "text": "So that seeing they may see, and not perceive (understand what they see). And hearing they may hear, and not understand. Otherwise they might be converted (turn back to God), and their sins would be forgiven them." },
+      { "n": 13, "text": "Jesus said to them: Do you not know this parable (story that teaches a lesson)? How then will you know all parables (stories that teach a lesson)?" },
+      { "n": 14, "text": "The sower (the man planting seed) sows the word." },
+      { "n": 15, "text": "These are the ones by the way side (along the path), where the word is sown. When they have heard, Satan comes right away, and takes away the word that was sown in their hearts." },
+      { "n": 16, "text": "In the same way, these are the ones sown on stony ground. When they have heard the word, right away they receive it with gladness (joy)." },
+      { "n": 17, "text": "But they have no root in themselves, and so endure (last) only for a time. Afterward, when affliction (trouble) or persecution (attack for faith) comes for the word's sake, right away they are offended (fall away)." },
+      { "n": 18, "text": "These are the ones sown among thorns. They hear the word," },
+      { "n": 19, "text": "But the cares (worries) of this world, and the deceitfulness (lies) of riches, and the lusts (wrong desires) of other things come in and choke the word. And it becomes unfruitful (has no fruit)." },
+      { "n": 20, "text": "These are the ones sown on good ground. They hear the word, and receive it, and bring forth (produce) fruit: some thirtyfold (30 times as much), some sixty, and some a hundred." },
+      { "n": 21, "text": "Jesus said to them: Is a candle (lamp) brought to be put under a bushel (basket), or under a bed? Is it not brought to be set on a candlestick (lamp stand)?" },
+      { "n": 22, "text": "For there is nothing hidden that will not be manifested (shown). And nothing was kept secret, except that it should come abroad (out into the open)." },
+      { "n": 23, "text": "If anyone has ears to hear, let them hear." },
+      { "n": 24, "text": "Jesus said to them: Take heed (be careful) what you hear. With the measure you mete (give out), it will be measured to you. And to you who hear, more will be given." },
+      { "n": 25, "text": "For whoever has, more will be given to them. And whoever does not have, even what they have will be taken from them." },
+      { "n": 26, "text": "Jesus said: The kingdom of God is like a man who throws seed into the ground." },
+      { "n": 27, "text": "He sleeps, and rises night and day. And the seed springs and grows up, he does not know how." },
+      { "n": 28, "text": "For the earth brings forth (produces) fruit by herself: first the blade (plant), then the ear (head of grain), after that the full corn (grain) in the ear." },
+      { "n": 29, "text": "But when the fruit is brought forth (ready), right away he puts in the sickle (curved knife for cutting grain), because the harvest has come." },
+      { "n": 30, "text": "Jesus said: What will we liken (compare) the kingdom of God to? Or with what comparison will we compare it?" },
+      { "n": 31, "text": "It is like a grain of mustard seed. When it is sown in the earth, it is less (smaller) than all the seeds that are in the earth." },
+      { "n": 32, "text": "But when it is sown, it grows up, and becomes greater than all herbs (garden plants). It shoots out great branches, so that the fowls (birds) of the air may lodge (rest) under its shadow." },
+      { "n": 33, "text": "With many such parables (stories that teach a lesson) Jesus spoke the word to them, as they were able to hear it." },
+      { "n": 34, "text": "But without a parable (story that teaches a lesson) He did not speak to them. And when they were alone, Jesus expounded (explained) all things to His disciples." },
+      { "n": 35, "text": "The same day, when the evening had come, Jesus said to them: Let us pass over to the other side." },
+      { "n": 36, "text": "When they had sent away the multitude (crowd), they took Jesus just as He was in the ship (boat). And there were also other little ships (boats) with Him." },
+      { "n": 37, "text": "A great storm of wind arose. The waves beat into the ship (boat), so that it was now full." },
+      { "n": 38, "text": "Jesus was in the hinder part (back) of the ship (boat), asleep on a pillow. They woke Him, and said to Him: Master (Teacher), do You not care that we perish (are dying)?" },
+      { "n": 39, "text": "Jesus arose (got up), and rebuked (gave a strong command to) the wind. Jesus said to the sea: Peace, be still. And the wind ceased (stopped), and there was a great calm." },
+      { "n": 40, "text": "Jesus said to them: Why are you so fearful? How is it that you have no faith?" },
+      { "n": 41, "text": "They feared exceedingly (very much), and said to one another: What kind of man is this, that even the wind and the sea obey Him?" }
     ]
   },
   "5": {
