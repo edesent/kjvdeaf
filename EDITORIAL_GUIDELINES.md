@@ -253,6 +253,9 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - quarrel (grudge); observed (protected) -- Mark 6:20; convenient (good); lords (nobles); high captains (army officers); chief estates (leading men); sware (made a promise to God)
   - haste (hurry); by and by (right now); reject (refuse); executioner (a man who kills prisoners); corpse (dead body); apart (away); leisure (free time)
   - afoot (on foot); outwent (got there before); far spent (almost over); pennyworth (days' pay) -- Mark 6:37; companies (groups); ranks (rows); toiling (working hard); consider (understand)
+  - defiled (unclean); unwashen (unwashed); oft (carefully) -- Mark 7:3; hold (keep) -- of traditions; brasen vessels (brass pots); walk (live); full well (very cleverly); delivered (passed down)
+  - purging (cleaning out); meats (foods); covetousness (wanting what belongs to others); deceit (lying); lasciviousness (shameless sexual desire); evil eye (jealousy)
+  - Syrophenician (from Phoenicia in Syria); impediment (problem); loosed (set free) -- of the tongue; plain (clearly)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
