@@ -356,274 +356,160 @@
   },
   "11": {
     "verses": [
-      { "n": 1, "text": "At that time the whole earth had 1 language. Everyone used the same words." },
-      { "n": 2, "text": "As people traveled from the east, they found a plain in the land of Shinar. They settled there." },
-      { "n": 3, "text": "They said to each other: Come, let us make bricks and bake them hard. They used bricks for stone and tar to hold the bricks together." },
-      { "n": 4, "text": "Then they said: Come, let us build a city for ourselves. Let us build a tower with its top in the sky. Let us make a name for ourselves. Then we will not be scattered over the whole earth." },
-      { "n": 5, "text": "The LORD came down to see the city and the tower. The people were building them." },
-      { "n": 6, "text": "The LORD said: Look, these people are united. They all speak the same language. This is only the beginning of what they will do. Now nothing they plan to do will be too hard for them." },
-      { "n": 7, "text": "The LORD also said: Come, let Us go down and mix up their language. Then they will not understand each other." },
-      { "n": 8, "text": "So the LORD scattered them from there over the whole earth. They stopped building the city." },
-      { "n": 9, "text": "That is why the city was named Babel. There the LORD mixed up the language of the whole earth. From there the LORD scattered the people over the whole earth." },
-      { "n": 10, "text": "This is the story of the family of Shem. When Shem was 100 years old, he had a son named Arphaxad. This was 2 years after the flood." },
-      { "n": 11, "text": "After Arphaxad was born, Shem lived 500 more years. Shem had other sons and daughters." },
-      { "n": 12, "text": "When Arphaxad was 35 years old, he had a son named Salah." },
-      { "n": 13, "text": "After Salah was born, Arphaxad lived 403 more years. Arphaxad had other sons and daughters." },
-      { "n": 14, "text": "When Salah was 30 years old, he had a son named Eber." },
-      { "n": 15, "text": "After Eber was born, Salah lived 403 more years. Salah had other sons and daughters." },
-      { "n": 16, "text": "When Eber was 34 years old, he had a son named Peleg." },
-      { "n": 17, "text": "After Peleg was born, Eber lived 430 more years. Eber had other sons and daughters." },
-      { "n": 18, "text": "When Peleg was 30 years old, he had a son named Reu." },
-      { "n": 19, "text": "After Reu was born, Peleg lived 209 more years. Peleg had other sons and daughters." },
-      { "n": 20, "text": "When Reu was 32 years old, he had a son named Serug." },
-      { "n": 21, "text": "After Serug was born, Reu lived 207 more years. Reu had other sons and daughters." },
-      { "n": 22, "text": "When Serug was 30 years old, he had a son named Nahor." },
-      { "n": 23, "text": "After Nahor was born, Serug lived 200 more years. Serug had other sons and daughters." },
-      { "n": 24, "text": "When Nahor was 29 years old, he had a son named Terah." },
-      { "n": 25, "text": "After Terah was born, Nahor lived 119 more years. Nahor had other sons and daughters." },
-      { "n": 26, "text": "When Terah was 70 years old, he began to have sons: Abram, Nahor and Haran." },
-      { "n": 27, "text": "This is the story of the family of Terah. Terah was the father of Abram, Nahor and Haran. Haran was the father of Lot." },
-      { "n": 28, "text": "Haran died in the land where he was born, Ur of the Chaldeans. His father Terah was still alive." },
-      { "n": 29, "text": "Abram and Nahor each married. Abram's wife was named Sarai. Nahor's wife was named Milcah. Milcah was the daughter of Haran. Haran was also the father of Iscah." },
-      { "n": 30, "text": "Sarai could not have children." },
-      { "n": 31, "text": "Terah took his son Abram, his grandson Lot and his daughter-in-law Sarai, Abram's wife. They left Ur of the Chaldeans to go to the land of Canaan. They came to the town of Haran and settled there." },
-      { "n": 32, "text": "Terah lived 205 years. Then Terah died in Haran." }
+      { "n": 1, "text": "And the whole earth was of one language, and of one speech." },
+      { "n": 2, "text": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar. And they dwelt (lived) there." },
+      { "n": 3, "text": "And they said one to another: Go to (Come), let us make brick, and burn them throughly (completely). And they had brick for stone, and slime (tar) they had for mortar." },
+      { "n": 4, "text": "And they said: Go to (Come), let us build us a city and a tower, whose top may reach to heaven. And let us make us a name, or we will be scattered abroad on the face of the whole earth." },
+      { "n": 5, "text": "And the LORD came down to see the city and the tower, which the children of men built." },
+      { "n": 6, "text": "And the LORD said: Look, the people are one, and they have all one language. And this they begin to do. And now nothing will be restrained (held back) from them, which they have imagined to do." },
+      { "n": 7, "text": "Go to (Come), let Us go down, and there confound (mix up) their language, so that they may not understand one another's speech." },
+      { "n": 8, "text": "So the LORD scattered them abroad from there on the face of all the earth. And they left off (stopped) building the city." },
+      { "n": 9, "text": "So the name of it is called Babel, because the LORD did there confound (mix up) the language of all the earth. And from there the LORD scattered them abroad on the face of all the earth." },
+      { "n": 10, "text": "These are the generations (family history) of Shem. Shem was 100 years old, and begat (became the father of) Arphaxad 2 years after the flood." },
+      { "n": 11, "text": "And Shem lived after he begat (became the father of) Arphaxad 500 years, and begat (became the father of) sons and daughters." },
+      { "n": 12, "text": "And Arphaxad lived 35 years, and begat (became the father of) Salah." },
+      { "n": 13, "text": "And Arphaxad lived after he begat (became the father of) Salah 403 years, and begat (became the father of) sons and daughters." },
+      { "n": 14, "text": "And Salah lived 30 years, and begat (became the father of) Eber." },
+      { "n": 15, "text": "And Salah lived after he begat (became the father of) Eber 403 years, and begat (became the father of) sons and daughters." },
+      { "n": 16, "text": "And Eber lived 34 years, and begat (became the father of) Peleg." },
+      { "n": 17, "text": "And Eber lived after he begat (became the father of) Peleg 430 years, and begat (became the father of) sons and daughters." },
+      { "n": 18, "text": "And Peleg lived 30 years, and begat (became the father of) Reu." },
+      { "n": 19, "text": "And Peleg lived after he begat (became the father of) Reu 209 years, and begat (became the father of) sons and daughters." },
+      { "n": 20, "text": "And Reu lived 32 years, and begat (became the father of) Serug." },
+      { "n": 21, "text": "And Reu lived after he begat (became the father of) Serug 207 years, and begat (became the father of) sons and daughters." },
+      { "n": 22, "text": "And Serug lived 30 years, and begat (became the father of) Nahor." },
+      { "n": 23, "text": "And Serug lived after he begat (became the father of) Nahor 200 years, and begat (became the father of) sons and daughters." },
+      { "n": 24, "text": "And Nahor lived 29 years, and begat (became the father of) Terah." },
+      { "n": 25, "text": "And Nahor lived after he begat (became the father of) Terah 119 years, and begat (became the father of) sons and daughters." },
+      { "n": 26, "text": "And Terah lived 70 years, and begat (became the father of) Abram, Nahor, and Haran." },
+      { "n": 27, "text": "Now these are the generations (family history) of Terah. Terah begat (became the father of) Abram, Nahor, and Haran. And Haran begat (became the father of) Lot." },
+      { "n": 28, "text": "And Haran died before his father Terah in the land of his nativity (birth), in Ur of the Chaldees." },
+      { "n": 29, "text": "And Abram and Nahor took wives. The name of Abram's wife was Sarai. And the name of Nahor's wife was Milcah, the daughter of Haran. Haran was the father of Milcah, and the father of Iscah." },
+      { "n": 30, "text": "But Sarai was barren (could not have children). Sarai had no child." },
+      { "n": 31, "text": "And Terah took Abram his son, and Lot the son of Haran, his son's son, and Sarai his daughter-in-law, his son Abram's wife. And they went out with them from Ur of the Chaldees, to go into the land of Canaan. And they came to Haran, and dwelt (lived) there." },
+      { "n": 32, "text": "And the days of Terah were 205 years. And Terah died in Haran." }
     ],
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. Check: verse 4 ('whose top may reach unto heaven') is rendered 'with its top in the sky'; verse 3 'slime' is rendered 'tar'; verse 7 keeps 'Us' capitalized as in Genesis 1:26; the ages in verses 10-25 follow the KJV numbers (the genealogy has no totals, so none are added); verse 26 'begat Abram, Nahor and Haran' is rendered 'began to have sons'.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "sourceUrl": "https://kjvdeaf.com/old-testament/genesis/genesis-chapter-11/",
     "status": "published",
     "videos": []
   },
   "12": {
     "verses": [
-      {
-        "n": 1,
-        "text": "The LORD said to Abram: You must leave your land. Go away from it and from your family and the house of your father. I will show you where you must go."
-      },
-      {
-        "n": 2,
-        "text": "I will build a great nation from you. I will bless you and make your name famous. People will use your name to bless other people."
-      },
-      {
-        "n": 3,
-        "text": "I will bless those who bless you. I will curse those who curse you. I will use you to bless all the people on earth."
-      },
-      {
-        "n": 4,
-        "text": "So Abram left Haran just like the LORD said, and Lot went with him. Abram was 75 years old when he left Haran."
-      },
-      {
-        "n": 5,
-        "text": "Abram took his wife Sarai and his nephew Lot. He took all the possessions and servants they had gathered in Haran. Then they set out for the land of Canaan."
-      },
-      {
-        "n": 6,
-        "text": "Abram walked from one side of the land to the other side. At that time the Canaanite people lived in the land. Abram went to the town of Shechem, to the big tree of Moreh."
-      },
-      {
-        "n": 7,
-        "text": "The LORD appeared to Abram. The LORD said: I will give this land to your children and your family. Then Abram built an altar to the LORD there."
-      },
-      {
-        "n": 8,
-        "text": "Then Abram left Shechem and traveled to the mountains east of Bethel. Abram set up his tent there. Bethel was to the west, and Ai was to the east. Abram built an altar there to worship the LORD."
-      },
-      {
-        "n": 9,
-        "text": "Later, Abram took his tents and traveled south, toward the Negev."
-      },
-      {
-        "n": 10,
-        "text": "Then there was very little food in the land. So Abram went down to Egypt to stay there for a while."
-      },
-      {
-        "n": 11,
-        "text": "When they came near Egypt, Abram said to his wife Sarai: I know you are a beautiful woman."
-      },
-      {
-        "n": 12,
-        "text": "When the Egyptians see you, Sarai, they will say: This is his wife. Then they will kill me, but they will let you live."
-      },
-      {
-        "n": 13,
-        "text": "Please say that you are my sister. Then things will go well for me because of you. Because of you, my life will be saved."
-      },
-      {
-        "n": 14,
-        "text": "When Abram and Sarai came into the land of Egypt, the people of Egypt saw how beautiful Sarai was."
-      },
-      {
-        "n": 15,
-        "text": "Pharaoh's officials saw Sarai. They told Pharaoh how beautiful she was. Sarai was taken into Pharaoh's palace."
-      },
-      {
-        "n": 16,
-        "text": "Pharaoh was good to Abram because Pharaoh thought that Sarai was Abram's sister. Pharaoh gave Abram sheep, oxen, donkeys, slaves and camels."
-      },
-      {
-        "n": 17,
-        "text": "But the LORD struck Pharaoh and Pharaoh's household with severe sicknesses because of Sarai, Abram's wife."
-      },
-      {
-        "n": 18,
-        "text": "Then Pharaoh called Abram. Pharaoh asked: What have you done to me? Why did you not tell me that Sarai is your wife?"
-      },
-      {
-        "n": 19,
-        "text": "Why did you say: She is my sister? I took her to be my wife. Now here is your wife. Take her and go."
-      },
-      {
-        "n": 20,
-        "text": "Pharaoh gave orders to his men about Abram. They sent Abram away with his wife and everything he had."
-      }
+      { "n": 1, "text": "Now the LORD had said to Abram: Get out of your country, and from your kindred (relatives), and from your father's house, to a land that I will show you." },
+      { "n": 2, "text": "And I will make of you a great nation. And I will bless you, and make your name great. And you shall be a blessing." },
+      { "n": 3, "text": "And I will bless those who bless you, and curse the one who curses you. And in you shall all families of the earth be blessed." },
+      { "n": 4, "text": "So Abram departed, as the LORD had spoken to him, and Lot went with him. And Abram was 75 years old when he departed out of Haran." },
+      { "n": 5, "text": "And Abram took Sarai his wife, and Lot his brother's son, and all their substance (goods) that they had gathered, and the souls (people) that they had gotten in Haran. And they went out to go into the land of Canaan. And into the land of Canaan they came." },
+      { "n": 6, "text": "And Abram passed through the land to the place of Sichem (Shechem), to the plain of Moreh. And the Canaanite was then in the land." },
+      { "n": 7, "text": "And the LORD appeared to Abram, and said: To your seed (children) I will give this land. And there Abram built an altar to the LORD, who appeared to him." },
+      { "n": 8, "text": "And Abram removed (moved) from there to a mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Hai (Ai) on the east. And there Abram built an altar to the LORD, and called on the name of the LORD." },
+      { "n": 9, "text": "And Abram journeyed, going on still toward the south." },
+      { "n": 10, "text": "And there was a famine (time of no food) in the land. And Abram went down into Egypt to sojourn (live for a while) there, for the famine was grievous (very bad) in the land." },
+      { "n": 11, "text": "And it came to pass, when Abram had come near to enter into Egypt, that Abram said to Sarai his wife: Look now, I know that you are a fair (beautiful) woman to look on." },
+      { "n": 12, "text": "So it shall come to pass, when the Egyptians shall see you, that they shall say: This is his wife. And they will kill me, but they will save you alive." },
+      { "n": 13, "text": "Say, I pray you, that you are my sister, so that it may be well with me for your sake. And my soul (life) shall live because of you." },
+      { "n": 14, "text": "And it came to pass that, when Abram had come into Egypt, the Egyptians beheld (saw) the woman, that she was very fair (beautiful)." },
+      { "n": 15, "text": "The princes of Pharaoh also saw Sarai, and commended (praised) her before Pharaoh. And the woman was taken into Pharaoh's house." },
+      { "n": 16, "text": "And Pharaoh entreated (treated) Abram well for Sarai's sake. And Abram had sheep, and oxen, and he asses (male donkeys), and menservants, and maidservants, and she asses (female donkeys), and camels." },
+      { "n": 17, "text": "And the LORD plagued (struck) Pharaoh and his house with great plagues (sicknesses) because of Sarai, Abram's wife." },
+      { "n": 18, "text": "And Pharaoh called Abram and said: What is this that you have done to me? Why did you not tell me that she was your wife?" },
+      { "n": 19, "text": "Why did you say: She is my sister? So I might have taken her to me as a wife. Now then, look, here is your wife. Take her, and go your way." },
+      { "n": 20, "text": "And Pharaoh commanded his men about Abram. And they sent Abram away, and his wife, and all that he had." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genesis-chapter-12/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Sichem and Hai keep the KJV spelling with the familiar names (Shechem, Ai) in parentheses.",
     "videos": []
   },
   "13": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Abram left Egypt and went to the Negev in the south of Canaan. He took his wife Sarai and everything he had. Lot went with them."
-      },
-      {
-        "n": 2,
-        "text": "Abram was very rich. Abram had many sheep, goats and oxen, and Abram also had a lot of silver and gold."
-      },
-      {
-        "n": 3,
-        "text": "Abram continued traveling around. Abram went back to Bethel. Abram went to the place between the city of Bethel and Hai where Abram and his family had camped before."
-      },
-      {
-        "n": 4,
-        "text": "The first time that Abram had been there, Abram had built an altar. Now Abram called on the name of the LORD at the altar."
-      },
-      {
-        "n": 5,
-        "text": "Lot was with Abram and Lot also had sheep, goats, oxen and tents."
-      },
-      {
-        "n": 6,
-        "text": "The land could not feed all their animals. They had too many animals to stay together."
-      },
-      {
-        "n": 7,
-        "text": "Then the shepherds of Abram and the shepherds of Lot started to fight. At that time the Canaanites and the Perizzites were still living in the land."
-      },
-      {
-        "n": 8,
-        "text": "Abram said to Lot: We are family. Let there be no fighting between you and me. Let there be no fighting between my shepherds and your shepherds."
-      },
-      {
-        "n": 9,
-        "text": "This land is big enough. It will be better if we separate. If you go to the left, then I will go to the right. If you go to the right, then I will go to the left. Lot, you can choose."
-      },
-      {
-        "n": 10,
-        "text": "Lot looked and saw the whole Jordan Valley. It had plenty of water all the way to Zoar. It was like the Garden of the LORD and like the land of Egypt. (This was before the LORD destroyed Sodom and Gomorrah.)"
-      },
-      {
-        "n": 11,
-        "text": "So Lot chose to live in the Jordan Valley. The 2 men separated, and Lot began traveling east."
-      },
-      {
-        "n": 12,
-        "text": "Abram stayed in the land of Canaan. Lot lived in the towns of the valley. Lot put up his tents near the city of Sodom."
-      },
-      {
-        "n": 13,
-        "text": "The people of Sodom were very wicked. They sinned greatly against the LORD."
-      },
-      {
-        "n": 14,
-        "text": "After Abram and Lot had separated, the LORD said to Abram: You must look around you, to the north, to the south, to the east and to the west."
-      },
-      {
-        "n": 15,
-        "text": "I will give you and your family all the land that you can see. This land will be your land and your family's land forever."
-      },
-      {
-        "n": 16,
-        "text": "I will make your descendants like the dust of the earth. If anyone can count the dust of the earth, they can count your descendants."
-      },
-      {
-        "n": 17,
-        "text": "Walk through the whole land, its length and its width. I will give it to you."
-      },
-      {
-        "n": 18,
-        "text": "Then Abram moved his tents. Abram went to stay near the big trees of Mamre near the city of Hebron. There Abram built an altar to worship the LORD."
-      }
+      { "n": 1, "text": "And Abram went up out of Egypt into the south: Abram, and his wife, and all that he had, and Lot with him." },
+      { "n": 2, "text": "And Abram was very rich in cattle (farm animals), in silver, and in gold." },
+      { "n": 3, "text": "And Abram went on his journeys from the south even to Bethel, to the place where his tent had been at the beginning, between Bethel and Hai (Ai)," },
+      { "n": 4, "text": "To the place of the altar, which Abram had made there at the first. And there Abram called on the name of the LORD." },
+      { "n": 5, "text": "And Lot also, who went with Abram, had flocks, and herds, and tents." },
+      { "n": 6, "text": "And the land was not able to bear them, so that they might dwell (live) together. For their substance (goods) was great, so that they could not dwell (live) together." },
+      { "n": 7, "text": "And there was a strife (fighting) between the herdmen (herders) of Abram's cattle (farm animals) and the herdmen (herders) of Lot's cattle (farm animals). And the Canaanite and the Perizzite dwelt (lived) then in the land." },
+      { "n": 8, "text": "And Abram said to Lot: Let there be no strife (fighting), I pray you, between me and you, and between my herdmen (herders) and your herdmen (herders), for we are brethren (family)." },
+      { "n": 9, "text": "Is not the whole land before you? Separate yourself, I pray you, from me. If you will take the left hand, then I will go to the right. Or if you depart to the right hand, then I will go to the left." },
+      { "n": 10, "text": "And Lot lifted up his eyes, and beheld (saw) all the plain of Jordan, that it was well watered everywhere, as you come to Zoar. This was before the LORD destroyed Sodom and Gomorrah. The plain was even as the garden of the LORD, like the land of Egypt." },
+      { "n": 11, "text": "Then Lot chose for himself all the plain of Jordan. And Lot journeyed east. And they separated themselves the one from the other." },
+      { "n": 12, "text": "Abram dwelt (lived) in the land of Canaan, and Lot dwelt (lived) in the cities of the plain, and pitched his tent toward Sodom." },
+      { "n": 13, "text": "But the men of Sodom were wicked and sinners before the LORD exceedingly (very much)." },
+      { "n": 14, "text": "And the LORD said to Abram, after Lot was separated from him: Lift up now your eyes, and look from the place where you are, northward, and southward, and eastward, and westward." },
+      { "n": 15, "text": "For all the land which you see, to you I will give it, and to your seed (children) forever." },
+      { "n": 16, "text": "And I will make your seed (children) as the dust of the earth. So if a man can number (count) the dust of the earth, then your seed (children) shall also be numbered (counted)." },
+      { "n": 17, "text": "Arise, walk through the land in its length and in its breadth (width), for I will give it to you." },
+      { "n": 18, "text": "Then Abram removed (moved) his tent, and came and dwelt (lived) in the plain of Mamre, which is in Hebron, and built there an altar to the LORD." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genesis-chapter-13/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Hai keeps the KJV spelling with the familiar name (Ai) in parentheses.",
     "videos": []
   },
   "14": {
     "verses": [
-      { "n": 1, "text": "In those days, Amraphel was king of Shinar. Arioch was king of Ellasar. Chedorlaomer was king of Elam. Tidal was king of Goiim." },
-      { "n": 2, "text": "These 4 kings made war against 5 other kings. They fought Bera king of Sodom and Birsha king of Gomorrah. They also fought Shinab king of Admah, Shemeber king of Zeboiim and the king of Bela, which is Zoar." },
-      { "n": 3, "text": "All 5 of these kings joined their armies in the Valley of Siddim, which is the Salt Sea." },
-      { "n": 4, "text": "For 12 years these 5 kings had served Chedorlaomer. In the 13th year they rebelled." },
-      { "n": 5, "text": "In the 14th year, Chedorlaomer and the kings with him came. They defeated the Rephaim in Ashteroth Karnaim. They defeated the Zuzim in Ham. They defeated the Emim in Shaveh Kiriathaim." },
-      { "n": 6, "text": "They also defeated the Horites in the mountains of Seir, as far as El Paran by the desert." },
-      { "n": 7, "text": "Then they turned back and came to En Mishpat, which is Kadesh. They defeated the whole land of the Amalekites. They also defeated the Amorites who lived in Hazazon Tamar." },
-      { "n": 8, "text": "Then the kings of Sodom, Gomorrah, Admah, Zeboiim and Bela, which is Zoar, marched out. They lined up for battle in the Valley of Siddim." },
-      { "n": 9, "text": "They fought against Chedorlaomer king of Elam, Tidal king of Goiim, Amraphel king of Shinar and Arioch king of Ellasar. It was 4 kings against 5." },
-      { "n": 10, "text": "The Valley of Siddim was full of tar pits. The kings of Sodom and Gomorrah ran away, and some of their men fell into the pits. The rest ran to the mountains." },
-      { "n": 11, "text": "The enemy took all the goods and food of Sodom and Gomorrah. Then they left." },
-      { "n": 12, "text": "They also took Lot, Abram's nephew, who lived in Sodom. They took everything Lot owned." },
-      { "n": 13, "text": "A man who had escaped came and told Abram the Hebrew. Abram was living near the big trees that belonged to Mamre the Amorite. Mamre and his brothers Eshcol and Aner had an agreement to help Abram." },
-      { "n": 14, "text": "Abram heard that his nephew had been captured. Abram called out his 318 trained men who were born in his house. Abram chased the enemy as far as Dan." },
-      { "n": 15, "text": "That night Abram divided his men into groups and attacked. They chased the enemy to Hobah, north of Damascus." },
-      { "n": 16, "text": "Abram brought back all the goods. He brought back his nephew Lot and Lot's goods. He also brought back the women and the other people." },
-      { "n": 17, "text": "Abram defeated Chedorlaomer and the kings with him. Then Abram returned. The king of Sodom went out to meet Abram in the Valley of Shaveh, also called the King's Valley." },
-      { "n": 18, "text": "Melchizedek, the king of Salem, brought out bread and wine. Melchizedek was a priest of God Most High." },
-      { "n": 19, "text": "Melchizedek blessed Abram and said: May God Most High, who made heaven and earth, bless Abram." },
-      { "n": 20, "text": "Praise God Most High, who has put your enemies in your hands. Then Abram gave Melchizedek a tenth of everything." },
-      { "n": 21, "text": "The king of Sodom said to Abram: Give me the people. You may keep the goods." },
-      { "n": 22, "text": "Abram said to the king of Sodom: I have raised my hand and sworn to the LORD, God Most High, who made heaven and earth." },
-      { "n": 23, "text": "I will not take anything of yours, not even a thread or a sandal strap. Then you cannot say: I made Abram rich." },
-      { "n": 24, "text": "I will take nothing but what my young men have eaten. But let Aner, Eshcol and Mamre take their share, because they went with me." }
+      { "n": 1, "text": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations," },
+      { "n": 2, "text": "That these kings made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar." },
+      { "n": 3, "text": "All these were joined together in the vale (valley) of Siddim, which is the salt sea." },
+      { "n": 4, "text": "For 12 years they served Chedorlaomer, and in the 13th year they rebelled." },
+      { "n": 5, "text": "And in the 14th year came Chedorlaomer, and the kings that were with him, and smote (struck down) the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim," },
+      { "n": 6, "text": "And the Horites in their mount Seir, to Elparan, which is by the wilderness (desert)." },
+      { "n": 7, "text": "And they returned, and came to Enmishpat, which is Kadesh, and smote (struck down) all the country of the Amalekites, and also the Amorites, that dwelt (lived) in Hazezontamar." },
+      { "n": 8, "text": "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar). And they joined battle with them in the vale (valley) of Siddim:" },
+      { "n": 9, "text": "With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar: 4 kings with 5." },
+      { "n": 10, "text": "And the vale (valley) of Siddim was full of slimepits (tar pits). And the kings of Sodom and Gomorrah fled, and fell there. And those that remained fled to the mountain." },
+      { "n": 11, "text": "And the 4 kings took all the goods of Sodom and Gomorrah, and all their victuals (food), and went their way." },
+      { "n": 12, "text": "And they took Lot, Abram's brother's son, who dwelt (lived) in Sodom, and Lot's goods, and departed." },
+      { "n": 13, "text": "And there came one that had escaped, and told Abram the Hebrew. For Abram dwelt (lived) in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner. And these were confederate (joined in agreement) with Abram." },
+      { "n": 14, "text": "And when Abram heard that his brother (relative) was taken captive (prisoner), Abram armed his trained servants, born in his own house, 318 men, and pursued them to Dan." },
+      { "n": 15, "text": "And Abram divided himself against them, he and his servants, by night, and smote (struck down) them, and pursued them to Hobah, which is on the left hand of Damascus." },
+      { "n": 16, "text": "And Abram brought back all the goods, and also brought again his brother (relative) Lot, and Lot's goods, and the women also, and the people." },
+      { "n": 17, "text": "And the king of Sodom went out to meet Abram after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king's dale (valley)." },
+      { "n": 18, "text": "And Melchizedek king of Salem brought out bread and wine. And Melchizedek was the priest of the Most High God." },
+      { "n": 19, "text": "And Melchizedek blessed Abram, and said: Blessed be Abram of the Most High God, possessor (owner) of heaven and earth." },
+      { "n": 20, "text": "And blessed be the Most High God, which has delivered your enemies into your hand. And Abram gave Melchizedek tithes (a tenth part) of all." },
+      { "n": 21, "text": "And the king of Sodom said to Abram: Give me the persons (people), and take the goods to yourself." },
+      { "n": 22, "text": "And Abram said to the king of Sodom: I have lifted up my hand to the LORD, the Most High God, the possessor (owner) of heaven and earth," },
+      { "n": 23, "text": "That I will not take from a thread even to a shoelatchet (sandal strap), and that I will not take any thing that is yours, or else you would say: I have made Abram rich." },
+      { "n": 24, "text": "Except only that which the young men have eaten, and the portion (share) of the men which went with me: Aner, Eshcol, and Mamre. Let them take their portion (share)." }
     ],
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. Check: 'king of nations' (verse 1) is 'king of Goiim' (a place name); 'brother' in verses 12-16 is rendered 'nephew'; 'Almighty/most high God' is 'God Most High'; 'tithes' is 'a tenth'; the Salt Sea is the Dead Sea; verses 19 and 22 'possessor of heaven and earth' is rendered 'made heaven and earth'.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V10 keeps the KJV's fell there without adding who fell. V14 and v16 keep his brother for Lot, explained as (relative), because Lot was Abram's nephew.",
     "sourceUrl": "https://kjvdeaf.com/old-testament/genesis/genesis-chapter-14/",
     "status": "published",
     "videos": []
   },
   "15": {
     "verses": [
-      { "n": 1, "text": "After this, the word of the LORD came to Abram in a vision. The LORD said: Do not be afraid, Abram. I am your shield. I am your very great reward." },
-      { "n": 2, "text": "Abram said: Lord GOD, what can You give me? I have no children. The man who will receive my house is Eliezer of Damascus." },
-      { "n": 3, "text": "Abram also said: You have given me no children. A servant born in my house will receive everything I have." },
-      { "n": 4, "text": "Then the word of the LORD came to Abram: This servant will not receive what is yours. Your own son will receive it." },
-      { "n": 5, "text": "The LORD took Abram outside and said: Look up at the sky. Count the stars, if you can. Then the LORD said: That is how many descendants you will have." },
-      { "n": 6, "text": "Abram believed the LORD. The LORD counted Abram's faith as doing what is right." },
-      { "n": 7, "text": "The LORD said to Abram: I am the LORD. I brought you out of Ur of the Chaldeans. I did this to give you this land." },
-      { "n": 8, "text": "Abram said: Lord GOD, how can I know that I will receive it?" },
-      { "n": 9, "text": "The LORD said to Abram: Bring Me a young cow, a goat and a ram, each 3 years old. Bring Me also a dove and a young pigeon." },
-      { "n": 10, "text": "Abram brought all these animals. Abram cut each animal in half. He laid the halves across from each other. But he did not cut the birds in half." },
-      { "n": 11, "text": "Birds that eat dead bodies came down on the animals. Abram drove them away." },
-      { "n": 12, "text": "When the sun was going down, Abram fell into a deep sleep. Then terror and thick darkness came over him." },
-      { "n": 13, "text": "The LORD said to Abram: You can be sure of this. Your descendants will live in a land that is not theirs. They will serve the people there. Those people will be cruel to them for 400 years." },
-      { "n": 14, "text": "But I will punish the nation they serve. Afterward your descendants will leave with great riches." },
-      { "n": 15, "text": "You will go to your fathers in peace. You will be buried at a good old age." },
-      { "n": 16, "text": "In the 4th generation your descendants will come back here. The Amorites have not yet sinned enough to be punished." },
-      { "n": 17, "text": "When the sun went down, it was dark. A smoking fire pot and a burning torch passed between the pieces." },
-      { "n": 18, "text": "On that day the LORD made an agreement with Abram: I have given this land to your descendants. It reaches from the river of Egypt to the great river, the Euphrates." },
-      { "n": 19, "text": "This land includes the land of the Kenites, the Kenizzites and the Kadmonites." },
-      { "n": 20, "text": "It includes the land of the Hittites, the Perizzites and the Rephaim." },
-      { "n": 21, "text": "It includes the land of the Amorites, the Canaanites, the Girgashites and the Jebusites." }
+      { "n": 1, "text": "After these things the word of the LORD came to Abram in a vision, saying: Fear not, Abram. I am your shield, and your exceeding (very) great reward." },
+      { "n": 2, "text": "And Abram said: Lord GOD, what will You give me, since I go childless, and the steward (manager) of my house is this Eliezer of Damascus?" },
+      { "n": 3, "text": "And Abram said: Look, to me You have given no seed (child). And look, one born in my house is my heir (the one who will own it all)." },
+      { "n": 4, "text": "And look, the word of the LORD came to Abram, saying: This man shall not be your heir (the one who will own it all). But the one that shall come out of your own bowels (your own body) shall be your heir (the one who will own it all)." },
+      { "n": 5, "text": "And the LORD brought Abram outside, and said: Look now toward heaven, and tell (count) the stars, if you are able to number (count) them. And the LORD said to Abram: So shall your seed (children) be." },
+      { "n": 6, "text": "And Abram believed in the LORD. And the LORD counted it to Abram for righteousness (being right with God)." },
+      { "n": 7, "text": "And the LORD said to Abram: I am the LORD that brought you out of Ur of the Chaldees, to give you this land to inherit it." },
+      { "n": 8, "text": "And Abram said: Lord GOD, by what shall I know that I shall inherit it?" },
+      { "n": 9, "text": "And the LORD said to Abram: Take Me a heifer (young cow) 3 years old, and a she goat 3 years old, and a ram 3 years old, and a turtledove (dove), and a young pigeon." },
+      { "n": 10, "text": "And Abram took to him all these, and divided them in the middle, and laid each piece one across from another. But the birds he did not divide." },
+      { "n": 11, "text": "And when the fowls (birds) came down on the carcases (dead bodies), Abram drove them away." },
+      { "n": 12, "text": "And when the sun was going down, a deep sleep fell on Abram. And look, a horror (great fear) of great darkness fell on him." },
+      { "n": 13, "text": "And the LORD said to Abram: Know of a surety (for sure) that your seed (children) shall be a stranger (foreigner) in a land that is not theirs, and shall serve them. And they shall afflict (make to suffer) them 400 years." },
+      { "n": 14, "text": "And also that nation, whom they shall serve, I will judge. And afterward they shall come out with great substance (goods)." },
+      { "n": 15, "text": "And you shall go to your fathers in peace. You shall be buried in a good old age." },
+      { "n": 16, "text": "But in the 4th generation they shall come here again. For the iniquity (sin) of the Amorites is not yet full." },
+      { "n": 17, "text": "And it came to pass that, when the sun went down, and it was dark, look, a smoking furnace (fire pot), and a burning lamp (torch) passed between those pieces." },
+      { "n": 18, "text": "In the same day the LORD made an agreement with Abram, saying: To your seed (children) I have given this land, from the river of Egypt to the great river, the river Euphrates:" },
+      { "n": 19, "text": "The Kenites, and the Kenizzites, and the Kadmonites," },
+      { "n": 20, "text": "And the Hittites, and the Perizzites, and the Rephaims," },
+      { "n": 21, "text": "And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites." }
     ],
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. Check: verse 4 'out of thine own bowels' is rendered 'your own son'; verse 6 'righteousness' is rendered 'doing what is right'; verse 8 'Lord GOD' follows the house rule; verses 10-17 (the animal pieces and the fire pot) and 19-21 (lists) are literal.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V4 explains bowels as (your own body), which is what the Hebrew means here.",
     "sourceUrl": "https://kjvdeaf.com/old-testament/genesis/genesis-chapter-15/",
     "status": "published",
     "videos": []
