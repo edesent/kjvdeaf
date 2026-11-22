@@ -588,224 +588,62 @@
   "11": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers Luke's version of the Lord's Prayer, the parable of the persistent friend at midnight, the Beelzebul controversy and the strong-man illustration, the sign of Jonah, and the extended series of 'woes' against the Pharisees and experts in the law.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "One day Jesus was praying in a certain place. When He finished, one of His disciples said to Him: Lord, teach us to pray, just as John taught his disciples."
-      },
-      {
-        "n": 2,
-        "text": "He said to them: When you pray, say: Father, hallowed be Your name, Your kingdom come."
-      },
-      {
-        "n": 3,
-        "text": "Give us each day our daily bread."
-      },
-      {
-        "n": 4,
-        "text": "Forgive us our sins, for we also forgive everyone who sins against us. And lead us not into temptation."
-      },
-      {
-        "n": 5,
-        "text": "Then He said to them: Suppose one of you has a friend. You go to him at midnight and say: Friend, lend me three loaves of bread,"
-      },
-      {
-        "n": 6,
-        "text": "Because a friend of mine on a journey has come to me, and I have no food to offer him."
-      },
-      {
-        "n": 7,
-        "text": "And suppose the one inside answers: Do not bother me. The door is already locked, and my children and I are in bed. I cannot get up and give you anything."
-      },
-      {
-        "n": 8,
-        "text": "I tell you this. Your friend will not get up and give you bread just because you are friends. But your shameless persistence will make him get up. He will give you as much as you need!"
-      },
-      {
-        "n": 9,
-        "text": "So I say to you: Ask, and it will be given to you. Seek, and you will find. Knock, and the door will be opened to you."
-      },
-      {
-        "n": 10,
-        "text": "For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened."
-      },
-      {
-        "n": 11,
-        "text": "Which of you fathers, if your son asks for a fish, will give him a snake instead?"
-      },
-      {
-        "n": 12,
-        "text": "Or if he asks for an egg, will give him a scorpion?"
-      },
-      {
-        "n": 13,
-        "text": "You are evil, yet you know how to give good gifts to your children. How much more will your Father in heaven give the Holy Spirit to those who ask Him!"
-      },
-      {
-        "n": 14,
-        "text": "Jesus was driving out a demon that was mute. When the demon left, the man who had been mute spoke, and the crowds were amazed."
-      },
-      {
-        "n": 15,
-        "text": "But some of them said: By Beelzebul, the prince of demons, He is driving out demons."
-      },
-      {
-        "n": 16,
-        "text": "Others tested Him by asking for a sign from heaven."
-      },
-      {
-        "n": 17,
-        "text": "Jesus knew their thoughts and said to them: Any kingdom divided against itself will be ruined, and a house divided against itself will fall."
-      },
-      {
-        "n": 18,
-        "text": "If Satan is divided against himself, how can his kingdom stand? I say this because you claim that I drive out demons by Beelzebul."
-      },
-      {
-        "n": 19,
-        "text": "Now if I drive out demons by Beelzebul, by whom do your followers drive them out? So then, they will be your judges."
-      },
-      {
-        "n": 20,
-        "text": "But if I drive out demons by the finger of God, then the kingdom of God has come upon you."
-      },
-      {
-        "n": 21,
-        "text": "When a strong man, fully armed, guards his own house, his possessions are safe."
-      },
-      {
-        "n": 22,
-        "text": "But when someone stronger attacks and overpowers him, he takes away the armor the man relied on and divides up his plunder."
-      },
-      {
-        "n": 23,
-        "text": "Whoever is not with me is against me, and whoever does not gather with me scatters."
-      },
-      {
-        "n": 24,
-        "text": "When an impure spirit comes out of a person, it goes through dry places. It looks for rest and does not find any. Then it says: I will return to the house I left."
-      },
-      {
-        "n": 25,
-        "text": "When it arrives, it finds the house swept clean and put in order."
-      },
-      {
-        "n": 26,
-        "text": "Then it goes and takes seven other spirits more wicked than itself, and they go in and live there. And the final condition of that person is worse than the first."
-      },
-      {
-        "n": 27,
-        "text": "As Jesus was saying these things, a woman in the crowd called out: Blessed is the mother who gave You birth and nursed You."
-      },
-      {
-        "n": 28,
-        "text": "He replied: Blessed rather are those who hear the word of God and obey it."
-      },
-      {
-        "n": 29,
-        "text": "As the crowds increased, Jesus said: This is a wicked generation. It asks for a sign, but no sign will be given it except the sign of Jonah."
-      },
-      {
-        "n": 30,
-        "text": "For as Jonah was a sign to the Ninevites, so also will the Son of Man be to this generation."
-      },
-      {
-        "n": 31,
-        "text": "The queen from the south will stand up on the judgment day. She will condemn the people of this generation for their hard hearts. She traveled from far away to listen to King Solomon's great wisdom. Look, Someone much greater than King Solomon is standing right here now!"
-      },
-      {
-        "n": 32,
-        "text": "The people of Nineveh will stand up at the judgment with this generation. They will condemn it. They repented at the preaching of Jonah. And now something greater than Jonah is here."
-      },
-      {
-        "n": 33,
-        "text": "No one lights a lamp and puts it in a place where it will be hidden, or under a bowl. Instead, they put it on a stand, so that those who come in may see the light."
-      },
-      {
-        "n": 34,
-        "text": "Your eye is the lamp of your body. When your eyes are healthy, your whole body also is full of light. But when they are unhealthy, your body also is full of darkness."
-      },
-      {
-        "n": 35,
-        "text": "See to it, then, that the light within you is not darkness."
-      },
-      {
-        "n": 36,
-        "text": "If your whole body is full of light, with no dark part, it will be completely full of light. It will be like a lamp shining its light on you."
-      },
-      {
-        "n": 37,
-        "text": "When Jesus had finished speaking, a Pharisee invited Him to eat with him, so He went in and reclined at the table."
-      },
-      {
-        "n": 38,
-        "text": "The Pharisee noticed that Jesus did not first wash before the meal, and he was surprised."
-      },
-      {
-        "n": 39,
-        "text": "The Lord said to him: Now then, you Pharisees clean the outside of the cup and dish, but inside you are full of greed and wickedness."
-      },
-      {
-        "n": 40,
-        "text": "You foolish people! Did not the one who made the outside make the inside also?"
-      },
-      {
-        "n": 41,
-        "text": "But now as for what is inside, give to the poor, and everything will be clean for you."
-      },
-      {
-        "n": 42,
-        "text": "How terrible for you Pharisees! You give a tenth of your mint, rue, and every other herb, but you neglect justice and the love of God. You should have practiced the latter without leaving the former undone."
-      },
-      {
-        "n": 43,
-        "text": "How terrible for you Pharisees! You love the most important seats in the synagogues and respectful greetings in the marketplaces."
-      },
-      {
-        "n": 44,
-        "text": "How terrible for you! You are like unmarked graves, which people walk over without knowing it."
-      },
-      {
-        "n": 45,
-        "text": "One of the experts in the law answered Him: Teacher, when you say these things, you insult us also."
-      },
-      {
-        "n": 46,
-        "text": "Jesus replied: And how terrible for you experts in the law! You load people down with burdens they can hardly carry, and you yourselves will not lift one finger to help them."
-      },
-      {
-        "n": 47,
-        "text": "How terrible for you! You build tombs for the prophets, and it was your ancestors who killed them."
-      },
-      {
-        "n": 48,
-        "text": "So you testify that you approve of what your ancestors did. They killed the prophets, and you build their tombs."
-      },
-      {
-        "n": 49,
-        "text": "Because of this, God in His wisdom said: I will send them prophets and apostles, some of whom they will kill and others they will persecute."
-      },
-      {
-        "n": 50,
-        "text": "Therefore this generation will be held responsible for the blood of all the prophets that has been shed since the beginning of the world,"
-      },
-      {
-        "n": 51,
-        "text": "From the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. Yes, I tell you, this generation will be held responsible for it all."
-      },
-      {
-        "n": 52,
-        "text": "How terrible for you experts in the law! You have taken away the key to knowledge. You yourselves have not entered, and you have hindered those who were entering."
-      },
-      {
-        "n": 53,
-        "text": "When Jesus went outside, the teachers of the law and the Pharisees began to oppose Him fiercely and to besiege Him with questions,"
-      },
-      {
-        "n": 54,
-        "text": "Waiting to catch Him in something He might say."
-      }
+      { "n": 1, "text": "And it came to pass (happened), that, as Jesus was praying in a certain place, when He ceased (stopped), one of His disciples said to Him: Lord, teach us to pray, as John also taught his disciples." },
+      { "n": 2, "text": "And Jesus said to them: When you pray, say: Our Father who is in heaven, Hallowed (holy) be Your name. Your kingdom come. Your will be done, as in heaven, so on earth." },
+      { "n": 3, "text": "Give us day by day our daily bread." },
+      { "n": 4, "text": "And forgive us our sins, for we also forgive every one who is indebted (owes) to us. And lead us not into temptation (testing), but deliver (rescue) us from evil." },
+      { "n": 5, "text": "And Jesus said to them: Which of you will have a friend, and will go to him at midnight, and say to him: Friend, lend me 3 loaves," },
+      { "n": 6, "text": "For a friend of mine on his journey has come to me, and I have nothing to set before him?" },
+      { "n": 7, "text": "And the friend from within will answer and say: Trouble me not. The door is now shut, and my children are with me in bed. I cannot rise and give you." },
+      { "n": 8, "text": "I say to you: Though he will not rise and give him because he is his friend, yet because of his importunity (not giving up when asking) he will rise and give him as many as he needs." },
+      { "n": 9, "text": "And I say to you: Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened to you." },
+      { "n": 10, "text": "For every one who asks receives. And the one who seeks finds. And to the one who knocks it will be opened." },
+      { "n": 11, "text": "If a son will ask bread of any of you who is a father, will he give him a stone? Or if he asks for a fish, will he for a fish give him a serpent (snake)?" },
+      { "n": 12, "text": "Or if he will ask for an egg, will he offer him a scorpion?" },
+      { "n": 13, "text": "If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to them who ask Him?" },
+      { "n": 14, "text": "And Jesus was casting out a devil (demon), and it was dumb (could not speak). And it came to pass (happened), when the devil had gone out, the man who could not speak spoke. And the people wondered." },
+      { "n": 15, "text": "But some of them said: He casts out devils (demons) through Beelzebub (the devil), the chief of the devils." },
+      { "n": 16, "text": "And others, tempting (testing) Jesus, sought (asked) of Him a sign from heaven." },
+      { "n": 17, "text": "But Jesus, knowing their thoughts, said to them: Every kingdom divided against itself is brought to desolation (ruin). And a house divided against a house falls." },
+      { "n": 18, "text": "If Satan also is divided against himself, how will his kingdom stand? Because you say that I cast out devils (demons) through Beelzebub (the devil)." },
+      { "n": 19, "text": "And if I by Beelzebub cast out devils (demons), by whom do your sons cast them out? Therefore they will be your judges." },
+      { "n": 20, "text": "But if I with the finger of God cast out devils (demons), no doubt the kingdom of God has come upon you." },
+      { "n": 21, "text": "When a strong man armed keeps his palace, his goods are in peace." },
+      { "n": 22, "text": "But when one stronger than he comes upon him, and overcomes him, he takes from him all his armour in which he trusted, and divides his spoils (stolen goods)." },
+      { "n": 23, "text": "The one who is not with Me is against Me. And the one who does not gather with Me scatters." },
+      { "n": 24, "text": "When the unclean spirit has gone out of a man, it walks through dry places, seeking rest. And finding none, it says: I will return to my house from which I came out." },
+      { "n": 25, "text": "And when it comes, it finds the house swept and garnished (decorated)." },
+      { "n": 26, "text": "Then it goes, and takes to itself 7 other spirits more wicked than itself. And they enter in, and dwell (live) there. And the last state of that man is worse than the first." },
+      { "n": 27, "text": "And it came to pass (happened), as Jesus spoke these things, a certain woman of the company lifted up her voice, and said to Him: Blessed (happy) is the womb that bore You, and the breasts which You have sucked." },
+      { "n": 28, "text": "But Jesus said: Yes rather, blessed (happy) are they who hear the word of God, and keep it." },
+      { "n": 29, "text": "And when the people were gathered thick together, Jesus began to say: This is an evil generation (people living now). They seek a sign. And there will no sign be given it, but the sign of Jonas (Jonah) the prophet." },
+      { "n": 30, "text": "For as Jonas (Jonah) was a sign to the Ninevites, so will the Son of man also be to this generation (people living now)." },
+      { "n": 31, "text": "The queen of the south will rise up in the judgment with the men of this generation, and condemn (judge guilty) them. For she came from the utmost (farthest) parts of the earth to hear the wisdom of Solomon. And look, a greater than Solomon is here." },
+      { "n": 32, "text": "The men of Nineve (Nineveh) will rise up in the judgment with this generation, and will condemn (judge guilty) it. For they repented (changed their hearts) at the preaching of Jonas (Jonah). And look, a greater than Jonas is here." },
+      { "n": 33, "text": "No man, when he has lighted a candle (lamp), puts it in a secret place, neither under a bushel (basket), but on a candlestick (lamp stand), that they who come in may see the light." },
+      { "n": 34, "text": "The light of the body is the eye. Therefore when your eye is single (clear and focused), your whole body also is full of light. But when your eye is evil, your body also is full of darkness." },
+      { "n": 35, "text": "Take heed (be careful) therefore that the light which is in you is not darkness." },
+      { "n": 36, "text": "If your whole body therefore is full of light, having no part dark, the whole will be full of light, as when the bright shining of a candle (lamp) gives you light." },
+      { "n": 37, "text": "And as Jesus spoke, a certain Pharisee besought (begged) Him to dine (eat) with him. And Jesus went in, and sat down to meat (to eat a meal)." },
+      { "n": 38, "text": "And when the Pharisee saw it, he marvelled (was amazed) that Jesus had not first washed before dinner." },
+      { "n": 39, "text": "And the Lord said to him: Now you Pharisees make clean the outside of the cup and the platter (plate). But your inward part is full of ravening (greedy grabbing) and wickedness." },
+      { "n": 40, "text": "You fools, did not He who made that which is outside make that which is inside also?" },
+      { "n": 41, "text": "But rather give alms (gifts to the poor) of such things as you have. And look, all things are clean to you." },
+      { "n": 42, "text": "But woe (great trouble) to you, Pharisees. For you tithe (give a tenth part of) mint and rue and all kinds of herbs (garden plants), and pass over judgment (fairness) and the love of God. These you ought to have done, and not to leave the other undone." },
+      { "n": 43, "text": "Woe (great trouble) to you, Pharisees. For you love the uppermost (best) seats in the synagogues (meeting houses), and greetings in the markets." },
+      { "n": 44, "text": "Woe (great trouble) to you, scribes (teachers of the law) and Pharisees, hypocrites (pretenders). For you are as graves which do not appear, and the men who walk over them are not aware of them." },
+      { "n": 45, "text": "Then one of the lawyers (experts in God's law) answered, and said to Jesus: Master (Teacher), saying this You reproach (insult) us also." },
+      { "n": 46, "text": "And Jesus said: Woe (great trouble) to you also, you lawyers (experts in God's law). For you lade (load) men with burdens (loads) grievous (hard) to be carried, and you yourselves do not touch the burdens with one of your fingers." },
+      { "n": 47, "text": "Woe (great trouble) to you. For you build the sepulchres (tombs) of the prophets, and your fathers killed them." },
+      { "n": 48, "text": "Truly you bear witness (show) that you allow (agree with) the deeds of your fathers. For they indeed killed them, and you build their sepulchres (tombs)." },
+      { "n": 49, "text": "Therefore also the wisdom of God said: I will send them prophets and apostles (sent ones), and some of them they will slay (kill) and persecute (attack)," },
+      { "n": 50, "text": "That the blood of all the prophets, which was shed from the foundation (beginning) of the world, may be required of this generation (people living now)," },
+      { "n": 51, "text": "From the blood of Abel to the blood of Zacharias, who perished (died) between the altar and the temple. Verily (truly) I say to you: It will be required of this generation." },
+      { "n": 52, "text": "Woe (great trouble) to you, lawyers (experts in God's law). For you have taken away the key of knowledge. You did not enter in yourselves, and them who were entering in you hindered (stopped)." },
+      { "n": 53, "text": "And as Jesus said these things to them, the scribes (teachers of the law) and the Pharisees began to urge Him vehemently (hard), and to provoke Him to speak of many things," },
+      { "n": 54, "text": "Laying wait for Him, and seeking to catch something out of His mouth, that they might accuse Him." }
     ]
   },
   "12": {
