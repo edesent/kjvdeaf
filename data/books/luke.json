@@ -1208,232 +1208,64 @@
   "23": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely -- its completion finishes the whole Gospel of Luke. Covers the trial before Pilate and Herod, the crowd choosing Barabbas, the crucifixion (including the penitent thief's exchange with Jesus, found only in Luke), Jesus' death, and his burial by Joseph of Arimathea.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Then the whole assembly rose and led Him off to Pilate."
-      },
-      {
-        "n": 2,
-        "text": "And they began to accuse Him, saying: We have found this man subverting our nation. He opposes payment of taxes to Caesar and claims to be Messiah, a king."
-      },
-      {
-        "n": 3,
-        "text": "So Pilate asked Jesus: Are you the king of the Jews? You have said so, Jesus replied."
-      },
-      {
-        "n": 4,
-        "text": "Then Pilate announced to the chief priests and the crowd: I find no basis for a charge against this man."
-      },
-      {
-        "n": 5,
-        "text": "But they insisted: He stirs up the people all over Judea by His teaching. He started in Galilee and has come all the way here."
-      },
-      {
-        "n": 6,
-        "text": "On hearing this, Pilate asked if the man was a Galilean."
-      },
-      {
-        "n": 7,
-        "text": "When he learned that Jesus was under Herod's jurisdiction, he sent Him to Herod, who was also in Jerusalem at that time."
-      },
-      {
-        "n": 8,
-        "text": "When Herod saw Jesus, he was greatly pleased, because for a long time he had been wanting to see Him. From what he had heard about Him, he hoped to see Him perform a sign of some sort."
-      },
-      {
-        "n": 9,
-        "text": "He plied Him with many questions, but Jesus gave him no answer."
-      },
-      {
-        "n": 10,
-        "text": "The chief priests and the teachers of the law were standing there, vehemently accusing Him."
-      },
-      {
-        "n": 11,
-        "text": "Then Herod and his soldiers ridiculed and mocked Him. Dressing Him in an elegant robe, they sent Him back to Pilate."
-      },
-      {
-        "n": 12,
-        "text": "That day Herod and Pilate became friends. Before this they had been enemies."
-      },
-      {
-        "n": 13,
-        "text": "Pilate called together the chief priests, the rulers, and the people,"
-      },
-      {
-        "n": 14,
-        "text": "And said to them: You brought me this man as one who was inciting the people to rebellion. I have examined Him in your presence and have found no basis for your charges against Him."
-      },
-      {
-        "n": 15,
-        "text": "Neither has Herod, for he sent Him back to us. As you can see, He has done nothing to deserve death."
-      },
-      {
-        "n": 16,
-        "text": "Therefore I will punish Him and then release Him."
-      },
-      {
-        "n": 17,
-        "text": "For it was necessary for him to release one prisoner to them at the festival."
-      },
-      {
-        "n": 18,
-        "text": "But the whole crowd shouted: Away with this man! Release Barabbas to us!"
-      },
-      {
-        "n": 19,
-        "text": "(Barabbas had been thrown into prison for an insurrection in the city, and for murder.)"
-      },
-      {
-        "n": 20,
-        "text": "Wanting to release Jesus, Pilate appealed to them again."
-      },
-      {
-        "n": 21,
-        "text": "But they kept shouting: Crucify Him! Crucify Him!"
-      },
-      {
-        "n": 22,
-        "text": "For the third time he spoke to them: Why? What crime has this man committed? I have found in Him no grounds for the death penalty. Therefore I will have Him punished and then release Him."
-      },
-      {
-        "n": 23,
-        "text": "But with loud shouts they insistently demanded that He be crucified, and their shouts prevailed."
-      },
-      {
-        "n": 24,
-        "text": "So Pilate decided to grant their demand."
-      },
-      {
-        "n": 25,
-        "text": "He released the man who had been thrown into prison for insurrection and murder, the one they asked for, and surrendered Jesus to their will."
-      },
-      {
-        "n": 26,
-        "text": "As they led Him away, they seized Simon from Cyrene. He was on his way in from the country. They put the cross on him. They made him carry it behind Jesus."
-      },
-      {
-        "n": 27,
-        "text": "A large number of people followed Him, including women who mourned and wailed for Him."
-      },
-      {
-        "n": 28,
-        "text": "Jesus turned and said to them: Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children."
-      },
-      {
-        "n": 29,
-        "text": "For the time will come when you will say: Blessed are the childless women, the wombs that never bore and the breasts that never nursed."
-      },
-      {
-        "n": 30,
-        "text": "Then they will say to the mountains: Fall on us! and to the hills: Cover us!"
-      },
-      {
-        "n": 31,
-        "text": "For if people do these things when the tree is green, what will happen when it is dry?"
-      },
-      {
-        "n": 32,
-        "text": "Two other men, both criminals, were also led out with Him to be executed."
-      },
-      {
-        "n": 33,
-        "text": "When they came to the place called the Skull, they crucified Him there, along with the criminals, one on His right, the other on His left."
-      },
-      {
-        "n": 34,
-        "text": "Jesus said: Father, forgive them, for they do not know what they are doing. And they divided up His clothes by casting lots."
-      },
-      {
-        "n": 35,
-        "text": "The people stood watching, and the rulers even sneered at Him. They said: He saved others; let Him save Himself if He is God's Messiah, the Chosen One."
-      },
-      {
-        "n": 36,
-        "text": "The soldiers also came up and mocked Him. They offered Him wine vinegar"
-      },
-      {
-        "n": 37,
-        "text": "And said: If you are the king of the Jews, save yourself."
-      },
-      {
-        "n": 38,
-        "text": "There was a written notice above Him, which read: THIS IS THE KING OF THE JEWS."
-      },
-      {
-        "n": 39,
-        "text": "One of the criminals who hung there hurled insults at Him: Are you not the Messiah? Save yourself and us!"
-      },
-      {
-        "n": 40,
-        "text": "But the other criminal rebuked Him: Do you not fear God, since you are under the same sentence?"
-      },
-      {
-        "n": 41,
-        "text": "We are punished justly, for we are getting what our deeds deserve. But this man has done nothing wrong."
-      },
-      {
-        "n": 42,
-        "text": "Then he said: Jesus, remember me when you come into your kingdom."
-      },
-      {
-        "n": 43,
-        "text": "Jesus answered him: Truly I tell you, today you will be with me in paradise."
-      },
-      {
-        "n": 44,
-        "text": "It was now about noon, and darkness came over the whole land until three in the afternoon,"
-      },
-      {
-        "n": 45,
-        "text": "For the sun stopped shining. And the curtain of the temple was torn in two."
-      },
-      {
-        "n": 46,
-        "text": "Jesus called out with a loud voice: Father, into your hands I commit my spirit. When He had said this, He breathed His last."
-      },
-      {
-        "n": 47,
-        "text": "The centurion, seeing what had happened, praised God and said: Surely this was a righteous man."
-      },
-      {
-        "n": 48,
-        "text": "When all the people who had gathered to witness this sight saw what took place, they beat their breasts and went away."
-      },
-      {
-        "n": 49,
-        "text": "But all those who knew Him, including the women who had followed Him from Galilee, stood at a distance, watching these things."
-      },
-      {
-        "n": 50,
-        "text": "Now there was a man named Joseph, a member of the Council, a good and upright man,"
-      },
-      {
-        "n": 51,
-        "text": "Who had not consented to their decision and action. He came from the Judean town of Arimathea, and he himself was waiting for the kingdom of God."
-      },
-      {
-        "n": 52,
-        "text": "Going to Pilate, he asked for Jesus' body."
-      },
-      {
-        "n": 53,
-        "text": "Then he took it down and wrapped it in linen cloth. He placed it in a tomb cut in the rock. No one had yet been laid in that tomb."
-      },
-      {
-        "n": 54,
-        "text": "It was Preparation Day, and the Sabbath was about to begin."
-      },
-      {
-        "n": 55,
-        "text": "The women who had come with Jesus from Galilee followed and saw the tomb and how His body was laid in it."
-      },
-      {
-        "n": 56,
-        "text": "Then they went home and prepared spices and perfumes. But they rested on the Sabbath in obedience to the commandment."
-      }
+      { "n": 1, "text": "And the whole multitude (crowd) of them arose, and led Jesus to Pilate." },
+      { "n": 2, "text": "And they began to accuse Him, saying: We found this fellow perverting (turning away) the nation, and forbidding to give tribute (tax) to Caesar, saying that He Himself is Christ a King." },
+      { "n": 3, "text": "And Pilate asked Him, saying: Are You the King of the Jews? And Jesus answered him and said: You say it." },
+      { "n": 4, "text": "Then Pilate said to the chief priests and to the people: I find no fault in this man." },
+      { "n": 5, "text": "And they were the more fierce, saying: He stirs up the people, teaching throughout all Jewry (the land of the Jews), beginning from Galilee to this place." },
+      { "n": 6, "text": "When Pilate heard of Galilee, he asked whether the man were a Galilaean." },
+      { "n": 7, "text": "And as soon as Pilate knew that Jesus belonged to Herod's jurisdiction (area of rule), he sent Him to Herod, who himself also was at Jerusalem at that time." },
+      { "n": 8, "text": "And when Herod saw Jesus, he was exceeding (very) glad. For he was desirous (wanting) to see Him of a long season (time), because he had heard many things of Him. And he hoped to have seen some miracle done by Him." },
+      { "n": 9, "text": "Then Herod questioned with Jesus in many words. But Jesus answered him nothing." },
+      { "n": 10, "text": "And the chief priests and scribes (teachers of the law) stood and vehemently (strongly) accused Him." },
+      { "n": 11, "text": "And Herod with his men of war (soldiers) set Jesus at nought (treated Him as nothing), and mocked Him, and arrayed (dressed) Him in a gorgeous robe, and sent Him again to Pilate." },
+      { "n": 12, "text": "And the same day Pilate and Herod were made friends together. For before they were at enmity (hate) between themselves." },
+      { "n": 13, "text": "And Pilate, when he had called together the chief priests and the rulers and the people," },
+      { "n": 14, "text": "Said to them: You have brought this man to me, as one who perverts (turns away) the people. And look, I, having examined Him before you, have found no fault in this man touching (about) those things of which you accuse Him." },
+      { "n": 15, "text": "No, nor yet Herod. For I sent you to him, and look, nothing worthy of death is done to Him." },
+      { "n": 16, "text": "I will therefore chastise (whip) Him, and release Him." },
+      { "n": 17, "text": "For of necessity Pilate must release one to them at the feast." },
+      { "n": 18, "text": "And they cried out all at once, saying: Away with this man, and release to us Barabbas," },
+      { "n": 19, "text": "Who for a certain sedition (riot against the rulers) made in the city, and for murder, was cast into prison." },
+      { "n": 20, "text": "Pilate therefore, willing to release Jesus, spoke again to them." },
+      { "n": 21, "text": "But they cried, saying: Crucify Him, crucify Him." },
+      { "n": 22, "text": "And Pilate said to them the third time: Why, what evil has He done? I have found no cause of death in Him. I will therefore chastise (whip) Him, and let Him go." },
+      { "n": 23, "text": "And they were instant (kept pressing) with loud voices, requiring (demanding) that He might be crucified. And the voices of them and of the chief priests prevailed (won)." },
+      { "n": 24, "text": "And Pilate gave sentence that it should be as they required (demanded)." },
+      { "n": 25, "text": "And Pilate released to them him who for sedition (riot against the rulers) and murder was cast into prison, whom they had desired (asked for). But he delivered (handed over) Jesus to their will." },
+      { "n": 26, "text": "And as they led Jesus away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear (carry) it after Jesus." },
+      { "n": 27, "text": "And there followed Jesus a great company of people, and of women, who also bewailed (cried loudly) and lamented (mourned for) Him." },
+      { "n": 28, "text": "But Jesus turning to them said: Daughters of Jerusalem, weep not for Me, but weep for yourselves, and for your children." },
+      { "n": 29, "text": "For look, the days are coming, in which they will say: Blessed (happy) are the barren (women who cannot have children), and the wombs that never bore, and the breasts which never gave suck (nursed)." },
+      { "n": 30, "text": "Then they will begin to say to the mountains: Fall on us. And to the hills: Cover us." },
+      { "n": 31, "text": "For if they do these things in a green tree, what will be done in the dry?" },
+      { "n": 32, "text": "And there were also 2 others, malefactors (evildoers), led with Jesus to be put to death." },
+      { "n": 33, "text": "And when they had come to the place, which is called Calvary (the Skull), there they crucified Jesus, and the malefactors (evildoers), one on the right hand, and the other on the left." },
+      { "n": 34, "text": "Then Jesus said: Father, forgive them, for they do not know what they do. And they parted (divided) His raiment (clothes), and cast lots (gambled)." },
+      { "n": 35, "text": "And the people stood beholding (watching). And the rulers also with them derided (made fun of) Him, saying: He saved others. Let Him save Himself, if He is Christ, the chosen of God." },
+      { "n": 36, "text": "And the soldiers also mocked Him, coming to Him, and offering Him vinegar," },
+      { "n": 37, "text": "And saying: If You are the king of the Jews, save Yourself." },
+      { "n": 38, "text": "And a superscription (sign) also was written over Him in letters of Greek, and Latin, and Hebrew: THIS IS THE KING OF THE JEWS." },
+      { "n": 39, "text": "And one of the malefactors (evildoers) who were hanged railed on (insulted) Jesus, saying: If You are Christ, save Yourself and us." },
+      { "n": 40, "text": "But the other answering rebuked (scolded) him, saying: Do you not fear God, seeing you are in the same condemnation (punishment)?" },
+      { "n": 41, "text": "And we indeed justly (fairly), for we receive the due reward of our deeds. But this man has done nothing amiss (wrong)." },
+      { "n": 42, "text": "And he said to Jesus: Lord, remember me when You come into Your kingdom." },
+      { "n": 43, "text": "And Jesus said to him: Verily (truly) I say to you: Today you will be with Me in paradise." },
+      { "n": 44, "text": "And it was about the sixth hour (noon), and there was a darkness over all the earth until the ninth hour (3 p.m.)." },
+      { "n": 45, "text": "And the sun was darkened, and the veil (curtain) of the temple was rent (torn) in the middle." },
+      { "n": 46, "text": "And when Jesus had cried with a loud voice, He said: Father, into Your hands I commend (give) My spirit. And having said this, He gave up the ghost (died)." },
+      { "n": 47, "text": "Now when the centurion (army officer) saw what was done, he glorified (praised) God, saying: Certainly this was a righteous (good and right) man." },
+      { "n": 48, "text": "And all the people who came together to that sight, beholding (seeing) the things which were done, smote (beat) their breasts (chests), and returned." },
+      { "n": 49, "text": "And all His acquaintance (friends), and the women who followed Him from Galilee, stood afar off (far away), beholding (watching) these things." },
+      { "n": 50, "text": "And look, there was a man named Joseph, a counsellor (member of the Jewish court). And he was a good man, and a just (right with God) man." },
+      { "n": 51, "text": "The same had not consented (agreed) to the counsel (plan) and deed of them. He was of Arimathaea, a city of the Jews, who also himself waited for the kingdom of God." },
+      { "n": 52, "text": "This man went to Pilate, and begged the body of Jesus." },
+      { "n": 53, "text": "And Joseph took it down, and wrapped it in linen, and laid it in a sepulchre (tomb) that was hewn (cut) in stone, in which no man was ever laid before." },
+      { "n": 54, "text": "And that day was the preparation (day to get ready), and the sabbath (day of rest) drew on (was beginning)." },
+      { "n": 55, "text": "And the women also, who came with Jesus from Galilee, followed after, and beheld (saw) the sepulchre (tomb), and how His body was laid." },
+      { "n": 56, "text": "And they returned, and prepared spices and ointments (perfumed oils). And they rested the sabbath day (day of rest) according to the commandment." }
     ]
   },
   "24": {
