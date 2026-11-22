@@ -1130,292 +1130,79 @@
   "22": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers Judas' betrayal deal, the Last Supper and the dispute over who is greatest, Jesus' prediction of Peter's denial, Gethsemane (including the angel and the sweat like drops of blood), the arrest and healing of the servant's ear, Peter's three denials, and the trial before the Sanhedrin.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Now the Festival of Unleavened Bread, called the Passover, was approaching,"
-      },
-      {
-        "n": 2,
-        "text": "And the chief priests and the teachers of the law were looking for some way to get rid of Jesus, for they were afraid of the people."
-      },
-      {
-        "n": 3,
-        "text": "Then Satan entered Judas, called Iscariot, one of the Twelve."
-      },
-      {
-        "n": 4,
-        "text": "Judas went to the chief priests and the officers of the temple guard and discussed with them how he might betray Jesus."
-      },
-      {
-        "n": 5,
-        "text": "They were delighted and agreed to give him money."
-      },
-      {
-        "n": 6,
-        "text": "He consented, and watched for an opportunity to hand Jesus over to them when no crowd was present."
-      },
-      {
-        "n": 7,
-        "text": "Then came the day of Unleavened Bread on which the Passover lamb had to be sacrificed."
-      },
-      {
-        "n": 8,
-        "text": "Jesus sent Peter and John, saying: Go and make preparations for us to eat the Passover."
-      },
-      {
-        "n": 9,
-        "text": "Where do you want us to prepare for it? they asked."
-      },
-      {
-        "n": 10,
-        "text": "He replied: As you enter the city, a man carrying a jar of water will meet you. Follow him to the house that he enters,"
-      },
-      {
-        "n": 11,
-        "text": "And say to the owner of the house: The Teacher asks: Where is the guest room, where I may eat the Passover with my disciples?"
-      },
-      {
-        "n": 12,
-        "text": "He will show you a large room upstairs, all furnished. Make preparations there."
-      },
-      {
-        "n": 13,
-        "text": "They went and found things just as Jesus had told them, and they prepared the Passover."
-      },
-      {
-        "n": 14,
-        "text": "When the hour came, Jesus and His apostles reclined at the table."
-      },
-      {
-        "n": 15,
-        "text": "And He said to them: I have eagerly desired to eat this Passover with you before I suffer."
-      },
-      {
-        "n": 16,
-        "text": "For I tell you, I will not eat it again until it finds fulfillment in the kingdom of God."
-      },
-      {
-        "n": 17,
-        "text": "After taking the cup, He gave thanks and said: Take this and divide it among you."
-      },
-      {
-        "n": 18,
-        "text": "For I tell you, I will not drink again from the fruit of the vine until the kingdom of God comes."
-      },
-      {
-        "n": 19,
-        "text": "And He took bread, gave thanks and broke it, and gave it to them, saying: This is my body given for you. Do this in remembrance of me."
-      },
-      {
-        "n": 20,
-        "text": "In the same way, after the supper He took the cup, saying: This cup is the new agreement in my blood, which is poured out for you."
-      },
-      {
-        "n": 21,
-        "text": "But the hand of him who is going to betray me is with mine on the table."
-      },
-      {
-        "n": 22,
-        "text": "The Son of Man will go as it has been decreed, but woe to that man who betrays him."
-      },
-      {
-        "n": 23,
-        "text": "They began to question among themselves which of them it might be who would do this."
-      },
-      {
-        "n": 24,
-        "text": "A dispute also arose among them as to which of them was considered to be greatest."
-      },
-      {
-        "n": 25,
-        "text": "Jesus said to them: The kings of the Gentiles lord it over them, and those who exercise authority over them call themselves benefactors."
-      },
-      {
-        "n": 26,
-        "text": "But you are not to be like that. Instead, the greatest among you should be like the youngest, and the one who rules like the one who serves."
-      },
-      {
-        "n": 27,
-        "text": "For who is greater, the one who is at the table or the one who serves? Is it not the one who is at the table? But I am among you as one who serves."
-      },
-      {
-        "n": 28,
-        "text": "You are those who have stood by me in my trials."
-      },
-      {
-        "n": 29,
-        "text": "And I confer on you a kingdom, just as my Father conferred one on me,"
-      },
-      {
-        "n": 30,
-        "text": "So that you may eat and drink at my table in my kingdom and sit on thrones, judging the twelve tribes of Israel."
-      },
-      {
-        "n": 31,
-        "text": "Simon, Simon, Satan has asked to sift all of you as wheat."
-      },
-      {
-        "n": 32,
-        "text": "But I have prayed for you, Simon, that your faith may not fail. And when you have turned back, strengthen your brothers."
-      },
-      {
-        "n": 33,
-        "text": "But he replied: Lord, I am ready to go with you to prison and to death."
-      },
-      {
-        "n": 34,
-        "text": "Jesus answered: I tell you, Peter, before the rooster crows today, you will deny three times that you know me."
-      },
-      {
-        "n": 35,
-        "text": "Then Jesus asked them: When I sent you without purse, bag, or sandals, did you lack anything? Nothing, they answered."
-      },
-      {
-        "n": 36,
-        "text": "He said to them: But now, if you have a purse, take it, and also a bag. And if you do not have a sword, sell your cloak and buy one."
-      },
-      {
-        "n": 37,
-        "text": "It is written: He was numbered with the transgressors. I tell you that this must be fulfilled in me. Yes, what is written about me is reaching its fulfillment."
-      },
-      {
-        "n": 38,
-        "text": "The disciples said: See, Lord, here are two swords. That is enough, He replied."
-      },
-      {
-        "n": 39,
-        "text": "Jesus went out as usual to the Mount of Olives, and His disciples followed Him."
-      },
-      {
-        "n": 40,
-        "text": "On reaching the place, He said to them: Pray that you will not fall into temptation."
-      },
-      {
-        "n": 41,
-        "text": "He withdrew about a stone's throw beyond them, knelt down and prayed,"
-      },
-      {
-        "n": 42,
-        "text": "Father, if you are willing, take this cup from me. Yet not my will, but yours be done."
-      },
-      {
-        "n": 43,
-        "text": "An angel from heaven appeared to Him and strengthened Him."
-      },
-      {
-        "n": 44,
-        "text": "And being in anguish, He prayed more earnestly, and His sweat was like drops of blood falling to the ground."
-      },
-      {
-        "n": 45,
-        "text": "When He rose from prayer and went back to the disciples, He found them asleep, exhausted from sorrow."
-      },
-      {
-        "n": 46,
-        "text": "Why are you sleeping? He asked them. Get up and pray so that you will not fall into temptation."
-      },
-      {
-        "n": 47,
-        "text": "While He was still speaking, a crowd came, and the man who was called Judas, one of the Twelve, was leading them. He approached Jesus to kiss Him,"
-      },
-      {
-        "n": 48,
-        "text": "But Jesus asked him: Judas, are you betraying the Son of Man with a kiss?"
-      },
-      {
-        "n": 49,
-        "text": "When Jesus' followers saw what was going to happen, they said: Lord, should we strike with our swords?"
-      },
-      {
-        "n": 50,
-        "text": "And one of them struck the servant of the high priest, cutting off his right ear."
-      },
-      {
-        "n": 51,
-        "text": "But Jesus answered: No more of this! And He touched the man's ear and healed him."
-      },
-      {
-        "n": 52,
-        "text": "Jesus spoke to the chief priests, temple officers, and elders coming for Him. He asked: Am I leading a rebellion? Is that why you have come with swords and clubs?"
-      },
-      {
-        "n": 53,
-        "text": "Every day I was with you in the temple courts, and you did not lay a hand on me. But this is your hour, when darkness reigns."
-      },
-      {
-        "n": 54,
-        "text": "Then seizing Him, they led Him away and took Him into the house of the high priest. Peter followed at a distance."
-      },
-      {
-        "n": 55,
-        "text": "And when some there had kindled a fire in the middle of the courtyard and had sat down together, Peter sat down with them."
-      },
-      {
-        "n": 56,
-        "text": "A servant girl saw him seated there in the firelight. She looked closely at him and said: This man was with him."
-      },
-      {
-        "n": 57,
-        "text": "But he denied it: Woman, I do not know him."
-      },
-      {
-        "n": 58,
-        "text": "A little later someone else saw him and said: You also are one of them. Man, I am not! Peter replied."
-      },
-      {
-        "n": 59,
-        "text": "About an hour later another asserted: Certainly this fellow was with him, for he is a Galilean."
-      },
-      {
-        "n": 60,
-        "text": "Peter replied: Man, I do not know what you are talking about! Just as he was speaking, the rooster crowed."
-      },
-      {
-        "n": 61,
-        "text": "The Lord turned and looked straight at Peter. Then Peter remembered the word the Lord had spoken to him: Before the rooster crows today, you will disown me three times."
-      },
-      {
-        "n": 62,
-        "text": "And he went outside and wept bitterly."
-      },
-      {
-        "n": 63,
-        "text": "The men who were guarding Jesus began mocking and beating Him."
-      },
-      {
-        "n": 64,
-        "text": "They blindfolded Him and demanded: Prophesy! Who hit You?"
-      },
-      {
-        "n": 65,
-        "text": "And they said many other insulting things to Him."
-      },
-      {
-        "n": 66,
-        "text": "At daybreak the council of the elders of the people met together. It included both the chief priests and the teachers of the law. Then Jesus was led before them."
-      },
-      {
-        "n": 67,
-        "text": "If you are the Messiah, tell us, they said. Jesus answered: If I tell you, you will not believe me,"
-      },
-      {
-        "n": 68,
-        "text": "And if I asked you, you would not answer."
-      },
-      {
-        "n": 69,
-        "text": "But from now on, the Son of Man will be seated at the right hand of the mighty God."
-      },
-      {
-        "n": 70,
-        "text": "They all asked: Are you then the Son of God? He replied: You say that I am."
-      },
-      {
-        "n": 71,
-        "text": "Then they said: Why do we need any more testimony? We have heard it ourselves from His own lips."
-      }
+      { "n": 1, "text": "Now the feast of unleavened bread (bread made without yeast) drew nigh (near), which is called the Passover (feast of freedom from Egypt)." },
+      { "n": 2, "text": "And the chief priests and scribes (teachers of the law) sought (looked for a way) how they might kill Jesus, for they feared the people." },
+      { "n": 3, "text": "Then Satan entered into Judas surnamed (also called) Iscariot, being of the number of the 12." },
+      { "n": 4, "text": "And Judas went his way, and communed (talked) with the chief priests and captains, how he might betray (hand over) Jesus to them." },
+      { "n": 5, "text": "And they were glad, and covenanted (agreed) to give him money." },
+      { "n": 6, "text": "And Judas promised, and sought opportunity (looked for a chance) to betray (hand over) Jesus to them in the absence of the multitude (crowd)." },
+      { "n": 7, "text": "Then came the day of unleavened bread (bread made without yeast), when the passover (lamb) must be killed." },
+      { "n": 8, "text": "And Jesus sent Peter and John, saying: Go and prepare us the passover (meal), that we may eat." },
+      { "n": 9, "text": "And they said to Him: Where will You have us prepare?" },
+      { "n": 10, "text": "And Jesus said to them: Look, when you have entered into the city, there will a man meet you, bearing (carrying) a pitcher of water. Follow him into the house where he enters in." },
+      { "n": 11, "text": "And you will say to the goodman (owner) of the house: The Master (Teacher) says to you: Where is the guestchamber (guest room), where I will eat the passover with My disciples?" },
+      { "n": 12, "text": "And he will show you a large upper room furnished. There make ready." },
+      { "n": 13, "text": "And they went, and found as Jesus had said to them. And they made ready the passover." },
+      { "n": 14, "text": "And when the hour had come, Jesus sat down, and the 12 apostles (sent ones) with Him." },
+      { "n": 15, "text": "And Jesus said to them: With desire I have desired (I have wanted very much) to eat this passover with you before I suffer." },
+      { "n": 16, "text": "For I say to you, I will not any more eat of it, until it is fulfilled in the kingdom of God." },
+      { "n": 17, "text": "And Jesus took the cup, and gave thanks, and said: Take this, and divide it among yourselves." },
+      { "n": 18, "text": "For I say to you, I will not drink of the fruit of the vine, until the kingdom of God will come." },
+      { "n": 19, "text": "And Jesus took bread, and gave thanks, and broke it, and gave to them, saying: This is My body which is given for you. Do this in remembrance of Me." },
+      { "n": 20, "text": "Likewise also the cup after supper, saying: This cup is the new testament (new agreement) in My blood, which is shed for you." },
+      { "n": 21, "text": "But look, the hand of him who betrays (hands over) Me is with Me on the table." },
+      { "n": 22, "text": "And truly the Son of man goes, as it was determined (planned). But woe (great trouble) to that man by whom He is betrayed (handed over)." },
+      { "n": 23, "text": "And they began to enquire (ask) among themselves, which of them it was who would do this thing." },
+      { "n": 24, "text": "And there was also a strife (argument) among them, which of them should be accounted (counted) the greatest." },
+      { "n": 25, "text": "And Jesus said to them: The kings of the Gentiles (people who are not Jews) exercise lordship (rule) over them. And they who exercise authority upon them are called benefactors (people who do good)." },
+      { "n": 26, "text": "But you will not be so. But the one who is greatest among you, let them be as the younger. And the one who is chief (leader), as the one who serves." },
+      { "n": 27, "text": "For which is greater, the one who sits at meat (the meal), or the one who serves? Is it not the one who sits at meat? But I am among you as the one who serves." },
+      { "n": 28, "text": "You are they who have continued with Me in My temptations (testings)." },
+      { "n": 29, "text": "And I appoint (give) to you a kingdom, as My Father has appointed to Me," },
+      { "n": 30, "text": "That you may eat and drink at My table in My kingdom, and sit on thrones judging the 12 tribes of Israel." },
+      { "n": 31, "text": "And the Lord said: Simon, Simon, look, Satan has desired (asked) to have you, that he may sift (shake) you as wheat." },
+      { "n": 32, "text": "But I have prayed for you, that your faith will not fail. And when you are converted (turned back), strengthen your brothers." },
+      { "n": 33, "text": "And Peter said to Him: Lord, I am ready to go with You, both into prison, and to death." },
+      { "n": 34, "text": "And Jesus said: I tell you, Peter, the cock (rooster) will not crow this day, before you will thrice (3 times) deny (say you do not know) that you know Me." },
+      { "n": 35, "text": "And Jesus said to them: When I sent you without purse (money belt), and scrip (traveling bag), and shoes, did you lack anything? And they said: Nothing." },
+      { "n": 36, "text": "Then Jesus said to them: But now, the one who has a purse (money belt), let them take it, and likewise their scrip (traveling bag). And the one who has no sword, let them sell their garment (coat), and buy one." },
+      { "n": 37, "text": "For I say to you, that this that is written must yet be accomplished (come true) in Me: And He was reckoned (counted) among the transgressors (lawbreakers). For the things about Me have an end (are coming true)." },
+      { "n": 38, "text": "And they said: Lord, look, here are 2 swords. And Jesus said to them: It is enough." },
+      { "n": 39, "text": "And Jesus came out, and went, as He was wont (used to do), to the mount of Olives. And His disciples also followed Him." },
+      { "n": 40, "text": "And when Jesus was at the place, He said to them: Pray that you do not enter into temptation (testing)." },
+      { "n": 41, "text": "And Jesus was withdrawn from them about a stone's cast (as far as a stone can be thrown), and kneeled down, and prayed," },
+      { "n": 42, "text": "Saying: Father, if You are willing, remove this cup from Me. Nevertheless (but) not My will, but Yours, be done." },
+      { "n": 43, "text": "And there appeared an angel to Jesus from heaven, strengthening Him." },
+      { "n": 44, "text": "And being in an agony (great pain and struggle) Jesus prayed more earnestly (strongly). And His sweat was as it were great drops of blood falling down to the ground." },
+      { "n": 45, "text": "And when Jesus rose up from prayer, and had come to His disciples, He found them sleeping for sorrow (sadness)," },
+      { "n": 46, "text": "And said to them: Why do you sleep? Rise and pray, so that you do not enter into temptation (testing)." },
+      { "n": 47, "text": "And while Jesus yet spoke, look, a multitude (crowd), and he who was called Judas, one of the 12, went before them, and drew near to Jesus to kiss Him." },
+      { "n": 48, "text": "But Jesus said to him: Judas, do you betray (hand over) the Son of man with a kiss?" },
+      { "n": 49, "text": "When they who were about Jesus saw what would follow, they said to Him: Lord, will we smite (strike) with the sword?" },
+      { "n": 50, "text": "And one of them smote (struck) the servant of the high priest, and cut off his right ear." },
+      { "n": 51, "text": "And Jesus answered and said: Suffer (allow) this far. And Jesus touched his ear, and healed him." },
+      { "n": 52, "text": "Then Jesus said to the chief priests, and captains of the temple, and the elders, who had come to Him: Have you come out, as against a thief, with swords and staves (clubs)?" },
+      { "n": 53, "text": "When I was daily with you in the temple, you stretched forth no hands against Me. But this is your hour, and the power of darkness." },
+      { "n": 54, "text": "Then they took Jesus, and led Him, and brought Him into the high priest's house. And Peter followed afar off (far behind)." },
+      { "n": 55, "text": "And when they had kindled (lit) a fire in the middle of the hall, and were set down together, Peter sat down among them." },
+      { "n": 56, "text": "But a certain maid (servant girl) beheld (saw) Peter as he sat by the fire, and earnestly looked upon him, and said: This man was also with Him." },
+      { "n": 57, "text": "And Peter denied Him, saying: Woman, I do not know Him." },
+      { "n": 58, "text": "And after a little while another saw him, and said: You are also of them. And Peter said: Man, I am not." },
+      { "n": 59, "text": "And about the space of one hour after, another confidently affirmed (said strongly), saying: Of a truth this fellow also was with Him, for he is a Galilaean." },
+      { "n": 60, "text": "And Peter said: Man, I do not know what you say. And immediately, while he yet spoke, the cock (rooster) crowed." },
+      { "n": 61, "text": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how He had said to him: Before the cock (rooster) crows, you will deny Me thrice (3 times)." },
+      { "n": 62, "text": "And Peter went out, and wept bitterly." },
+      { "n": 63, "text": "And the men who held Jesus mocked Him, and smote (struck) Him." },
+      { "n": 64, "text": "And when they had blindfolded Him, they struck Him on the face, and asked Him, saying: Prophesy (tell us by God's power), who is it who smote (struck) You?" },
+      { "n": 65, "text": "And many other things they spoke blasphemously (with words against God) against Him." },
+      { "n": 66, "text": "And as soon as it was day, the elders of the people and the chief priests and the scribes (teachers of the law) came together, and led Jesus into their council (Jewish court), saying:" },
+      { "n": 67, "text": "Are You the Christ? Tell us. And Jesus said to them: If I tell you, you will not believe." },
+      { "n": 68, "text": "And if I also ask you, you will not answer Me, nor let Me go." },
+      { "n": 69, "text": "Hereafter (from now on) the Son of man will sit on the right hand of the power of God." },
+      { "n": 70, "text": "Then they all said: Are You then the Son of God? And Jesus said to them: You say that I am." },
+      { "n": 71, "text": "And they said: What need do we have of any further witness? For we ourselves have heard from His own mouth." }
     ]
   },
   "23": {
