@@ -1,155 +1,117 @@
 {
   "6": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "In the year that King Uzziah died I, Isaiah, saw the Lord sitting on a very high and wonderful throne. His long robe filled the Temple."
-      },
-      {
-        "n": 2,
-        "text": "Above the Lord were Seraphims, special angels. Each angel had six wings. They used two wings to cover their faces, two wings to cover their feet, and two wings to fly."
-      },
-      {
-        "n": 3,
-        "text": "The angels were calling to each other and said: Holy, holy, holy is the Lord who rules over all. His glory is everywhere on earth."
-      },
-      {
-        "n": 4,
-        "text": "The angels talked so loudly that it caused the frame around the door to shake, and the Temple was filled with smoke."
-      },
-      {
-        "n": 5,
-        "text": "I, Isaiah, was frightened and said: Oh, no! I will be destroyed. I am not pure enough to speak to God, and I live among people who are not pure enough to speak to God. But I have seen the King, the Lord All-Powerful."
-      },
-      {
-        "n": 6,
-        "text": "There was a fire on the altar. One of the angels used a pair of tongs to take a hot coal from the fire. Then the angel flew to me with it in the angel's hand."
-      },
-      {
-        "n": 7,
-        "text": "Then the angel touched my mouth with the hot coal and said: When this hot coal touched your lips, your sin was taken away, your sins were erased."
-      },
-      {
-        "n": 8,
-        "text": "Then the Lord asked: Is there anyone who I can send? Who will take a message to the people? Then I, Isaiah, said: Here I am. Send me."
-      },
-      {
-        "n": 9,
-        "text": "The Lord said to me: Go and tell the people: You will hear and listen to what I say, but you will not understand what I say. You will look, but you will not know what you see."
-      },
-      {
-        "n": 10,
-        "text": "Make the heart of this people insensitive, their ears dull, and their eyes dim. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and return and be healed."
-      },
-      {
-        "n": 11,
-        "text": "Then I, Isaiah, asked: Lord, for how long must I do this? And the Lord answered, Do this until the cities are destroyed and all the people are gone. Do this until there is no one left living in the houses and the land is destroyed and empty."
-      },
-      {
-        "n": 12,
-        "text": "The Lord will make the people go far away, and there will be large areas of empty land in the country."
-      },
-      {
-        "n": 13,
-        "text": "A tenth of the people will be allowed to stay in the land, but it will be destroyed again. They will be like an oak tree. When the tree is chopped down, a stump is left. This stump will be a very special seed that will grow again."
-      }
-    ],
-    "sourceUrl": "https://kjvdeaf.com/1-kings-chapter-6/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. This chapter (Isaiah's vision in the Temple) was previously mislabeled and stored under 1 Kings 6 in error; it has been moved to its correct location, Isaiah 6, and stray 'Isaiah' tags left over from the original copy/paste error have been removed."
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V3 keeps the KJV's Holy, holy, holy, is the LORD of hosts. V8 keeps Here am I; send me.",
+    "sourceUrl": "https://kjvdeaf.com/isaiah-chapter-6/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "In the year that king Uzziah died I (Isaiah) saw also the Lord sitting upon a throne, high and lifted up, and His train (the bottom of His robe) filled the temple." },
+      { "n": 2, "text": "Above it stood the seraphims (fiery angels). Each one had 6 wings. With 2 he covered his face, and with 2 he covered his feet, and with 2 he did fly." },
+      { "n": 3, "text": "And one cried to another, and said: Holy, holy, holy, is the LORD of hosts (armies). The whole earth is full of His glory." },
+      { "n": 4, "text": "And the posts of the door moved at the voice of him that cried, and the house was filled with smoke." },
+      { "n": 5, "text": "Then said I: Woe is me (I am in great trouble)! For I am undone (ruined), because I am a man of unclean lips, and I dwell (live) in the middle of a people of unclean lips. For my eyes have seen the King, the LORD of hosts (armies)." },
+      { "n": 6, "text": "Then flew one of the seraphims (fiery angels) to me, having a live coal in his hand, which he had taken with the tongs from off the altar." },
+      { "n": 7, "text": "And he laid it upon my mouth, and said: Lo (look), this has touched your lips. And your iniquity (sin) is taken away, and your sin purged (cleaned away)." },
+      { "n": 8, "text": "Also I heard the voice of the Lord, saying: Whom shall I send, and who will go for Us? Then said I: Here am I. Send me." },
+      { "n": 9, "text": "And He said: Go, and tell this people: Hear indeed, but understand not. And see indeed, but perceive (understand) not." },
+      { "n": 10, "text": "Make the heart of this people fat (hard), and make their ears heavy, and shut their eyes, lest (or else) they see with their eyes, and hear with their ears, and understand with their heart, and convert (turn back), and be healed." },
+      { "n": 11, "text": "Then said I: Lord, how long? And He answered: Until the cities be wasted (ruined) without inhabitant (people), and the houses without man, and the land be utterly desolate (completely empty)," },
+      { "n": 12, "text": "And the LORD have removed men far away, and there be a great forsaking (emptiness) in the middle of the land." },
+      { "n": 13, "text": "But yet in it shall be a tenth, and it shall return, and shall be eaten (burned again). As a teil tree (linden tree), and as an oak, whose substance (stump) is in them, when they cast their leaves, so the holy seed shall be the substance (stump) of it." }
+    ]
   },
   "30": {
-    "verses": [
-      { "n": 1, "text": "The LORD says: How terrible it will be for My rebellious children. They make plans, but they do not ask Me. They make agreements, but those agreements are not from My Spirit. So they add sin to sin." },
-      { "n": 2, "text": "They go down to Egypt without asking Me. They look to Pharaoh for strength. They hide in the shadow of Egypt for protection." },
-      { "n": 3, "text": "But Pharaoh's strength will bring you shame. The protection of Egypt will bring you disgrace." },
-      { "n": 4, "text": "Your leaders are in the city of Zoan. Your messengers have come to the city of Hanes." },
-      { "n": 5, "text": "Everyone will be ashamed of a people who cannot help them. That people brings no help and no good. They bring only shame and disgrace." },
-      { "n": 6, "text": "This is a message about the animals of the south. Your messengers travel through a land of trouble and pain. Lions and snakes and flying serpents live in that land. Your messengers carry riches on young donkeys and treasures on camels. They carry them to a people who cannot help you." },
-      { "n": 7, "text": "Egypt's help is worth nothing, and it does no good. So I have said about Egypt: Their strength is to sit still." },
-      { "n": 8, "text": "Now go. Write this on a tablet in front of them. Write it in a book. It will last for all time to come." },
-      { "n": 9, "text": "These people are rebellious. They are children who lie. They are children who will not listen to the LORD's teaching." },
-      { "n": 10, "text": "They tell the seers: Do not see. They tell the prophets: Do not tell us what is right. Tell us nice things. Tell us lies." },
-      { "n": 11, "text": "They say: Get out of our way. Turn away from the path. Stop talking to us about the Holy One of Israel." },
-      { "n": 12, "text": "So the Holy One of Israel says: You reject this message. You trust in cruelty and lies. You depend on them." },
-      { "n": 13, "text": "So this sin will be like a high wall with a crack in it. The wall bulges out and is ready to fall. It will break suddenly, in a moment." },
-      { "n": 14, "text": "The Holy One will break it like a clay pot smashed into pieces. He will not hold back. No piece will be left big enough to carry fire from the fireplace. No piece will be big enough to carry water from a pool." },
-      { "n": 15, "text": "This is what the Lord GOD, the Holy One of Israel, says: Come back to Me and rest, and you will be saved. Be quiet and trust Me, and you will be strong. But you refused." },
-      { "n": 16, "text": "You said: No. We will escape on horses. So you will run away. You said: We will ride fast horses. So the ones chasing you will be fast." },
-      { "n": 17, "text": "One thousand of you will run away from one enemy. Five enemies will make all of you run away. Then you will be left like a lonely flagpole on a mountain. You will be like a signal flag on a hill." },
-      { "n": 18, "text": "But the LORD is waiting to be kind to you. The LORD will rise up to show you mercy. The LORD is a God who is fair. Everyone who waits for Him is blessed." },
-      { "n": 19, "text": "People will live in Zion, in Jerusalem. You will not cry anymore. The LORD will be very kind when you cry for help. As soon as He hears you, He will answer you." },
-      { "n": 20, "text": "The Lord may give you the bread of trouble and the water of pain. But your teacher will not hide anymore. Your own eyes will see your teacher." },
-      { "n": 21, "text": "Your ears will hear a voice behind you saying: This is the way. Walk in it. You will hear it when you turn to the right and when you turn to the left." },
-      { "n": 22, "text": "You will treat your idols as unclean. Your idols are covered with silver and gold. You will throw them away like dirty rags. You will say to them: Get away from here." },
-      { "n": 23, "text": "Then the LORD will send rain for the seed you plant in the ground. The food from the ground will be rich and plentiful. On that day your farm animals will graze in wide fields." },
-      { "n": 24, "text": "The oxen and young donkeys that work the ground will eat good feed. It will be cleaned of dirt and husks with a shovel and a fork." },
-      { "n": 25, "text": "In the day of great killing, when the towers fall, streams of water will flow on every high mountain and every high hill." },
-      { "n": 26, "text": "The moon will shine like the sun. The sun will shine seven times brighter, like the light of seven days. This will happen when the LORD heals His people and bandages their wounds." },
-      { "n": 27, "text": "Look, the LORD comes from far away. His anger burns, and thick smoke rises. His lips are full of anger. His tongue is like a fire that burns everything up." },
-      { "n": 28, "text": "His breath is like a flooding river that reaches up to the neck. He will shake the nations in a sieve that destroys. He will put a bridle in the mouths of the people. It will lead them the wrong way." },
-      { "n": 29, "text": "You will sing as you do on a night of a holy feast. Your hearts will be glad, like people walking with flutes to the mountain of the LORD, to the Mighty One of Israel." },
-      { "n": 30, "text": "The LORD will make His glorious voice heard. He will show His powerful arm coming down in anger. There will be flames of fire that burn everything up. There will be storm winds, rain, and hailstones." },
-      { "n": 31, "text": "The voice of the LORD will crush Assyria. Assyria hit people with a rod." },
-      { "n": 32, "text": "Every blow of the staff the LORD lays on Assyria will be met with tambourines and harps. The LORD will fight them with a swinging arm." },
-      { "n": 33, "text": "A place for burning, called Tophet, was prepared long ago. It is ready for the king. It is deep and wide. It has a pile of fire and much wood. The breath of the LORD, like a stream of burning sulfur, will set it on fire." }
-    ],
-    "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. Verses 6, 7, 28 and 32 use obscure Hebrew wording and need careful review.",
-    "sourceUrl": "https://kjvdeaf.com/old-testament/isaiah/isaiah-chapter-30/",
     "status": "published",
-    "videos": []
+    "generated": true,
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V15 keeps the KJV's in quietness and in confidence shall be your strength. V21 keeps This is the way, walk ye in it.",
+    "sourceUrl": "https://kjvdeaf.com/old-testament/isaiah/isaiah-chapter-30/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "Woe (great trouble) to the rebellious children, says the LORD, that take counsel (make plans), but not of Me, and that cover with a covering, but not of My Spirit, so that they may add sin to sin." },
+      { "n": 2, "text": "They walk to go down into Egypt, and have not asked at My mouth, to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt." },
+      { "n": 3, "text": "Therefore shall the strength of Pharaoh be your shame, and the trust in the shadow of Egypt your confusion (disgrace)." },
+      { "n": 4, "text": "For his princes (leaders) were at Zoan, and his ambassadors (messengers) came to Hanes." },
+      { "n": 5, "text": "They were all ashamed of a people that could not profit (help) them, nor be an help nor profit, but a shame, and also a reproach (disgrace)." },
+      { "n": 6, "text": "The burden (heavy message) of the beasts of the south: into the land of trouble and anguish (great pain), from where come the young and old lion, the viper and fiery flying serpent (snake), they will carry their riches upon the shoulders of young asses (donkeys), and their treasures upon the bunches (humps) of camels, to a people that shall not profit (help) them." },
+      { "n": 7, "text": "For the Egyptians shall help in vain (for nothing), and to no purpose. Therefore have I cried concerning this: Their strength is to sit still." },
+      { "n": 8, "text": "Now go, write it before them in a table (tablet), and note it in a book, so that it may be for the time to come for ever and ever." },
+      { "n": 9, "text": "That this is a rebellious people, lying children, children that will not hear the law of the LORD," },
+      { "n": 10, "text": "Which say to the seers (prophets): See not. And to the prophets: Prophesy not to us right things, speak to us smooth things, prophesy deceits (lies)." },
+      { "n": 11, "text": "Get out of the way, turn aside out of the path, cause the Holy One of Israel to cease (stop) from before us." },
+      { "n": 12, "text": "Therefore this is what the Holy One of Israel says: Because you despise (reject) this word, and trust in oppression (cruelty) and perverseness (crookedness), and stay (lean) on it," },
+      { "n": 13, "text": "Therefore this iniquity (sin) shall be to you as a breach (crack) ready to fall, swelling out in a high wall, whose breaking comes suddenly at an instant (in a moment)." },
+      { "n": 14, "text": "And He shall break it as the breaking of the potters' vessel (clay pot) that is broken in pieces. He shall not spare. So that there shall not be found in the bursting of it a sherd (piece) to take fire from the hearth (fireplace), or to take water with out of the pit." },
+      { "n": 15, "text": "For this is what the Lord GOD, the Holy One of Israel, says: In returning and rest shall you be saved. In quietness and in confidence shall be your strength. And you would not." },
+      { "n": 16, "text": "But you said: No. For we will flee (run away) upon horses. Therefore shall you flee (run away). And: We will ride upon the swift (fast). Therefore shall those who pursue (chase) you be swift (fast)." },
+      { "n": 17, "text": "1,000 shall flee (run away) at the rebuke of one. At the rebuke of 5 shall you flee (run away), till you be left as a beacon (pole) upon the top of a mountain, and as an ensign (flag) on an hill." },
+      { "n": 18, "text": "And therefore will the LORD wait, so that He may be gracious to you. And therefore will He be exalted (lifted up), so that He may have mercy upon you. For the LORD is a God of judgment (justice). Blessed are all those who wait for Him." },
+      { "n": 19, "text": "For the people shall dwell (live) in Zion at Jerusalem. You shall weep no more. He will be very gracious to you at the voice of your cry. When He shall hear it, He will answer you." },
+      { "n": 20, "text": "And though the Lord give you the bread of adversity (trouble), and the water of affliction (suffering), yet shall your teachers not be removed into a corner any more, but your eyes shall see your teachers." },
+      { "n": 21, "text": "And your ears shall hear a word behind you, saying: This is the way, walk in it, when you turn to the right hand, and when you turn to the left." },
+      { "n": 22, "text": "You shall defile (treat as unclean) also the covering of your graven images (carved idols) of silver, and the ornament of your molten images (metal idols) of gold. You shall cast (throw) them away as a menstruous cloth (filthy rag). You shall say to it: Get away from here." },
+      { "n": 23, "text": "Then shall He give the rain of your seed, that you shall sow the ground with, and bread of the increase (harvest) of the earth, and it shall be fat and plenteous (rich and plenty). In that day shall your cattle feed in large pastures." },
+      { "n": 24, "text": "The oxen likewise and the young asses (donkeys) that ear (plow) the ground shall eat clean provender (feed), which has been winnowed (cleaned) with the shovel and with the fan." },
+      { "n": 25, "text": "And there shall be upon every high mountain, and upon every high hill, rivers and streams of waters in the day of the great slaughter (killing), when the towers fall." },
+      { "n": 26, "text": "Moreover (also) the light of the moon shall be as the light of the sun, and the light of the sun shall be sevenfold (7 times brighter), as the light of 7 days, in the day that the LORD binds up (bandages) the breach (wound) of His people, and heals the stroke of their wound." },
+      { "n": 27, "text": "Look, the name of the LORD comes from far, burning with His anger, and the burden of it is heavy. His lips are full of indignation (anger), and His tongue as a devouring (burning up) fire." },
+      { "n": 28, "text": "And His breath, as an overflowing stream, shall reach to the middle of the neck, to sift the nations with the sieve of vanity (destruction). And there shall be a bridle in the jaws of the people, causing them to err (go the wrong way)." },
+      { "n": 29, "text": "You shall have a song, as in the night when a holy solemnity (feast) is kept, and gladness of heart, as when one goes with a pipe (flute) to come into the mountain of the LORD, to the mighty One of Israel." },
+      { "n": 30, "text": "And the LORD shall cause His glorious voice to be heard, and shall show the lighting down (striking) of His arm, with the indignation (anger) of His anger, and with the flame of a devouring (burning up) fire, with scattering, and tempest (storm), and hailstones." },
+      { "n": 31, "text": "For through the voice of the LORD shall the Assyrian be beaten down, which smote (struck) with a rod (stick)." },
+      { "n": 32, "text": "And in every place where the grounded staff (appointed rod) shall pass, which the LORD shall lay upon him, it shall be with tabrets (tambourines) and harps. And in battles of shaking will He fight with it." },
+      { "n": 33, "text": "For Tophet (a place of burning) is ordained (prepared) of old. Yes, for the king it is prepared. He has made it deep and large. The pile of it is fire and much wood. The breath of the LORD, like a stream of brimstone (burning sulfur), does kindle (light) it." }
+    ]
   },
   "59": {
-    "verses": [
-      { "n": 1, "text": "Look, the LORD's hand is not too short to save you. His ear is not too dull to hear you." },
-      { "n": 2, "text": "But your sins have separated you from your God. Your sins have hidden His face from you, so He does not hear you." },
-      { "n": 3, "text": "Your hands are stained with blood. Your fingers are stained with sin. Your lips have spoken lies. Your tongue has whispered evil." },
-      { "n": 4, "text": "No one asks for justice. No one speaks up for the truth. They trust in empty words and tell lies. They plan trouble and give birth to sin." },
-      { "n": 5, "text": "They hatch the eggs of poisonous snakes. They weave spider webs. Anyone who eats their eggs will die. When an egg is crushed, a viper comes out." },
-      { "n": 6, "text": "Their webs cannot be made into clothes. They cannot cover themselves with what they make. Their work is sinful work. Their hands are full of violent acts." },
-      { "n": 7, "text": "Their feet run toward evil. They hurry to shed the blood of innocent people. Their thoughts are sinful thoughts. Ruin and destruction are on their roads." },
-      { "n": 8, "text": "They do not know the way of peace. There is no justice in their steps. They have made their roads crooked. No one who walks on them will know peace." },
-      { "n": 9, "text": "So justice stays far from us. What is right does not catch up to us. We wait for light, but we see only darkness. We wait for brightness, but we walk in the dark." },
-      { "n": 10, "text": "We feel along the wall like blind people. We feel our way like people with no eyes. We stumble at noon as if it were night. We are in lonely places like dead people." },
-      { "n": 11, "text": "We growl like bears. We moan sadly like doves. We look for justice, but there is none. We look for rescue, but it is far from us." },
-      { "n": 12, "text": "Our sins are many before You. Our sins speak against us. Our sins are with us, and we know our wrongs." },
-      { "n": 13, "text": "We have sinned and lied against the LORD. We have turned away from our God. We have spoken cruel and rebellious words. We have thought up lies in our hearts and spoken them." },
-      { "n": 14, "text": "Justice is turned back. What is right stands far away. Truth has fallen in the street. Honesty cannot enter." },
-      { "n": 15, "text": "Truth is gone. Anyone who turns away from evil becomes a target. The LORD saw this, and He was displeased that there was no justice." },
-      { "n": 16, "text": "The LORD saw that there was no one to help. He was amazed that no one stepped in. So His own arm brought rescue. His own goodness held Him up." },
-      { "n": 17, "text": "He put on goodness like armor on His chest. He put the helmet of rescue on His head. He put on the clothes of punishment. He wrapped Himself in burning devotion like a coat." },
-      { "n": 18, "text": "He will pay them back for what they have done. His enemies will feel His anger. Even the faraway lands will receive their payment." },
-      { "n": 19, "text": "People from the west will fear the name of the LORD. People from the east will fear His glory. The enemy will come in like a flood. Then the Spirit of the LORD will raise a banner against him." },
-      { "n": 20, "text": "The LORD says: The Redeemer will come to Zion. He will come to the people in Jacob who turn away from their sins." },
-      { "n": 21, "text": "The LORD says: This is My agreement with them. My Spirit is on you. My words are in your mouth. They will not leave your mouth. They will not leave the mouths of your children or your children's children. This will last from now on, forever." }
-    ],
-    "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. Verses 5, 10, 16, 18 and 19 use obscure Hebrew wording and need careful review.",
-    "sourceUrl": "https://kjvdeaf.com/old-testament/isaiah/isaiah-chapter-59/",
     "status": "published",
-    "videos": []
+    "generated": true,
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V19 keeps the KJV's When the enemy shall come in like a flood, the Spirit of the LORD shall lift up a standard against him. V21 writes covenant as agreement, as elsewhere on the site.",
+    "sourceUrl": "https://kjvdeaf.com/old-testament/isaiah/isaiah-chapter-59/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "Look, the LORD's hand is not shortened, so that it cannot save. Neither His ear heavy, so that it cannot hear." },
+      { "n": 2, "text": "But your iniquities (sins) have separated between you and your God, and your sins have hid His face from you, so that He will not hear." },
+      { "n": 3, "text": "For your hands are defiled (made dirty) with blood, and your fingers with iniquity (sin). Your lips have spoken lies, your tongue has muttered perverseness (crooked things)." },
+      { "n": 4, "text": "None calls for justice, nor any pleads for truth. They trust in vanity (empty things), and speak lies. They conceive mischief (plan harm), and bring forth (give birth to) iniquity (sin)." },
+      { "n": 5, "text": "They hatch cockatrice' (poisonous snake) eggs, and weave the spider's web. He that eats of their eggs dies, and that which is crushed breaks out into a viper." },
+      { "n": 6, "text": "Their webs shall not become garments (clothes), neither shall they cover themselves with their works. Their works are works of iniquity (sin), and the act of violence is in their hands." },
+      { "n": 7, "text": "Their feet run to evil, and they make haste (hurry) to shed innocent blood. Their thoughts are thoughts of iniquity (sin). Wasting and destruction are in their paths." },
+      { "n": 8, "text": "The way of peace they know not, and there is no judgment (justice) in their goings. They have made them crooked paths. Whoever goes in them shall not know peace." },
+      { "n": 9, "text": "Therefore is judgment (justice) far from us, neither does justice overtake (reach) us. We wait for light, but look, obscurity (darkness). For brightness, but we walk in darkness." },
+      { "n": 10, "text": "We grope (feel) for the wall like the blind, and we grope (feel our way) as if we had no eyes. We stumble at noonday as in the night. We are in desolate places (lonely places) as dead men." },
+      { "n": 11, "text": "We roar all like bears, and mourn sore (sadly) like doves. We look for judgment (justice), but there is none. For salvation (rescue), but it is far off from us." },
+      { "n": 12, "text": "For our transgressions (sins) are multiplied before You, and our sins testify against us. For our transgressions (sins) are with us. And as for our iniquities (sins), we know them," },
+      { "n": 13, "text": "In transgressing (sinning) and lying against the LORD, and departing away from our God, speaking oppression (cruelty) and revolt, conceiving and uttering from the heart words of falsehood (lies)." },
+      { "n": 14, "text": "And judgment (justice) is turned away backward, and justice stands afar off (far away). For truth is fallen in the street, and equity (fairness) cannot enter." },
+      { "n": 15, "text": "Yes, truth fails. And he that departs from evil makes himself a prey (a target). And the LORD saw it, and it displeased Him that there was no judgment (justice)." },
+      { "n": 16, "text": "And He saw that there was no man, and wondered that there was no intercessor (one to plead for the people). Therefore His arm brought salvation (rescue) to Him. And His righteousness, it sustained (held up) Him." },
+      { "n": 17, "text": "For He put on righteousness as a breastplate (chest armor), and an helmet of salvation upon His head. And He put on the garments (clothes) of vengeance (payback) for clothing, and was clad (dressed) with zeal as a cloak." },
+      { "n": 18, "text": "According to their deeds, accordingly He will repay, fury to His adversaries (enemies), recompence (payback) to His enemies. To the islands He will repay recompence (payback)." },
+      { "n": 19, "text": "So shall they fear the name of the LORD from the west, and His glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the LORD shall lift up a standard (flag) against him." },
+      { "n": 20, "text": "And the Redeemer (the One who buys back) shall come to Zion, and to those who turn from transgression (sin) in Jacob, says the LORD." },
+      { "n": 21, "text": "As for Me, this is My agreement with them, says the LORD: My Spirit that is upon you, and My words which I have put in your mouth, shall not depart (go away) out of your mouth, nor out of the mouth of your seed (children), nor out of the mouth of your seed's seed (grandchildren), says the LORD, from henceforth (now on) and for ever." }
+    ]
   },
   "64": {
-    "verses": [
-      { "n": 1, "text": "Oh, that You would tear open the sky and come down. The mountains would shake and flow away before You." },
-      { "n": 2, "text": "It would be like fire that burns dry branches. It would be like fire that makes water boil. Then Your enemies would know Your name. The nations would shake in fear before You." },
-      { "n": 3, "text": "Once You did mighty and fearful things that we did not expect. You came down, and the mountains shook." },
-      { "n": 4, "text": "From the beginning of the world, no one has heard or seen any God besides You. You act for the one who waits for You." },
-      { "n": 5, "text": "You meet those who gladly do what is right. You help those who remember Your ways. But You were angry, because we kept on sinning. How can we be saved?" },
-      { "n": 6, "text": "All of us are like someone who is unclean. All our good deeds are like dirty rags. All of us dry up like a leaf. Our sins carry us away like the wind." },
-      { "n": 7, "text": "No one calls on Your name. No one tries to hold on to You. You have hidden Your face from us. You have let our sins destroy us." },
-      { "n": 8, "text": "But now, LORD, You are our Father. We are the clay, and You are the potter. All of us are the work of Your hand." },
-      { "n": 9, "text": "LORD, do not be so very angry. Do not remember our sins forever. Please look at us. We are all Your people." },
-      { "n": 10, "text": "Your holy cities have become a desert. Zion is a desert. Jerusalem is empty and destroyed." },
-      { "n": 11, "text": "Our holy and beautiful temple has been burned with fire. Our fathers praised You there. All the things we loved are in ruins." },
-      { "n": 12, "text": "LORD, will You still hold back after all this? Will You stay silent and punish us so severely?" }
-    ],
-    "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. Verse 5 uses obscure Hebrew wording and needs careful review.",
-    "sourceUrl": "https://kjvdeaf.com/old-testament/isaiah/isaiah-chapter-64/",
     "status": "published",
-    "videos": []
+    "generated": true,
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V6 keeps the KJV's all our righteousnesses are as filthy rags. V8 keeps we are the clay, and thou our potter.",
+    "sourceUrl": "https://kjvdeaf.com/old-testament/isaiah/isaiah-chapter-64/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "Oh that You would rend (tear open) the heavens, that You would come down, that the mountains might flow down at Your presence," },
+      { "n": 2, "text": "As when the melting fire burns, the fire causes the waters to boil, to make Your name known to Your adversaries (enemies), that the nations may tremble (shake) at Your presence!" },
+      { "n": 3, "text": "When You did terrible (awesome) things which we looked not for, You came down, the mountains flowed down at Your presence." },
+      { "n": 4, "text": "For since the beginning of the world men have not heard, nor perceived by the ear, neither has the eye seen, O God, beside You, what He has prepared for him that waits for Him." },
+      { "n": 5, "text": "You meet him that rejoices and works righteousness, those that remember You in Your ways. Look, You are wroth (angry), for we have sinned. In those is continuance (we have long been in them), and we shall be saved." },
+      { "n": 6, "text": "But we are all as an unclean thing, and all our righteousnesses (good deeds) are as filthy rags. And we all do fade as a leaf. And our iniquities (sins), like the wind, have taken us away." },
+      { "n": 7, "text": "And there is none that calls upon Your name, that stirs up himself to take hold of You. For You have hid Your face from us, and have consumed (destroyed) us, because of our iniquities (sins)." },
+      { "n": 8, "text": "But now, O LORD, You are our Father. We are the clay, and You our potter. And we all are the work of Your hand." },
+      { "n": 9, "text": "Be not wroth (angry) very sore (greatly), O LORD, neither remember iniquity (sin) for ever. Look, see, we beseech (beg) You, we are all Your people." },
+      { "n": 10, "text": "Your holy cities are a wilderness (desert). Zion is a wilderness (desert), Jerusalem a desolation (ruin)." },
+      { "n": 11, "text": "Our holy and our beautiful house, where our fathers praised You, is burned up with fire. And all our pleasant things are laid waste (ruined)." },
+      { "n": 12, "text": "Will You refrain (hold) Yourself for these things, O LORD? Will You hold Your peace (stay silent), and afflict (punish) us very sore (greatly)?" }
+    ]
   }
 }
