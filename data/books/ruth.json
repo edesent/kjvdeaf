@@ -1,378 +1,123 @@
 {
   "1": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "Long ago, leaders called judges ruled the land of Israel. There was a famine in the land of Judah. A man named Elimelech lived in the town of Bethlehem in Judah. He, his wife and his 2 sons moved to the country of Moab."
-      },
-      {
-        "n": 2,
-        "text": "Elimelech's wife was named Naomi. His 2 sons were named Mahlon and Chilion. They were from the Ephrathah family of Bethlehem in Judah. The family traveled to the country of Moab and stayed there."
-      },
-      {
-        "n": 3,
-        "text": "Later, Naomi's husband, Elimelech, died. Only Naomi and her 2 sons, Mahlon and Chilion, were left."
-      },
-      {
-        "n": 4,
-        "text": "Her sons, Mahlon and Chilion, married women from the country of Moab. One wife's name was Orpah, and the other wife's name was Ruth. They lived in Moab about 10 years."
-      },
-      {
-        "n": 5,
-        "text": "Then Mahlon and Chilion also died. Naomi was left alone without her husband, Elimelech, or her 2 sons."
-      },
-      {
-        "n": 6,
-        "text": "While Naomi was in the country of Moab, she heard that the LORD had helped His people. Naomi heard how God had given food to His people in Judah. So Naomi decided to leave the country of Moab and go back home. Her daughters-in-law, Orpah and Ruth, also decided to go with her."
-      },
-      {
-        "n": 7,
-        "text": "Naomi and her daughters-in-law, Orpah and Ruth, left the place where they had been living and started traveling back to the land of Judah."
-      },
-      {
-        "n": 8,
-        "text": "Then Naomi stopped, and she said to Ruth and Orpah: You must go back to your mothers and to their homes and you must stay there. You have been good to my 2 sons and to me. I pray that God will also be good to you."
-      },
-      {
-        "n": 9,
-        "text": "Naomi said: I also pray that God will give each of you another husband and a new home. Naomi kissed them and Ruth and Orpah started to cry."
-      },
-      {
-        "n": 10,
-        "text": "Orpah and Ruth said: We want to come with you and go to your family."
-      },
-      {
-        "n": 11,
-        "text": "But Naomi said: No, my daughters, go back to your own homes. Why should you go with me? I cannot have any more sons to be your husbands."
-      },
-      {
-        "n": 12,
-        "text": "Go back home, my daughters. I am too old to have another husband. Even if I had hope, and married tonight, and had sons,"
-      },
-      {
-        "n": 13,
-        "text": "Would you wait until they grew up? Would you stay single for them? No, my daughters. This is very bitter for me, more than for you. The LORD has turned against me."
-      },
-      {
-        "n": 14,
-        "text": "Ruth and Orpah cried again. Orpah kissed Naomi and she said goodbye, but Ruth did not want to go away from Naomi, and she held on to her."
-      },
-      {
-        "n": 15,
-        "text": "Naomi said to Ruth: Orpah has gone back to her family. She has gone back to her people and her gods in the land of Moab. You must go back with her."
-      },
-      {
-        "n": 16,
-        "text": "But Ruth said to Naomi: Do not tell me to leave you. I want to go with you. I want to stay with you. Your people will be my people and your God will be my God."
-      },
-      {
-        "n": 17,
-        "text": "Ruth said: Where you die, I will die. There I will be buried. May the LORD punish me severely if anything but death separates you and me."
-      },
-      {
-        "n": 18,
-        "text": "Naomi saw that Ruth did not want to go home and she did not ask Ruth to go back again."
-      },
-      {
-        "n": 19,
-        "text": "Naomi and Ruth went together to the town of Bethlehem. The whole town was excited when they saw them. The women from the town asked: Is this really Naomi?"
-      },
-      {
-        "n": 20,
-        "text": "Naomi said to them: My name has changed. My name is not Naomi anymore. My name is now Mara, because the Almighty has made my life very sad and bitter."
-      },
-      {
-        "n": 21,
-        "text": "I left here full. The LORD has brought me home empty. Why do you call me Naomi, which means Pleasant? The LORD has spoken against me. The Almighty has brought me trouble."
-      },
-      {
-        "n": 22,
-        "text": "So Naomi and her daughter-in-law Ruth, the Moabite, came back from the country of Moab. These 2 women came to Bethlehem at the beginning of the barley harvest."
-      }
-    ],
-    "sourceUrl": "https://kjvdeaf.com/ruth-chapter-1/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
-    "videos": []
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V16-17 keep the KJV's words of Ruth: Whither thou goest, I will go.",
+    "sourceUrl": "https://kjvdeaf.com/ruth-chapter-1/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "Now it came to pass in the days when the judges ruled, that there was a famine (no food) in the land. And a certain man of Bethlehemjudah went to sojourn (live for a while) in the country of Moab, he, and his wife, and his 2 sons." },
+      { "n": 2, "text": "And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his 2 sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there." },
+      { "n": 3, "text": "And Elimelech, Naomi's husband, died. And Naomi was left, and her 2 sons." },
+      { "n": 4, "text": "And they took them wives of the women of Moab. The name of the one was Orpah, and the name of the other Ruth. And they dwelt (lived) there about 10 years." },
+      { "n": 5, "text": "And Mahlon and Chilion died also both of them. And the woman was left of her 2 sons and her husband." },
+      { "n": 6, "text": "Then Naomi arose (got up) with her daughters in law, so that she might return from the country of Moab. For she had heard in the country of Moab how the LORD had visited (cared for) His people in giving them bread." },
+      { "n": 7, "text": "So Naomi went forth (out) out of the place where she was, and her 2 daughters in law with her. And they went on the way to return to the land of Judah." },
+      { "n": 8, "text": "And Naomi said to her 2 daughters in law: Go, return each to her mother's house. The LORD deal kindly with you, as you have dealt with the dead, and with me." },
+      { "n": 9, "text": "The LORD grant you that you may find rest, each of you in the house of her husband. Then Naomi kissed them. And they lifted up their voice, and wept." },
+      { "n": 10, "text": "And they said to Naomi: Surely we will return with you to your people." },
+      { "n": 11, "text": "And Naomi said: Turn again, my daughters. Why will you go with me? Are there yet any more sons in my womb, that they may be your husbands?" },
+      { "n": 12, "text": "Turn again, my daughters, go your way. For I am too old to have a husband. If I should say: I have hope, if I should have a husband also to night, and should also bear (give birth to) sons," },
+      { "n": 13, "text": "Would you tarry (wait) for them till they were grown? Would you stay for them from having husbands? No, my daughters. For it grieves me much for your sakes that the hand of the LORD is gone out against me." },
+      { "n": 14, "text": "And they lifted up their voice, and wept again. And Orpah kissed her mother in law. But Ruth clave (held tight) to her." },
+      { "n": 15, "text": "And Naomi said: Look, your sister in law is gone back to her people, and to her gods. Return after your sister in law." },
+      { "n": 16, "text": "And Ruth said: Intreat (beg) me not to leave you, or to return from following after you. For whither (where) you go, I will go. And where you lodge (stay), I will lodge (stay). Your people shall be my people, and your God my God." },
+      { "n": 17, "text": "Where you die, will I die, and there will I be buried. The LORD do so to me, and more also, if anything but death part you and me." },
+      { "n": 18, "text": "When Naomi saw that Ruth was stedfastly minded (firmly decided) to go with her, then she left speaking to her." },
+      { "n": 19, "text": "So the 2 of them went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and they said: Is this Naomi?" },
+      { "n": 20, "text": "And Naomi said to them: Call me not Naomi (pleasant). Call me Mara (bitter). For the Almighty has dealt very bitterly with me." },
+      { "n": 21, "text": "I went out full, and the LORD has brought me home again empty. Why then call me Naomi (pleasant), seeing the LORD has testified against me, and the Almighty has afflicted (hurt) me?" },
+      { "n": 22, "text": "So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab. And they came to Bethlehem in the beginning of barley harvest." }
+    ]
   },
   "2": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "Naomi had a relative on her husband's side. He was a man of great wealth and influence from the family of Elimelech. His name was Boaz."
-      },
-      {
-        "n": 2,
-        "text": "One day Ruth, the Moabite, said to Naomi: May I go to the fields? Maybe I can find someone who will be kind to me. That person may let me gather the grain left in the field. Naomi said: Yes, my daughter, you may go."
-      },
-      {
-        "n": 3,
-        "text": "So Ruth went to the fields. She followed the workers who were cutting the grain. Ruth gathered the grain that was left. It happened that part of the field belonged to Boaz, the man from Elimelech's family."
-      },
-      {
-        "n": 4,
-        "text": "Boaz came from the town of Bethlehem. He said to his workers: The LORD be with you. The workers said to Boaz: The LORD bless you."
-      },
-      {
-        "n": 5,
-        "text": "Boaz looked at Ruth and asked the leader of the people who were cutting the barley: Who does that young woman belong to ?"
-      },
-      {
-        "n": 6,
-        "text": "The leader said: Ruth is the young woman from the land of Moab who came back with Naomi."
-      },
-      {
-        "n": 7,
-        "text": "Ruth asked us if she could walk behind the people who cut the barley to pick up the barley that falls onto the ground. She has worked on the field from this morning until now. Ruth has not gone home to rest."
-      },
-      {
-        "n": 8,
-        "text": "Then Boaz said to Ruth: Listen to me my daughter. Do not go and pick up barley on the field of another man. Do not go away from here. Stay here with the women who work for me."
-      },
-      {
-        "n": 9,
-        "text": "Watch the field where the workers cut the barley. Follow the women who work for me. I have told the young men not to bother you. When you are thirsty, go and drink from the water jars that my workers filled."
-      },
-      {
-        "n": 10,
-        "text": "Ruth bowed down in front of Boaz and asked Boaz: Why are you so good to me? I am not from your people. I am a stranger from another land."
-      },
-      {
-        "n": 11,
-        "text": "Boaz said: People have told me all about the good things you have done. When your husband died, you helped Naomi in many ways. You left your father, your mother and your land. You came to live with people you did not know."
-      },
-      {
-        "n": 12,
-        "text": "Boaz said: The LORD will reward you for all the good things you have done. The LORD, the God of Israel, will pay you in full. You have come to Him for safety, under His wings."
-      },
-      {
-        "n": 13,
-        "text": "Ruth said: Sir, May I continue to find goodness from you, you have comforted me by speaking so kindly to me. I am not one of the women who work for you, but you help me, and you are good and friendly to me."
-      },
-      {
-        "n": 14,
-        "text": "When it was time to eat, Boaz said to Ruth: Come here. Take some of the bread and dip it in our vinegar. Ruth sat down with the workers and Boaz gave her some roasted grain. Ruth ate until she was full and had some food leftover."
-      },
-      {
-        "n": 15,
-        "text": "Then Ruth went back to work to pick up barley. Boaz told his servants: Let Ruth gather even around the piles of grain. Do not stop Ruth or insult her."
-      },
-      {
-        "n": 16,
-        "text": "Boaz also told his servants to make it easier for Ruth by pulling some full heads of barley out of the bundles and leaving them for her to gather. Let Ruth gather that also. Do not tell her to stop or insult her."
-      },
-      {
-        "n": 17,
-        "text": "Ruth worked in the fields until evening. Then she separated the grain from the chaff. There was about 6 gallons of barley ."
-      },
-      {
-        "n": 18,
-        "text": "Ruth carried the barley into town to show her mother-in-law what she had gathered. She also gave her the food that was left from lunch."
-      },
-      {
-        "n": 19,
-        "text": "Naomi asked Ruth: Where did you gather all this grain? Where did you work? Bless the man who noticed you. Then Ruth told her who she had worked with. Ruth said: The man I worked with today is named Boaz."
-      },
-      {
-        "n": 20,
-        "text": "Naomi said to Ruth: May the LORD bless him. The LORD has continued showing His kindness to the living and the dead. Then Naomi told her daughter-in-law: Boaz is one of our relatives. He is one of our protectors."
-      },
-      {
-        "n": 21,
-        "text": "Then Ruth, the woman from Moab, said to Naomi: Boaz also said to me: You must stay with my workers until they have finished cutting all the barley."
-      },
-      {
-        "n": 22,
-        "text": "Naomi said to Ruth: Yes, my daughter in law, it will be good for you to go with the women who work for Boaz. The workers on another field could give you problems and tell you to go away."
-      },
-      {
-        "n": 23,
-        "text": "So Ruth worked near the women who worked for Boaz until they finished cutting all the barley and she stayed with Naomi in her house."
-      }
-    ],
-    "sourceUrl": "https://kjvdeaf.com/ruth-chapter-2/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. A merged-verse numbering bug (18/19) has been split apart.",
-    "videos": []
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V17 keeps the KJV's ephah, explained in parentheses.",
+    "sourceUrl": "https://kjvdeaf.com/ruth-chapter-2/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "And Naomi had a kinsman (relative) of her husband's, a mighty man of wealth, of the family of Elimelech. And his name was Boaz." },
+      { "n": 2, "text": "And Ruth the Moabitess said to Naomi: Let me now go to the field, and glean (pick up the leftover) ears of corn (grain) after him in whose sight I shall find grace (kindness). And Naomi said to her: Go, my daughter." },
+      { "n": 3, "text": "And Ruth went, and came, and gleaned (picked up leftover grain) in the field after the reapers (harvest workers). And her hap (chance) was to light on (come to) a part of the field belonging to Boaz, who was of the kindred (family) of Elimelech." },
+      { "n": 4, "text": "And look, Boaz came from Bethlehem, and said to the reapers (harvest workers): The LORD be with you. And they answered him: The LORD bless you." },
+      { "n": 5, "text": "Then Boaz said to his servant that was set over the reapers (harvest workers): Whose damsel (young woman) is this?" },
+      { "n": 6, "text": "And the servant that was set over the reapers (harvest workers) answered and said: It is the Moabitish damsel (young woman from Moab) that came back with Naomi out of the country of Moab." },
+      { "n": 7, "text": "And she said: I pray you (please), let me glean (pick up leftover grain) and gather after the reapers (harvest workers) among the sheaves (bundles). So she came, and has continued even from the morning until now, except that she tarried (rested) a little in the house." },
+      { "n": 8, "text": "Then Boaz said to Ruth: Hear, my daughter. Do not go to glean (pick up leftover grain) in another field, neither go from here, but abide (stay) here fast (close) by my maidens (young women workers)." },
+      { "n": 9, "text": "Let your eyes be on the field that they reap (harvest), and go after them. Have I not charged (told) the young men that they shall not touch you? And when you are thirsty, go to the vessels (jars), and drink of that which the young men have drawn." },
+      { "n": 10, "text": "Then Ruth fell on her face, and bowed herself to the ground, and said to Boaz: Why have I found grace (kindness) in your eyes, that you should take knowledge of (notice) me, seeing I am a stranger (foreigner)?" },
+      { "n": 11, "text": "And Boaz answered and said to her: It has fully been showed me all that you have done to your mother in law since the death of your husband. And how you have left your father and your mother, and the land of your nativity (birth), and are come to a people which you knew not before." },
+      { "n": 12, "text": "The LORD recompense (reward) your work, and a full reward be given you of the LORD God of Israel, under whose wings you are come to trust." },
+      { "n": 13, "text": "Then Ruth said: Let me find favour in your sight, my lord. For you have comforted me, and for that you have spoken friendly to your handmaid (servant), though I am not like one of your handmaidens (women servants)." },
+      { "n": 14, "text": "And Boaz said to her: At mealtime come here, and eat of the bread, and dip your morsel (piece of bread) in the vinegar (sour wine). And she sat beside the reapers (harvest workers). And Boaz reached her parched corn (roasted grain), and she did eat, and was sufficed (full), and left." },
+      { "n": 15, "text": "And when Ruth was risen up to glean (pick up leftover grain), Boaz commanded his young men, saying: Let her glean (pick up grain) even among the sheaves (bundles), and reproach her not (do not shame her)." },
+      { "n": 16, "text": "And let fall also some of the handfuls of purpose for her, and leave them, so that she may glean (pick) them, and rebuke her not (do not scold her)." },
+      { "n": 17, "text": "So Ruth gleaned (picked up leftover grain) in the field until evening, and beat out that she had gleaned (picked up). And it was about an ephah (about 5 gallons) of barley." },
+      { "n": 18, "text": "And Ruth took it up, and went into the city. And her mother in law saw what she had gleaned (picked up). And Ruth brought forth (out), and gave to her that she had reserved (saved) after she was sufficed (full)." },
+      { "n": 19, "text": "And her mother in law said to her: Where have you gleaned (picked up grain) to day (today)? And where did you work? Blessed be he that did take knowledge of (notice) you. And Ruth showed her mother in law with whom she had worked, and said: The man's name with whom I worked to day (today) is Boaz." },
+      { "n": 20, "text": "And Naomi said to her daughter in law: Blessed be he of the LORD, who has not left off His kindness to the living and to the dead. And Naomi said to her: The man is near of kin (closely related) to us, one of our next kinsmen (closest relatives)." },
+      { "n": 21, "text": "And Ruth the Moabitess said: He said to me also: You shall keep fast (close) by my young men, until they have ended all my harvest." },
+      { "n": 22, "text": "And Naomi said to Ruth her daughter in law: It is good, my daughter, that you go out with his maidens (young women workers), so that they meet you not in any other field." },
+      { "n": 23, "text": "So Ruth kept fast (close) by the maidens (young women workers) of Boaz to glean (pick up leftover grain) to the end of barley harvest and of wheat harvest. And she dwelt (lived) with her mother in law." }
+    ]
   },
   "3": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "A few days later Naomi said to Ruth: My daughter, I must find a husband and a home so that you will be provided for."
-      },
-      {
-        "n": 2,
-        "text": "Naomi said to Ruth: You have been working with the women who work for Boaz. Boaz is in our family. Tonight he will separate the barley at the threshing floor."
-      },
-      {
-        "n": 3,
-        "text": "Wash yourself and put on perfume. Put on your best clothes and go to the threshing floor. Stay out of the man's sight. Wait until Boaz has finished eating and drinking."
-      },
-      {
-        "n": 4,
-        "text": "After Boaz eats, he will lie down to rest. Watch where he lies down. Go there and lift the cover off his feet. Lie down at his feet. When Boaz wakes up, he will tell you what to do."
-      },
-      {
-        "n": 5,
-        "text": "Ruth said to Naomi: I will do everything you say to do."
-      },
-      {
-        "n": 6,
-        "text": "Then Ruth went to the threshing-floor, and she did what Naomi, her mother-in-law, told her to do."
-      },
-      {
-        "n": 7,
-        "text": "Boaz finished his food and drink, and he was happy. He lay down next to the heap of grain. Then Ruth went to him very quietly. She lifted the cover from his feet and lay down."
-      },
-      {
-        "n": 8,
-        "text": "About midnight, Boaz rolled over in his sleep and woke up. He was very afraid because there was a woman lying near his feet."
-      },
-      {
-        "n": 9,
-        "text": "Boaz said: Who are you? Ruth answered: I am Ruth, your servant. Spread your cover over me, because you are a close relative."
-      },
-      {
-        "n": 10,
-        "text": "Boaz said: May the LORD bless you, my daughter. You have been very kind to me. Your kindness now is greater than at the beginning. You did not go after young men, whether poor or rich."
-      },
-      {
-        "n": 11,
-        "text": "And now, young woman, you must not be afraid. I will do what you ask me. All the men in this town know that you are a good woman."
-      },
-      {
-        "n": 12,
-        "text": "And it is true that I, Boaz, am a close relative. But there is a man who is a closer relative to you than I am."
-      },
-      {
-        "n": 13,
-        "text": "Boaz told Ruth: Stay here tonight. In the morning we will see if he will help you. If he decides to help you, that is fine. If he refuses, I promise you this. As surely as the LORD lives, I will redeem you myself. Now lie down here until morning."
-      },
-      {
-        "n": 14,
-        "text": "So Ruth lay near Boaz's feet until morning. She got up before anyone could recognize another person. Boaz said: No one must know that a woman was here at the threshing floor."
-      },
-      {
-        "n": 15,
-        "text": "Then Boaz said: Bring me the cloak you are wearing, and hold it open. Ruth held her cloak open. Boaz measured out 6 measures of barley and put it on Ruth's back. Then she went to the city."
-      },
-      {
-        "n": 16,
-        "text": "When Ruth came home to her mother-in-law, Naomi asked Ruth: Is that you, my daughter? Ruth told Naomi what Boaz had done for her."
-      },
-      {
-        "n": 17,
-        "text": "And Ruth said: Boaz also gave me all this barley and he said: When you go back to Naomi, you must give her this barley. Your hands must not be empty."
-      },
-      {
-        "n": 18,
-        "text": "Naomi said: Ruth, be patient until we hear what happens. Boaz will not rest until he has finished doing what he should do. We will know what will happen before the day is ended."
-      }
-    ],
-    "sourceUrl": "https://kjvdeaf.com/ruth-chapter-3/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
-    "videos": []
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V9 keeps the KJV's spread therefore thy skirt over thine handmaid, explained in parentheses.",
+    "sourceUrl": "https://kjvdeaf.com/ruth-chapter-3/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "Then Naomi her mother in law said to Ruth: My daughter, shall I not seek (look for) rest for you, so that it may be well with you?" },
+      { "n": 2, "text": "And now is not Boaz of our kindred (family), with whose maidens (young women workers) you were? Look, he winnows (separates the grain from the chaff) barley to night in the threshingfloor (place where grain is beaten out)." },
+      { "n": 3, "text": "Wash yourself therefore, and anoint (put perfumed oil on) yourself, and put your raiment (clothing) upon you, and go down to the floor (threshing floor). But do not make yourself known to the man, until he shall have done eating and drinking." },
+      { "n": 4, "text": "And it shall be, when he lies down, that you shall mark (notice) the place where he shall lie. And you shall go in, and uncover his feet, and lay down. And he will tell you what you shall do." },
+      { "n": 5, "text": "And Ruth said to her: All that you say to me I will do." },
+      { "n": 6, "text": "And Ruth went down to the floor (threshing floor), and did according to all that her mother in law bade (told) her." },
+      { "n": 7, "text": "And when Boaz had eaten and drunk, and his heart was merry (happy), he went to lie down at the end of the heap of corn (grain). And Ruth came softly (quietly), and uncovered his feet, and laid her down." },
+      { "n": 8, "text": "And it came to pass at midnight, that the man was afraid, and turned himself. And look, a woman lay at his feet." },
+      { "n": 9, "text": "And Boaz said: Who are you? And she answered: I am Ruth your handmaid (servant). Spread therefore your skirt (the edge of your cloak) over your handmaid (servant), for you are a near kinsman (close relative)." },
+      { "n": 10, "text": "And Boaz said: Blessed be you of the LORD, my daughter. For you have showed more kindness in the latter end than at the beginning, because you followed not young men, whether poor or rich." },
+      { "n": 11, "text": "And now, my daughter, fear not. I will do to you all that you require (ask). For all the city of my people does know that you are a virtuous (good and honorable) woman." },
+      { "n": 12, "text": "And now it is true that I am your near kinsman (close relative). However, there is a kinsman (relative) nearer than I." },
+      { "n": 13, "text": "Tarry (stay) this night, and it shall be in the morning, that if he will perform to you the part of a kinsman (relative), well, let him do the kinsman's part. But if he will not do the part of a kinsman (relative) to you, then will I do the part of a kinsman (relative) to you, as the LORD lives. Lie down until the morning." },
+      { "n": 14, "text": "And Ruth lay at his feet until the morning. And she rose up before one could know another. And Boaz said: Let it not be known that a woman came into the floor (threshing floor)." },
+      { "n": 15, "text": "Also Boaz said: Bring the vail (shawl) that you have upon you, and hold it. And when she held it, he measured 6 measures of barley, and laid it on her. And she went into the city." },
+      { "n": 16, "text": "And when Ruth came to her mother in law, Naomi said: Who are you, my daughter? And Ruth told her all that the man had done to her." },
+      { "n": 17, "text": "And Ruth said: These 6 measures of barley he gave me. For he said to me: Go not empty to your mother in law." },
+      { "n": 18, "text": "Then Naomi said: Sit still, my daughter, until you know how the matter will fall (turn out). For the man will not be in rest, until he have finished the thing this day." }
+    ]
   },
   "4": {
-    "verses": [
-      {
-        "n": 1,
-        "text": "Boaz went to the place where people gather near the city gates. He sat there until the close relative he had told Ruth about passed by. Boaz called to him: Come and sit here. The close relative came and sat with Boaz."
-      },
-      {
-        "n": 2,
-        "text": "Boaz also gathered 10 of the elders of the city. Boaz said to them: Come and sit here with us. Then the 10 elders came and sat down with them."
-      },
-      {
-        "n": 3,
-        "text": "Then Boaz said to Naomi's close relative: Naomi has come back from the land of Moab. She decided to sell the field of our brother, Elimelech, who has died."
-      },
-      {
-        "n": 4,
-        "text": "I thought you should know about this. I am telling you in front of these 10 elders and these people: If you want to buy the field, buy it. If you do not want to buy it, tell me, and I will buy it. Naomi's closest relative said: I will buy the land from her."
-      },
-      {
-        "n": 5,
-        "text": "Then Boaz said: If you buy the field from Naomi, you must also marry Ruth. Ruth is the Moabite woman, the widow of the dead man. She will have a child who will carry on her husband's name and keep the land in the family."
-      },
-      {
-        "n": 6,
-        "text": "The close relative answered: No, I cannot buy the field. If I do, I might destroy my own inheritance. You can buy the field yourself. I cannot buy it."
-      },
-      {
-        "n": 7,
-        "text": "Long ago in Israel, there was a custom for confirming a purchase. One person took off a sandal and gave it to the other. This showed the agreement in front of witnesses."
-      },
-      {
-        "n": 8,
-        "text": "The close relative said to Boaz: You can buy the field and he took off his shoe and he gave it to Boaz."
-      },
-      {
-        "n": 9,
-        "text": "Boaz said to all the elders and to the people: You can all see today that I will buy the field from Naomi. I will buy the field that belonged to Elimelech and to Chilion and Mahlon, his 2 sons."
-      },
-      {
-        "n": 10,
-        "text": "I will also marry Ruth, the woman from the land of Moab. She was the wife of Mahlon. If she has a baby boy, he will inherit this field. The name of his family will not die, but will go on. Today you are the witnesses."
-      },
-      {
-        "n": 11,
-        "text": "All the elders and the people near the city gates said: We are witnesses to all of this. May the LORD make this woman, who is coming into your home, like Rachel and Leah. They had many children and made the people of Israel strong. May you become powerful in Ephrathah and famous in Bethlehem."
-      },
-      {
-        "n": 12,
-        "text": "May the LORD bless you with many children through Ruth. May your family become great like the family of Perez, the son Tamar bore for Judah."
-      },
-      {
-        "n": 13,
-        "text": "Boaz married Ruth. The LORD allowed Ruth to become pregnant, and she had a son."
-      },
-      {
-        "n": 14,
-        "text": "The women there said to Naomi: Praise the LORD. Today He has given you a family guardian. May his name be famous in Israel."
-      },
-      {
-        "n": 15,
-        "text": "We pray that he will make you happy and that he will help you and take care of you when you are old. Ruth is his mother and she loves you and she is better than 7 sons."
-      },
-      {
-        "n": 16,
-        "text": "Naomi took the child and laid him in her lap. She cared for him."
-      },
-      {
-        "n": 17,
-        "text": "The women who lived there said: Naomi has a son. The women said his name would be Obed. Obed was the father of Jesse, and Jesse was the father of King David."
-      },
-      {
-        "n": 18,
-        "text": "Here are the names of the family of Perez: Perez was the father of Hezron."
-      },
-      {
-        "n": 19,
-        "text": "Hezron was the father of Ram, and Ram was the father of Amminadab."
-      },
-      {
-        "n": 20,
-        "text": "Amminadab was the father of Nahshon, and Nahshon was the father of Salmon."
-      },
-      {
-        "n": 21,
-        "text": "Salmon was the father of Boaz, and Boaz was the father of Obed."
-      },
-      {
-        "n": 22,
-        "text": "Obed was the father of Jesse, and Jesse was the father of David."
-      }
-    ],
-    "sourceUrl": "https://kjvdeaf.com/ruth-chapter-4/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. Merged-verse numbering bugs (v2, v14, v17-22) have been fixed.",
-    "videos": []
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V18-22 keep the KJV's begat, explained as (became the father of).",
+    "sourceUrl": "https://kjvdeaf.com/ruth-chapter-4/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "Then Boaz went up to the gate, and sat him down there. And look, the kinsman (relative) of whom Boaz spoke came by, to whom he said: Ho, such a one (friend)! Turn aside, sit down here. And he turned aside, and sat down." },
+      { "n": 2, "text": "And Boaz took 10 men of the elders of the city, and said: Sit down here. And they sat down." },
+      { "n": 3, "text": "And Boaz said to the kinsman (relative): Naomi, that is come again out of the country of Moab, sells a parcel (piece) of land, which was our brother Elimelech's." },
+      { "n": 4, "text": "And I thought to advertise (tell) you, saying: Buy it before the inhabitants (people living here), and before the elders of my people. If you will redeem (buy back) it, redeem (buy back) it. But if you will not redeem (buy back) it, then tell me, so that I may know. For there is none to redeem (buy back) it beside you, and I am after you. And he said: I will redeem (buy back) it." },
+      { "n": 5, "text": "Then Boaz said: What day you buy the field of the hand of Naomi, you must buy it also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance (property)." },
+      { "n": 6, "text": "And the kinsman (relative) said: I cannot redeem (buy back) it for myself, lest (or else) I mar (ruin) my own inheritance (property). You redeem (buy back) my right to yourself, for I cannot redeem (buy back) it." },
+      { "n": 7, "text": "Now this was the manner (custom) in former time in Israel concerning redeeming (buying back) and concerning changing, to confirm all things: a man plucked off his shoe, and gave it to his neighbour. And this was a testimony (proof) in Israel." },
+      { "n": 8, "text": "Therefore the kinsman (relative) said to Boaz: Buy it for yourself. So he drew off his shoe." },
+      { "n": 9, "text": "And Boaz said to the elders, and to all the people: You are witnesses this day, that I have bought all that was Elimelech's, and all that was Chilion's and Mahlon's, of the hand of Naomi." },
+      { "n": 10, "text": "Moreover (also) Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance (property), so that the name of the dead be not cut off from among his brethren (brothers), and from the gate of his place. You are witnesses this day." },
+      { "n": 11, "text": "And all the people that were in the gate, and the elders, said: We are witnesses. The LORD make the woman that is come into your house like Rachel and like Leah, which two did build the house of Israel. And do worthily in Ephratah, and be famous in Bethlehem." },
+      { "n": 12, "text": "And let your house be like the house of Pharez, whom Tamar bare (gave birth to) to Judah, of the seed (children) which the LORD shall give you of this young woman." },
+      { "n": 13, "text": "So Boaz took Ruth, and she was his wife. And when he went in to her, the LORD gave her conception (made her pregnant), and she bare (gave birth to) a son." },
+      { "n": 14, "text": "And the women said to Naomi: Blessed be the LORD, which has not left you this day without a kinsman (redeemer), so that his name may be famous in Israel." },
+      { "n": 15, "text": "And he shall be to you a restorer of your life, and a nourisher (one who cares for you) of your old age. For your daughter in law, which loves you, which is better to you than 7 sons, has born him." },
+      { "n": 16, "text": "And Naomi took the child, and laid it in her bosom (lap), and became nurse (caretaker) to it." },
+      { "n": 17, "text": "And the women her neighbours gave it a name, saying: There is a son born to Naomi. And they called his name Obed. He is the father of Jesse, the father of David." },
+      { "n": 18, "text": "Now these are the generations (family line) of Pharez: Pharez begat (became the father of) Hezron," },
+      { "n": 19, "text": "And Hezron begat (became the father of) Ram, and Ram begat (became the father of) Amminadab," },
+      { "n": 20, "text": "And Amminadab begat (became the father of) Nahshon, and Nahshon begat (became the father of) Salmon," },
+      { "n": 21, "text": "And Salmon begat (became the father of) Boaz, and Boaz begat (became the father of) Obed," },
+      { "n": 22, "text": "And Obed begat (became the father of) Jesse, and Jesse begat (became the father of) David." }
+    ]
   }
 }
