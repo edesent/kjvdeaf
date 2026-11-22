@@ -265,6 +265,7 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - ways (roads) -- Mark 11:4; eventide (evening); morrow (next day); haply (perhaps); vessel (container) -- Mark 11:16; calling to remembrance (remembering); counted (believed)
   - hedge (fence); winefat (vat for grape juice); season (harvest time); shamefully handled (badly treated); wellbeloved (dearly loved); discreetly (wisely)
   - salutations (greetings); mites (tiny coins); abundance (extra) -- Mark 12:44; want (need); living (what she had to live on)
+  - published (preached) -- of the gospel; premeditate (plan it ahead); seduce (lead astray); foretold (told ahead of time); uttermost (farthest); porter (doorkeeper); cockcrowing (when the rooster crows)
   - begat (became the father of); begotten (become the father of) -- Hebrew yalad (Hiphil) / Greek gennao used of a father; "bare/bore" is the mother's side and "born" the child's side, so begat never means "was born"
   - Genesis words: firmament (sky); fowl (birds); cattle (farm animals); herb (plant); dominion (rule); countenance (face); slew / slay / slain (killed / kill / killed); dwelt / dwell (lived / live); till (work); conceived (became pregnant); beguiled (tricked); help meet (a fitting helper); knew (lay with) -- of husband and wife
 - **Genesis 3:15:** the woman's seed is written "His heel" (capitalized), because the verse points to Christ.
