@@ -249,6 +249,10 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - dwelling (home); fetters (chains for the feet); plucked asunder (pulled apart); adjure (beg) -- Mark 5:7; Legion (an army of thousands); gave leave (permission); choked (drowned)
   - befell (happened); pray (beg) -- Mark 5:17-18, 23; Decapolis (the Ten Cities); nothing bettered (not any better); fountain (flow); virtue (power) -- Mark 5:30
   - tumult (noise and confusion); wailed (cried loudly); ado (noisy fuss); astonishment (amazement)
+  - wrought (done) -- of mighty works; kin (relatives); folk (people); staff (walking stick); shod (wear) -- of sandals; abide (stay); spread abroad (everywhere)
+  - quarrel (grudge); observed (protected) -- Mark 6:20; convenient (good); lords (nobles); high captains (army officers); chief estates (leading men); sware (made a promise to God)
+  - haste (hurry); by and by (right now); reject (refuse); executioner (a man who kills prisoners); corpse (dead body); apart (away); leisure (free time)
+  - afoot (on foot); outwent (got there before); far spent (almost over); pennyworth (days' pay) -- Mark 6:37; companies (groups); ranks (rows); toiling (working hard); consider (understand)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
