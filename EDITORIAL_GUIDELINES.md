@@ -257,6 +257,9 @@ The KJV is the standard. Simplifying can change the words, but never what the ve
   - purging (cleaning out); meats (foods); covetousness (wanting what belongs to others); deceit (lying); lasciviousness (shameless sexual desire); evil eye (jealousy)
   - Syrophenician (from Phoenicia in Syria); impediment (problem); loosed (set free) -- of the tongue; plain (clearly)
   - divers (some) -- Mark 8:3; satisfy (fill); perceive (see) -- Mark 8:17; restored (healed) -- of sight
+  - fuller (cloth cleaner); wist (knew); set at nought (treated as nothing); saluted (greeted); dumb spirit (a spirit that keeps him from speaking); tears / tore (throws / threw) -- of a demon
+  - pines away (wastes away); wallowed (rolled around); of a child (since he was a child); ofttimes (often); foul (evil); rent him sore (shook him hard)
+  - disputed (argued); desires (wants); forbad / forbid (stopped / stop); lightly (quickly); on our part (side); saltness (salty taste)
 - **Names: keep the familiar form.** Where the KJV uses another form of the same person's name (Silvanus/Silas, Marcus/Mark, Lucas/Luke, Prisca/Priscilla, Timotheus/Timothy), use the familiar name Deaf readers know from the rest of the Bible. Spelling-only differences (e.g. Phygellus) follow the KJV.
 - **Still keep short sentences and clear pronouns.** Staying close to the KJV never cancels the Deaf-first rules: break long KJV sentences into short ones (aim for 8-14 words), and name the person instead of a pronoun whenever "he/him/they/it" could be unclear (see Pronoun clarity below).
 - **Source check for the New Testament:** Jack Moorman, *8,000 Differences Between the Textus Receptus and the Nestle-Aland NT Greek Texts* -- every reading must follow the Textus Receptus column.
