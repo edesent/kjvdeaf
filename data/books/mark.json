@@ -589,156 +589,45 @@
   "13": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'his' rendered gender-neutral in v15-16, and 'the Lord'/'the Son of Man' named explicitly in v20, v27 in place of bare pronouns. The parable of the watchful owner (v34-36) keeps its pronouns as a single, unambiguous character within the story.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. dropping \"and troubles\" in 13:8, \"neither do ye premeditate\" in 13:11, \"spoken of by Daniel the prophet\" in 13:14, and \"and pray\" in 13:33), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, with generic 'he/his' rendered gender-neutral in v13, v14-16. The parable of the watchful owner (v34-36) keeps its pronouns.",
     "verses": [
-      {
-        "n": 1,
-        "text": "As Jesus was leaving the temple, one of His disciples said to Him: Teacher, look! What huge stones! What wonderful buildings!"
-      },
-      {
-        "n": 2,
-        "text": "Jesus replied: Do you see all these great buildings? Not one stone here will be left on another. Every one will be thrown down."
-      },
-      {
-        "n": 3,
-        "text": "Later Jesus was sitting on the Mount of Olives, across from the temple. Peter, James, John, and Andrew asked Him in private:"
-      },
-      {
-        "n": 4,
-        "text": "Tell us, when will these things happen? And what will be the sign that they are all about to come true?"
-      },
-      {
-        "n": 5,
-        "text": "Jesus said to them: Be careful that no one fools you."
-      },
-      {
-        "n": 6,
-        "text": "Many will come using my name. They will say: I am the Christ. And they will fool many people."
-      },
-      {
-        "n": 7,
-        "text": "When you hear about wars and reports of wars, do not be afraid. These things must happen, but the end is still to come."
-      },
-      {
-        "n": 8,
-        "text": "Nation will fight against nation, and kingdom against kingdom. There will be earthquakes in many places, and there will be times with no food. These are only the beginning of the birth pains."
-      },
-      {
-        "n": 9,
-        "text": "Be on your guard. People will hand you over to the courts, and you will be beaten in the synagogues. You will have to stand before rulers and kings because of me, to tell them the truth."
-      },
-      {
-        "n": 10,
-        "text": "And the good news must first be preached to all nations."
-      },
-      {
-        "n": 11,
-        "text": "When they arrest you and put you on trial, do not worry ahead of time about what to say. Just say whatever you are given to say at that time, because it will not be you speaking, but the Holy Spirit."
-      },
-      {
-        "n": 12,
-        "text": "Brother will hand over brother to be killed, and a father will hand over his child. Children will turn against their parents and have them put to death."
-      },
-      {
-        "n": 13,
-        "text": "Everyone will hate you because of me. But the one who stands strong to the end will be saved."
-      },
-      {
-        "n": 14,
-        "text": "You will see the terrible thing that destroys standing where it should not be. (Let the reader understand.) When you see this, the people in Judea should run to the mountains."
-      },
-      {
-        "n": 15,
-        "text": "A person on the roof of a house should not go down or go inside to take anything out."
-      },
-      {
-        "n": 16,
-        "text": "A person in the field should not go back to get a coat."
-      },
-      {
-        "n": 17,
-        "text": "How hard it will be in those days for women who are pregnant or nursing babies!"
-      },
-      {
-        "n": 18,
-        "text": "Pray that this will not happen in winter."
-      },
-      {
-        "n": 19,
-        "text": "Those will be terrible days, worse than any since the beginning, when God made the world, and worse than any that will ever come again."
-      },
-      {
-        "n": 20,
-        "text": "If the Lord had not made those days shorter, no one would be saved. But for the sake of his chosen people, the Lord has made those days shorter."
-      },
-      {
-        "n": 21,
-        "text": "At that time, if anyone says to you: Look, here is the Christ! or, Look, there he is! Do not believe it."
-      },
-      {
-        "n": 22,
-        "text": "For false Christs and false prophets will appear. They will do signs and wonders to fool people, even God's chosen ones, if that were possible."
-      },
-      {
-        "n": 23,
-        "text": "So be on your guard. I have told you everything ahead of time."
-      },
-      {
-        "n": 24,
-        "text": "In those days, after that terrible time, the sun will become dark, and the moon will not give its light."
-      },
-      {
-        "n": 25,
-        "text": "The stars will fall from the sky, and the powers in the heavens will be shaken."
-      },
-      {
-        "n": 26,
-        "text": "Then people will see the Son of Man coming in the clouds with great power and glory."
-      },
-      {
-        "n": 27,
-        "text": "And the Son of Man will send His angels. They will gather His chosen people from every direction, from one end of the earth and sky to the other."
-      },
-      {
-        "n": 28,
-        "text": "Learn a lesson from the fig tree. When its branches become soft and the leaves begin to grow, you know that summer is near."
-      },
-      {
-        "n": 29,
-        "text": "In the same way, when you see these things happening, you know that the time is near, right at the door."
-      },
-      {
-        "n": 30,
-        "text": "I tell you the truth, the people living now will not all die before these things happen."
-      },
-      {
-        "n": 31,
-        "text": "Heaven and earth will pass away, but my words will never pass away."
-      },
-      {
-        "n": 32,
-        "text": "No one knows the day or the hour, not even the angels in heaven, not even the Son. Only the Father knows."
-      },
-      {
-        "n": 33,
-        "text": "Be on your guard! Stay awake! You do not know when the time will come."
-      },
-      {
-        "n": 34,
-        "text": "It is like a man who goes away on a trip. He leaves his house, puts his servants in charge, each with his own work, and tells the one at the door to keep watch."
-      },
-      {
-        "n": 35,
-        "text": "So keep watch. You do not know when the owner of the house will come back. It may be in the evening, at midnight, when the rooster crows, or at dawn."
-      },
-      {
-        "n": 36,
-        "text": "If he comes suddenly, do not let him find you sleeping."
-      },
-      {
-        "n": 37,
-        "text": "What I say to you, I say to everyone: Keep watch!"
-      }
+      { "n": 1, "text": "As Jesus went out of the temple, one of His disciples said to Him: Master (Teacher), see what kind of stones and what buildings are here!" },
+      { "n": 2, "text": "Jesus answering said to him: Do you see these great buildings? Not one stone will be left on another, that will not be thrown down." },
+      { "n": 3, "text": "As Jesus sat on the mount of Olives over against (across from) the temple, Peter and James and John and Andrew asked Him privately:" },
+      { "n": 4, "text": "Tell us, when will these things be? And what will be the sign when all these things will be fulfilled (come true)?" },
+      { "n": 5, "text": "Jesus answering them began to say: Take heed (be careful) that no one deceives (fools) you." },
+      { "n": 6, "text": "For many will come in My name, saying, I am Christ. And they will deceive (fool) many." },
+      { "n": 7, "text": "When you hear of wars and rumours (reports) of wars, do not be troubled. For such things must happen. But the end will not be yet." },
+      { "n": 8, "text": "For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in divers (many different) places, and there will be famines (times of no food) and troubles. These are the beginnings of sorrows (great pains)." },
+      { "n": 9, "text": "But take heed (be careful) to yourselves. For they will deliver you up (hand you over) to councils (courts). In the synagogues (meeting houses) you will be beaten. And you will be brought before rulers and kings for My sake, for a testimony (proof) against them." },
+      { "n": 10, "text": "And the gospel (good news) must first be published (preached) among all nations." },
+      { "n": 11, "text": "But when they lead you, and deliver you up (hand you over), take no thought (do not worry) beforehand what you will speak, and do not premeditate (plan it ahead). But whatever is given to you in that hour, speak that. For it is not you who speak, but the Holy Spirit." },
+      { "n": 12, "text": "Now the brother will betray (hand over) the brother to death, and the father the son. Children will rise up against their parents, and cause them to be put to death." },
+      { "n": 13, "text": "You will be hated by all men for My name's sake. But whoever endures (keeps on faithful) to the end, that person will be saved." },
+      { "n": 14, "text": "But when you see the abomination of desolation (the hateful thing that brings ruin), spoken of by Daniel the prophet, standing where it ought not (let whoever reads understand), then let those who are in Judaea flee (run away) to the mountains." },
+      { "n": 15, "text": "Let whoever is on the housetop not go down into the house, or enter in, to take anything out of their house." },
+      { "n": 16, "text": "Let whoever is in the field not turn back again to take up their garment (coat)." },
+      { "n": 17, "text": "But woe (great trouble) to those who are with child (pregnant), and to those who give suck (nurse babies) in those days!" },
+      { "n": 18, "text": "Pray that your flight (escape) is not in the winter." },
+      { "n": 19, "text": "For in those days there will be affliction (trouble), such as was not from the beginning of the creation which God created to this time, and never will be." },
+      { "n": 20, "text": "Unless the Lord had shortened those days, no flesh (person) would be saved. But for the elect's (chosen people's) sake, whom He has chosen, He has shortened the days." },
+      { "n": 21, "text": "Then if anyone says to you, Lo (look), here is Christ, or, Lo (look), He is there, do not believe it." },
+      { "n": 22, "text": "For false Christs and false prophets will rise. They will show signs and wonders, to seduce (lead astray), if it were possible, even the elect (chosen people)." },
+      { "n": 23, "text": "But take heed (be careful). Look, I have foretold (told ahead of time) you all things." },
+      { "n": 24, "text": "But in those days, after that tribulation (trouble), the sun will be darkened, and the moon will not give her light." },
+      { "n": 25, "text": "The stars of heaven will fall, and the powers that are in heaven will be shaken." },
+      { "n": 26, "text": "Then they will see the Son of Man coming in the clouds with great power and glory." },
+      { "n": 27, "text": "Then He will send His angels. They will gather together His elect (chosen people) from the four winds, from the uttermost (farthest) part of the earth to the uttermost (farthest) part of heaven." },
+      { "n": 28, "text": "Now learn a parable (story that teaches a lesson) of the fig tree. When her branch is still tender (soft), and puts out leaves, you know that summer is near." },
+      { "n": 29, "text": "In the same way, when you see these things come to pass (happen), know that it is nigh (near), even at the doors." },
+      { "n": 30, "text": "Truly I say to you: This generation will not pass, until all these things are done." },
+      { "n": 31, "text": "Heaven and earth will pass away, but My words will not pass away." },
+      { "n": 32, "text": "But of that day and that hour no one knows, no, not the angels who are in heaven, neither the Son, but the Father." },
+      { "n": 33, "text": "Take heed (be careful), watch and pray. For you do not know when the time is." },
+      { "n": 34, "text": "For the Son of Man is like a man taking a far journey. He left his house, and gave authority to his servants, and to every man his work, and commanded the porter (doorkeeper) to watch." },
+      { "n": 35, "text": "So watch. For you do not know when the master of the house comes: at evening, or at midnight, or at the cockcrowing (when the rooster crows), or in the morning." },
+      { "n": 36, "text": "Otherwise, coming suddenly, he may find you sleeping." },
+      { "n": 37, "text": "And what I say to you I say to all: Watch." }
     ]
   },
   "14": {
