@@ -1754,123 +1754,39 @@
   },
   "45": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Joseph could no longer stop himself from crying. Joseph told all the other people to go away, and only Joseph's brothers stayed with Joseph. Then Joseph told his brothers who Joseph was."
-      },
-      {
-        "n": 2,
-        "text": "Joseph cried so loudly that the Egyptian people heard him in Pharaoh's house."
-      },
-      {
-        "n": 3,
-        "text": "Joseph said to his brothers: I am your brother Joseph. Is Father still alive? But Joseph's brothers did not answer Joseph because they were afraid."
-      },
-      {
-        "n": 4,
-        "text": "And Joseph said to his brothers: Come here to me. I beg you, come here, and Joseph told the brothers: I am Joseph your brother. You sold me to merchants, and they brought me here to Egypt."
-      },
-      {
-        "n": 5,
-        "text": "Now do not feel bad. Don't be angry with yourselves for what you did. It was God's plan for me to come here. I am here to save people's lives."
-      },
-      {
-        "n": 6,
-        "text": "It is now the 2nd year that there has been a famine in the land. There will be a famine for another 5 years. There will be five more years without planting or harvest."
-      },
-      {
-        "n": 7,
-        "text": "So God sent me here ahead of you so that I can save your people in this country. God sent me so that I can save a lot of people."
-      },
-      {
-        "n": 8,
-        "text": "It was not you who sent me to Egypt. It was God. God chose me to tell Pharaoh what Pharaoh must do. I, Joseph, am also the chief of Pharaoh's house and the ruler of all the people in Egypt."
-      },
-      {
-        "n": 9,
-        "text": "Go to Father immediately and tell him his son Joseph says: God has made me ruler over all of Egypt. Father, you must come to me. Do not wait."
-      },
-      {
-        "n": 10,
-        "text": "You can stay in Goshen and be near me, you and your children and your grandchildren, your sheep, goats and cattle, and everything that belongs to you."
-      },
-      {
-        "n": 11,
-        "text": "I will take care of you during the next five years of famine. So, you and your family will not lose everything you own."
-      },
-      {
-        "n": 12,
-        "text": "Joseph said to his brothers: You and Benjamin can see that it is I, Joseph, speaking to you."
-      },
-      {
-        "n": 13,
-        "text": "Go and tell Father that I am an important man in Egypt. Tell him everything that you see here and hurry up. Bring Father to me."
-      },
-      {
-        "n": 14,
-        "text": "Joseph put his arms around his brother Benjamin's neck, and Joseph cried. Benjamin hugged Joseph, and Benjamin also cried."
-      },
-      {
-        "n": 15,
-        "text": "Joseph kissed all his brothers, and Joseph stood with the brothers, and they all cried. After that, his brothers talked with Joseph."
-      },
-      {
-        "n": 16,
-        "text": "Pharaoh learned that Joseph's brothers had come to Joseph. This news spread throughout Pharaoh's house. The news pleased Pharaoh and Pharaoh's servants."
-      },
-      {
-        "n": 17,
-        "text": "Pharaoh said to Joseph: Tell your brothers to put on their donkeys all the food they need and go back to the land of Canaan."
-      },
-      {
-        "n": 18,
-        "text": "Tell Joseph's brothers to bring Joseph's father and their families back here to me. I will give you the best land in Egypt to live on. And your family can eat the best food we have here"
-      },
-      {
-        "n": 19,
-        "text": "Joseph's brothers must take wagons from Egypt for their children and wives. Your father must also ride on a wagon and come here."
-      },
-      {
-        "n": 20,
-        "text": "They must not be sad about the things that they will leave in Canaan because they will get the best things here in Egypt."
-      },
-      {
-        "n": 21,
-        "text": "Jacob's sons did what Pharaoh said. Joseph gave them wagons as Pharaoh said and also food for their journey"
-      },
-      {
-        "n": 22,
-        "text": "Joseph gave each brother a suit of beautiful clothes. But to Benjamin he gave five suits of beautiful clothes and 300 pieces of silver"
-      },
-      {
-        "n": 23,
-        "text": "Joseph also sent gifts to his father. Joseph sent ten donkeys with bags full of many good things from Egypt. Joseph also sent ten female donkeys loaded with grain, bread, and other food for his father on his trip back."
-      },
-      {
-        "n": 24,
-        "text": "Joseph sent his brothers back to Canaan and Joseph told his brothers: Do not argue or fight on your way back"
-      },
-      {
-        "n": 25,
-        "text": "They went from Egypt, and they came to their father Jacob in Canaan."
-      },
-      {
-        "n": 26,
-        "text": "Joseph's brothers told their father that Joseph was still alive and that Joseph was the ruler over all of Egypt. Jacob did not know what to think. At first Jacob didn't believe the brothers."
-      },
-      {
-        "n": 27,
-        "text": "Jacob's sons told their father everything that Joseph had said. When Jacob saw the wagons that Joseph had sent him to ride on, he became very happy"
-      },
-      {
-        "n": 28,
-        "text": "And Jacob said: I am so happy. My son Joseph is still alive. I want to go and see him before I die."
-      }
+      { "n": 1, "text": "Then Joseph could not refrain (hold back) himself before all them that stood by him. And he cried: Make every man go out from me. And there stood no man with him, while Joseph made himself known to his brethren (brothers)." },
+      { "n": 2, "text": "And Joseph wept aloud. And the Egyptians and the house of Pharaoh heard." },
+      { "n": 3, "text": "And Joseph said to his brethren (brothers): I am Joseph. Does my father yet live? And his brethren (brothers) could not answer him, for they were troubled at his presence." },
+      { "n": 4, "text": "And Joseph said to his brethren (brothers): Come near to me, I pray you. And they came near. And he said: I am Joseph your brother, whom you sold into Egypt." },
+      { "n": 5, "text": "Now then do not be grieved (sad), nor angry with yourselves, that you sold me here. For God did send me before you to preserve (save) life." },
+      { "n": 6, "text": "For these 2 years the famine (time of no food) has been in the land. And yet there are 5 years, in which there shall be neither earing (plowing) nor harvest." },
+      { "n": 7, "text": "And God sent me before you to preserve you a posterity (a family line) in the earth, and to save your lives by a great deliverance (rescue)." },
+      { "n": 8, "text": "So now it was not you that sent me here, but God. And He has made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt." },
+      { "n": 9, "text": "Hurry, and go up to my father, and say to him: Your son Joseph says this: God has made me lord of all Egypt. Come down to me. Do not tarry (stay)." },
+      { "n": 10, "text": "And you shall dwell (live) in the land of Goshen, and you shall be near to me, you, and your children, and your children's children, and your flocks, and your herds, and all that you have." },
+      { "n": 11, "text": "And there I will nourish (feed) you, for yet there are 5 years of famine (time of no food), so that you, and your household, and all that you have, do not come to poverty." },
+      { "n": 12, "text": "And look, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaks to you." },
+      { "n": 13, "text": "And you shall tell my father of all my glory in Egypt, and of all that you have seen. And you shall hurry and bring down my father here." },
+      { "n": 14, "text": "And Joseph fell on his brother Benjamin's neck, and wept. And Benjamin wept on his neck." },
+      { "n": 15, "text": "Also Joseph kissed all his brethren (brothers), and wept on them. And after that his brethren (brothers) talked with him." },
+      { "n": 16, "text": "And the fame (news) of it was heard in Pharaoh's house, saying: Joseph's brethren (brothers) have come. And it pleased Pharaoh well, and his servants." },
+      { "n": 17, "text": "And Pharaoh said to Joseph: Say to your brethren (brothers): Do this: lade (load) your beasts, and go, get to the land of Canaan." },
+      { "n": 18, "text": "And take your father and your households, and come to me. And I will give you the good of the land of Egypt, and you shall eat the fat (best part) of the land." },
+      { "n": 19, "text": "Now you are commanded, do this: take wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come." },
+      { "n": 20, "text": "Also regard not (do not worry about) your stuff, for the good of all the land of Egypt is yours." },
+      { "n": 21, "text": "And the children of Israel did so. And Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision (food) for the way." },
+      { "n": 22, "text": "To all of them Joseph gave each man changes of raiment (clothes). But to Benjamin he gave 300 pieces of silver, and 5 changes of raiment (clothes)." },
+      { "n": 23, "text": "And to his father he sent in this way: 10 asses (donkeys) laden (loaded) with the good things of Egypt, and 10 she asses (female donkeys) laden (loaded) with corn (grain) and bread and meat (food) for his father by the way." },
+      { "n": 24, "text": "So Joseph sent his brethren (brothers) away, and they departed. And he said to them: See that you do not fall out (argue) by the way." },
+      { "n": 25, "text": "And they went up out of Egypt, and came into the land of Canaan to Jacob their father," },
+      { "n": 26, "text": "And told him, saying: Joseph is yet alive, and he is governor over all the land of Egypt. And Jacob's heart fainted (went weak), for he did not believe them." },
+      { "n": 27, "text": "And they told him all the words of Joseph, which he had said to them. And when Jacob saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived (came back to life)." },
+      { "n": 28, "text": "And Israel said: It is enough. Joseph my son is yet alive. I will go and see him before I die." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genises-chapter-45/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V6 keeps the KJV's earing (plowing). V8 keeps the KJV's a father to Pharaoh.",
     "videos": []
   },
   "46": {
