@@ -165,137 +165,41 @@
   },
   "8": {
     "verses": [
-      {
-        "n": 1,
-        "text": "The LORD said to Moses: Go to Pharaoh and say: The LORD says, Let my people go, so they can worship me."
-      },
-      {
-        "n": 2,
-        "text": "If you, Pharaoh, refuse to let them go, I will punish your whole country with frogs."
-      },
-      {
-        "n": 3,
-        "text": "The Nile River will swarm with frogs. Frogs will hop into your palace, bedroom, and bed. They will fill your officials' homes and your people's homes. Frogs will even jump into your ovens and bread pans!"
-      },
-      {
-        "n": 4,
-        "text": "The frogs will jump on you, on your people, and on all your officials."
-      },
-      {
-        "n": 5,
-        "text": "The LORD told Moses: Tell Aaron to raise his stick. Hold it over the rivers, streams, and ponds. Make frogs cover the land of Egypt!"
-      },
-      {
-        "n": 6,
-        "text": "Aaron stretched out his hand over the waters of Egypt, and the frogs came up and covered the whole land."
-      },
-      {
-        "n": 7,
-        "text": "The magicians used their secret magic to copy Aaron. More frogs climbed up all over Egypt!"
-      },
-      {
-        "n": 8,
-        "text": "Then Pharaoh called for Moses and Aaron. He said: Beg the LORD to take the frogs away from me and my people. Then I will let your people go to offer sacrifices to the LORD."
-      },
-      {
-        "n": 9,
-        "text": "Moses said to Pharaoh: You may set the time. Tell me when you want me to pray for you, your officials, and your people, so that the frogs will leave you and your houses, and stay only in the river."
-      },
-      {
-        "n": 10,
-        "text": "Pharaoh said: Tomorrow. Moses said: It will happen just as you say. Then you will know that there is no one like the LORD our God."
-      },
-      {
-        "n": 11,
-        "text": "The frogs will leave you, your houses, your officials, and your people. They will stay only in the river."
-      },
-      {
-        "n": 12,
-        "text": "Moses and Aaron left Pharaoh, and Moses cried out to the LORD about the frogs He had brought against Pharaoh."
-      },
-      {
-        "n": 13,
-        "text": "The LORD did what Moses asked. The frogs in the houses, the yards, and the fields all died."
-      },
-      {
-        "n": 14,
-        "text": "The Egyptians shoveled the rotting frogs into giant piles, and the whole land smelled terrible."
-      },
-      {
-        "n": 15,
-        "text": "But when Pharaoh saw that the trouble was over, he made his own heart stubborn again. He would not listen to Moses and Aaron, just as the LORD had said."
-      },
-      {
-        "n": 16,
-        "text": "Then the LORD said to Moses: Tell Aaron to stretch out his walking stick and strike the dust on the ground. The dust will turn into gnats through the whole land of Egypt."
-      },
-      {
-        "n": 17,
-        "text": "Aaron and Moses did this. Aaron stretched out his hand with his walking stick and struck the dust of the earth. The dust became gnats on people and on animals. All the dust in Egypt turned into gnats."
-      },
-      {
-        "n": 18,
-        "text": "The magicians tried to copy Aaron with their secret magic, but they could not make gnats. Gnats covered people and animals everywhere!"
-      },
-      {
-        "n": 19,
-        "text": "The magicians said to Pharaoh: This is the finger of God! But Pharaoh's heart stayed stubborn. He would not listen to Moses and Aaron, just as the LORD had said."
-      },
-      {
-        "n": 20,
-        "text": "The LORD said to Moses: Get up early in the morning and stand in front of Pharaoh when he goes out to the water. Say to him: The LORD says, Let my people go, so they can worship me."
-      },
-      {
-        "n": 21,
-        "text": "If you will not let my people go, I will send large swarms of flies on you, your officials, your people, and your houses. The houses of the Egyptians will be full of flies, and even the ground will be covered with them."
-      },
-      {
-        "n": 22,
-        "text": "But that day I will treat the land of Goshen differently. My people live there, and no flies will be found in that land. Then you will know that I, the LORD, am here in the middle of the land."
-      },
-      {
-        "n": 23,
-        "text": "I will make a clear difference between my people and your people. This sign will happen tomorrow."
-      },
-      {
-        "n": 24,
-        "text": "The LORD did this. Thick swarms of flies poured into Pharaoh's palace, into the houses of his officials, and into all the land of Egypt. The whole land was ruined because of the flies."
-      },
-      {
-        "n": 25,
-        "text": "Pharaoh called for Moses and Aaron. He said: Go and offer sacrifices to your God here in this land."
-      },
-      {
-        "n": 26,
-        "text": "Moses said: That would not be right. The Egyptian people worship cattle as sacred gods. If we sacrifice bulls in front of their eyes, the Egyptians will become furious and throw heavy stones to kill us!"
-      },
-      {
-        "n": 27,
-        "text": "We must travel three days into the desert and offer sacrifices to the LORD our God, just as He commands us."
-      },
-      {
-        "n": 28,
-        "text": "Pharaoh said: I will let you go and offer sacrifices to the LORD your God in the desert. But do not go too far away. Now pray for me."
-      },
-      {
-        "n": 29,
-        "text": "Moses said: As soon as I leave you, I will pray to the LORD. Tomorrow the flies will leave Pharaoh, his officials, and his people. But Pharaoh must not trick us again by refusing to let the people go and offer sacrifices to the LORD."
-      },
-      {
-        "n": 30,
-        "text": "Moses left Pharaoh and prayed to the LORD."
-      },
-      {
-        "n": 31,
-        "text": "The LORD did what Moses asked. He took away the swarms of flies from Pharaoh, his officials, and his people. Not one fly was left."
-      },
-      {
-        "n": 32,
-        "text": "But Pharaoh made his heart stubborn again this time too, and he would not let the people go."
-      }
+      { "n": 1, "text": "And the LORD spoke to Moses: Go to Pharaoh, and say to him: This is what the LORD says: Let My people go, so that they may serve Me." },
+      { "n": 2, "text": "And if you refuse to let them go, look, I will smite (strike) all your borders (land) with frogs." },
+      { "n": 3, "text": "And the river shall bring forth (out) frogs abundantly (in great numbers). The frogs shall go up and come into your house, and into your bedchamber (bedroom), and upon your bed, and into the house of your servants, and upon your people, and into your ovens, and into your kneadingtroughs (bread bowls)." },
+      { "n": 4, "text": "And the frogs shall come up both on you, and upon your people, and upon all your servants." },
+      { "n": 5, "text": "And the LORD spoke to Moses: Say to Aaron: Stretch forth (out) your hand with your rod (staff) over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt." },
+      { "n": 6, "text": "And Aaron stretched out his hand over the waters of Egypt. And the frogs came up, and covered the land of Egypt." },
+      { "n": 7, "text": "And the magicians did so with their enchantments (secret magic), and brought up frogs upon the land of Egypt." },
+      { "n": 8, "text": "Then Pharaoh called for Moses and Aaron, and said: Intreat (pray to) the LORD, that He may take away the frogs from me, and from my people. And I will let the people go, so that they may do sacrifice to the LORD." },
+      { "n": 9, "text": "And Moses said to Pharaoh: Glory over me (you choose the time). When shall I intreat (pray) for you, and for your servants, and for your people, to destroy the frogs from you and your houses, so that they may remain in the river only?" },
+      { "n": 10, "text": "And Pharaoh said: To morrow (tomorrow). And Moses said: Be it according to your word, so that you may know that there is none like the LORD our God." },
+      { "n": 11, "text": "And the frogs shall depart (go away) from you, and from your houses, and from your servants, and from your people. They shall remain in the river only." },
+      { "n": 12, "text": "And Moses and Aaron went out from Pharaoh. And Moses cried to the LORD because of the frogs which the LORD had brought against Pharaoh." },
+      { "n": 13, "text": "And the LORD did according to the word of Moses. And the frogs died out of the houses, out of the villages, and out of the fields." },
+      { "n": 14, "text": "And they gathered the frogs together upon heaps (in piles). And the land stank." },
+      { "n": 15, "text": "But when Pharaoh saw that there was respite (a break), he hardened his heart (made himself stubborn), and hearkened (listened) not to them, as the LORD had said." },
+      { "n": 16, "text": "And the LORD said to Moses: Say to Aaron: Stretch out your rod (staff), and smite (strike) the dust of the land, so that it may become lice throughout all the land of Egypt." },
+      { "n": 17, "text": "And they did so. For Aaron stretched out his hand with his rod (staff), and smote (struck) the dust of the earth, and it became lice in man, and in beast (animal). All the dust of the land became lice throughout all the land of Egypt." },
+      { "n": 18, "text": "And the magicians did so with their enchantments (secret magic) to bring forth (out) lice, but they could not. So there were lice upon man, and upon beast (animal)." },
+      { "n": 19, "text": "Then the magicians said to Pharaoh: This is the finger of God (the power of God). And Pharaoh's heart was hardened (stubborn), and he hearkened (listened) not to them, as the LORD had said." },
+      { "n": 20, "text": "And the LORD said to Moses: Rise up early in the morning, and stand before Pharaoh. Lo (look), he comes forth (out) to the water. And say to him: This is what the LORD says: Let My people go, so that they may serve Me." },
+      { "n": 21, "text": "Else (otherwise), if you will not let My people go, look, I will send swarms of flies upon you, and upon your servants, and upon your people, and into your houses. And the houses of the Egyptians shall be full of swarms of flies, and also the ground on which they are." },
+      { "n": 22, "text": "And I will sever (set apart) in that day the land of Goshen, in which My people dwell (live), so that no swarms of flies shall be there. This is so that you may know that I am the LORD in the middle of the earth." },
+      { "n": 23, "text": "And I will put a division (difference) between My people and your people. To morrow (tomorrow) this sign shall be." },
+      { "n": 24, "text": "And the LORD did so. And there came a grievous (very heavy) swarm of flies into the house of Pharaoh, and into his servants' houses, and into all the land of Egypt. The land was corrupted (ruined) by reason of (because of) the swarm of flies." },
+      { "n": 25, "text": "And Pharaoh called for Moses and for Aaron, and said: Go, sacrifice to your God in the land." },
+      { "n": 26, "text": "And Moses said: It is not meet (right) to do so. For we shall sacrifice the abomination (a thing hated) of the Egyptians to the LORD our God. Lo (look), shall we sacrifice the abomination (a thing hated) of the Egyptians before their eyes, and will they not stone us?" },
+      { "n": 27, "text": "We will go 3 days' journey into the wilderness (desert), and sacrifice to the LORD our God, as He shall command us." },
+      { "n": 28, "text": "And Pharaoh said: I will let you go, so that you may sacrifice to the LORD your God in the wilderness (desert). Only you shall not go very far away. Intreat (pray) for me." },
+      { "n": 29, "text": "And Moses said: Look, I go out from you, and I will intreat (pray to) the LORD that the swarms of flies may depart (go away) from Pharaoh, from his servants, and from his people, to morrow (tomorrow). But let not Pharaoh deal deceitfully (lie) any more in not letting the people go to sacrifice to the LORD." },
+      { "n": 30, "text": "And Moses went out from Pharaoh, and intreated (prayed to) the LORD." },
+      { "n": 31, "text": "And the LORD did according to the word of Moses. And the LORD removed the swarms of flies from Pharaoh, from his servants, and from his people. There remained not one." },
+      { "n": 32, "text": "And Pharaoh hardened his heart (made himself stubborn) at this time also. Neither would he let the people go." }
     ],
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, reviewed for English-ASL clarity. Covers the second, third, and fourth plagues on Egypt: frogs, gnats, and flies, and Pharaoh's repeated pattern of hardening his own heart after each relief. Written with explicit nouns opening every verse, active voice, short sentences, no contractions, and plain vocabulary throughout (secret tricks for enchantments, walking stick for rod, stubborn for hardened heart). All pronouns referring to the LORD are capitalized per this site's standard."
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that added things the KJV does not say, e.g. rotting frogs shoveled into piles in v14 and Egyptians worshipping cattle in v26, and changed lice to gnats), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V16-18 keep the KJV's lice. V26 keeps the KJV's abomination of the Egyptians."
   }
 }
