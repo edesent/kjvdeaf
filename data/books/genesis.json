@@ -184,397 +184,172 @@
   },
   "6": {
     "verses": [
-      {
-        "n": 1,
-        "text": "The number of people on earth continued to increase, and these people had daughters."
-      },
-      {
-        "n": 2,
-        "text": "Some of the angels saw that these daughters were beautiful. They married the daughters they wanted."
-      },
-      {
-        "n": 3,
-        "text": "Then the LORD said: My Spirit will not struggle with humans forever, because humans are flesh. Humans will live only 120 years."
-      },
-      {
-        "n": 4,
-        "text": "In that time there were giants on earth. The giants were the children of the angels who had married the people's daughters. The giants were very strong soldiers, and everyone knew about them."
-      },
-      {
-        "n": 5,
-        "text": "The LORD saw that the people on the earth were very evil. The LORD saw that people thought only about evil things all the time."
-      },
-      {
-        "n": 6,
-        "text": "The LORD was sorry that the LORD had made people on the earth. It made the LORD very sad."
-      },
-      {
-        "n": 7,
-        "text": "So the LORD said: I will destroy all the people I created on the earth. I will destroy every person and every animal and everything that crawls on the earth. And I will destroy all the birds in the air, because I am sorry that I have made them."
-      },
-      {
-        "n": 8,
-        "text": "But Noah pleased the LORD."
-      },
-      {
-        "n": 9,
-        "text": "This is the story of Noah and his family. Noah was a good man who did what was right. Noah was the only person of his time who had no fault. Noah walked with God."
-      },
-      {
-        "n": 10,
-        "text": "Noah had three sons: Shem, Ham, and Japheth."
-      },
-      {
-        "n": 11,
-        "text": "The earth was full of evil in God's sight, and the earth was filled with violence."
-      },
-      {
-        "n": 12,
-        "text": "God looked at the earth and saw that it was full of evil, because all people on the earth had lived evil lives."
-      },
-      {
-        "n": 13,
-        "text": "God said to Noah: The end of all living things has come. I have decided to destroy them, because the earth is filled with violence because of them. I will destroy them along with the earth."
-      },
-      {
-        "n": 14,
-        "text": "God told Noah: Use gopher wood to build an ark. You must build rooms in the ark. Put tar over the wood, inside and outside."
-      },
-      {
-        "n": 15,
-        "text": "This is the size I want you to make the ark: 300 cubits long, 50 cubits wide, and 30 cubits high. A cubit is about 1.5 feet. So the ark will be about 450 feet long, 75 feet wide and 45 feet high."
-      },
-      {
-        "n": 16,
-        "text": "Make a window in the ark, one cubit below the roof. Put a door in the side of the ark. Make three floors in the ark: a bottom floor, a middle floor, and a top floor."
-      },
-      {
-        "n": 17,
-        "text": "Listen: I am going to bring a great flood of water on the earth. I will destroy every living thing that has the breath of life. Everything on the earth will die."
-      },
-      {
-        "n": 18,
-        "text": "I will make My agreement with you. You, your wife, your sons, and your sons' wives will all go into the ark."
-      },
-      {
-        "n": 19,
-        "text": "Also bring two of every living thing into the ark with you. Bring a male and a female of each kind, so they can stay alive with you."
-      },
-      {
-        "n": 20,
-        "text": "Two of every kind of bird, farm animal, and animal that crawls on the ground will come to you. You must keep them alive."
-      },
-      {
-        "n": 21,
-        "text": "Also take every kind of food and store it. It will be food for you and for the animals."
-      },
-      {
-        "n": 22,
-        "text": "Noah did everything exactly as God had commanded."
-      }
+      { "n": 1, "text": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born to them," },
+      { "n": 2, "text": "That the sons of God (angels) saw the daughters of men, that they were fair (beautiful). And the sons of God (angels) took them as wives, of all which they chose." },
+      { "n": 3, "text": "And the LORD said: My Spirit shall not always strive (struggle) with man, for man also is flesh. Yet man's days shall be 120 years." },
+      { "n": 4, "text": "There were giants in the earth in those days, and also after that. The sons of God came in to the daughters of men, and the daughters of men bore children to them. The same children became mighty men which were of old, men of renown (fame)." },
+      { "n": 5, "text": "And God saw that the wickedness of man was great in the earth. And God saw that every imagination of the thoughts of man's heart was only evil continually (all the time)." },
+      { "n": 6, "text": "And it repented the LORD (the LORD was sorry) that He had made man on the earth, and it grieved the LORD at His heart." },
+      { "n": 7, "text": "And the LORD said: I will destroy man whom I have created from the face of the earth: both man, and beast, and the creeping thing, and the fowls (birds) of the air. For it repents Me (I am sorry) that I have made them." },
+      { "n": 8, "text": "But Noah found grace in the eyes of the LORD." },
+      { "n": 9, "text": "These are the generations (family history) of Noah. Noah was a just man (a good and fair man) and perfect (blameless) in his generations (among the people of his time), and Noah walked with God." },
+      { "n": 10, "text": "And Noah begat (became the father of) 3 sons: Shem, Ham, and Japheth." },
+      { "n": 11, "text": "The earth also was corrupt before God, and the earth was filled with violence." },
+      { "n": 12, "text": "And God looked on the earth, and look, it was corrupt. For all flesh (all people) had corrupted their way on the earth." },
+      { "n": 13, "text": "And God said to Noah: The end of all flesh is come before Me. For the earth is filled with violence through them. And look, I will destroy them with the earth." },
+      { "n": 14, "text": "Make for yourself an ark (big boat) of gopher wood. You shall make rooms in the ark (big boat), and shall pitch (seal) it inside and outside with pitch (tar)." },
+      { "n": 15, "text": "And this is the fashion (way) which you shall make it: the length of the ark (big boat) shall be 300 cubits (about 450 feet), the breadth (width) of it 50 cubits (about 75 feet), and the height of it 30 cubits (about 45 feet)." },
+      { "n": 16, "text": "A window you shall make to the ark (big boat), and you shall finish it within a cubit (about 18 inches) of the top. And the door of the ark (big boat) you shall set in its side. With lower, second, and third stories (floors) you shall make it." },
+      { "n": 17, "text": "And look, I, even I, bring a flood of waters on the earth, to destroy all flesh which has the breath of life, from under heaven. And every thing that is in the earth shall die." },
+      { "n": 18, "text": "But with you I will establish My agreement. And you shall come into the ark (big boat): you, and your sons, and your wife, and your sons' wives with you." },
+      { "n": 19, "text": "And of every living thing of all flesh, 2 of every sort you shall bring into the ark (big boat), to keep them alive with you. They shall be male and female." },
+      { "n": 20, "text": "Of fowls (birds) after their kind, and of cattle (farm animals) after their kind, of every creeping thing of the earth after its kind, 2 of every sort shall come to you, to keep them alive." },
+      { "n": 21, "text": "And take to yourself of all food that is eaten, and you shall gather it to you. And it shall be food for you, and for them." },
+      { "n": 22, "text": "So Noah did. According to all that God commanded Noah, so Noah did." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genesis-chapter-6/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Cubits are given a feet equivalent (1 cubit = about 18 inches).",
     "videos": []
   },
   "7": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V2-3 keep the KJV's by sevens without deciding whether it means 7 animals or 7 pairs, because the Hebrew leaves it open.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Then the LORD said to Noah: Go into the ark, you and all your family. I have seen that you are a good man among the people of this time."
-      },
-      {
-        "n": 2,
-        "text": "Take with you 7 pairs of every kind of clean animal, male and female. Take 1 pair of every kind of animal that is not clean, male and female."
-      },
-      {
-        "n": 3,
-        "text": "Also take 7 pairs of every kind of bird, male and female. Do this to keep them alive on the earth."
-      },
-      {
-        "n": 4,
-        "text": "In 7 days I will send rain on the earth. It will rain for 40 days and 40 nights. I will wipe from the earth every living thing I have made."
-      },
-      {
-        "n": 5,
-        "text": "Noah did everything the LORD commanded him."
-      },
-      {
-        "n": 6,
-        "text": "Noah was 600 years old when the flood waters came on the earth."
-      },
-      {
-        "n": 7,
-        "text": "Noah went into the ark to escape the flood waters. His sons, his wife, and his sons' wives went in with him."
-      },
-      {
-        "n": 8,
-        "text": "Animals of every kind came to Noah. There were clean animals and animals that are not clean. There were birds and everything that crawls on the ground."
-      },
-      {
-        "n": 9,
-        "text": "They went into the ark with Noah, 2 by 2, male and female. They went in just as God had commanded Noah."
-      },
-      {
-        "n": 10,
-        "text": "After 7 days, the flood waters came on the earth."
-      },
-      {
-        "n": 11,
-        "text": "It was the 600th year of Noah's life. On the 17th day of the 2nd month, all the underground waters burst open. The windows of the sky were opened."
-      },
-      {
-        "n": 12,
-        "text": "Rain fell on the earth for 40 days and 40 nights."
-      },
-      {
-        "n": 13,
-        "text": "On that same day, Noah went into the ark. His sons Shem, Ham, and Japheth went in with him. Noah's wife and the 3 wives of his sons went in too."
-      },
-      {
-        "n": 14,
-        "text": "Every kind of animal was with them. There were wild animals, farm animals, animals that crawl on the ground, and birds of every kind."
-      },
-      {
-        "n": 15,
-        "text": "They came to Noah and went into the ark, 2 by 2. Every living thing that breathes came."
-      },
-      {
-        "n": 16,
-        "text": "The animals that went in were male and female of every kind, just as God had commanded Noah. Then the LORD shut Noah in."
-      },
-      {
-        "n": 17,
-        "text": "The flood continued for 40 days on the earth. The waters rose and lifted the ark high above the ground."
-      },
-      {
-        "n": 18,
-        "text": "The waters rose higher and higher, and the ark floated on top of the water."
-      },
-      {
-        "n": 19,
-        "text": "The waters rose so high that they covered even the highest mountains everywhere under the sky."
-      },
-      {
-        "n": 20,
-        "text": "The water rose about 22 feet above the mountains. The mountains were covered completely."
-      },
-      {
-        "n": 21,
-        "text": "Every living thing on the earth died. This included the birds, the farm animals, the wild animals, every creature, and all the people."
-      },
-      {
-        "n": 22,
-        "text": "Everything on dry land that had the breath of life in it died."
-      },
-      {
-        "n": 23,
-        "text": "God wiped out every living thing on the earth. That included people, animals, crawling creatures and birds. Only Noah was left, and those with him in the ark."
-      },
-      {
-        "n": 24,
-        "text": "The waters covered the earth for 150 days."
-      }
+      { "n": 1, "text": "And the LORD said to Noah: Come, you and all your house (family), into the ark (big boat). For I have seen you righteous (right with God) before Me in this generation (the people living now)." },
+      { "n": 2, "text": "Of every clean beast you shall take to you by sevens, the male and his female. And of beasts that are not clean by two, the male and his female." },
+      { "n": 3, "text": "Of fowls (birds) also of the air by sevens, the male and the female, to keep seed (their young) alive on the face of all the earth." },
+      { "n": 4, "text": "For in 7 more days I will cause it to rain on the earth 40 days and 40 nights. And every living substance (thing) that I have made I will destroy from off the face of the earth." },
+      { "n": 5, "text": "And Noah did according to all that the LORD commanded him." },
+      { "n": 6, "text": "And Noah was 600 years old when the flood of waters was on the earth." },
+      { "n": 7, "text": "And Noah went into the ark (big boat), and his sons, and his wife, and his sons' wives with him, because of the waters of the flood." },
+      { "n": 8, "text": "Of clean beasts, and of beasts that are not clean, and of fowls (birds), and of every thing that creeps on the earth," },
+      { "n": 9, "text": "There went in 2 and 2 to Noah into the ark (big boat), the male and the female, as God had commanded Noah." },
+      { "n": 10, "text": "And it came to pass after 7 days that the waters of the flood were on the earth." },
+      { "n": 11, "text": "In the 600th year of Noah's life, in the 2nd month, the 17th day of the month, on that same day all the fountains of the great deep (the deep waters) were broken up. And the windows of heaven were opened." },
+      { "n": 12, "text": "And the rain was on the earth 40 days and 40 nights." },
+      { "n": 13, "text": "On that very same day Noah entered into the ark (big boat), and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the 3 wives of his sons with them." },
+      { "n": 14, "text": "They went in, and every beast after its kind, and all the cattle (farm animals) after their kind, and every creeping thing that creeps on the earth after its kind, and every fowl (birds) after its kind, every bird of every sort." },
+      { "n": 15, "text": "And they went in to Noah into the ark (big boat), 2 and 2 of all flesh, which has the breath of life." },
+      { "n": 16, "text": "And those that went in, went in male and female of all flesh, as God had commanded Noah. And the LORD shut Noah in." },
+      { "n": 17, "text": "And the flood was 40 days on the earth. And the waters increased, and bore up the ark (big boat), and it was lifted up above the earth." },
+      { "n": 18, "text": "And the waters prevailed (grew strong), and were increased greatly on the earth. And the ark (big boat) went on the face of the waters." },
+      { "n": 19, "text": "And the waters prevailed (grew strong) exceedingly (very much) on the earth. And all the high hills that were under the whole heaven were covered." },
+      { "n": 20, "text": "The waters prevailed (grew strong) 15 cubits (about 22 feet) upward, and the mountains were covered." },
+      { "n": 21, "text": "And all flesh died that moved on the earth, both of fowl (birds), and of cattle (farm animals), and of beast, and of every creeping thing that creeps on the earth, and every man." },
+      { "n": 22, "text": "All in whose nostrils was the breath of life, of all that was on the dry land, died." },
+      { "n": 23, "text": "And every living substance (thing) was destroyed which was on the face of the ground: both man, and cattle (farm animals), and the creeping things, and the fowl (birds) of the heaven. And they were destroyed from the earth. And only Noah remained alive, and those that were with him in the ark (big boat)." },
+      { "n": 24, "text": "And the waters prevailed (grew strong) on the earth 150 days." }
     ]
   },
   "8": {
     "verses": [
-      { "n": 1, "text": "God remembered Noah and all the wild animals and farm animals with him in the ark. God sent a wind over the earth, and the water began to go down." },
-      { "n": 2, "text": "The underground waters and the windows of the sky were closed. The rain stopped falling from the sky." },
-      { "n": 3, "text": "The water went down from the earth little by little. After 150 days, the water was much lower." },
-      { "n": 4, "text": "On the 17th day of the 7th month, the ark came to rest on the mountains of Ararat." },
-      { "n": 5, "text": "The water kept going down until the 10th month. On the 1st day of the 10th month, the tops of the mountains could be seen." },
-      { "n": 6, "text": "After 40 more days, Noah opened the window he had made in the ark." },
-      { "n": 7, "text": "Noah sent out a raven. The raven flew back and forth until the water dried up from the earth." },
-      { "n": 8, "text": "Then Noah sent out a dove, to see if the water had gone down from the ground." },
-      { "n": 9, "text": "The dove found no place to land, because water covered all the earth. The dove came back to Noah in the ark. Noah reached out his hand and took the dove. He brought it back into the ark." },
-      { "n": 10, "text": "Noah waited 7 more days. Then Noah sent the dove out of the ark again." },
-      { "n": 11, "text": "In the evening the dove came back to Noah. The dove had a fresh olive leaf in its mouth. So Noah knew that the water had gone down from the earth." },
-      { "n": 12, "text": "Noah waited 7 more days. Then Noah sent the dove out again. This time the dove did not come back." },
-      { "n": 13, "text": "It was Noah's 601st year, the 1st day of the 1st month. The water had dried up from the earth. Noah removed the cover of the ark and looked. The ground was dry." },
-      { "n": 14, "text": "By the 27th day of the 2nd month, the earth was completely dry." },
-      { "n": 15, "text": "Then God spoke to Noah." },
-      { "n": 16, "text": "God said: Go out of the ark, you and your wife, your sons, and your sons' wives." },
-      { "n": 17, "text": "Bring out every living thing that is with you. Bring out the birds, the animals and everything that crawls on the ground. Let them have many young ones on the earth. Let them grow in number and fill the earth." },
-      { "n": 18, "text": "So Noah went out of the ark with his sons, his wife, and his sons' wives." },
-      { "n": 19, "text": "Every animal, every creature that crawls, and every bird went out of the ark. Each kind went out with its own kind." },
-      { "n": 20, "text": "Then Noah built an altar for the LORD. Noah took some of every clean animal and every clean bird. Noah offered them as burnt offerings on the altar." },
-      { "n": 21, "text": "The LORD smelled the sweet smell. The LORD said in His heart: I will never again curse the ground because of humans. This is so even though humans think evil from the time they are young. I will never again destroy every living thing, as I have done." },
-      { "n": 22, "text": "As long as the earth lasts, there will always be a time to plant and a time to harvest. There will always be cold and heat, summer and winter, day and night." }
+      { "n": 1, "text": "And God remembered Noah, and every living thing, and all the cattle (farm animals) that were with Noah in the ark (big boat). And God made a wind to pass over the earth, and the waters asswaged (went down)." },
+      { "n": 2, "text": "The fountains also of the deep (the deep waters) and the windows of heaven were stopped. And the rain from heaven was restrained (held back)." },
+      { "n": 3, "text": "And the waters returned from off the earth continually (all the time). And after the end of the 150 days the waters were abated (gone down)." },
+      { "n": 4, "text": "And the ark (big boat) rested in the 7th month, on the 17th day of the month, on the mountains of Ararat." },
+      { "n": 5, "text": "And the waters decreased continually (all the time) until the 10th month. In the 10th month, on the 1st day of the month, the tops of the mountains were seen." },
+      { "n": 6, "text": "And it came to pass at the end of 40 days that Noah opened the window of the ark (big boat) which he had made." },
+      { "n": 7, "text": "And Noah sent out a raven, which went out to and fro (back and forth), until the waters were dried up from off the earth." },
+      { "n": 8, "text": "Also Noah sent out a dove from him, to see if the waters were abated (gone down) from off the face of the ground." },
+      { "n": 9, "text": "But the dove found no rest for the sole of her foot, and she returned to Noah into the ark (big boat), for the waters were on the face of the whole earth. Then Noah put out his hand, and took the dove, and pulled her in to him into the ark (big boat)." },
+      { "n": 10, "text": "And Noah stayed (waited) another 7 days. And again Noah sent out the dove out of the ark (big boat)." },
+      { "n": 11, "text": "And the dove came in to Noah in the evening. And look, in her mouth was an olive leaf plucked off. So Noah knew that the waters were abated (gone down) from off the earth." },
+      { "n": 12, "text": "And Noah stayed (waited) another 7 days, and sent out the dove. And the dove did not return to him any more." },
+      { "n": 13, "text": "And it came to pass in the 601st year, in the 1st month, the 1st day of the month, the waters were dried up from off the earth. And Noah removed the covering of the ark (big boat), and looked. And look, the face of the ground was dry." },
+      { "n": 14, "text": "And in the 2nd month, on the 27th day of the month, the earth was dried." },
+      { "n": 15, "text": "And God spoke to Noah, saying:" },
+      { "n": 16, "text": "Go out of the ark (big boat): you, and your wife, and your sons, and your sons' wives with you." },
+      { "n": 17, "text": "Bring out with you every living thing that is with you, of all flesh, both of fowl (birds), and of cattle (farm animals), and of every creeping thing that creeps on the earth. So they may breed abundantly (in great numbers) in the earth, and be fruitful (have many young), and multiply on the earth." },
+      { "n": 18, "text": "And Noah went out, and his sons, and his wife, and his sons' wives with him." },
+      { "n": 19, "text": "Every beast, every creeping thing, and every fowl (birds), and whatever creeps on the earth, after their kinds, went out of the ark (big boat)." },
+      { "n": 20, "text": "And Noah built an altar to the LORD. And Noah took of every clean beast, and of every clean fowl (birds), and offered burnt offerings on the altar." },
+      { "n": 21, "text": "And the LORD smelled a sweet savour (smell). And the LORD said in His heart: I will not again curse the ground any more for man's sake, for the imagination of man's heart is evil from his youth. And I will not again smite (strike down) any more every thing living, as I have done." },
+      { "n": 22, "text": "While the earth remains, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease (stop)." }
     ],
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "sourceUrl": "https://kjvdeaf.com/old-testament/genesis/genesis-chapter-08/",
     "status": "published",
     "videos": []
   },
   "9": {
     "verses": [
-      {
-        "n": 1,
-        "text": "God blessed Noah and his sons. God said to them: Have many children. Fill the earth again with your people."
-      },
-      {
-        "n": 2,
-        "text": "Every animal on earth and every bird in the air will be afraid of you. So will every animal that crawls and every fish in the sea. All of them will be under your control."
-      },
-      {
-        "n": 3,
-        "text": "In the past, I gave you the green plants to eat. Now every animal will also be food for you. I give you everything on earth. It is yours."
-      },
-      {
-        "n": 4,
-        "text": "But you must not eat meat that still has blood in it. Blood is like the life of someone."
-      },
-      {
-        "n": 5,
-        "text": "I will demand an answer for the blood of your lives. I will demand it from every animal. I will also demand a human life from every other human, even from a brother."
-      },
-      {
-        "n": 6,
-        "text": "Whoever sheds human blood, that person's blood will be shed by other humans, because God made humans in His own image."
-      },
-      {
-        "n": 7,
-        "text": "Noah, you must have many children and their children must have more children. The earth must be full of people."
-      },
-      {
-        "n": 8,
-        "text": "God said to Noah and his sons:"
-      },
-      {
-        "n": 9,
-        "text": "I, God, now make My agreement with you and with your people who will live after you."
-      },
-      {
-        "n": 10,
-        "text": "I am also making this agreement with all the birds and the animals that were in the ark with you."
-      },
-      {
-        "n": 11,
-        "text": "This is My agreement with you: Never again will a flood destroy all life on the earth."
-      },
-      {
-        "n": 12,
-        "text": "God said to Noah: I will give you a sign of the agreement I have made. It is with you and with all the people and animals. I will remember this forever."
-      },
-      {
-        "n": 13,
-        "text": "I have put My rainbow in the sky. The rainbow is the sign of this agreement between Me and the earth."
-      },
-      {
-        "n": 14,
-        "text": "When I bring clouds over the earth, you will see the rainbow in the clouds."
-      },
-      {
-        "n": 15,
-        "text": "When I see this rainbow, I will remember My agreement. It is between Me, you and every living thing on the earth. This rainbow says that a flood will never again destroy all life on the earth."
-      },
-      {
-        "n": 16,
-        "text": "When I look and see the rainbow in the clouds, I will remember the agreement that lasts forever. It is between Me and every living thing on the earth."
-      },
-      {
-        "n": 17,
-        "text": "So God said to Noah: This rainbow is the sign of the agreement that I made with all living things on earth."
-      },
-      {
-        "n": 18,
-        "text": "Noah's sons came out of the ark with Noah. Their names were Shem, Ham, and Japheth. (Ham was the father of Canaan.)"
-      },
-      {
-        "n": 19,
-        "text": "These 3 men were Noah's sons. All the people on earth came from these 3 sons."
-      },
-      {
-        "n": 20,
-        "text": "Noah became a farmer and planted a vineyard."
-      },
-      {
-        "n": 21,
-        "text": "One day Noah drank too much wine and became drunk. Noah lay uncovered inside his tent."
-      },
-      {
-        "n": 22,
-        "text": "Ham, the father of Canaan, saw that his father was naked and told his brothers who were outside the tent."
-      },
-      {
-        "n": 23,
-        "text": "Shem and Japheth took a robe and put it across their shoulders. They walked backward into the tent. Then they covered their father without looking at him."
-      },
-      {
-        "n": 24,
-        "text": "So Noah awoke from his wine and knew what his younger son had done to him."
-      },
-      {
-        "n": 25,
-        "text": "Noah said: May there be a curse on Canaan. May Canaan be a servant to his brothers."
-      },
-      {
-        "n": 26,
-        "text": "Noah also said: Praise the LORD, the God of Shem. Canaan will be Shem's servant."
-      },
-      {
-        "n": 27,
-        "text": "I pray that God will give Japheth more and more fields and land. Japheth will live in Shem's tents. Canaan will be Japheth's servant."
-      },
-      {
-        "n": 28,
-        "text": "After the flood Noah lived 350 years."
-      },
-      {
-        "n": 29,
-        "text": "Noah lived a total of 950 years, and Noah died."
-      }
+      { "n": 1, "text": "And God blessed Noah and his sons, and said to them: Be fruitful (have many children), and multiply, and replenish (fill) the earth." },
+      { "n": 2, "text": "And the fear of you and the dread (great fear) of you shall be on every beast of the earth, and on every fowl (birds) of the air, on all that moves on the earth, and on all the fishes of the sea. Into your hand they are delivered." },
+      { "n": 3, "text": "Every moving thing that lives shall be meat (food) for you. Even as the green herb (plant), I have given you all things." },
+      { "n": 4, "text": "But flesh with its life, which is its blood, you shall not eat." },
+      { "n": 5, "text": "And surely your blood of your lives I will require (demand an answer for). At the hand of every beast I will require (demand an answer for) it, and at the hand of man. At the hand of every man's brother I will require (demand an answer for) the life of man." },
+      { "n": 6, "text": "Whoever sheds man's blood, by man shall the killer's blood be shed. For in the image of God, God made man." },
+      { "n": 7, "text": "And you, be fruitful (have many children), and multiply. Bring out abundantly (in great numbers) in the earth, and multiply in it." },
+      { "n": 8, "text": "And God spoke to Noah, and to his sons with him, saying:" },
+      { "n": 9, "text": "And I, look, I establish My agreement with you, and with your seed (children) after you," },
+      { "n": 10, "text": "And with every living creature that is with you, of the fowl (birds), of the cattle (farm animals), and of every beast of the earth with you, from all that go out of the ark (big boat), to every beast of the earth." },
+      { "n": 11, "text": "And I will establish My agreement with you. All flesh shall not be cut off any more by the waters of a flood. And there shall not any more be a flood to destroy the earth." },
+      { "n": 12, "text": "And God said: This is the token (sign) of the agreement which I make between Me and you and every living creature that is with you, for perpetual (never-ending) generations (all time to come)." },
+      { "n": 13, "text": "I set My bow (rainbow) in the cloud, and it shall be for a token (sign) of an agreement between Me and the earth." },
+      { "n": 14, "text": "And it shall come to pass, when I bring a cloud over the earth, that the bow (rainbow) shall be seen in the cloud." },
+      { "n": 15, "text": "And I will remember My agreement, which is between Me and you and every living creature of all flesh. And the waters shall no more become a flood to destroy all flesh." },
+      { "n": 16, "text": "And the bow (rainbow) shall be in the cloud. And I will look on it, so that I may remember the everlasting agreement between God and every living creature of all flesh that is on the earth." },
+      { "n": 17, "text": "And God said to Noah: This is the token (sign) of the agreement which I have established between Me and all flesh that is on the earth." },
+      { "n": 18, "text": "And the sons of Noah, that went out of the ark (big boat), were Shem, and Ham, and Japheth. And Ham is the father of Canaan." },
+      { "n": 19, "text": "These are the 3 sons of Noah. And from them the whole earth was overspread (filled with people)." },
+      { "n": 20, "text": "And Noah began to be a husbandman (farmer), and Noah planted a vineyard (grape farm)." },
+      { "n": 21, "text": "And Noah drank of the wine, and was drunk. And Noah was uncovered inside his tent." },
+      { "n": 22, "text": "And Ham, the father of Canaan, saw the nakedness of his father, and told his 2 brethren (brothers) outside." },
+      { "n": 23, "text": "And Shem and Japheth took a garment (clothes), and laid it on both their shoulders, and went backward, and covered the nakedness of their father. And their faces were backward, and they did not see their father's nakedness." },
+      { "n": 24, "text": "And Noah awoke from his wine, and knew what his younger son had done to him." },
+      { "n": 25, "text": "And Noah said: Cursed be Canaan. A servant of servants shall Canaan be to his brethren (brothers)." },
+      { "n": 26, "text": "And Noah said: Blessed be the LORD God of Shem. And Canaan shall be Shem's servant." },
+      { "n": 27, "text": "God shall enlarge Japheth, and Japheth shall dwell (live) in the tents of Shem. And Canaan shall be his servant." },
+      { "n": 28, "text": "And Noah lived after the flood 350 years." },
+      { "n": 29, "text": "And all the days of Noah were 950 years. And Noah died." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genesis-chapter-9/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "videos": []
   },
   "10": {
     "verses": [
-      { "n": 1, "text": "This is the story of the sons of Noah: Shem, Ham, and Japheth. After the flood, these 3 men had sons." },
-      { "n": 2, "text": "The sons of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras." },
-      { "n": 3, "text": "The sons of Gomer were Ashkenaz, Riphath, and Togarmah." },
-      { "n": 4, "text": "The sons of Javan were Elishah, Tarshish, Kittim, and Dodanim." },
-      { "n": 5, "text": "The people of the lands near the sea came from these sons. They spread out into their own lands. Each family had its own language and its own nation." },
-      { "n": 6, "text": "The sons of Ham were Cush, Mizraim, Phut, and Canaan." },
-      { "n": 7, "text": "The sons of Cush were Seba, Havilah, Sabtah, Raamah, and Sabtecha. The sons of Raamah were Sheba and Dedan." },
-      { "n": 8, "text": "Cush also had a son named Nimrod. Nimrod became the first great and powerful ruler on the earth." },
-      { "n": 9, "text": "Nimrod was a mighty hunter before the LORD. That is why people say: Like Nimrod, a mighty hunter before the LORD." },
-      { "n": 10, "text": "Nimrod's kingdom began with the cities of Babel, Erech, Accad, and Calneh. These cities were in the land of Shinar." },
-      { "n": 11, "text": "From that land Asshur went out and built the cities of Nineveh, Rehoboth, and Calah." },
-      { "n": 12, "text": "Asshur also built Resen, between Nineveh and Calah. Resen was a great city." },
-      { "n": 13, "text": "Mizraim was the father of the Ludim, the Anamim, the Lehabim, and the Naphtuhim." },
-      { "n": 14, "text": "Mizraim was also the father of the Pathrusim, the Casluhim, and the Caphtorim. The Philistines came from the Casluhim." },
-      { "n": 15, "text": "Canaan was the father of Sidon, his oldest son, and of Heth." },
-      { "n": 16, "text": "Canaan was also the father of the Jebusites, the Amorites, and the Girgashites." },
-      { "n": 17, "text": "Canaan was also the father of the Hivites, the Arkites, and the Sinites." },
-      { "n": 18, "text": "Canaan was also the father of the Arvadites, the Zemarites, and the Hamathites. Later the families of the Canaanites spread out." },
-      { "n": 19, "text": "The land of the Canaanites reached from Sidon toward Gerar, as far as Gaza. It also reached toward Sodom, Gomorrah, Admah, and Zeboim, as far as Lasha." },
-      { "n": 20, "text": "These are the sons of Ham. They are listed by their families, languages, lands, and nations." },
-      { "n": 21, "text": "Shem also had sons. Shem was the father of all the sons of Eber. Shem was also the older brother of Japheth." },
-      { "n": 22, "text": "The sons of Shem were Elam, Asshur, Arphaxad, Lud, and Aram." },
-      { "n": 23, "text": "The sons of Aram were Uz, Hul, Gether, and Mash." },
-      { "n": 24, "text": "Arphaxad was the father of Salah. Salah was the father of Eber." },
-      { "n": 25, "text": "Eber had 2 sons. One was named Peleg, because the earth was divided in his time. His brother was named Joktan." },
-      { "n": 26, "text": "Joktan was the father of Almodad, Sheleph, Hazarmaveth, and Jerah." },
-      { "n": 27, "text": "Joktan was also the father of Hadoram, Uzal, and Diklah." },
-      { "n": 28, "text": "Joktan was also the father of Obal, Abimael, and Sheba." },
-      { "n": 29, "text": "Joktan was also the father of Ophir, Havilah, and Jobab. All these were the sons of Joktan." },
-      { "n": 30, "text": "Their land reached from Mesha to Sephar, in the mountain land of the east." },
-      { "n": 31, "text": "These are the sons of Shem. They are listed by their families, languages, lands, and nations." },
-      { "n": 32, "text": "These are the families of the sons of Noah. They are listed by their family lines and nations. After the flood, the nations of the earth spread out from these families." }
+      { "n": 1, "text": "Now these are the generations (family history) of the sons of Noah: Shem, Ham, and Japheth. And to them sons were born after the flood." },
+      { "n": 2, "text": "The sons of Japheth: Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras." },
+      { "n": 3, "text": "And the sons of Gomer: Ashkenaz, and Riphath, and Togarmah." },
+      { "n": 4, "text": "And the sons of Javan: Elishah, and Tarshish, Kittim, and Dodanim." },
+      { "n": 5, "text": "By these the isles (coastlands) of the Gentiles (the nations) were divided in their lands, every one after his tongue (language), after their families, in their nations." },
+      { "n": 6, "text": "And the sons of Ham: Cush, and Mizraim, and Phut, and Canaan." },
+      { "n": 7, "text": "And the sons of Cush: Seba, and Havilah, and Sabtah, and Raamah, and Sabtechah. And the sons of Raamah: Sheba, and Dedan." },
+      { "n": 8, "text": "And Cush begat (became the father of) Nimrod. Nimrod began to be a mighty one in the earth." },
+      { "n": 9, "text": "Nimrod was a mighty hunter before the LORD. So it is said: Even as Nimrod the mighty hunter before the LORD." },
+      { "n": 10, "text": "And the beginning of Nimrod's kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar." },
+      { "n": 11, "text": "Out of that land went Asshur, and built Nineveh, and the city Rehoboth, and Calah," },
+      { "n": 12, "text": "And Resen between Nineveh and Calah. The same is a great city." },
+      { "n": 13, "text": "And Mizraim begat (became the father of) Ludim, and Anamim, and Lehabim, and Naphtuhim," },
+      { "n": 14, "text": "And Pathrusim, and Casluhim (out of whom came Philistim), and Caphtorim." },
+      { "n": 15, "text": "And Canaan begat (became the father of) Sidon his firstborn, and Heth," },
+      { "n": 16, "text": "And the Jebusite, and the Amorite, and the Girgasite," },
+      { "n": 17, "text": "And the Hivite, and the Arkite, and the Sinite," },
+      { "n": 18, "text": "And the Arvadite, and the Zemarite, and the Hamathite. And afterward the families of the Canaanites were spread abroad." },
+      { "n": 19, "text": "And the border of the Canaanites was from Sidon, as you come to Gerar, to Gaza. As you go, it was to Sodom, and Gomorrah, and Admah, and Zeboim, even to Lasha." },
+      { "n": 20, "text": "These are the sons of Ham, after their families, after their tongues (languages), in their countries, and in their nations." },
+      { "n": 21, "text": "To Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to Shem children were born." },
+      { "n": 22, "text": "The children of Shem: Elam, and Asshur, and Arphaxad, and Lud, and Aram." },
+      { "n": 23, "text": "And the children of Aram: Uz, and Hul, and Gether, and Mash." },
+      { "n": 24, "text": "And Arphaxad begat (became the father of) Salah. And Salah begat (became the father of) Eber." },
+      { "n": 25, "text": "And to Eber were born 2 sons. The name of one was Peleg, for in his days the earth was divided. And his brother's name was Joktan." },
+      { "n": 26, "text": "And Joktan begat (became the father of) Almodad, and Sheleph, and Hazarmaveth, and Jerah," },
+      { "n": 27, "text": "And Hadoram, and Uzal, and Diklah," },
+      { "n": 28, "text": "And Obal, and Abimael, and Sheba," },
+      { "n": 29, "text": "And Ophir, and Havilah, and Jobab. All these were the sons of Joktan." },
+      { "n": 30, "text": "And their dwelling (home) was from Mesha, as you go to Sephar, a mount of the east." },
+      { "n": 31, "text": "These are the sons of Shem, after their families, after their tongues (languages), in their lands, after their nations." },
+      { "n": 32, "text": "These are the families of the sons of Noah, after their generations (family lines), in their nations. And by these the nations were divided in the earth after the flood." }
     ],
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V5 explains Gentiles as (the nations), because there were no Jews yet. V21 keeps the KJV's the brother of Japheth the elder as written.",
     "sourceUrl": "https://kjvdeaf.com/old-testament/genesis/genesis-chapter-10/",
     "status": "published",
     "videos": []
