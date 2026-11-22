@@ -1,99 +1,33 @@
 {
   "3": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Moses’ father in law was named Jethro. Jethro was a priest of Midian. Moses took care of Jethro’s sheep. Moses led the sheep to the backside of the desert. He went to a mountain called Horeb, the mountain of God."
-      },
-      {
-        "n": 2,
-        "text": "On that mountain, Moses saw the angel of the Lord in a burning bush. Moses saw that the bush was on fire, but it was not being destroyed."
-      },
-      {
-        "n": 3,
-        "text": "Moses said to himself: I will go closer to the bush and see why the bush could continue burning without being burned up."
-      },
-      {
-        "n": 4,
-        "text": "When the Lord saw Moses coming to look, God called to Moses from inside the bush and said: Moses, Moses. Moses said: Here I am."
-      },
-      {
-        "n": 5,
-        "text": "The Lord said to Moses: Do not come closer. Take off your shoes because the place that you are standing on is holy ground."
-      },
-      {
-        "n": 6,
-        "text": "I am the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob. Moses covered his face because Moses was afraid to look at God."
-      },
-      {
-        "n": 7,
-        "text": "Then the Lord said to Moses: I have surely seen the troubles my people have suffered in Egypt. I have heard their cry because of their slave drivers, and I know their suffering."
-      },
-      {
-        "n": 8,
-        "text": "I have come down to rescue my people from the Egyptians, and to bring them up out of that land into a good and spacious land, a land flowing with milk and honey — the home of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites."
-      },
-      {
-        "n": 9,
-        "text": "The cry of the Israelites has reached me, and I have seen how harshly the Egyptians treat them."
-      },
-      {
-        "n": 10,
-        "text": "So now, go. I am sending you to Pharaoh, to bring my people, the Israelites, out of Egypt."
-      },
-      {
-        "n": 11,
-        "text": "Moses said to God: I am not an important man. I can not go to Pharaoh and bring the children of Israel out of Egypt."
-      },
-      {
-        "n": 12,
-        "text": "God answered Moses: I will be with you. And this will be the sign that I have sent you: when you have brought the people out of Egypt, you will worship God on this mountain."
-      },
-      {
-        "n": 13,
-        "text": "Then Moses said to God: When I go to the Israelites and tell them, The God of your ancestors has sent me to you, they will ask, What is his name? What should I tell them?"
-      },
-      {
-        "n": 14,
-        "text": "Then God said to Moses: My name is I Am Who I Am. You must tell the Israelites: I Am has sent me to you."
-      },
-      {
-        "n": 15,
-        "text": "God also said to Moses: You must tell the Israelites: The Lord, the God of your ancestors — the God of Abraham, the God of Isaac, and the God of Jacob — has sent me to you. This will always be my name. It is how I want the Israelites to remember me from now on."
-      },
-      {
-        "n": 16,
-        "text": "Go and gather the elders of Israel together and tell them: The Lord, the God of your ancestors — the God of Abraham, Isaac, and Jacob — has appeared to me and said: I have surely visited you and have seen what has been done to you in Egypt."
-      },
-      {
-        "n": 17,
-        "text": "God said: I have decided to bring you up out of the troubles you are suffering in Egypt, into the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites — a land flowing with milk and honey."
-      },
-      {
-        "n": 18,
-        "text": "The leaders of Israel will listen to you, Moses. Then you, Moses and the leaders must go to the king of Egypt and tell him: The Lord, the God of the Hebrews, has talked to us. We beg you, King, let us go into the desert 3 days journey. We want to sacrifice offerings to the Lord our God."
-      },
-      {
-        "n": 19,
-        "text": "I know that the king of Egypt will not let you go unless a mighty hand forces him."
-      },
-      {
-        "n": 20,
-        "text": "So I will stretch out my hand and strike Egypt with all the wonders I will do there. After that, the king will let you go."
-      },
-      {
-        "n": 21,
-        "text": "I will make the people of Egypt friendly towards children of Israel, and the people of Egypt will give the children of Israel many gifts when you go."
-      },
-      {
-        "n": 22,
-        "text": "Every woman of Israel will ask her Egyptian neighbor, and any woman living in her house, for silver jewelry, gold jewelry, and fine clothing. Then you will put these things on your sons and daughters. In this way you will plunder the Egyptians."
-      }
+      { "n": 1, "text": "Now Moses kept the flock of Jethro his father in law, the priest of Midian. And Moses led the flock to the backside of the desert, and came to the mountain of God, to Horeb." },
+      { "n": 2, "text": "And the angel of the LORD appeared to Moses in a flame of fire out of the middle of a bush. And Moses looked, and look, the bush burned with fire, and the bush was not consumed (burned up)." },
+      { "n": 3, "text": "And Moses said: I will now turn aside, and see this great sight, why the bush is not burnt." },
+      { "n": 4, "text": "And when the LORD saw that Moses turned aside to see, God called to Moses out of the middle of the bush, and said: Moses, Moses. And Moses said: Here am I." },
+      { "n": 5, "text": "And God said: Do not draw near here. Put off your shoes from off your feet, for the place on which you stand is holy ground." },
+      { "n": 6, "text": "Moreover (also) God said: I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face, for Moses was afraid to look upon God." },
+      { "n": 7, "text": "And the LORD said: I have surely seen the affliction (suffering) of My people which are in Egypt, and have heard their cry by reason of (because of) their taskmasters (slave bosses). For I know their sorrows." },
+      { "n": 8, "text": "And I am come down to deliver (rescue) them out of the hand of the Egyptians, and to bring them up out of that land to a good land and a large, to a land flowing with milk and honey. It is the place of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites." },
+      { "n": 9, "text": "Now therefore, look, the cry of the children of Israel is come to Me. And I have also seen the oppression (cruel treatment) with which the Egyptians oppress (treat cruelly) them." },
+      { "n": 10, "text": "Come now therefore, and I will send you to Pharaoh, so that you may bring forth (out) My people the children of Israel out of Egypt." },
+      { "n": 11, "text": "And Moses said to God: Who am I, that I should go to Pharaoh, and that I should bring forth (out) the children of Israel out of Egypt?" },
+      { "n": 12, "text": "And God said: Certainly I will be with you. And this shall be a token (sign) to you, that I have sent you: When you have brought forth (out) the people out of Egypt, you shall serve God upon this mountain." },
+      { "n": 13, "text": "And Moses said to God: Look, when I come to the children of Israel, I shall say to them: The God of your fathers has sent me to you. And they shall say to me: What is His name? What shall I say to them?" },
+      { "n": 14, "text": "And God said to Moses: I AM THAT I AM. And God said: This is what you shall say to the children of Israel: I AM has sent me to you." },
+      { "n": 15, "text": "And God said moreover (also) to Moses: This is what you shall say to the children of Israel: The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you. This is My name for ever, and this is My memorial (the way I am remembered) to all generations." },
+      { "n": 16, "text": "Go, and gather the elders of Israel together, and say to them: The LORD God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared to me, saying: I have surely visited (looked after) you, and seen what is done to you in Egypt." },
+      { "n": 17, "text": "And I have said: I will bring you up out of the affliction (suffering) of Egypt to the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, to a land flowing with milk and honey." },
+      { "n": 18, "text": "And they shall hearken (listen) to your voice. And you shall come, you and the elders of Israel, to the king of Egypt, and you shall say to him: The LORD God of the Hebrews has met with us. And now let us go, we beseech (beg) you, 3 days' journey into the wilderness (desert), so that we may sacrifice to the LORD our God." },
+      { "n": 19, "text": "And I am sure that the king of Egypt will not let you go, no, not by a mighty hand." },
+      { "n": 20, "text": "And I will stretch out My hand, and smite (strike) Egypt with all My wonders which I will do in the middle of it. And after that Pharaoh will let you go." },
+      { "n": 21, "text": "And I will give this people favour in the sight of the Egyptians. And it shall come to pass that, when you go, you shall not go empty." },
+      { "n": 22, "text": "But every woman shall borrow (ask) of her neighbour, and of the woman who sojourns (stays) in her house, jewels of silver, and jewels of gold, and raiment (clothing). And you shall put them upon your sons, and upon your daughters. And you shall spoil (take the riches of) the Egyptians." }
     ],
     "sourceUrl": "https://kjvdeaf.com/2022/10/08/exodus-chapter-3/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed modern Bibles, e.g. \"I Am Who I Am\" in v14 and \"ancestors\" for fathers), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V14 keeps the KJV's I AM THAT I AM. V22 explains borrow as (ask), the meaning of the Hebrew word.",
     "videos": []
   },
   "14": {
