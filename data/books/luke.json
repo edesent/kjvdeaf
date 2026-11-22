@@ -924,180 +924,51 @@
   "18": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers the parable of the persistent widow and the unjust judge, the parable of the Pharisee and the tax collector, blessing the little children, the rich ruler, the third prediction of Jesus' death, and healing a blind beggar near Jericho.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Then Jesus told His disciples a teaching story to show them that they should always pray and not give up."
-      },
-      {
-        "n": 2,
-        "text": "He said: In a certain town there was a judge who neither feared God nor cared what people thought."
-      },
-      {
-        "n": 3,
-        "text": "And there was a widow in that town who kept coming to him with the plea: Grant me justice against my adversary."
-      },
-      {
-        "n": 4,
-        "text": "For some time he refused. But finally he said to himself: Even though I do not fear God or care what people think,"
-      },
-      {
-        "n": 5,
-        "text": "Yet because this widow keeps bothering me, I will see that she gets justice, so that she will not eventually wear me out with her coming."
-      },
-      {
-        "n": 6,
-        "text": "And the Lord said: Listen to what the unjust judge says."
-      },
-      {
-        "n": 7,
-        "text": "And will not God bring about justice for His chosen ones, who cry out to Him day and night? Will He keep putting them off?"
-      },
-      {
-        "n": 8,
-        "text": "I tell you, He will see that they get justice, and quickly. However, when the Son of Man comes, will He find faith on the earth?"
-      },
-      {
-        "n": 9,
-        "text": "To some who were confident of their own righteousness and looked down on everyone else, Jesus told this teaching story:"
-      },
-      {
-        "n": 10,
-        "text": "Two men went up to the temple to pray, one a Pharisee and the other a tax collector."
-      },
-      {
-        "n": 11,
-        "text": "The Pharisee stood by himself and prayed: God, I thank you that I am not like other people: robbers, evildoers, adulterers, or even like this tax collector."
-      },
-      {
-        "n": 12,
-        "text": "I fast twice a week and give a tenth of all I get."
-      },
-      {
-        "n": 13,
-        "text": "But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said: God, have mercy on me, a sinner."
-      },
-      {
-        "n": 14,
-        "text": "I tell you that this man, rather than the other, went home justified before God. For all those who exalt themselves will be humbled, and those who humble themselves will be exalted."
-      },
-      {
-        "n": 15,
-        "text": "People were also bringing babies to Jesus for Him to place His hands on them. When the disciples saw this, they rebuked them."
-      },
-      {
-        "n": 16,
-        "text": "But Jesus called the children to Him. He said: Let the little children come to me. Do not hinder them. The kingdom of God belongs to such as these."
-      },
-      {
-        "n": 17,
-        "text": "Truly I tell you, anyone who will not receive the kingdom of God like a little child will never enter it."
-      },
-      {
-        "n": 18,
-        "text": "A certain ruler asked Him: Good teacher, what must I do to inherit eternal life?"
-      },
-      {
-        "n": 19,
-        "text": "Why do you call me good? Jesus answered. No one is good except God alone."
-      },
-      {
-        "n": 20,
-        "text": "You know the commandments: Do not commit adultery. Do not murder. Do not steal. Do not give false testimony. Honor your father and mother."
-      },
-      {
-        "n": 21,
-        "text": "All these I have kept since I was a boy, he said."
-      },
-      {
-        "n": 22,
-        "text": "When Jesus heard this, He said to him: You still lack one thing. Sell everything you have and give to the poor, and you will have treasure in heaven. Then come, follow me."
-      },
-      {
-        "n": 23,
-        "text": "When he heard this, he became very sad, because he was very wealthy."
-      },
-      {
-        "n": 24,
-        "text": "Jesus looked at him and said: How hard it is for the rich to enter the kingdom of God!"
-      },
-      {
-        "n": 25,
-        "text": "Indeed, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God."
-      },
-      {
-        "n": 26,
-        "text": "Those who heard this asked: Who then can be saved?"
-      },
-      {
-        "n": 27,
-        "text": "Jesus replied: What is impossible with man is possible with God."
-      },
-      {
-        "n": 28,
-        "text": "Peter said to Him: We have left all we had to follow You!"
-      },
-      {
-        "n": 29,
-        "text": "Jesus said to them: I tell you the truth. Suppose someone has left home, wife, brothers, sisters, parents, or children. That person did it for the sake of the kingdom of God."
-      },
-      {
-        "n": 30,
-        "text": "That person will certainly receive many times as much in this present time. And in the coming age, that person will receive eternal life."
-      },
-      {
-        "n": 31,
-        "text": "Jesus took the Twelve aside and told them: We are going up to Jerusalem. Everything that is written by the prophets about the Son of Man will be fulfilled."
-      },
-      {
-        "n": 32,
-        "text": "He will be delivered over to the Gentiles. They will mock Him, insult Him, spit on Him,"
-      },
-      {
-        "n": 33,
-        "text": "And flog Him and kill Him. On the third day He will rise again."
-      },
-      {
-        "n": 34,
-        "text": "The disciples did not understand any of this. Its meaning was hidden from them, and they did not know what he was talking about."
-      },
-      {
-        "n": 35,
-        "text": "As Jesus approached Jericho, a blind man was sitting by the road begging."
-      },
-      {
-        "n": 36,
-        "text": "When he heard the crowd going by, he asked what was happening."
-      },
-      {
-        "n": 37,
-        "text": "They told him: Jesus of Nazareth is passing by."
-      },
-      {
-        "n": 38,
-        "text": "He called out: Jesus, Son of David, have mercy on me!"
-      },
-      {
-        "n": 39,
-        "text": "Those who led the way rebuked him and told him to be quiet, but he shouted all the more: Son of David, have mercy on me!"
-      },
-      {
-        "n": 40,
-        "text": "Jesus stopped and ordered the man to be brought to Him. When he came near, Jesus asked him,"
-      },
-      {
-        "n": 41,
-        "text": "What do you want me to do for you? Lord, he said, I want to see."
-      },
-      {
-        "n": 42,
-        "text": "Jesus said to him: Receive your sight; your faith has healed you."
-      },
-      {
-        "n": 43,
-        "text": "Immediately he received his sight and followed Jesus, praising God. When all the people saw it, they also praised God."
-      }
+      { "n": 1, "text": "And Jesus spoke a parable (story that teaches a lesson) to them to this end, that men ought always to pray, and not to faint (lose heart)," },
+      { "n": 2, "text": "Saying: There was in a city a judge, who did not fear God, neither regarded (respected) man." },
+      { "n": 3, "text": "And there was a widow in that city. And she came to him, saying: Avenge (give justice to) me of my adversary (enemy)." },
+      { "n": 4, "text": "And he would not for a while. But afterward he said within himself: Though I do not fear God, nor regard (respect) man," },
+      { "n": 5, "text": "Yet because this widow troubles me, I will avenge (give justice to) her, so that by her continual coming she does not weary (wear out) me." },
+      { "n": 6, "text": "And the Lord said: Hear what the unjust judge says." },
+      { "n": 7, "text": "And will not God avenge (give justice to) His own elect (chosen people), who cry day and night to Him, though He bears long (is patient) with them?" },
+      { "n": 8, "text": "I tell you that He will avenge (give justice to) them speedily (quickly). Nevertheless (but) when the Son of man comes, will He find faith on the earth?" },
+      { "n": 9, "text": "And Jesus spoke this parable (story that teaches a lesson) to certain people who trusted in themselves that they were righteous (right with God), and despised (looked down on) others:" },
+      { "n": 10, "text": "There were 2 men who went up into the temple to pray, the one a Pharisee, and the other a publican (tax collector)." },
+      { "n": 11, "text": "The Pharisee stood and prayed this way with himself: God, I thank You, that I am not as other men are, extortioners (people who steal by force), unjust, adulterers (people unfaithful in marriage), or even as this publican (tax collector)." },
+      { "n": 12, "text": "I fast (go without food) twice in the week. I give tithes (a tenth part) of all that I possess." },
+      { "n": 13, "text": "And the publican (tax collector), standing afar off (far away), would not lift up so much as his eyes to heaven, but smote (hit) upon his breast (chest), saying: God be merciful to me a sinner." },
+      { "n": 14, "text": "I tell you, this man went down to his house justified (made right with God) rather than the other. For every one who exalts (lifts up) himself will be abased (brought low). And the one who humbles himself will be exalted (lifted up)." },
+      { "n": 15, "text": "And they brought to Jesus also infants (babies), that He would touch them. But when His disciples saw it, they rebuked (scolded) them." },
+      { "n": 16, "text": "But Jesus called them to Him, and said: Suffer (allow) little children to come to Me, and forbid them not (do not stop them). For of such is the kingdom of God." },
+      { "n": 17, "text": "Verily (truly) I say to you: Whoever will not receive the kingdom of God as a little child will in no way enter it." },
+      { "n": 18, "text": "And a certain ruler asked Jesus, saying: Good Master (Teacher), what will I do to inherit (receive as my own) eternal life?" },
+      { "n": 19, "text": "And Jesus said to him: Why do you call Me good? None is good, except One, that is, God." },
+      { "n": 20, "text": "You know the commandments: Do not commit adultery (being unfaithful in marriage), Do not kill, Do not steal, Do not bear false witness (lie about others), Honour your father and your mother." },
+      { "n": 21, "text": "And he said: All these I have kept from my youth up (since I was young)." },
+      { "n": 22, "text": "Now when Jesus heard these things, He said to him: Yet you lack one thing. Sell all that you have, and distribute (give) to the poor, and you will have treasure in heaven. And come, follow Me." },
+      { "n": 23, "text": "And when he heard this, he was very sorrowful (sad), for he was very rich." },
+      { "n": 24, "text": "And when Jesus saw that he was very sorrowful (sad), He said: How hardly (with great difficulty) will they who have riches enter into the kingdom of God." },
+      { "n": 25, "text": "For it is easier for a camel to go through a needle's eye, than for a rich man to enter into the kingdom of God." },
+      { "n": 26, "text": "And they who heard it said: Who then can be saved?" },
+      { "n": 27, "text": "And Jesus said: The things which are impossible with men are possible with God." },
+      { "n": 28, "text": "Then Peter said: Look, we have left all, and followed You." },
+      { "n": 29, "text": "And Jesus said to them: Verily (truly) I say to you: There is no one who has left house, or parents, or brothers, or wife, or children, for the kingdom of God's sake," },
+      { "n": 30, "text": "Who will not receive manifold (many times) more in this present time, and in the world to come life everlasting." },
+      { "n": 31, "text": "Then Jesus took to Him the 12, and said to them: Look, we go up to Jerusalem, and all things that are written by the prophets about the Son of man will be accomplished (come true)." },
+      { "n": 32, "text": "For He will be delivered (handed over) to the Gentiles (people who are not Jews), and will be mocked, and spitefully entreated (treated cruelly), and spit on." },
+      { "n": 33, "text": "And they will scourge (whip) Him, and put Him to death. And the third day He will rise again." },
+      { "n": 34, "text": "And they understood none of these things. And this saying was hidden from them, neither did they know the things which were spoken." },
+      { "n": 35, "text": "And it came to pass (happened), that as Jesus had come nigh (near) to Jericho, a certain blind man sat by the way side (road side) begging." },
+      { "n": 36, "text": "And hearing the multitude (crowd) pass by, he asked what it meant." },
+      { "n": 37, "text": "And they told him, that Jesus of Nazareth passes by." },
+      { "n": 38, "text": "And he cried, saying: Jesus, You Son of David, have mercy on me." },
+      { "n": 39, "text": "And they who went before rebuked (scolded) him, that he should hold his peace (be quiet). But he cried so much the more: You Son of David, have mercy on me." },
+      { "n": 40, "text": "And Jesus stood, and commanded him to be brought to Him. And when he had come near, Jesus asked him," },
+      { "n": 41, "text": "Saying: What will you have Me do to you? And he said: Lord, that I may receive my sight." },
+      { "n": 42, "text": "And Jesus said to him: Receive your sight. Your faith has saved you." },
+      { "n": 43, "text": "And immediately he received his sight, and followed Jesus, glorifying (praising) God. And all the people, when they saw it, gave praise to God." }
     ]
   },
   "19": {
