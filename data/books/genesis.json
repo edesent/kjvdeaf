@@ -1207,139 +1207,43 @@
   },
   "32": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Jacob went on and there were angels of God who came to Jacob."
-      },
-      {
-        "n": 2,
-        "text": "When Jacob saw the angels, Jacob said: This is a camp of God's soldiers. Jacob named that place Mahanaim, which means Two Camps."
-      },
-      {
-        "n": 3,
-        "text": "Jacob sent a message to his brother Esau. Esau was in the land of Seir, the country of Edom."
-      },
-      {
-        "n": 4,
-        "text": "Jacob told the men to tell his brother Esau: Sir, I am your servant Jacob. I have lived with Laban all these years."
-      },
-      {
-        "n": 5,
-        "text": "Now I have oxen, donkeys, sheep, goats, male servants and female servants. I am sending you this message. I hope you will be friendly and accept me back."
-      },
-      {
-        "n": 6,
-        "text": "When the messengers came back to Jacob, they said to Jacob: We went to your brother Esau. Esau is coming to meet you, and Esau has 400 men with him."
-      },
-      {
-        "n": 7,
-        "text": "Jacob became afraid and very worried. Jacob divided all the people who were with Jacob into 2 groups. Jacob also divided all the sheep, goats, oxen and camels."
-      },
-      {
-        "n": 8,
-        "text": "Jacob said: If Esau attacks one group, then the other group can flee."
-      },
-      {
-        "n": 9,
-        "text": "Jacob prayed to God and said: God of my grandfather Abraham, God of my father Isaac, LORD, You told me to go back to my land and to my family. You said that You would be good to me."
-      },
-      {
-        "n": 10,
-        "text": "I am not worthy of all Your kindness. You have done everything You promised me. When I first crossed the Jordan River, I owned nothing but my walking stick. Now I own enough to have 2 full camps."
-      },
-      {
-        "n": 11,
-        "text": "Please protect me from my brother Esau, because I am afraid of Esau. I am afraid that Esau will attack me and the women and children."
-      },
-      {
-        "n": 12,
-        "text": "You have promised and said to me: I will be good to Jacob. I will make your descendants as many as the grains of sand of the sea. There will be so many that no one will be able to count them."
-      },
-      {
-        "n": 13,
-        "text": "Jacob slept there that night. Jacob took some of his animals and sent a gift to his brother Esau."
-      },
-      {
-        "n": 14,
-        "text": "Jacob's gift was 200 female goats and 20 male goats, 200 female sheep and 20 male sheep."
-      },
-      {
-        "n": 15,
-        "text": "Jacob also sent 30 nursing camels and their calves, 40 cows and 10 bulls, and 20 female donkeys and 10 young donkeys."
-      },
-      {
-        "n": 16,
-        "text": "Jacob gave the animals to his servants. Jacob gave a flock of animals to each servant and told the servants: Walk ahead of me, but keep each flock separate."
-      },
-      {
-        "n": 17,
-        "text": "Jacob told the 1st servant: When my brother Esau comes to you and asks you whose servant you are, where you are going and whose animals these are,"
-      },
-      {
-        "n": 18,
-        "text": "you must tell Esau: Sir, they belong to your servant Jacob. They are a gift that Jacob sends to you, Esau. Jacob is also coming. Jacob is behind us."
-      },
-      {
-        "n": 19,
-        "text": "Jacob said the same to the 2nd servant and the 3rd servant, and to all the other servants who followed the flocks. Jacob told the servants what they must say to Esau when they found him."
-      },
-      {
-        "n": 20,
-        "text": "They also had to say to Esau: Your servant Jacob is also coming. Jacob is behind us. Jacob said to himself: I will make peace with Esau by sending this gift ahead of me. When I see Esau face to face, maybe Esau will accept me."
-      },
-      {
-        "n": 21,
-        "text": "Jacob first sent the gifts to Esau, and Jacob stayed that night in the camp."
-      },
-      {
-        "n": 22,
-        "text": "Jacob got up that night. Jacob took his 2 wives, his 2 servant women and his 11 sons, and they went through the Jabbok River."
-      },
-      {
-        "n": 23,
-        "text": "Jacob sent them through the river and then Jacob also sent his animals through the river."
-      },
-      {
-        "n": 24,
-        "text": "Jacob stayed behind, alone. A man came and wrestled with Jacob until just before the sun came up the next day."
-      },
-      {
-        "n": 25,
-        "text": "The man saw that he could not defeat Jacob. The man touched the hollow of Jacob's thigh. Jacob's thigh was thrown out of joint."
-      },
-      {
-        "n": 26,
-        "text": "The man said to Jacob: Let me go, because the sun is coming up and it is almost day. But Jacob said to the man: I will not let you go unless you bless me."
-      },
-      {
-        "n": 27,
-        "text": "The man asked Jacob: What is your name? Jacob said: Jacob."
-      },
-      {
-        "n": 28,
-        "text": "The man said: Your name will no longer be Jacob. From now on you will be Israel. This is because you have wrestled with God and with people, and you have won."
-      },
-      {
-        "n": 29,
-        "text": "Jacob asked: Please tell me your name. The man said: Why do you ask what my name is? The man blessed Jacob there."
-      },
-      {
-        "n": 30,
-        "text": "Jacob named that place Peniel, which means Face of God. Jacob said: At this place, I saw God face to face, but my life was spared."
-      },
-      {
-        "n": 31,
-        "text": "The sun came up when Jacob went away from Peniel. Jacob could not walk well because his thigh was hurt."
-      },
-      {
-        "n": 32,
-        "text": "That is why the Israelites never eat the sinew in the hollow of an animal's thigh. The man touched the hollow of Jacob's thigh."
-      }
+      { "n": 1, "text": "And Jacob went on his way, and the angels of God met him." },
+      { "n": 2, "text": "And when Jacob saw them, he said: This is God's host (army). And he called the name of that place Mahanaim (two camps)." },
+      { "n": 3, "text": "And Jacob sent messengers before him to Esau his brother, to the land of Seir, the country of Edom." },
+      { "n": 4, "text": "And Jacob commanded them, saying: This is what you shall speak to my lord Esau: Your servant Jacob says this: I have sojourned (lived for a while) with Laban, and stayed there until now." },
+      { "n": 5, "text": "And I have oxen, and asses (donkeys), flocks, and menservants, and womenservants (servant women). And I have sent to tell my lord, so that I may find grace in your sight." },
+      { "n": 6, "text": "And the messengers returned to Jacob, saying: We came to your brother Esau, and also he comes to meet you, and 400 men with him." },
+      { "n": 7, "text": "Then Jacob was greatly afraid and troubled. And Jacob divided the people that were with him, and the flocks, and herds, and the camels, into 2 bands (groups)." },
+      { "n": 8, "text": "And Jacob said: If Esau comes to the one company, and smites (strikes) it, then the other company which is left shall escape." },
+      { "n": 9, "text": "And Jacob said: O God of my father Abraham, and God of my father Isaac, the LORD which said to me: Return to your country, and to your kindred (relatives), and I will deal well with you," },
+      { "n": 10, "text": "I am not worthy of the least of all the mercies, and of all the truth, which You have shown to Your servant. For with my staff (walking stick) I passed over this Jordan, and now I have become 2 bands (groups)." },
+      { "n": 11, "text": "Deliver me, I pray You, from the hand of my brother, from the hand of Esau. For I fear him, or he will come and smite (strike) me, and the mother with the children." },
+      { "n": 12, "text": "And You said: I will surely do you good, and make your seed (children) as the sand of the sea, which cannot be numbered for multitude (because there are so many)." },
+      { "n": 13, "text": "And Jacob lodged (stayed the night) there that same night. And Jacob took of that which came to his hand a present for Esau his brother:" },
+      { "n": 14, "text": "200 she goats, and 20 he goats, 200 ewes (female sheep), and 20 rams," },
+      { "n": 15, "text": "30 milch (milk) camels with their colts (young ones), 40 kine (cows), and 10 bulls, 20 she asses (female donkeys), and 10 foals (young donkeys)." },
+      { "n": 16, "text": "And Jacob delivered them into the hand of his servants, every drove (herd) by themselves. And Jacob said to his servants: Pass over before me, and put a space between drove and drove." },
+      { "n": 17, "text": "And Jacob commanded the foremost (first one), saying: When Esau my brother meets you, and asks you, saying: Whose are you? And where are you going? And whose are these before you?" },
+      { "n": 18, "text": "Then you shall say: They are your servant Jacob's. It is a present sent to my lord Esau. And look, also he is behind us." },
+      { "n": 19, "text": "And so Jacob commanded the 2nd, and the 3rd, and all that followed the droves, saying: In this manner you shall speak to Esau, when you find him." },
+      { "n": 20, "text": "And say also: Look, your servant Jacob is behind us. For Jacob said: I will appease (calm) him with the present that goes before me, and afterward I will see his face. Peradventure (maybe) he will accept me." },
+      { "n": 21, "text": "So the present went over before him. And Jacob himself lodged (stayed the night) that night in the company." },
+      { "n": 22, "text": "And Jacob rose up that night, and took his 2 wives, and his 2 womenservants (servant women), and his 11 sons, and passed over the ford (shallow crossing) Jabbok." },
+      { "n": 23, "text": "And Jacob took them, and sent them over the brook, and sent over what he had." },
+      { "n": 24, "text": "And Jacob was left alone. And there wrestled a man with him until the breaking of the day." },
+      { "n": 25, "text": "And when the man saw that he prevailed (won) not against Jacob, he touched the hollow of Jacob's thigh. And the hollow of Jacob's thigh was out of joint, as he wrestled with him." },
+      { "n": 26, "text": "And the man said: Let me go, for the day breaks. And Jacob said: I will not let you go, except you bless me." },
+      { "n": 27, "text": "And the man said to him: What is your name? And he said: Jacob." },
+      { "n": 28, "text": "And the man said: Your name shall be called no more Jacob, but Israel. For as a prince you have power with God and with men, and have prevailed (won)." },
+      { "n": 29, "text": "And Jacob asked him, and said: Tell me, I pray you, your name. And the man said: Why is it that you ask after my name? And he blessed Jacob there." },
+      { "n": 30, "text": "And Jacob called the name of the place Peniel (the face of God). For Jacob said: I have seen God face to face, and my life is preserved (kept safe)." },
+      { "n": 31, "text": "And as Jacob passed over Penuel the sun rose on him, and he halted (limped) on his thigh." },
+      { "n": 32, "text": "So the children of Israel do not eat of the sinew (cord of muscle) which shrank, which is on the hollow of the thigh, to this day. Because the man touched the hollow of Jacob's thigh in the sinew that shrank." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genises-chapter-32/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V24-29 call the one who wrestled the man, as the KJV does; in v30 Jacob says he has seen God face to face. V7 uses troubled for the KJV's distressed (house rule).",
     "videos": []
   },
   "33": {
