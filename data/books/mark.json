@@ -89,148 +89,43 @@
   "3": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy, with generic 'he/his' rendered gender-neutral in v27.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase that followed the modern Greek text, e.g. leaving out \"to heal sicknesses\" in 3:15 and \"whole as the other\" in 3:5, adding \"called them apostles\" in 3:14, and \"a sin that lasts forever\" instead of \"eternal damnation\" in 3:29), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, with generic 'he/his' rendered gender-neutral in v27.",
     "verses": [
-      {
-        "n": 1,
-        "text": "Jesus went into the synagogue again. A man with a crippled hand was there."
-      },
-      {
-        "n": 2,
-        "text": "Some people were watching Jesus closely. They wanted to see if He would heal the man on the Sabbath, so they could accuse him."
-      },
-      {
-        "n": 3,
-        "text": "Jesus said to the man with the crippled hand: Stand up here in front of everyone."
-      },
-      {
-        "n": 4,
-        "text": "Then Jesus asked the people: Is it right to do good on the Sabbath, or to do evil? To save a life, or to kill? But they said nothing."
-      },
-      {
-        "n": 5,
-        "text": "Jesus looked around at them with anger. He was very sad because their hearts were so hard. He said to the man: Hold out your hand. The man held it out, and his hand was healed."
-      },
-      {
-        "n": 6,
-        "text": "Then the Pharisees went out and began to plan with the followers of Herod how they could kill Jesus."
-      },
-      {
-        "n": 7,
-        "text": "Jesus went away to the lake with His disciples. A large crowd from Galilee followed Him."
-      },
-      {
-        "n": 8,
-        "text": "Many people also came from Judea, Jerusalem, Idumea, the lands east of the Jordan River, and the areas around Tyre and Sidon. They came because they heard about the great things Jesus was doing."
-      },
-      {
-        "n": 9,
-        "text": "Because of the crowd, Jesus told His disciples to have a small boat ready for Him, so the people would not crush Him."
-      },
-      {
-        "n": 10,
-        "text": "He had healed so many that the sick people were pushing forward to touch Him."
-      },
-      {
-        "n": 11,
-        "text": "Whenever the evil spirits saw Jesus, they fell down in front of Him and cried out: You are the Son of God!"
-      },
-      {
-        "n": 12,
-        "text": "But Jesus strongly warned them not to tell anyone who He was."
-      },
-      {
-        "n": 13,
-        "text": "Then Jesus went up on a mountain. He called the men He wanted, and they came to Him."
-      },
-      {
-        "n": 14,
-        "text": "He chose twelve men and called them apostles. He wanted them to be with Him and to send them out to preach,"
-      },
-      {
-        "n": 15,
-        "text": "and to have power to drive out demons."
-      },
-      {
-        "n": 16,
-        "text": "These are the twelve He chose: Simon (Jesus gave him the name Peter),"
-      },
-      {
-        "n": 17,
-        "text": "James and his brother John, the sons of Zebedee (Jesus gave them the name Boanerges, which means Sons of Thunder),"
-      },
-      {
-        "n": 18,
-        "text": "Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot,"
-      },
-      {
-        "n": 19,
-        "text": "and Judas Iscariot, the one who later handed Jesus over to His enemies."
-      },
-      {
-        "n": 20,
-        "text": "Then Jesus went home, and again a crowd gathered, so that Jesus and His disciples could not even eat."
-      },
-      {
-        "n": 21,
-        "text": "When Jesus' family heard about it, they went to take charge of Him. People were saying: He is out of His mind."
-      },
-      {
-        "n": 22,
-        "text": "The teachers of the law who came down from Jerusalem said: Satan, the prince of demons, is in Him. That is how He drives out demons."
-      },
-      {
-        "n": 23,
-        "text": "So Jesus called them together and spoke to them in teaching stories: How can Satan drive out Satan?"
-      },
-      {
-        "n": 24,
-        "text": "If a kingdom fights against itself, that kingdom cannot stand."
-      },
-      {
-        "n": 25,
-        "text": "If a family fights against itself, that family cannot stand."
-      },
-      {
-        "n": 26,
-        "text": "And if Satan fights against himself, he cannot stand. That is the end of him."
-      },
-      {
-        "n": 27,
-        "text": "No one can go into a strong man's house and steal his things unless that person first ties up the strong man. Then that person can rob the house."
-      },
-      {
-        "n": 28,
-        "text": "I tell you the truth: people can be forgiven for all their sins and for the evil things they say."
-      },
-      {
-        "n": 29,
-        "text": "But anyone who speaks against the Holy Spirit will never be forgiven. That person is guilty of a sin that lasts forever."
-      },
-      {
-        "n": 30,
-        "text": "Jesus said this because they were saying: He has an evil spirit."
-      },
-      {
-        "n": 31,
-        "text": "Then Jesus' mother and brothers came. They stood outside and sent someone in to call Him."
-      },
-      {
-        "n": 32,
-        "text": "A crowd was sitting around Jesus. They told Him: Your mother and brothers are outside looking for You."
-      },
-      {
-        "n": 33,
-        "text": "Jesus answered: Who is my mother? Who are my brothers?"
-      },
-      {
-        "n": 34,
-        "text": "Then He looked at the people sitting around Him and said: Look, here are my mother and my brothers!"
-      },
-      {
-        "n": 35,
-        "text": "Anyone who does what God wants is my brother and my sister and my mother."
-      }
+      { "n": 1, "text": "Jesus entered again into the synagogue (meeting house). And there was a man there who had a withered (dried up and useless) hand." },
+      { "n": 2, "text": "They watched Jesus, whether He would heal the man on the sabbath day (day of rest), so that they might accuse Jesus." },
+      { "n": 3, "text": "Jesus said to the man who had the withered (dried up and useless) hand: Stand forth (stand up here)." },
+      { "n": 4, "text": "Jesus said to them: Is it lawful (allowed by the law) to do good on the sabbath days, or to do evil? To save life, or to kill? But they held their peace (stayed quiet)." },
+      { "n": 5, "text": "Jesus looked round about on them with anger, being grieved (very sad) for the hardness of their hearts. Jesus said to the man: Stretch out your hand. He stretched it out, and his hand was restored whole (healed) like the other." },
+      { "n": 6, "text": "The Pharisees went out, and right away took counsel (made plans) with the Herodians (followers of King Herod) against Jesus, how they might destroy Him." },
+      { "n": 7, "text": "But Jesus withdrew (went away) with His disciples to the sea. A great multitude (crowd) from Galilee followed Him, and from Judaea," },
+      { "n": 8, "text": "And from Jerusalem, and from Idumaea, and from beyond Jordan. And those around Tyre and Sidon, a great multitude (crowd), when they had heard what great things Jesus did, came to Him." },
+      { "n": 9, "text": "Jesus spoke to His disciples, that a small ship (boat) should wait for Him because of the multitude (crowd), or they would throng (crowd against) Him." },
+      { "n": 10, "text": "For Jesus had healed many. So they pressed upon Him to touch Him, as many as had plagues (sicknesses)." },
+      { "n": 11, "text": "Unclean spirits, when they saw Jesus, fell down before Him, and cried out: You are the Son of God." },
+      { "n": 12, "text": "Jesus straitly charged (strongly warned) them that they should not make Him known." },
+      { "n": 13, "text": "Jesus went up into a mountain, and called to Him whoever He wanted. And they came to Him." },
+      { "n": 14, "text": "Jesus ordained (appointed) twelve, that they should be with Him, and that He might send them out to preach," },
+      { "n": 15, "text": "And to have power to heal sicknesses, and to cast out (drive out) devils (demons)." },
+      { "n": 16, "text": "Simon He surnamed (gave the other name) Peter." },
+      { "n": 17, "text": "And James the son of Zebedee, and John the brother of James. Jesus surnamed (gave the other name) them Boanerges, which means: The sons of thunder." },
+      { "n": 18, "text": "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Canaanite," },
+      { "n": 19, "text": "And Judas Iscariot, who also betrayed (handed over) Jesus. And they went into a house." },
+      { "n": 20, "text": "The multitude (crowd) came together again, so that they could not even eat bread." },
+      { "n": 21, "text": "When His friends heard of it, they went out to lay hold on (take hold of) Him. For they said: He is beside Himself (out of His mind)." },
+      { "n": 22, "text": "The scribes (teachers of the law) who came down from Jerusalem said: He has Beelzebub (the devil). And by the prince (ruler) of the devils (demons) He casts out (drives out) devils (demons)." },
+      { "n": 23, "text": "Jesus called them to Him, and said to them in parables (stories that teach a lesson): How can Satan cast out (drive out) Satan?" },
+      { "n": 24, "text": "If a kingdom is divided against itself, that kingdom cannot stand." },
+      { "n": 25, "text": "And if a house is divided against itself, that house cannot stand." },
+      { "n": 26, "text": "And if Satan rises up against himself, and is divided, he cannot stand, but has an end." },
+      { "n": 27, "text": "No one can enter into a strong man's house and spoil (steal) his goods, unless that person first binds (ties up) the strong man. Then that person will spoil (rob) his house." },
+      { "n": 28, "text": "Truly I say to you: All sins will be forgiven to the sons of men (people), and whatever blasphemies (words against God) they speak." },
+      { "n": 29, "text": "But whoever blasphemes (speaks against) the Holy Spirit never has forgiveness, but is in danger of eternal damnation (punishment forever)." },
+      { "n": 30, "text": "Because they said: He has an unclean spirit." },
+      { "n": 31, "text": "Then His brethren (brothers) and His mother came. Standing without (outside), they sent to Him, calling Him." },
+      { "n": 32, "text": "The multitude (crowd) sat around Him. They said to Him: Look, Your mother and Your brethren (brothers) are outside, looking for You." },
+      { "n": 33, "text": "Jesus answered them: Who is My mother, or My brethren (brothers)?" },
+      { "n": 34, "text": "Jesus looked round about on those who sat around Him, and said: Look at My mother and My brethren (brothers)!" },
+      { "n": 35, "text": "For whoever does the will of God, that person is My brother, and My sister, and mother." }
     ]
   },
   "4": {
