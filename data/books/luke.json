@@ -348,208 +348,58 @@
   "7": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers the healing of a centurion's servant (his famous 'I too am a man under authority' comparison), raising the widow of Nain's son, John the Baptist's question from prison and Jesus' tribute to him, and the sinful woman who anoints Jesus' feet at Simon the Pharisee's house.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "When Jesus had finished saying all this to the people who were listening, He entered Capernaum."
-      },
-      {
-        "n": 2,
-        "text": "There a centurion's servant, whom the centurion valued highly, was sick and about to die."
-      },
-      {
-        "n": 3,
-        "text": "When the centurion heard about Jesus, he sent some Jewish elders to Him, asking Him to come and heal his servant."
-      },
-      {
-        "n": 4,
-        "text": "When they came to Jesus, they pleaded earnestly with Him: This man deserves to have You do this,"
-      },
-      {
-        "n": 5,
-        "text": "Because he loves our nation and has built our synagogue for us."
-      },
-      {
-        "n": 6,
-        "text": "So Jesus went with them. He was not far from the house. Then the centurion sent friends to say to Him: Lord, do not trouble Yourself. I do not deserve to have You come under my roof."
-      },
-      {
-        "n": 7,
-        "text": "That is why I did not even consider myself worthy to come to You. But say the word, and my servant will be healed."
-      },
-      {
-        "n": 8,
-        "text": "For I myself am a man under authority, with soldiers under me. I tell this one, Go, and he goes, and that one, Come, and he comes. I say to my servant, Do this, and he does it."
-      },
-      {
-        "n": 9,
-        "text": "When Jesus heard this, He was amazed at him. He turned to the crowd following Him and said: I tell you, I have not found such great faith even in Israel."
-      },
-      {
-        "n": 10,
-        "text": "Then the men who had been sent returned to the house and found the servant well."
-      },
-      {
-        "n": 11,
-        "text": "Soon afterward, Jesus went to a town called Nain, and His disciples and a large crowd went with Him."
-      },
-      {
-        "n": 12,
-        "text": "As He approached the town gate, a dead man was being carried out: the only son of his mother, and she was a widow. A large crowd from the town was with her."
-      },
-      {
-        "n": 13,
-        "text": "When the Lord saw her, He felt compassion for her and said: Do not weep."
-      },
-      {
-        "n": 14,
-        "text": "Then He went up and touched the coffin, and those carrying it stood still. Young man, He said, I tell you, get up."
-      },
-      {
-        "n": 15,
-        "text": "The dead man sat up and began to talk, and Jesus gave him back to his mother."
-      },
-      {
-        "n": 16,
-        "text": "Everyone was filled with awe and praised God. A great prophet has appeared among us, they said. God has come to help His people."
-      },
-      {
-        "n": 17,
-        "text": "This news about Jesus spread throughout Judea and the surrounding region."
-      },
-      {
-        "n": 18,
-        "text": "John's disciples told him about all these things."
-      },
-      {
-        "n": 19,
-        "text": "So John called two of his disciples. He sent them to the Lord to ask: Are You the one who is to come? Or should we expect someone else?"
-      },
-      {
-        "n": 20,
-        "text": "When the men came to Jesus, they said: John the Baptist sent us to ask You. Are You the one who is to come? Or should we expect someone else?"
-      },
-      {
-        "n": 21,
-        "text": "At that very time Jesus healed many people of diseases, sicknesses, and evil spirits, and gave sight to many who were blind."
-      },
-      {
-        "n": 22,
-        "text": "Jesus told the messengers: Go report to John what you saw today. Blind people see again, and people who could not walk now walk. People with bad skin diseases become clean, and deaf people can hear. Dead people live again, and poor people hear the good news preached."
-      },
-      {
-        "n": 23,
-        "text": "Blessed is anyone who does not stumble on account of me."
-      },
-      {
-        "n": 24,
-        "text": "After John's messengers left, Jesus began to speak to the crowd about John: What did you go out into the desert to see? A reed swayed by the wind?"
-      },
-      {
-        "n": 25,
-        "text": "If not, what did you go out to see? A man dressed in fine clothes? No, those who wear expensive clothes and live in luxury are in kings' palaces."
-      },
-      {
-        "n": 26,
-        "text": "But what did you go out to see? A prophet? Yes, I tell you, and more than a prophet."
-      },
-      {
-        "n": 27,
-        "text": "This is the one about whom it is written: I will send my messenger ahead of You, who will prepare Your way before You."
-      },
-      {
-        "n": 28,
-        "text": "I tell you, among those born of women there is no one greater than John. Yet the one who is least in the kingdom of God is greater than he."
-      },
-      {
-        "n": 29,
-        "text": "All the people, even the tax collectors, when they heard Jesus' words, acknowledged that God's way was right, because they had been baptized by John."
-      },
-      {
-        "n": 30,
-        "text": "But the Pharisees and the experts in the law rejected God's purpose for themselves, because they had not been baptized by John."
-      },
-      {
-        "n": 31,
-        "text": "Jesus went on to say: To what can I compare the people of this generation? What are they like?"
-      },
-      {
-        "n": 32,
-        "text": "They are like children sitting in the marketplace and calling out to each other: We played the flute for you, and you did not dance. We sang a dirge, and you did not cry."
-      },
-      {
-        "n": 33,
-        "text": "For John the Baptist came neither eating bread nor drinking wine, and you say: He has a demon."
-      },
-      {
-        "n": 34,
-        "text": "The Son of Man came eating and drinking, and you say: Look at him, a glutton and a drunkard, a friend of tax collectors and sinners."
-      },
-      {
-        "n": 35,
-        "text": "But wisdom is proved right by all her children."
-      },
-      {
-        "n": 36,
-        "text": "One of the Pharisees invited Jesus to eat with him, so He went to the Pharisee's house and reclined at the table."
-      },
-      {
-        "n": 37,
-        "text": "A woman in that town who lived a sinful life learned that Jesus was eating at the Pharisee's house, and she brought an alabaster jar of perfume."
-      },
-      {
-        "n": 38,
-        "text": "She stood behind Him at His feet, weeping. She began to wet His feet with her tears and wipe them with her hair. Then she kissed His feet and poured perfume on them."
-      },
-      {
-        "n": 39,
-        "text": "The Pharisee who invited Jesus watched this and thought to himself: If this man were a true prophet, he would recognize this woman. He would know she is a shameful sinner touching his feet!"
-      },
-      {
-        "n": 40,
-        "text": "Jesus answered him: Simon, I have something to say to you. Tell me, Teacher, he said."
-      },
-      {
-        "n": 41,
-        "text": "Two people owed money to a certain moneylender. One owed him five hundred silver coins, and the other fifty."
-      },
-      {
-        "n": 42,
-        "text": "Neither of them had the money to pay him back, so he forgave both of their debts. Now, which of them will love him more?"
-      },
-      {
-        "n": 43,
-        "text": "Simon replied: I suppose the one who had the bigger debt forgiven. You have judged correctly, Jesus said."
-      },
-      {
-        "n": 44,
-        "text": "Then He turned toward the woman and said to Simon: Do you see this woman? I came into your house. You did not give me any water for my feet, but she wet my feet with her tears and wiped them with her hair."
-      },
-      {
-        "n": 45,
-        "text": "You did not give me a kiss, but this woman, from the time I entered, has not stopped kissing my feet."
-      },
-      {
-        "n": 46,
-        "text": "You did not put oil on my head, but she has poured perfume on my feet."
-      },
-      {
-        "n": 47,
-        "text": "Therefore I tell you, her many sins have been forgiven, because she loved much. But whoever has been forgiven little loves little."
-      },
-      {
-        "n": 48,
-        "text": "Then Jesus said to her: Your sins are forgiven."
-      },
-      {
-        "n": 49,
-        "text": "The other guests began to say to themselves: Who is this who even forgives sins?"
-      },
-      {
-        "n": 50,
-        "text": "Jesus said to the woman: Your faith has saved you. Go in peace."
-      }
+      { "n": 1, "text": "Now when Jesus had ended all His sayings in the audience (hearing) of the people, He entered into Capernaum." },
+      { "n": 2, "text": "And a certain centurion's (army officer's) servant, who was dear to him, was sick, and ready to die." },
+      { "n": 3, "text": "And when the centurion (army officer) heard of Jesus, he sent to Him the elders of the Jews, beseeching (begging) Him that He would come and heal his servant." },
+      { "n": 4, "text": "And when they came to Jesus, they besought (begged) Him instantly (earnestly), saying, that the centurion was worthy for whom He should do this." },
+      { "n": 5, "text": "For he loves our nation, and he has built us a synagogue (meeting house)." },
+      { "n": 6, "text": "Then Jesus went with them. And when He was now not far from the house, the centurion (army officer) sent friends to Him, saying to Him: Lord, do not trouble Yourself. For I am not worthy that You should enter under my roof." },
+      { "n": 7, "text": "That is why I did not think myself worthy to come to You. But say in a word, and my servant will be healed." },
+      { "n": 8, "text": "For I also am a man set under authority, having under me soldiers. And I say to one: Go, and he goes. And to another: Come, and he comes. And to my servant: Do this, and he does it." },
+      { "n": 9, "text": "When Jesus heard these things, He marvelled (was amazed) at him, and turned around, and said to the people who followed Him: I say to you, I have not found so great faith, no, not in Israel." },
+      { "n": 10, "text": "And they who were sent, returning to the house, found the servant whole (healed) who had been sick." },
+      { "n": 11, "text": "And it came to pass (happened) the day after, that Jesus went into a city called Nain. And many of His disciples went with Him, and many people." },
+      { "n": 12, "text": "Now when Jesus came nigh (near) to the gate of the city, look, there was a dead man carried out, the only son of his mother, and she was a widow. And many people of the city were with her." },
+      { "n": 13, "text": "And when the Lord saw her, He had compassion (deep pity) on her, and said to her: Weep not." },
+      { "n": 14, "text": "And Jesus came and touched the bier (stretcher for the dead). And they who carried him stood still. And Jesus said: Young man, I say to you: Arise (get up)." },
+      { "n": 15, "text": "And he who was dead sat up, and began to speak. And Jesus delivered (gave) him to his mother." },
+      { "n": 16, "text": "And there came a fear on all. And they glorified (praised) God, saying: A great prophet has risen up among us. And: God has visited His people." },
+      { "n": 17, "text": "And this rumour (report) of Jesus went forth throughout all Judaea, and throughout all the region round about." },
+      { "n": 18, "text": "And the disciples of John showed him of all these things." },
+      { "n": 19, "text": "And John, calling to him 2 of his disciples, sent them to Jesus, saying: Are You He who should come? Or do we look for another?" },
+      { "n": 20, "text": "When the men had come to Jesus, they said: John the Baptist has sent us to You, saying: Are You He who should come? Or do we look for another?" },
+      { "n": 21, "text": "And in that same hour Jesus cured many of their infirmities (sicknesses) and plagues (diseases), and of evil spirits. And to many who were blind He gave sight." },
+      { "n": 22, "text": "Then Jesus answering said to them: Go your way, and tell John what things you have seen and heard: how that the blind see, the lame (people who cannot walk well) walk, the lepers (people with a skin disease) are cleansed (healed), the deaf hear, the dead are raised, to the poor the gospel (good news) is preached." },
+      { "n": 23, "text": "And blessed (happy) is anyone who will not be offended in Me (turn away because of Me)." },
+      { "n": 24, "text": "And when the messengers of John had departed, Jesus began to speak to the people about John: What did you go out into the wilderness (desert) to see? A reed (tall grass) shaken with the wind?" },
+      { "n": 25, "text": "But what did you go out to see? A man clothed in soft raiment (clothes)? Look, they who are gorgeously apparelled (dressed), and live delicately (in comfort), are in kings' courts." },
+      { "n": 26, "text": "But what did you go out to see? A prophet? Yes, I say to you, and much more than a prophet." },
+      { "n": 27, "text": "This is he of whom it is written: Look, I send My messenger before Your face, who will prepare Your way before You." },
+      { "n": 28, "text": "For I say to you: Among those who are born of women there is not a greater prophet than John the Baptist. But the one who is least in the kingdom of God is greater than he." },
+      { "n": 29, "text": "And all the people who heard Jesus, and the publicans (tax collectors), justified God (said God was right), being baptized with the baptism of John." },
+      { "n": 30, "text": "But the Pharisees and lawyers (experts in God's law) rejected the counsel (plan) of God against themselves, not being baptized by John." },
+      { "n": 31, "text": "And the Lord said: To what then will I liken (compare) the men of this generation (people living now)? And what are they like?" },
+      { "n": 32, "text": "They are like children sitting in the marketplace, and calling one to another, and saying: We have piped (played the flute) to you, and you have not danced. We have mourned (cried) to you, and you have not wept." },
+      { "n": 33, "text": "For John the Baptist came neither eating bread nor drinking wine, and you say: He has a devil (demon)." },
+      { "n": 34, "text": "The Son of man has come eating and drinking, and you say: Look, a gluttonous (eats too much) man, and a winebibber (drinks too much wine), a friend of publicans (tax collectors) and sinners." },
+      { "n": 35, "text": "But wisdom is justified (shown to be right) by all her children." },
+      { "n": 36, "text": "And one of the Pharisees desired (asked) Jesus that He would eat with him. And Jesus went into the Pharisee's house, and sat down to meat (to eat a meal)." },
+      { "n": 37, "text": "And look, a woman in the city, who was a sinner, when she knew that Jesus sat at meat (ate a meal) in the Pharisee's house, brought an alabaster box (a stone jar) of ointment (perfumed oil)," },
+      { "n": 38, "text": "And stood at His feet behind Him weeping, and began to wash His feet with tears, and wiped them with the hairs of her head, and kissed His feet, and anointed (put oil on) them with the ointment (perfumed oil)." },
+      { "n": 39, "text": "Now when the Pharisee who had bidden (invited) Jesus saw it, he spoke within himself, saying: This man, if He were a prophet, would have known who and what kind of woman this is who touches Him, for she is a sinner." },
+      { "n": 40, "text": "And Jesus answering said to him: Simon, I have something to say to you. And Simon says: Master (Teacher), say on." },
+      { "n": 41, "text": "There was a certain creditor (lender) who had 2 debtors (people who owed him money). The one owed 500 pence (small coins), and the other 50." },
+      { "n": 42, "text": "And when they had nothing to pay, he frankly (freely) forgave them both. Tell Me therefore, which of them will love him most?" },
+      { "n": 43, "text": "Simon answered and said: I suppose that he to whom he forgave most. And Jesus said to him: You have rightly judged." },
+      { "n": 44, "text": "And Jesus turned to the woman, and said to Simon: Do you see this woman? I entered into your house, you gave Me no water for My feet. But she has washed My feet with tears, and wiped them with the hairs of her head." },
+      { "n": 45, "text": "You gave Me no kiss. But this woman, since the time I came in, has not ceased (stopped) to kiss My feet." },
+      { "n": 46, "text": "My head with oil you did not anoint (put oil on). But this woman has anointed My feet with ointment (perfumed oil)." },
+      { "n": 47, "text": "That is why I say to you: Her sins, which are many, are forgiven, for she loved much. But to whom little is forgiven, the same loves little." },
+      { "n": 48, "text": "And Jesus said to her: Your sins are forgiven." },
+      { "n": 49, "text": "And they who sat at meat (ate) with Him began to say within themselves: Who is this who forgives sins also?" },
+      { "n": 50, "text": "And Jesus said to the woman: Your faith has saved you. Go in peace." }
     ]
   },
   "8": {
