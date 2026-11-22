@@ -148,160 +148,46 @@
   "3": {
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Greek text (Strong's Concordance / Blue Letter Bible) for word accuracy. This chapter was previously missing from the site entirely. Covers John the Baptist's preaching and practical ethical instructions (v7-14), his imprisonment by Herod, Jesus' baptism, and Luke's genealogy of Jesus traced back through David to Adam.",
+    "source": "Rewritten 2026-11-21 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), following the KJV's Greek text (Textus Receptus, checked against Moorman's 8,000 Differences), at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses.",
     "verses": [
-      {
-        "n": 1,
-        "text": "These events began during the fifteenth year of Emperor Tiberius Caesar's reign. Pontius Pilate served as the Roman governor over all of Judea. King Herod governed Galilee, while his brother Philip ruled nearby northern regions. Meanwhile, another ruler named Lysanias governed the district called Abilene."
-      },
-      {
-        "n": 2,
-        "text": "During the time when Annas and Caiaphas were high priests, the word of God came to John son of Zechariah in the desert."
-      },
-      {
-        "n": 3,
-        "text": "John went into all the country around the Jordan River, preaching a baptism of repentance for the forgiveness of sins."
-      },
-      {
-        "n": 4,
-        "text": "This fulfilled what was written in the book of the prophet Isaiah: A voice is calling out in the desert: Prepare the way for the Lord. Make His paths straight."
-      },
-      {
-        "n": 5,
-        "text": "Every valley will be filled in, and every mountain and hill will be made low. The crooked roads will be made straight, and the rough ways will be made smooth."
-      },
-      {
-        "n": 6,
-        "text": "And everyone will see God's salvation."
-      },
-      {
-        "n": 7,
-        "text": "John said to the crowds coming out to be baptized by him: You brood of snakes! Who warned you to flee from the coming anger?"
-      },
-      {
-        "n": 8,
-        "text": "Produce fruit that shows you have changed your hearts. And do not begin to say to yourselves: We have Abraham as our father. I tell you, God can raise up children for Abraham even from these stones."
-      },
-      {
-        "n": 9,
-        "text": "Even now the ax is lying at the root of the trees. Every tree that does not produce good fruit will be cut down and thrown into the fire."
-      },
-      {
-        "n": 10,
-        "text": "The people asked him: Then what should we do?"
-      },
-      {
-        "n": 11,
-        "text": "John answered them: Anyone who has two coats should share with the one who has none, and anyone who has food should do the same."
-      },
-      {
-        "n": 12,
-        "text": "Even tax collectors came to be baptized, and they asked him: Teacher, what should we do?"
-      },
-      {
-        "n": 13,
-        "text": "He told them: Do not collect any more than you are required to."
-      },
-      {
-        "n": 14,
-        "text": "Then some soldiers asked him: And what should we do? He told them: Do not take money from anyone by force or false accusation. Be content with your pay."
-      },
-      {
-        "n": 15,
-        "text": "The people were waiting expectantly, and everyone wondered in their hearts whether John might be the Messiah."
-      },
-      {
-        "n": 16,
-        "text": "John answered them all: I baptize you with water, but someone more powerful than I is coming, whose sandal straps I am not worthy to untie. He will baptize you with the Holy Spirit and with fire."
-      },
-      {
-        "n": 17,
-        "text": "His winnowing fork is in His hand. He will clear His threshing floor. He will gather the wheat into His barn. But He will burn up the chaff with fire that never goes out."
-      },
-      {
-        "n": 18,
-        "text": "With many other words John appealed to the people, preaching the good news to them."
-      },
-      {
-        "n": 19,
-        "text": "But when John rebuked Herod the ruler because of Herodias, his brother's wife, and because of all the other evil things Herod had done,"
-      },
-      {
-        "n": 20,
-        "text": "Herod added this to everything else: he locked John up in prison."
-      },
-      {
-        "n": 21,
-        "text": "When all the people were being baptized, Jesus was baptized too. As He was praying, heaven was opened,"
-      },
-      {
-        "n": 22,
-        "text": "And the Holy Spirit came down on Him in bodily form like a dove. A voice came from heaven: You are my Son, whom I love. I am very pleased with You."
-      },
-      {
-        "n": 23,
-        "text": "Jesus was about thirty years old when He began His ministry. He was thought to be the son of Joseph, the son of Heli,"
-      },
-      {
-        "n": 24,
-        "text": "The son of Matthat, the son of Levi, the son of Melki, the son of Jannai, the son of Joseph,"
-      },
-      {
-        "n": 25,
-        "text": "The son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,"
-      },
-      {
-        "n": 26,
-        "text": "The son of Maath, the son of Mattathias, the son of Semein, the son of Josek, the son of Joda,"
-      },
-      {
-        "n": 27,
-        "text": "The son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,"
-      },
-      {
-        "n": 28,
-        "text": "The son of Melki, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,"
-      },
-      {
-        "n": 29,
-        "text": "The son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,"
-      },
-      {
-        "n": 30,
-        "text": "The son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eliakim,"
-      },
-      {
-        "n": 31,
-        "text": "The son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,"
-      },
-      {
-        "n": 32,
-        "text": "The son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon,"
-      },
-      {
-        "n": 33,
-        "text": "The son of Amminadab, the son of Ram, the son of Hezron, the son of Perez, the son of Judah,"
-      },
-      {
-        "n": 34,
-        "text": "The son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,"
-      },
-      {
-        "n": 35,
-        "text": "The son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,"
-      },
-      {
-        "n": 36,
-        "text": "The son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,"
-      },
-      {
-        "n": 37,
-        "text": "The son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Cainan,"
-      },
-      {
-        "n": 38,
-        "text": "The son of Enosh, the son of Seth, the son of Adam, the son of God."
-      }
+      { "n": 1, "text": "Now in the 15th year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch (ruler over part of a land) of Galilee, and his brother Philip tetrarch (ruler over part of a land) of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch (ruler over part of a land) of Abilene," },
+      { "n": 2, "text": "Annas and Caiaphas being the high priests, the word of God came to John the son of Zacharias in the wilderness (desert)." },
+      { "n": 3, "text": "And John came into all the country about Jordan, preaching the baptism of repentance (a change of heart) for the remission (forgiveness) of sins," },
+      { "n": 4, "text": "As it is written in the book of the words of Esaias (Isaiah) the prophet, saying: The voice of one crying in the wilderness (desert): Prepare the way of the Lord, make His paths straight." },
+      { "n": 5, "text": "Every valley will be filled, and every mountain and hill will be brought low. And the crooked will be made straight, and the rough ways will be made smooth." },
+      { "n": 6, "text": "And all flesh (all people) will see the salvation (saving) of God." },
+      { "n": 7, "text": "Then John said to the multitude (large crowd) that came forth to be baptized by him: O generation of vipers (children of poisonous snakes), who has warned you to flee (run away) from the wrath (God's anger) to come?" },
+      { "n": 8, "text": "Bring forth therefore fruits worthy of repentance (a change of heart), and do not begin to say within yourselves: We have Abraham as our father. For I say to you, that God is able of these stones to raise up children to Abraham." },
+      { "n": 9, "text": "And now also the axe is laid to the root of the trees. Every tree therefore which does not bring forth good fruit is hewn (cut) down, and cast into the fire." },
+      { "n": 10, "text": "And the people asked John, saying: What will we do then?" },
+      { "n": 11, "text": "John answers and says to them: The one who has 2 coats, let them impart (share) with the one who has none. And the one who has meat (food), let them do likewise." },
+      { "n": 12, "text": "Then publicans (tax collectors) also came to be baptized, and said to John: Master (Teacher), what will we do?" },
+      { "n": 13, "text": "And John said to them: Exact (collect) no more than that which is appointed (set) for you." },
+      { "n": 14, "text": "And the soldiers likewise demanded of John, saying: And what will we do? And John said to them: Do violence to no man, neither accuse any falsely. And be content with your wages (pay)." },
+      { "n": 15, "text": "And as the people were in expectation, and all men mused (wondered) in their hearts of John, whether he were the Christ, or not," },
+      { "n": 16, "text": "John answered, saying to them all: I indeed baptize you with water. But One mightier than I comes, the latchet (strap) of whose shoes I am not worthy to unloose (untie). He will baptize you with the Holy Spirit and with fire." },
+      { "n": 17, "text": "His fan (winnowing tool) is in His hand, and He will throughly purge (completely clean) His floor, and will gather the wheat into His garner (barn). But the chaff (husks) He will burn with fire unquenchable (that cannot be put out)." },
+      { "n": 18, "text": "And many other things in his exhortation (encouraging) John preached to the people." },
+      { "n": 19, "text": "But Herod the tetrarch (ruler over part of a land), being reproved (corrected) by John for Herodias his brother Philip's wife, and for all the evils which Herod had done," },
+      { "n": 20, "text": "Added yet this above all, that he shut up John in prison." },
+      { "n": 21, "text": "Now when all the people were baptized, it came to pass (happened), that Jesus also being baptized, and praying, the heaven was opened," },
+      { "n": 22, "text": "And the Holy Spirit descended (came down) in a bodily shape like a dove upon Him, and a voice came from heaven, which said: You are My beloved (dearly loved) Son. In You I am well pleased." },
+      { "n": 23, "text": "And Jesus Himself began to be about 30 years of age, being, as was supposed (thought), the son of Joseph, who was the son of Heli," },
+      { "n": 24, "text": "Who was the son of Matthat, who was the son of Levi, who was the son of Melchi, who was the son of Janna, who was the son of Joseph," },
+      { "n": 25, "text": "Who was the son of Mattathias, who was the son of Amos, who was the son of Naum, who was the son of Esli, who was the son of Nagge," },
+      { "n": 26, "text": "Who was the son of Maath, who was the son of Mattathias, who was the son of Semei, who was the son of Joseph, who was the son of Juda," },
+      { "n": 27, "text": "Who was the son of Joanna, who was the son of Rhesa, who was the son of Zorobabel (Zerubbabel), who was the son of Salathiel, who was the son of Neri," },
+      { "n": 28, "text": "Who was the son of Melchi, who was the son of Addi, who was the son of Cosam, who was the son of Elmodam, who was the son of Er," },
+      { "n": 29, "text": "Who was the son of Jose, who was the son of Eliezer, who was the son of Jorim, who was the son of Matthat, who was the son of Levi," },
+      { "n": 30, "text": "Who was the son of Simeon, who was the son of Juda, who was the son of Joseph, who was the son of Jonan, who was the son of Eliakim," },
+      { "n": 31, "text": "Who was the son of Melea, who was the son of Menan, who was the son of Mattatha, who was the son of Nathan, who was the son of David," },
+      { "n": 32, "text": "Who was the son of Jesse, who was the son of Obed, who was the son of Booz (Boaz), who was the son of Salmon, who was the son of Naasson (Nahshon)," },
+      { "n": 33, "text": "Who was the son of Aminadab, who was the son of Aram, who was the son of Esrom (Hezron), who was the son of Phares (Perez), who was the son of Juda (Judah)," },
+      { "n": 34, "text": "Who was the son of Jacob, who was the son of Isaac, who was the son of Abraham, who was the son of Thara (Terah), who was the son of Nachor (Nahor)," },
+      { "n": 35, "text": "Who was the son of Saruch (Serug), who was the son of Ragau (Reu), who was the son of Phalec (Peleg), who was the son of Heber, who was the son of Sala," },
+      { "n": 36, "text": "Who was the son of Cainan, who was the son of Arphaxad, who was the son of Sem (Shem), who was the son of Noe (Noah), who was the son of Lamech," },
+      { "n": 37, "text": "Who was the son of Mathusala (Methuselah), who was the son of Enoch, who was the son of Jared, who was the son of Maleleel, who was the son of Cainan," },
+      { "n": 38, "text": "Who was the son of Enos, who was the son of Seth, who was the son of Adam, who was the son of God." }
     ]
   },
   "4": {
