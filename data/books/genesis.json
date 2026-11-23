@@ -1555,636 +1555,238 @@
   },
   "41": {
     "verses": [
-      { "n": 1, "text": "After 2 full years, Pharaoh had a dream. In the dream Pharaoh was standing by the Nile River." },
-      { "n": 2, "text": "Out of the river came 7 cows. They were fat and healthy, and they ate grass by the river." },
-      { "n": 3, "text": "Then 7 other cows came up out of the river after them. They were ugly and thin. They stood beside the fat cows on the bank of the river." },
-      { "n": 4, "text": "The ugly, thin cows ate the 7 fat cows. Then Pharaoh woke up." },
-      { "n": 5, "text": "Pharaoh fell asleep again and had a 2nd dream. He saw 7 heads of grain growing on one stalk. They were full and good." },
-      { "n": 6, "text": "Then 7 other heads of grain grew up after them. They were thin and dried up by the east wind." },
-      { "n": 7, "text": "The thin heads of grain swallowed the 7 full, good heads. Pharaoh woke up and knew it was a dream." },
-      { "n": 8, "text": "In the morning Pharaoh was troubled. He sent for all the magicians and wise men of Egypt. Pharaoh told them his dreams, but no one could tell him what the dreams meant." },
-      { "n": 9, "text": "Then the chief cupbearer spoke to Pharaoh. He said: Today I remember my own wrongs." },
-      { "n": 10, "text": "Pharaoh was angry with his servants. He put me and the chief baker in the prison of the captain of the guard." },
-      { "n": 11, "text": "We each had a dream on the same night. Each dream had its own meaning." },
-      { "n": 12, "text": "A young Hebrew man was there with us. He was a servant of the captain of the guard. We told him our dreams, and he told us what each dream meant." },
-      { "n": 13, "text": "It happened just as he said. Pharaoh gave me my job back, and Pharaoh hanged the other man." },
-      { "n": 14, "text": "Pharaoh sent for Joseph, and the guards quickly brought him out of the prison. Joseph shaved and changed his clothes. Then Joseph came to Pharaoh." },
-      { "n": 15, "text": "Pharaoh said to Joseph: I had a dream, and no one can tell me what it means. I have heard that you can understand a dream and tell what it means." },
-      { "n": 16, "text": "Joseph answered Pharaoh: I cannot do it. But God will give Pharaoh a good answer." },
-      { "n": 17, "text": "Pharaoh said to Joseph: In my dream I was standing on the bank of the Nile River." },
-      { "n": 18, "text": "Out of the river came 7 cows. They were fat and healthy, and they ate grass by the river." },
-      { "n": 19, "text": "Then 7 other cows came up after them. They were very ugly and thin. I have never seen such ugly cows in all the land of Egypt." },
-      { "n": 20, "text": "The thin, ugly cows ate the first 7 fat cows." },
-      { "n": 21, "text": "After they ate them, no one could tell that they had eaten them. The thin cows were still as ugly as before. Then I woke up." },
-      { "n": 22, "text": "In my other dream I saw 7 heads of grain growing on one stalk. They were full and good." },
-      { "n": 23, "text": "Then 7 other heads of grain grew up after them. They were dry, thin and dried up by the east wind." },
-      { "n": 24, "text": "The thin heads of grain swallowed the 7 good heads. I told this to the magicians, but none of them could tell me what it means." },
-      { "n": 25, "text": "Joseph said to Pharaoh: Both dreams of Pharaoh mean the same thing. God has shown Pharaoh what He is going to do." },
-      { "n": 26, "text": "The 7 good cows are 7 years. The 7 good heads of grain are 7 years. Both dreams mean the same thing." },
-      { "n": 27, "text": "The 7 thin, ugly cows that came up after them are 7 years. The 7 empty heads of grain dried up by the east wind are also 7 years. They will be 7 years of famine." },
-      { "n": 28, "text": "It is as I said to Pharaoh. God has shown Pharaoh what He is going to do." },
-      { "n": 29, "text": "There will be 7 years of great plenty in all the land of Egypt." },
-      { "n": 30, "text": "After them there will be 7 years of famine. The people will forget all the plenty in Egypt. The famine will destroy the land." },
-      { "n": 31, "text": "No one will remember the plenty in the land, because the famine that follows will be so terrible." },
-      { "n": 32, "text": "Pharaoh had the dream 2 times because God has decided this. God will do it soon." },
-      { "n": 33, "text": "Now let Pharaoh find a wise man who understands. Let Pharaoh put him in charge of the land of Egypt." },
-      { "n": 34, "text": "Let Pharaoh choose officers over the land. Let them take a fifth of the food of Egypt during the 7 years of plenty." },
-      { "n": 35, "text": "Let them gather all the food of these good years. Let them store the grain in the cities under Pharaoh's control and keep it there." },
-      { "n": 36, "text": "This food will be saved for the land during the 7 years of famine that will come to Egypt. Then the land will not be destroyed by the famine." },
-      { "n": 37, "text": "Pharaoh and all his servants thought this was a good plan." },
-      { "n": 38, "text": "Pharaoh said to his servants: Can we find another man like this, a man who has the Spirit of God in him?" },
-      { "n": 39, "text": "Pharaoh said to Joseph: God has shown you all this. No one is as wise and understanding as you are." },
-      { "n": 40, "text": "You will be in charge of my house. All my people will obey your word. Only I, as king, will be greater than you." },
-      { "n": 41, "text": "Pharaoh said to Joseph: Look, I have put you in charge of all the land of Egypt." },
-      { "n": 42, "text": "Pharaoh took off his ring and put it on Joseph's finger. Pharaoh dressed Joseph in fine linen clothes and put a gold chain around his neck." },
-      { "n": 43, "text": "Pharaoh had Joseph ride in the chariot that was second to his own. The people called out in front of Joseph: Bow down. So Pharaoh put Joseph in charge of all the land of Egypt." },
-      { "n": 44, "text": "Pharaoh said to Joseph: I am Pharaoh. But without your word, no one in all the land of Egypt will lift his hand or foot." },
-      { "n": 45, "text": "Pharaoh gave Joseph the name Zaphenath Paneah. Pharaoh also gave Joseph a wife named Asenath, the daughter of Potiphera, priest of On. Joseph went out over all the land of Egypt." },
-      { "n": 46, "text": "Joseph was 30 years old when he stood before Pharaoh king of Egypt. Joseph left Pharaoh and traveled through all the land of Egypt." },
-      { "n": 47, "text": "During the 7 years of plenty, the land produced more than enough." },
-      { "n": 48, "text": "Joseph gathered all the food of the 7 years of plenty in Egypt. He stored the food in the cities. In each city he stored the food from the fields around it." },
-      { "n": 49, "text": "Joseph stored up so much grain that it was like the sand of the sea. He stopped counting it, because it was too much to count." },
-      { "n": 50, "text": "Before the years of famine came, Joseph's wife Asenath had 2 sons. She was the daughter of Potiphera, priest of On." },
-      { "n": 51, "text": "Joseph named his first son Manasseh, which sounds like the word for Forget. Joseph said: God has made me forget all my trouble and all my father's house." },
-      { "n": 52, "text": "Joseph named his 2nd son Ephraim, which sounds like the words for Twice Fruitful. Joseph said: God has made me fruitful in the land where I suffered." },
-      { "n": 53, "text": "The 7 years of plenty in Egypt came to an end." },
-      { "n": 54, "text": "Then the 7 years of famine began, just as Joseph had said. There was famine in all the other lands, but in all the land of Egypt there was food." },
-      { "n": 55, "text": "When all the land of Egypt was hungry, the people cried to Pharaoh for food. Pharaoh told all the Egyptians: Go to Joseph, and do what he tells you." },
-      { "n": 56, "text": "The famine spread over all the land. Joseph opened all the storehouses and sold grain to the Egyptians. The famine was terrible in the land of Egypt." },
-      { "n": 57, "text": "People from all the countries came to Egypt to buy grain from Joseph, because the famine was terrible in all the world." }
+      { "n": 1, "text": "And it came to pass at the end of 2 full years that Pharaoh dreamed. And look, he stood by the river." },
+      { "n": 2, "text": "And look, there came up out of the river 7 well favoured (good-looking) kine (cows) and fatfleshed (fat). And they fed in a meadow." },
+      { "n": 3, "text": "And look, 7 other kine (cows) came up after them out of the river, ill favoured (ugly) and leanfleshed (thin). And they stood by the other kine (cows) on the brink (edge) of the river." },
+      { "n": 4, "text": "And the ill favoured (ugly) and leanfleshed (thin) kine (cows) ate up the 7 well favoured (good-looking) and fat kine (cows). So Pharaoh awoke." },
+      { "n": 5, "text": "And Pharaoh slept and dreamed the 2nd time. And look, 7 ears of corn (heads of grain) came up on one stalk, rank (full) and good." },
+      { "n": 6, "text": "And look, 7 thin ears (heads of grain) and blasted (dried up) with the east wind sprung up after them." },
+      { "n": 7, "text": "And the 7 thin ears (heads of grain) devoured (ate up) the 7 rank (full) and full ears (heads of grain). And Pharaoh awoke, and look, it was a dream." },
+      { "n": 8, "text": "And it came to pass in the morning that Pharaoh's spirit was troubled. And he sent and called for all the magicians of Egypt, and all the wise men of it. And Pharaoh told them his dream, but there was none that could interpret (tell the meaning of) them to Pharaoh." },
+      { "n": 9, "text": "Then the chief butler (cupbearer) spoke to Pharaoh, saying: I do remember my faults this day." },
+      { "n": 10, "text": "Pharaoh was wroth (very angry) with his servants, and put me in ward (under guard) in the captain of the guard's house, both me and the chief baker." },
+      { "n": 11, "text": "And we dreamed a dream in one night, I and he. We dreamed each man according to the interpretation (meaning) of his dream." },
+      { "n": 12, "text": "And there was there with us a young man, a Hebrew, servant to the captain of the guard. And we told him, and he interpreted (told the meaning of) to us our dreams. To each man according to his dream he did interpret (tell the meaning of)." },
+      { "n": 13, "text": "And it came to pass, as he interpreted (told the meaning of) to us, so it was. Me Pharaoh restored to my office (job), and the baker he hanged." },
+      { "n": 14, "text": "Then Pharaoh sent and called Joseph, and they brought him hastily (quickly) out of the dungeon. And Joseph shaved himself, and changed his raiment (clothes), and came in to Pharaoh." },
+      { "n": 15, "text": "And Pharaoh said to Joseph: I have dreamed a dream, and there is none that can interpret (tell the meaning of) it. And I have heard it said of you that you can understand a dream to interpret (tell the meaning of) it." },
+      { "n": 16, "text": "And Joseph answered Pharaoh, saying: It is not in me. God shall give Pharaoh an answer of peace." },
+      { "n": 17, "text": "And Pharaoh said to Joseph: In my dream, look, I stood on the bank of the river." },
+      { "n": 18, "text": "And look, there came up out of the river 7 kine (cows), fatfleshed (fat) and well favoured (good-looking). And they fed in a meadow." },
+      { "n": 19, "text": "And look, 7 other kine (cows) came up after them, poor and very ill favoured (ugly) and leanfleshed (thin), such as I never saw in all the land of Egypt for badness." },
+      { "n": 20, "text": "And the lean and the ill favoured (ugly) kine (cows) ate up the first 7 fat kine (cows)." },
+      { "n": 21, "text": "And when they had eaten them up, it could not be known that they had eaten them. But they were still ill favoured (ugly), as at the beginning. So I awoke." },
+      { "n": 22, "text": "And I saw in my dream, and look, 7 ears (heads of grain) came up in one stalk, full and good." },
+      { "n": 23, "text": "And look, 7 ears (heads of grain), withered, thin, and blasted (dried up) with the east wind, sprung up after them." },
+      { "n": 24, "text": "And the thin ears (heads of grain) devoured (ate up) the 7 good ears (heads of grain). And I told this to the magicians, but there was none that could declare (explain) it to me." },
+      { "n": 25, "text": "And Joseph said to Pharaoh: The dream of Pharaoh is one. God has shown Pharaoh what He is about to do." },
+      { "n": 26, "text": "The 7 good kine (cows) are 7 years, and the 7 good ears (heads of grain) are 7 years. The dream is one." },
+      { "n": 27, "text": "And the 7 thin and ill favoured (ugly) kine (cows) that came up after them are 7 years. And the 7 empty ears (heads of grain) blasted (dried up) with the east wind shall be 7 years of famine (time of no food)." },
+      { "n": 28, "text": "This is the thing which I have spoken to Pharaoh: what God is about to do He shows to Pharaoh." },
+      { "n": 29, "text": "Look, there come 7 years of great plenty throughout all the land of Egypt." },
+      { "n": 30, "text": "And there shall arise after them 7 years of famine (time of no food). And all the plenty shall be forgotten in the land of Egypt, and the famine (time of no food) shall consume (eat up) the land." },
+      { "n": 31, "text": "And the plenty shall not be known in the land because of that famine (time of no food) following, for it shall be very grievous (very bad)." },
+      { "n": 32, "text": "And because the dream was doubled to Pharaoh twice, it is because the thing is established by God, and God will shortly bring it to pass." },
+      { "n": 33, "text": "Now then, let Pharaoh look out a man discreet (wise in judgment) and wise, and set him over the land of Egypt." },
+      { "n": 34, "text": "Let Pharaoh do this, and let him appoint officers over the land, and take up the 5th part of the land of Egypt in the 7 plenteous (plentiful) years." },
+      { "n": 35, "text": "And let them gather all the food of those good years that come, and lay up corn (grain) under the hand of Pharaoh. And let them keep food in the cities." },
+      { "n": 36, "text": "And that food shall be for store to the land against the 7 years of famine (time of no food), which shall be in the land of Egypt, so that the land does not perish (die) through the famine (time of no food)." },
+      { "n": 37, "text": "And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants." },
+      { "n": 38, "text": "And Pharaoh said to his servants: Can we find such a one as this is, a man in whom the Spirit of God is?" },
+      { "n": 39, "text": "And Pharaoh said to Joseph: Since God has shown you all this, there is none so discreet (wise in judgment) and wise as you are." },
+      { "n": 40, "text": "You shall be over my house, and according to your word all my people shall be ruled. Only in the throne will I be greater than you." },
+      { "n": 41, "text": "And Pharaoh said to Joseph: See, I have set you over all the land of Egypt." },
+      { "n": 42, "text": "And Pharaoh took off his ring from his hand, and put it on Joseph's hand, and arrayed (dressed) him in vestures (clothes) of fine linen, and put a gold chain around his neck." },
+      { "n": 43, "text": "And Pharaoh made him to ride in the 2nd chariot which he had. And they cried before him: Bow the knee. And Pharaoh made him ruler over all the land of Egypt." },
+      { "n": 44, "text": "And Pharaoh said to Joseph: I am Pharaoh, and without you no man shall lift up his hand or foot in all the land of Egypt." },
+      { "n": 45, "text": "And Pharaoh called Joseph's name Zaphnathpaaneah. And he gave him as wife Asenath the daughter of Potipherah priest of On. And Joseph went out over all the land of Egypt." },
+      { "n": 46, "text": "And Joseph was 30 years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt." },
+      { "n": 47, "text": "And in the 7 plenteous (plentiful) years the earth brought out by handfuls." },
+      { "n": 48, "text": "And Joseph gathered up all the food of the 7 years, which were in the land of Egypt, and laid up the food in the cities. The food of the field, which was around every city, he laid up in the same." },
+      { "n": 49, "text": "And Joseph gathered corn (grain) as the sand of the sea, very much, until he left numbering (stopped counting), for it was without number." },
+      { "n": 50, "text": "And to Joseph were born 2 sons before the years of famine (time of no food) came, which Asenath the daughter of Potipherah priest of On bore to him." },
+      { "n": 51, "text": "And Joseph called the name of the firstborn Manasseh (making forget). For God, he said, has made me forget all my toil (hard work), and all my father's house." },
+      { "n": 52, "text": "And the name of the 2nd he called Ephraim (fruitful). For God has caused me to be fruitful (grow and do well) in the land of my affliction (suffering)." },
+      { "n": 53, "text": "And the 7 years of plenteousness (plenty), that was in the land of Egypt, were ended." },
+      { "n": 54, "text": "And the 7 years of dearth (time of no food) began to come, as Joseph had said. And the dearth (time of no food) was in all lands, but in all the land of Egypt there was bread." },
+      { "n": 55, "text": "And when all the land of Egypt was famished (starving), the people cried to Pharaoh for bread. And Pharaoh said to all the Egyptians: Go to Joseph. What he says to you, do." },
+      { "n": 56, "text": "And the famine (time of no food) was over all the face of the earth. And Joseph opened all the storehouses, and sold to the Egyptians. And the famine (time of no food) waxed (grew) sore (very bad) in the land of Egypt." },
+      { "n": 57, "text": "And all countries came into Egypt to Joseph to buy corn (grain), because the famine (time of no food) was so sore (very bad) in all lands." }
     ],
     "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. Check: 'kine' is 'cows'; 'corn' is 'grain'; 'Abrech' (verse 43) is rendered 'Bow down'; 'fifth part' (verse 34) is 'a fifth'; verse 45 name is Zaphenath Paneah; Manasseh and Ephraim meanings are given as sounds-like words; verse 38 'Spirit of God' is capitalized.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V45 keeps the KJV's name Zaphnathpaaneah. V54 keeps the KJV's dearth (time of no food). Kept hidden (needs-review) until the editor reviews it.",
     "sourceUrl": "https://kjvdeaf.com/old-testament/genesis/genesis-chapter-41/",
     "status": "needs-review",
     "videos": []
   },
   "42": {
     "verses": [
-      {
-        "n": 1,
-        "text": "People told Jacob that there was wheat in Egypt and Jacob asked his sons: Why are you sitting and just looking at each other?"
-      },
-      {
-        "n": 2,
-        "text": "The people told me that there is wheat in Egypt. My sons, you must go there and buy wheat for us so that we can have food to eat and not die from hunger."
-      },
-      {
-        "n": 3,
-        "text": "Then 10 of Joseph's brothers went to Egypt to buy corn."
-      },
-      {
-        "n": 4,
-        "text": "Jacob did not send Benjamin. (Benjamin was Joseph's only full brother.) Jacob was afraid that something bad might happen to Benjamin."
-      },
-      {
-        "n": 5,
-        "text": "So Israel's (also called Jacob) sons went with other people of Canaan to buy corn in Egypt, because there was a famine in the land of Canaan."
-      },
-      {
-        "n": 6,
-        "text": "Joseph was the ruler of the land of Egypt, and Joseph sold the corn to the people. When Joseph's brothers came to Joseph, the brothers bowed before Joseph."
-      },
-      {
-        "n": 7,
-        "text": "Joseph saw his brothers and recognized them, but Joseph pretended not to know the brothers. Joseph spoke harshly to the brothers and asked: Where do you come from? The brothers said: We come from Canaan. We have come to buy food."
-      },
-      {
-        "n": 8,
-        "text": "Joseph knew that they were his brothers, but they did not know that he was Joseph."
-      },
-      {
-        "n": 9,
-        "text": "Joseph remembered the dreams Joseph had dreamed about the brothers and said to the brothers: You are spies. You have come to see how you can attack our land."
-      },
-      {
-        "n": 10,
-        "text": "The brothers said to Joseph: No, we have come to buy food."
-      },
-      {
-        "n": 11,
-        "text": "We are all sons from one father. We are honest. We are not spies."
-      },
-      {
-        "n": 12,
-        "text": "But Joseph said to the brothers: No, you have come to see how you can attack our land."
-      },
-      {
-        "n": 13,
-        "text": "The brothers said: We were 12 brothers, the sons of one man in the land of Canaan. Our youngest brother is still with our father, and our other brother is dead."
-      },
-      {
-        "n": 14,
-        "text": "Joseph said to the brothers: It is like I told you. You are spies."
-      },
-      {
-        "n": 15,
-        "text": "Joseph said, I will test you and see if what you are saying is true. You will not leave here until your youngest brother also comes here, as sure as Pharaoh lives."
-      },
-      {
-        "n": 16,
-        "text": "One of you must go and get your brother, but the others will stay here in prison. Then I will find out if you are telling the truth or not. You are spies, as sure as Pharaoh lives."
-      },
-      {
-        "n": 17,
-        "text": "Joseph put all the brothers in prison for 3 days."
-      },
-      {
-        "n": 18,
-        "text": "On the 3rd day Joseph said to the brothers: I fear God. If you do what I say, I will not kill you."
-      },
-      {
-        "n": 19,
-        "text": "If you are honest men, one of you must stay here in prison. The other brothers can go and take wheat to your hungry people at home."
-      },
-      {
-        "n": 20,
-        "text": "Joseph said, You must then bring your youngest brother to me. Then I will believe you, and you will not die. The brothers said: Yes, we will do what you say."
-      },
-      {
-        "n": 21,
-        "text": "The brothers said to each other: We are guilty because we did something very bad to our brother. We saw that Joseph was afraid, and Joseph begged us to help him, but we did not listen. That is why we have these problems."
-      },
-      {
-        "n": 22,
-        "text": "Reuben said to his brothers: I told you not to do it to the child, but you did not want to listen. It is our fault that Joseph is dead."
-      },
-      {
-        "n": 23,
-        "text": "The brothers did not realize that Joseph understood everything that they said to each other, because when the brothers talked to Joseph, someone interpreted it for Joseph."
-      },
-      {
-        "n": 24,
-        "text": "Joseph went out and cried. Then Joseph came back and talked to the brothers. Then Joseph tied up Simeon in front of the brothers."
-      },
-      {
-        "n": 25,
-        "text": "Joseph told the servants to fill the bags with grain. The brothers had given money for the corn, but Joseph did not keep the money. Joseph had their money put into their bags of corn. Then Joseph gave the brothers what they would need for their trip back home."
-      },
-      {
-        "n": 26,
-        "text": "Joseph's brothers put the corn on their donkeys and they went back home."
-      },
-      {
-        "n": 27,
-        "text": "At the lodging place, as one of Joseph's brothers opened his sack to feed his donkey, the brother saw his money in the opening of his sack."
-      },
-      {
-        "n": 28,
-        "text": "The brother said to the other brothers: They have put my money back. Here it is in my bag. The brothers became afraid. They asked each other: What has God done to us?"
-      },
-      {
-        "n": 29,
-        "text": "The brothers went back to their father Jacob in the land of Canaan. The brothers told Jacob about everything that had happened."
-      },
-      {
-        "n": 30,
-        "text": "The brothers said: The man who is the ruler of the land was angry when he talked to us and he put us in prison. He said that we were spies in his land."
-      },
-      {
-        "n": 31,
-        "text": "We told him that we were honest, and we were not spies."
-      },
-      {
-        "n": 32,
-        "text": "We told him that we were 12 brothers, all sons of the same father, and that one brother was dead and the youngest brother was with our father in Canaan."
-      },
-      {
-        "n": 33,
-        "text": "The ruler of the land said to us: I will find out if you are honest. One of your brothers must stay here with me. Go back and take food for your hungry people at home."
-      },
-      {
-        "n": 34,
-        "text": "But you must bring your youngest brother to me, and then I will know that you are not spies but honest people. Then I will give your brother back and you may go to any place in our land."
-      },
-      {
-        "n": 35,
-        "text": "Jacob's sons opened their bags to take out the food, and each brother saw that his money bag with his money was in his bag. Then the brothers and their father all became afraid and they trembled."
-      },
-      {
-        "n": 36,
-        "text": "Their father Jacob said to them: You want to take away all of my children. Joseph is no more, and Simeon is no more, and you would take Benjamin from me. All these things are working against me"
-      },
-      {
-        "n": 37,
-        "text": "Reuben said to his father Jacob: Father, you may kill my 2 sons if I do not bring Benjamin back to you. Father, trust me. I will bring Benjamin back to you."
-      },
-      {
-        "n": 38,
-        "text": "Jacob said: My son Benjamin will not go with you. Benjamin's brother is dead, and Benjamin is the only one left from that mother. If something bad happens to Benjamin on the way, I will be so sad that I will die, because I am an old man."
-      }
+      { "n": 1, "text": "Now when Jacob saw that there was corn (grain) in Egypt, Jacob said to his sons: Why do you look one on another?" },
+      { "n": 2, "text": "And Jacob said: Look, I have heard that there is corn (grain) in Egypt. Get down there, and buy for us from there, so that we may live, and not die." },
+      { "n": 3, "text": "And Joseph's 10 brethren (brothers) went down to buy corn (grain) in Egypt." },
+      { "n": 4, "text": "But Benjamin, Joseph's brother, Jacob did not send with his brethren (brothers). For Jacob said: Peradventure (maybe) mischief (harm) might befall (happen to) him." },
+      { "n": 5, "text": "And the sons of Israel came to buy corn (grain) among those that came, for the famine (time of no food) was in the land of Canaan." },
+      { "n": 6, "text": "And Joseph was the governor over the land, and he was the one that sold to all the people of the land. And Joseph's brethren (brothers) came, and bowed down themselves before him with their faces to the earth." },
+      { "n": 7, "text": "And Joseph saw his brethren (brothers), and he knew them, but made himself strange (acted like a stranger) to them, and spoke roughly to them. And he said to them: Where do you come from? And they said: From the land of Canaan to buy food." },
+      { "n": 8, "text": "And Joseph knew his brethren (brothers), but they did not know him." },
+      { "n": 9, "text": "And Joseph remembered the dreams which he dreamed of them, and said to them: You are spies. You have come to see the nakedness (weak places) of the land." },
+      { "n": 10, "text": "And they said to him: No, my lord, but your servants have come to buy food." },
+      { "n": 11, "text": "We are all one man's sons. We are true men. Your servants are no spies." },
+      { "n": 12, "text": "And Joseph said to them: No, but you have come to see the nakedness (weak places) of the land." },
+      { "n": 13, "text": "And they said: Your servants are 12 brethren (brothers), the sons of one man in the land of Canaan. And look, the youngest is this day with our father, and one is not (is gone)." },
+      { "n": 14, "text": "And Joseph said to them: That is what I spoke to you, saying: You are spies." },
+      { "n": 15, "text": "By this you shall be proved (tested): by the life of Pharaoh you shall not go out from here, except your youngest brother comes here." },
+      { "n": 16, "text": "Send one of you, and let him fetch your brother, and you shall be kept in prison, so that your words may be proved, whether there is any truth in you. Or else by the life of Pharaoh surely you are spies." },
+      { "n": 17, "text": "And Joseph put them all together into ward (under guard) 3 days." },
+      { "n": 18, "text": "And Joseph said to them the 3rd day: Do this, and live, for I fear God." },
+      { "n": 19, "text": "If you are true men, let one of your brethren (brothers) be bound in the house of your prison. Go, carry corn (grain) for the famine (time of no food) of your houses." },
+      { "n": 20, "text": "But bring your youngest brother to me. So your words shall be verified (proved true), and you shall not die. And they did so." },
+      { "n": 21, "text": "And they said one to another: We are verily (truly) guilty about our brother, in that we saw the anguish (deep pain) of his soul, when he besought (begged) us, and we would not hear. So this trouble has come on us." },
+      { "n": 22, "text": "And Reuben answered them, saying: Did I not speak to you, saying: Do not sin against the child, and you would not hear? So look, also his blood is required (must be paid for)." },
+      { "n": 23, "text": "And they did not know that Joseph understood them, for he spoke to them by an interpreter (one who changes words into another language)." },
+      { "n": 24, "text": "And Joseph turned himself away from them, and wept. And he returned to them again, and communed (talked) with them, and took from them Simeon, and bound him before their eyes." },
+      { "n": 25, "text": "Then Joseph commanded to fill their sacks with corn (grain), and to restore every man's money into his sack, and to give them provision (food) for the way. And so he did to them." },
+      { "n": 26, "text": "And they laded (loaded) their asses (donkeys) with the corn (grain), and departed from there." },
+      { "n": 27, "text": "And as one of them opened his sack to give his ass (donkey) provender (animal food) in the inn, he espied (saw) his money. For look, it was in his sack's mouth." },
+      { "n": 28, "text": "And he said to his brethren (brothers): My money is restored. And look, it is even in my sack. And their heart failed them, and they were afraid, saying one to another: What is this that God has done to us?" },
+      { "n": 29, "text": "And they came to Jacob their father to the land of Canaan, and told him all that befell (happened) to them, saying:" },
+      { "n": 30, "text": "The man, who is the lord of the land, spoke roughly to us, and took us for spies of the country." },
+      { "n": 31, "text": "And we said to him: We are true men. We are no spies." },
+      { "n": 32, "text": "We are 12 brethren (brothers), sons of our father. One is not, and the youngest is this day with our father in the land of Canaan." },
+      { "n": 33, "text": "And the man, the lord of the country, said to us: By this I shall know that you are true men: leave one of your brethren (brothers) here with me, and take food for the famine (time of no food) of your households, and be gone." },
+      { "n": 34, "text": "And bring your youngest brother to me. Then I shall know that you are no spies, but that you are true men. So I will deliver to you your brother, and you shall traffick (trade) in the land." },
+      { "n": 35, "text": "And it came to pass as they emptied their sacks that, look, every man's bundle of money was in his sack. And when both they and their father saw the bundles of money, they were afraid." },
+      { "n": 36, "text": "And Jacob their father said to them: You have bereaved (robbed) me of my children. Joseph is not, and Simeon is not, and you will take Benjamin away. All these things are against me." },
+      { "n": 37, "text": "And Reuben spoke to his father, saying: Slay my 2 sons, if I do not bring Benjamin to you. Deliver him into my hand, and I will bring him to you again." },
+      { "n": 38, "text": "And Jacob said: My son shall not go down with you, for his brother is dead, and he is left alone. If mischief (harm) befalls (happens to) him by the way in which you go, then you shall bring down my gray hairs with sorrow to the grave." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genises-chapter-42/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V21 uses trouble for the KJV's distress (house rule). V38 keeps the KJV's grave.",
     "videos": []
   },
   "43": {
     "verses": [
-      {
-        "n": 1,
-        "text": "The famine was very bad in that country."
-      },
-      {
-        "n": 2,
-        "text": "The people ate all the grain they had brought from Egypt. When that grain was gone, Jacob said to his sons: Go to Egypt and buy some more grain for us to eat."
-      },
-      {
-        "n": 3,
-        "text": "But Judah said to Jacob: The governor of that country warned us. He said: If you don't bring your brother back to me, I will refuse to talk to you."
-      },
-      {
-        "n": 4,
-        "text": "If you send Benjamin with us, we will go down and buy grain."
-      },
-      {
-        "n": 5,
-        "text": "But if you refuse to send Benjamin, we will not go. The man warned us to not come back without him."
-      },
-      {
-        "n": 6,
-        "text": "Israel said: Why did you tell him you had another brother? Why did you do such a bad thing to me?"
-      },
-      {
-        "n": 7,
-        "text": "The brothers answered: The man asked lots of questions. The man wanted to know all about us and about our family. The man asked us: Is your father still alive? Do you have another brother at home? We only answered the man's questions. We didn't know the man would ask us to bring our brother to him!"
-      },
-      {
-        "n": 8,
-        "text": "Then Judah said to his father Israel: Let Benjamin go with me. I will take care of him. We have to go to Egypt to get food. If we don't go, we will all die, including our children."
-      },
-      {
-        "n": 9,
-        "text": "I will make sure he is safe. I will be responsible for him. If I don't bring him back to you, you can blame me forever."
-      },
-      {
-        "n": 10,
-        "text": "If you had let us go before, we could have already made two trips for food."
-      },
-      {
-        "n": 11,
-        "text": "Then their father Israel said: If it is really true, take Benjamin with you. But take some gifts to the governor. Take some of the things we have been able to gather in our land. Take the governor some honey, pistachio nuts, almonds, spices, and myrrh."
-      },
-      {
-        "n": 12,
-        "text": "Take twice as much money with you this time. Take the money that was given back to you after you paid last time. Maybe the governor made a mistake."
-      },
-      {
-        "n": 13,
-        "text": "Take Benjamin and go back to the man."
-      },
-      {
-        "n": 14,
-        "text": "I pray that God All-Powerful will make the man kind to you, so that the man will let your other brother and Benjamin come back with you. If I must lose my children, then I will lose them."
-      },
-      {
-        "n": 15,
-        "text": "Joseph's brothers took the gifts and more money than they had the first time, and they took Benjamin with them. They went to Egypt, and they stood before Joseph."
-      },
-      {
-        "n": 16,
-        "text": "When Joseph saw that Benjamin was with them, Joseph told the manager of his house: Bring these men to my house. Kill a cow and prepare food. They will eat with me at noon today"
-      },
-      {
-        "n": 17,
-        "text": "The man did what Joseph said, and he took Joseph's brothers to Joseph's house."
-      },
-      {
-        "n": 18,
-        "text": "The brothers were afraid when the man took them to Joseph's house. Joseph's brothers said: It is because of the money that was in our bags the first time we came. They are bringing us here to catch us and put us in prison. We will be their slaves, and they will take our donkeys."
-      },
-      {
-        "n": 19,
-        "text": "The brothers went to talk to the man who was the manager of Joseph's house."
-      },
-      {
-        "n": 20,
-        "text": "The brothers said, Please, sir, we came here before to buy food."
-      },
-      {
-        "n": 21,
-        "text": "When we came to the place where we wanted to sleep, we opened our bags and then we saw that each man's money was still in his bag. It was the money that we had paid for the corn. We have brought the money back."
-      },
-      {
-        "n": 22,
-        "text": "We have also brought more money to buy food. We do not know who put our money back into our bags."
-      },
-      {
-        "n": 23,
-        "text": "The manager of the house said: You must not be worried or afraid. Your God, and your father's God gave you the money in your bags. I have the money that you paid. Then the manager brought Simeon to the brothers."
-      },
-      {
-        "n": 24,
-        "text": "The manager took the brothers to Joseph's house. The manager gave them water to wash their feet, and he gave their donkeys food"
-      },
-      {
-        "n": 25,
-        "text": "Joseph's brothers heard that they were going to eat with Joseph, so they worked until noon preparing their gifts for Joseph."
-      },
-      {
-        "n": 26,
-        "text": "When Joseph came home, Joseph's brothers brought their gifts and then Joseph's brothers bowed down before Joseph."
-      },
-      {
-        "n": 27,
-        "text": "Joseph asked his brothers how they were and Joseph also asked: How is your father who is so old that you told me about? Is he still alive?"
-      },
-      {
-        "n": 28,
-        "text": "Joseph's brothers answered: Our father is in good health. He is still alive. And again, Joseph's brothers bowed down before Joseph."
-      },
-      {
-        "n": 29,
-        "text": "Then Joseph saw his brother Benjamin. (Benjamin and Joseph had the same mother.) Joseph said, Is this your youngest brother that you told me about? Then Joseph said to Benjamin, God bless you, my son!"
-      },
-      {
-        "n": 30,
-        "text": "Joseph went out of the room quickly because Joseph's heart was deeply touched over Benjamin. Joseph went into his bedroom to cry."
-      },
-      {
-        "n": 31,
-        "text": "Joseph washed his face, and he came back. Joseph was calm again and said: Put the food on the table."
-      },
-      {
-        "n": 32,
-        "text": "Joseph's servants seated Joseph at a table by himself. Joseph's brothers were at another table by themselves, and the Egyptians were at a table by themselves. The Egyptians believed that it was wrong for them to eat with Hebrews"
-      },
-      {
-        "n": 33,
-        "text": "Joseph's brothers were seated at a table facing Joseph. The brothers were looking at each other because, to their surprise, they had been seated in order, from the oldest to the youngest."
-      }
+      { "n": 1, "text": "And the famine (time of no food) was sore (very bad) in the land." },
+      { "n": 2, "text": "And it came to pass, when they had eaten up the corn (grain) which they had brought out of Egypt, their father said to them: Go again, buy us a little food." },
+      { "n": 3, "text": "And Judah spoke to him, saying: The man did solemnly protest (strongly warn) to us, saying: You shall not see my face, except your brother is with you." },
+      { "n": 4, "text": "If you will send our brother with us, we will go down and buy you food." },
+      { "n": 5, "text": "But if you will not send him, we will not go down. For the man said to us: You shall not see my face, except your brother is with you." },
+      { "n": 6, "text": "And Israel said: Why did you deal so ill (badly) with me, as to tell the man whether you had yet a brother?" },
+      { "n": 7, "text": "And they said: The man asked us straitly (closely) about our state, and about our kindred, saying: Is your father yet alive? Have you another brother? And we told him according to the tenor (meaning) of these words. Could we certainly know that he would say: Bring your brother down?" },
+      { "n": 8, "text": "And Judah said to Israel his father: Send the lad (boy) with me, and we will arise and go, so that we may live, and not die, both we, and you, and also our little ones." },
+      { "n": 9, "text": "I will be surety (guarantee) for him. Of my hand you shall require him. If I do not bring him to you, and set him before you, then let me bear the blame forever." },
+      { "n": 10, "text": "For except we had lingered, surely now we would have returned this 2nd time." },
+      { "n": 11, "text": "And their father Israel said to them: If it must be so now, do this: take of the best fruits in the land in your vessels (containers), and carry down the man a present: a little balm (healing oil), and a little honey, spices, and myrrh (sweet-smelling gum), nuts, and almonds." },
+      { "n": 12, "text": "And take double money in your hand. And the money that was brought again in the mouth of your sacks, carry it again in your hand. Peradventure (maybe) it was an oversight (mistake)." },
+      { "n": 13, "text": "Take also your brother, and arise, go again to the man." },
+      { "n": 14, "text": "And God Almighty give you mercy before the man, so that he may send away your other brother, and Benjamin. If I am bereaved (robbed) of my children, I am bereaved." },
+      { "n": 15, "text": "And the men took that present, and they took double money in their hand, and Benjamin. And they rose up, and went down to Egypt, and stood before Joseph." },
+      { "n": 16, "text": "And when Joseph saw Benjamin with them, he said to the ruler of his house: Bring these men home, and slay (kill an animal), and make ready. For these men shall dine (eat) with me at noon." },
+      { "n": 17, "text": "And the man did as Joseph bade (told him). And the man brought the men into Joseph's house." },
+      { "n": 18, "text": "And the men were afraid, because they were brought into Joseph's house. And they said: Because of the money that was returned in our sacks at the first time we are brought in, so that he may seek occasion (a reason) against us, and fall on us, and take us for bondmen (slaves), and our asses (donkeys)." },
+      { "n": 19, "text": "And they came near to the steward (manager) of Joseph's house, and they communed (talked) with him at the door of the house," },
+      { "n": 20, "text": "And said: O sir, we came indeed down at the first time to buy food." },
+      { "n": 21, "text": "And it came to pass, when we came to the inn, that we opened our sacks, and look, every man's money was in the mouth of his sack, our money in full weight. And we have brought it again in our hand." },
+      { "n": 22, "text": "And other money we have brought down in our hands to buy food. We cannot tell who put our money in our sacks." },
+      { "n": 23, "text": "And the steward (manager) said: Peace be to you. Fear not. Your God, and the God of your father, has given you treasure in your sacks. I had your money. And he brought Simeon out to them." },
+      { "n": 24, "text": "And the man brought the men into Joseph's house, and gave them water, and they washed their feet. And he gave their asses (donkeys) provender (animal food)." },
+      { "n": 25, "text": "And they made ready the present for when Joseph came at noon, for they heard that they should eat bread there." },
+      { "n": 26, "text": "And when Joseph came home, they brought him the present which was in their hand into the house, and bowed themselves to him to the earth." },
+      { "n": 27, "text": "And Joseph asked them about their welfare (how they were), and said: Is your father well, the old man of whom you spoke? Is he yet alive?" },
+      { "n": 28, "text": "And they answered: Your servant our father is in good health. He is yet alive. And they bowed down their heads, and made obeisance (bowed low)." },
+      { "n": 29, "text": "And Joseph lifted up his eyes, and saw his brother Benjamin, his mother's son, and said: Is this your younger brother, of whom you spoke to me? And Joseph said: God be gracious to you, my son." },
+      { "n": 30, "text": "And Joseph made haste, for his bowels did yearn (his deep love was stirred) for his brother. And he looked for a place to weep. And he entered into his chamber (room), and wept there." },
+      { "n": 31, "text": "And Joseph washed his face, and went out, and refrained (held back) himself, and said: Set on bread." },
+      { "n": 32, "text": "And they set food for Joseph by himself, and for them by themselves, and for the Egyptians, which ate with him, by themselves. Because the Egyptians might not eat bread with the Hebrews, for that is an abomination (a hateful thing) to the Egyptians." },
+      { "n": 33, "text": "And they sat before Joseph, the firstborn according to his birthright, and the youngest according to his youth. And the men marvelled (were amazed) one at another." },
+      { "n": 34, "text": "And Joseph took and sent messes (portions of food) to them from before him. But Benjamin's mess was 5 times as much as any of theirs. And they drank, and were merry with him." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genises-chapter-43/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V34 was missing from the site and is restored from the KJV. V30 keeps the KJV's his bowels did yearn (his deep love was stirred).",
     "videos": []
   },
   "44": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Joseph told the manager of his house: Fill the men’s bags with wheat. Make it as full as they can carry and put each man’s money back into the top of his bag."
-      },
-      {
-        "n": 2,
-        "text": "Joseph said: You must put my cup, the silver cup, in the bag of the youngest brother with his money for the corn. The manager did what Joseph told him."
-      },
-      {
-        "n": 3,
-        "text": "Early the next morning, the brothers and their donkeys were sent back to their country."
-      },
-      {
-        "n": 4,
-        "text": "After Joseph's brothers had left the city, Joseph said to the manager of his house, Go and follow the men. Stop them and say to them, we were good to you! So why have you been bad to us? Why did you steal my master's silver cup?"
-      },
-      {
-        "n": 5,
-        "text": "My master drinks from that cup, and he uses it to learn secret things. What you did was wrong!"
-      },
-      {
-        "n": 6,
-        "text": "The manager went out to the brothers and stopped them. The manager told them what Joseph had said"
-      },
-      {
-        "n": 7,
-        "text": "The brothers asked the manager of the house: Why does the governor say these things? We would never do a bad thing like that."
-      },
-      {
-        "n": 8,
-        "text": "The brothers said: We brought back the money that we found in our bags before. We would never steal silver or gold from your master's house."
-      },
-      {
-        "n": 9,
-        "text": "If you find the cup in one of our bags, you may kill that person and then we will all be your slaves."
-      },
-      {
-        "n": 10,
-        "text": "The manager said: Yes, we will do as you say. But only the man in whose bag I find the cup will be my slave. All the other brothers may go."
-      },
-      {
-        "n": 11,
-        "text": "Everyone put his bag on the ground quickly and opened it"
-      },
-      {
-        "n": 12,
-        "text": "The manager looked into the bags. The manager started looking in the bag of the oldest brother and stopped at the youngest brother, and then the manager found the cup in Benjamin's bag"
-      },
-      {
-        "n": 13,
-        "text": "The brothers tore their clothes because they were sad and upset. They put everything they had on their donkeys and went back to the city."
-      },
-      {
-        "n": 14,
-        "text": "When Judah and his brothers came to Joseph's house, Joseph was still there. Judah and his brothers lay before Joseph with their faces to the ground."
-      },
-      {
-        "n": 15,
-        "text": "Joseph asked the brothers: What have you done? You must know that a man like me can tell what will happen in the future."
-      },
-      {
-        "n": 16,
-        "text": "Judah said to Joseph: Sir, what can we say to you? What can we say and how can we prove that we are innocent? God has shown that we are guilty. Sir, here we are now. We are your slaves, all of us, and the one who had your cup."
-      },
-      {
-        "n": 17,
-        "text": "Joseph said: No, I would never do that. The man who had my cup will be my slave. The others may go back to your father."
-      },
-      {
-        "n": 18,
-        "text": "Judah came to Joseph and said to Joseph: Please, sir, may I talk to you alone? Do not get angry with me. You are like Pharaoh."
-      },
-      {
-        "n": 19,
-        "text": "Sir, when we were here the first time, you asked us if we had a father and a brother."
-      },
-      {
-        "n": 20,
-        "text": "And we answered you, we have a father—he is an old man. And we have a younger brother. Our father loves him because he was born while our father was old. This youngest son's full brother is dead, so this youngest son is the only son left from that mother. Our father loves him very much"
-      },
-      {
-        "n": 21,
-        "text": "Sir, you told us to bring our youngest brother to you because you wanted to see him."
-      },
-      {
-        "n": 22,
-        "text": "Sir, we told you: That young boy cannot come. He cannot leave his father. If his father loses him, his father will be so sad that he will die"
-      },
-      {
-        "n": 23,
-        "text": "But, sir, you told us if we did not bring our youngest brother with us, then we could not see you again."
-      },
-      {
-        "n": 24,
-        "text": "We went to our father, and we told him what you said"
-      },
-      {
-        "n": 25,
-        "text": "One day our father told us that we would have to go and buy food,"
-      },
-      {
-        "n": 26,
-        "text": "But we said: We cannot go down unless our youngest brother is with us. We are not allowed to see the man's face unless our youngest brother is with us."
-      },
-      {
-        "n": 27,
-        "text": "Our father told us: You know that I had only 2 children with this wife."
-      },
-      {
-        "n": 28,
-        "text": "I let one son go away, and he was killed by a wild animal. And I haven't seen him since."
-      },
-      {
-        "n": 29,
-        "text": "If you take this son away from me and something happens to him, then I, an old man, will be so sad that I will die."
-      },
-      {
-        "n": 30,
-        "text": "Now, imagine what will happen when we go home to the father without our youngest brother—he is the most important thing in our father's life!"
-      },
-      {
-        "n": 31,
-        "text": "My father will die if he sees his son is not with us. Then it will be our fault if our father who is old dies because he is so sad."
-      },
-      {
-        "n": 32,
-        "text": "I promised my father that I would look after his son and make sure that he was safe. I said if he did not go back to my father, then it would be my fault forever."
-      },
-      {
-        "n": 33,
-        "text": "Sir, please let me stay here in my brother's place. Sir, I will be your slave, but please let the boy go back with his brothers."
-      },
-      {
-        "n": 34,
-        "text": "I cannot go back to my father if the boy is not with me. I am very afraid of what would happen to my father."
-      }
+      { "n": 1, "text": "And Joseph commanded the steward (manager) of his house, saying: Fill the men's sacks with food, as much as they can carry, and put every man's money in his sack's mouth." },
+      { "n": 2, "text": "And put my cup, the silver cup, in the sack's mouth of the youngest, and his corn (grain) money. And the steward (manager) did according to the word that Joseph had spoken." },
+      { "n": 3, "text": "As soon as the morning was light, the men were sent away, they and their asses (donkeys)." },
+      { "n": 4, "text": "And when they had gone out of the city, and were not yet far off, Joseph said to his steward (manager): Up, follow after the men. And when you overtake them, say to them: Why have you rewarded evil for good?" },
+      { "n": 5, "text": "Is not this the cup in which my lord drinks, and by which indeed he divines (tells secret things)? You have done evil in so doing." },
+      { "n": 6, "text": "And the steward (manager) overtook them, and he spoke to them these same words." },
+      { "n": 7, "text": "And they said to him: Why does my lord say these words? God forbid that your servants should do such a thing." },
+      { "n": 8, "text": "Look, the money, which we found in our sacks' mouths, we brought again to you out of the land of Canaan. How then should we steal out of your lord's house silver or gold?" },
+      { "n": 9, "text": "With whomever of your servants it is found, let him die, and we also will be my lord's bondmen (slaves)." },
+      { "n": 10, "text": "And the steward (manager) said: Now also let it be according to your words. He with whom it is found shall be my servant, and you shall be blameless." },
+      { "n": 11, "text": "Then they speedily took down every man his sack to the ground, and opened every man his sack." },
+      { "n": 12, "text": "And the steward (manager) searched, and began at the eldest, and left at the youngest. And the cup was found in Benjamin's sack." },
+      { "n": 13, "text": "Then they rent (tore) their clothes, and laded (loaded) every man his ass (donkey), and returned to the city." },
+      { "n": 14, "text": "And Judah and his brethren (brothers) came to Joseph's house, for he was yet there. And they fell before him on the ground." },
+      { "n": 15, "text": "And Joseph said to them: What deed is this that you have done? Do you not wot (know) that such a man as I can certainly divine (tell secret things)?" },
+      { "n": 16, "text": "And Judah said: What shall we say to my lord? What shall we speak? Or how shall we clear ourselves? God has found out the iniquity (sin) of your servants. Look, we are my lord's servants, both we, and he also with whom the cup is found." },
+      { "n": 17, "text": "And Joseph said: God forbid that I should do so. But the man in whose hand the cup is found, he shall be my servant. And as for you, get up in peace to your father." },
+      { "n": 18, "text": "Then Judah came near to him, and said: Oh my lord, let your servant, I pray you, speak a word in my lord's ears, and let not your anger burn against your servant. For you are even as Pharaoh." },
+      { "n": 19, "text": "My lord asked his servants, saying: Have you a father, or a brother?" },
+      { "n": 20, "text": "And we said to my lord: We have a father, an old man, and a child of his old age, a little one. And his brother is dead, and he alone is left of his mother, and his father loves him." },
+      { "n": 21, "text": "And you said to your servants: Bring him down to me, so that I may set my eyes on him." },
+      { "n": 22, "text": "And we said to my lord: The lad (boy) cannot leave his father. For if he should leave his father, his father would die." },
+      { "n": 23, "text": "And you said to your servants: Except your youngest brother comes down with you, you shall see my face no more." },
+      { "n": 24, "text": "And it came to pass when we came up to your servant my father, we told him the words of my lord." },
+      { "n": 25, "text": "And our father said: Go again, and buy us a little food." },
+      { "n": 26, "text": "And we said: We cannot go down. If our youngest brother is with us, then we will go down. For we may not see the man's face, except our youngest brother is with us." },
+      { "n": 27, "text": "And your servant my father said to us: You know that my wife bore me 2 sons." },
+      { "n": 28, "text": "And the one went out from me, and I said: Surely he is torn in pieces. And I have not seen him since." },
+      { "n": 29, "text": "And if you take this one also from me, and mischief (harm) befalls (happens to) him, you shall bring down my gray hairs with sorrow to the grave." },
+      { "n": 30, "text": "Now then when I come to your servant my father, and the lad (boy) is not with us, since his life is bound up in the lad's (boy's) life," },
+      { "n": 31, "text": "It shall come to pass, when he sees that the lad (boy) is not with us, that he will die. And your servants shall bring down the gray hairs of your servant our father with sorrow to the grave." },
+      { "n": 32, "text": "For your servant became surety (guarantee) for the lad (boy) to my father, saying: If I do not bring him to you, then I shall bear the blame to my father forever." },
+      { "n": 33, "text": "Now then, I pray you, let your servant abide (stay) instead of the lad (boy) a bondman (slave) to my lord. And let the lad (boy) go up with his brethren (brothers)." },
+      { "n": 34, "text": "For how shall I go up to my father, and the lad (boy) is not with me? Or else I will see the evil that shall come on my father." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genises-chapter-44/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs. Verse 26, previously missing from this chapter, has been restored.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V5 and v15 keep the KJV's divine (tell secret things), as Joseph's steward and Joseph say it.",
     "videos": []
   },
   "45": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Joseph could no longer stop himself from crying. Joseph told all the other people to go away, and only Joseph's brothers stayed with Joseph. Then Joseph told his brothers who Joseph was."
-      },
-      {
-        "n": 2,
-        "text": "Joseph cried so loudly that the Egyptian people heard him in Pharaoh's house."
-      },
-      {
-        "n": 3,
-        "text": "Joseph said to his brothers: I am your brother Joseph. Is Father still alive? But Joseph's brothers did not answer Joseph because they were afraid."
-      },
-      {
-        "n": 4,
-        "text": "And Joseph said to his brothers: Come here to me. I beg you, come here, and Joseph told the brothers: I am Joseph your brother. You sold me to merchants, and they brought me here to Egypt."
-      },
-      {
-        "n": 5,
-        "text": "Now do not feel bad. Don't be angry with yourselves for what you did. It was God's plan for me to come here. I am here to save people's lives."
-      },
-      {
-        "n": 6,
-        "text": "It is now the 2nd year that there has been a famine in the land. There will be a famine for another 5 years. There will be five more years without planting or harvest."
-      },
-      {
-        "n": 7,
-        "text": "So God sent me here ahead of you so that I can save your people in this country. God sent me so that I can save a lot of people."
-      },
-      {
-        "n": 8,
-        "text": "It was not you who sent me to Egypt. It was God. God chose me to tell Pharaoh what Pharaoh must do. I, Joseph, am also the chief of Pharaoh's house and the ruler of all the people in Egypt."
-      },
-      {
-        "n": 9,
-        "text": "Go to Father immediately and tell him his son Joseph says: God has made me ruler over all of Egypt. Father, you must come to me. Do not wait."
-      },
-      {
-        "n": 10,
-        "text": "You can stay in Goshen and be near me, you and your children and your grandchildren, your sheep, goats and cattle, and everything that belongs to you."
-      },
-      {
-        "n": 11,
-        "text": "I will take care of you during the next five years of famine. So, you and your family will not lose everything you own."
-      },
-      {
-        "n": 12,
-        "text": "Joseph said to his brothers: You and Benjamin can see that it is I, Joseph, speaking to you."
-      },
-      {
-        "n": 13,
-        "text": "Go and tell Father that I am an important man in Egypt. Tell him everything that you see here and hurry up. Bring Father to me."
-      },
-      {
-        "n": 14,
-        "text": "Joseph put his arms around his brother Benjamin's neck, and Joseph cried. Benjamin hugged Joseph, and Benjamin also cried."
-      },
-      {
-        "n": 15,
-        "text": "Joseph kissed all his brothers, and Joseph stood with the brothers, and they all cried. After that, his brothers talked with Joseph."
-      },
-      {
-        "n": 16,
-        "text": "Pharaoh learned that Joseph's brothers had come to Joseph. This news spread throughout Pharaoh's house. The news pleased Pharaoh and Pharaoh's servants."
-      },
-      {
-        "n": 17,
-        "text": "Pharaoh said to Joseph: Tell your brothers to put on their donkeys all the food they need and go back to the land of Canaan."
-      },
-      {
-        "n": 18,
-        "text": "Tell Joseph's brothers to bring Joseph's father and their families back here to me. I will give you the best land in Egypt to live on. And your family can eat the best food we have here"
-      },
-      {
-        "n": 19,
-        "text": "Joseph's brothers must take wagons from Egypt for their children and wives. Your father must also ride on a wagon and come here."
-      },
-      {
-        "n": 20,
-        "text": "They must not be sad about the things that they will leave in Canaan because they will get the best things here in Egypt."
-      },
-      {
-        "n": 21,
-        "text": "Jacob's sons did what Pharaoh said. Joseph gave them wagons as Pharaoh said and also food for their journey"
-      },
-      {
-        "n": 22,
-        "text": "Joseph gave each brother a suit of beautiful clothes. But to Benjamin he gave five suits of beautiful clothes and 300 pieces of silver"
-      },
-      {
-        "n": 23,
-        "text": "Joseph also sent gifts to his father. Joseph sent ten donkeys with bags full of many good things from Egypt. Joseph also sent ten female donkeys loaded with grain, bread, and other food for his father on his trip back."
-      },
-      {
-        "n": 24,
-        "text": "Joseph sent his brothers back to Canaan and Joseph told his brothers: Do not argue or fight on your way back"
-      },
-      {
-        "n": 25,
-        "text": "They went from Egypt, and they came to their father Jacob in Canaan."
-      },
-      {
-        "n": 26,
-        "text": "Joseph's brothers told their father that Joseph was still alive and that Joseph was the ruler over all of Egypt. Jacob did not know what to think. At first Jacob didn't believe the brothers."
-      },
-      {
-        "n": 27,
-        "text": "Jacob's sons told their father everything that Joseph had said. When Jacob saw the wagons that Joseph had sent him to ride on, he became very happy"
-      },
-      {
-        "n": 28,
-        "text": "And Jacob said: I am so happy. My son Joseph is still alive. I want to go and see him before I die."
-      }
+      { "n": 1, "text": "Then Joseph could not refrain (hold back) himself before all them that stood by him. And he cried: Make every man go out from me. And there stood no man with him, while Joseph made himself known to his brethren (brothers)." },
+      { "n": 2, "text": "And Joseph wept aloud. And the Egyptians and the house of Pharaoh heard." },
+      { "n": 3, "text": "And Joseph said to his brethren (brothers): I am Joseph. Does my father yet live? And his brethren (brothers) could not answer him, for they were troubled at his presence." },
+      { "n": 4, "text": "And Joseph said to his brethren (brothers): Come near to me, I pray you. And they came near. And he said: I am Joseph your brother, whom you sold into Egypt." },
+      { "n": 5, "text": "Now then do not be grieved (sad), nor angry with yourselves, that you sold me here. For God did send me before you to preserve (save) life." },
+      { "n": 6, "text": "For these 2 years the famine (time of no food) has been in the land. And yet there are 5 years, in which there shall be neither earing (plowing) nor harvest." },
+      { "n": 7, "text": "And God sent me before you to preserve you a posterity (a family line) in the earth, and to save your lives by a great deliverance (rescue)." },
+      { "n": 8, "text": "So now it was not you that sent me here, but God. And He has made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt." },
+      { "n": 9, "text": "Hurry, and go up to my father, and say to him: Your son Joseph says this: God has made me lord of all Egypt. Come down to me. Do not tarry (stay)." },
+      { "n": 10, "text": "And you shall dwell (live) in the land of Goshen, and you shall be near to me, you, and your children, and your children's children, and your flocks, and your herds, and all that you have." },
+      { "n": 11, "text": "And there I will nourish (feed) you, for yet there are 5 years of famine (time of no food), so that you, and your household, and all that you have, do not come to poverty." },
+      { "n": 12, "text": "And look, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaks to you." },
+      { "n": 13, "text": "And you shall tell my father of all my glory in Egypt, and of all that you have seen. And you shall hurry and bring down my father here." },
+      { "n": 14, "text": "And Joseph fell on his brother Benjamin's neck, and wept. And Benjamin wept on his neck." },
+      { "n": 15, "text": "Also Joseph kissed all his brethren (brothers), and wept on them. And after that his brethren (brothers) talked with him." },
+      { "n": 16, "text": "And the fame (news) of it was heard in Pharaoh's house, saying: Joseph's brethren (brothers) have come. And it pleased Pharaoh well, and his servants." },
+      { "n": 17, "text": "And Pharaoh said to Joseph: Say to your brethren (brothers): Do this: lade (load) your beasts, and go, get to the land of Canaan." },
+      { "n": 18, "text": "And take your father and your households, and come to me. And I will give you the good of the land of Egypt, and you shall eat the fat (best part) of the land." },
+      { "n": 19, "text": "Now you are commanded, do this: take wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come." },
+      { "n": 20, "text": "Also regard not (do not worry about) your stuff, for the good of all the land of Egypt is yours." },
+      { "n": 21, "text": "And the children of Israel did so. And Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision (food) for the way." },
+      { "n": 22, "text": "To all of them Joseph gave each man changes of raiment (clothes). But to Benjamin he gave 300 pieces of silver, and 5 changes of raiment (clothes)." },
+      { "n": 23, "text": "And to his father he sent in this way: 10 asses (donkeys) laden (loaded) with the good things of Egypt, and 10 she asses (female donkeys) laden (loaded) with corn (grain) and bread and meat (food) for his father by the way." },
+      { "n": 24, "text": "So Joseph sent his brethren (brothers) away, and they departed. And he said to them: See that you do not fall out (argue) by the way." },
+      { "n": 25, "text": "And they went up out of Egypt, and came into the land of Canaan to Jacob their father," },
+      { "n": 26, "text": "And told him, saying: Joseph is yet alive, and he is governor over all the land of Egypt. And Jacob's heart fainted (went weak), for he did not believe them." },
+      { "n": 27, "text": "And they told him all the words of Joseph, which he had said to them. And when Jacob saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived (came back to life)." },
+      { "n": 28, "text": "And Israel said: It is enough. Joseph my son is yet alive. I will go and see him before I die." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genises-chapter-45/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V6 keeps the KJV's earing (plowing). V8 keeps the KJV's a father to Pharaoh.",
     "videos": []
   },
   "46": {
