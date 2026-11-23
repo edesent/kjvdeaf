@@ -1,30 +1,30 @@
 {
   "3": {
-    "verses": [
-      { "n": 1, "text": "This is a prayer of the prophet Habakkuk. It is set to a tune called Shigionoth." },
-      { "n": 2, "text": "LORD, I have heard the news about You, and I am afraid. LORD, do Your work again in our time. Make it known in our time. Even when You are angry, remember to show mercy." },
-      { "n": 3, "text": "God came from Teman. The Holy One came from Mount Paran. Pause and think. His glory covered the sky. The earth was full of His praise." },
-      { "n": 4, "text": "His brightness was like light. Rays of light flashed from His hand. There His power was hidden." },
-      { "n": 5, "text": "A deadly sickness went before Him. Burning coals followed at His feet." },
-      { "n": 6, "text": "He stood and measured the earth. He looked, and the nations shook. The ancient mountains were broken apart. The old hills bowed down. His ways are forever." },
-      { "n": 7, "text": "I saw the tents of Cushan in trouble. The tent curtains of the land of Midian shook." },
-      { "n": 8, "text": "LORD, were You angry with the rivers? Were You angry with the sea? Is that why You rode Your horses and Your chariots of rescue?" },
-      { "n": 9, "text": "You uncovered Your bow. You kept the word You swore to the tribes. Pause and think. You split the earth with rivers." },
-      { "n": 10, "text": "The mountains saw You and shook. Floods of water rushed by. The deep roared and lifted its waves high." },
-      { "n": 11, "text": "The sun and moon stood still in their places. They stood still at the light of Your flying arrows. They stood still at the flash of Your shining spear." },
-      { "n": 12, "text": "You marched through the earth in anger. You crushed the nations like grain on a threshing floor." },
-      { "n": 13, "text": "You went out to save Your people. You went out to save Your anointed one. You crushed the head of the wicked house. You laid it bare from bottom to top. Pause and think." },
-      { "n": 14, "text": "You pierced the head of their army with their own spears. They rushed out like a storm to scatter us. They were happy, as if they were secretly eating up the poor." },
-      { "n": 15, "text": "You walked through the sea with Your horses. The great waters piled up." },
-      { "n": 16, "text": "I heard this, and my stomach shook. My lips trembled at the sound. My bones felt weak. I shook where I stood. I will wait quietly for the day of trouble. That is when the enemy comes up to attack our people." },
-      { "n": 17, "text": "The fig tree may not bloom. There may be no grapes on the vines. The olive crop may fail. The fields may give no food. The sheep may be gone from the pen. The barns may have no farm animals." },
-      { "n": 18, "text": "But I will still be glad in the LORD. I will be joyful in the God who saves me." },
-      { "n": 19, "text": "The Lord GOD is my strength. He makes my feet like the feet of a deer. He lets me walk on the high places. This is for the music leader, to be played on stringed instruments." }
-    ],
-    "generated": true,
-    "source": "Drafted from the public-domain King James Version in the simple-English style of this Bible. 'Selah' (verses 3, 9 and 13) is rendered 'Pause and think,' as in the Psalms. Check: verse 1 'Shigionoth' is a music term kept as a name; verse 4 'horns' is rendered 'rays of light'; verse 10 'lifted up his hands' is rendered 'lifted its waves'; verses 9, 13, 14 and 16 use very hard Hebrew wording and need careful review; verse 17 turns the long 'although' sentence into a list of short 'may' sentences that lead into verse 18.",
-    "sourceUrl": "https://kjvdeaf.com/old-testament/habakkuk/habakkuk-chapter-3/",
     "status": "published",
-    "videos": []
+    "generated": true,
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text was a loose paraphrase), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses, and no sentence over 14 words. Selah is written Selah (pause and think), as in the Psalms. V17-18 keep the KJV's Yet I will rejoice in the LORD.",
+    "sourceUrl": "https://kjvdeaf.com/old-testament/habakkuk/habakkuk-chapter-3/",
+    "videos": [],
+    "verses": [
+      { "n": 1, "text": "A prayer of Habakkuk the prophet upon Shigionoth (a kind of song)." },
+      { "n": 2, "text": "O LORD, I have heard Your speech, and was afraid. O LORD, revive (bring to life) Your work in the middle of the years. In the middle of the years make it known. In wrath (anger) remember mercy." },
+      { "n": 3, "text": "God came from Teman, and the Holy One from mount Paran. Selah (pause and think). His glory covered the heavens. And the earth was full of His praise." },
+      { "n": 4, "text": "And His brightness was as the light. He had horns (rays of light) coming out of His hand. And there was the hiding of His power." },
+      { "n": 5, "text": "Before Him went the pestilence (deadly sickness). And burning coals went forth (out) at His feet." },
+      { "n": 6, "text": "He stood, and measured the earth. He beheld (looked), and drove asunder (scattered) the nations. And the everlasting mountains were scattered. The perpetual (old) hills did bow. His ways are everlasting." },
+      { "n": 7, "text": "I saw the tents of Cushan in affliction (trouble). And the curtains of the land of Midian did tremble (shake)." },
+      { "n": 8, "text": "Was the LORD displeased against the rivers? Was Your anger against the rivers? Was Your wrath (anger) against the sea? You did ride upon Your horses and Your chariots of salvation (rescue)." },
+      { "n": 9, "text": "Your bow was made quite naked (uncovered). It was according to the oaths (promises) of the tribes, even Your word. Selah (pause and think). You did cleave (split) the earth with rivers." },
+      { "n": 10, "text": "The mountains saw You, and they trembled (shook). The overflowing of the water passed by. The deep uttered (lifted) his voice, and lifted up his hands on high." },
+      { "n": 11, "text": "The sun and moon stood still in their habitation (place). At the light of Your arrows they went. They went at the shining of Your glittering spear." },
+      { "n": 12, "text": "You did march through the land in indignation (anger). You did thresh (beat) the heathen (nations) in anger." },
+      { "n": 13, "text": "You went forth (out) for the salvation (rescue) of Your people. You went for salvation with Your anointed (chosen one). You wounded the head out of the house of the wicked. You discovered (bared) the foundation to the neck. Selah (pause and think)." },
+      { "n": 14, "text": "You did strike through with his staves (spears) the head of his villages. They came out as a whirlwind to scatter me. Their rejoicing was as to devour (eat up) the poor secretly." },
+      { "n": 15, "text": "You did walk through the sea with Your horses. You walked through the heap of great waters." },
+      { "n": 16, "text": "When I heard, my belly trembled (shook). My lips quivered at the voice. Rottenness entered into my bones, and I trembled in myself. I trembled so that I might rest in the day of trouble. The enemy comes up to the people. He will invade them with his troops." },
+      { "n": 17, "text": "The fig tree may not blossom, and fruit may not be in the vines. The labour (crop) of the olive may fail. The fields may yield no meat (food). The flock may be cut off from the fold (sheep pen). And there may be no herd in the stalls." },
+      { "n": 18, "text": "Yet I will rejoice in the LORD. I will joy in the God of my salvation." },
+      { "n": 19, "text": "The LORD God is my strength. And He will make my feet like hinds' feet (deer's feet). And He will make me to walk upon my high places. To the chief singer on my stringed instruments." }
+    ]
   }
 }
