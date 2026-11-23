@@ -1834,135 +1834,42 @@
   },
   "47": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Joseph went into Pharaoh and said, My father and my brothers and all their families are here. They have all their animals and everything they own from the land of Canaan with them. They are now in the land of Goshen"
-      },
-      {
-        "n": 2,
-        "text": "Joseph chose five of his brothers to be with him before the Pharaoh."
-      },
-      {
-        "n": 3,
-        "text": "Pharaoh asked Joseph's brothers: What kind of work do you do? Joseph's brothers said: We are shepherds, and our fathers before us were also shepherds."
-      },
-      {
-        "n": 4,
-        "text": "Joseph's brothers asked Pharaoh: May we stay in your land as strangers? The famine is very bad in Canaan. There are no fields left with grass for our animals, so we have come to live in this land. We ask you to please let us live in Goshen."
-      },
-      {
-        "n": 5,
-        "text": "Pharaoh said to Joseph: Your father and your brothers have come to you."
-      },
-      {
-        "n": 6,
-        "text": "They may stay anywhere in Egypt. Choose the best part of the land for your father and your brothers. Your father and your brothers may stay in Goshen. If your brothers are good shepherds, you must tell them also to look after my sheep."
-      },
-      {
-        "n": 7,
-        "text": "Later Joseph brought his father Jacob to meet Pharaoh. Jacob blessed Pharaoh."
-      },
-      {
-        "n": 8,
-        "text": "Pharaoh asked Jacob: How old are you?"
-      },
-      {
-        "n": 9,
-        "text": "Jacob said to Pharaoh: I have had a short life with many troubles. I am only 130 years old. My father and his ancestors lived to be much older than I am."
-      },
-      {
-        "n": 10,
-        "text": "Then Jacob blessed Pharaoh and left from his meeting with Pharaoh."
-      },
-      {
-        "n": 11,
-        "text": "Joseph did what Pharaoh said and gave his father and brothers land in Egypt. It was the best land in Egypt, in the eastern part of the country, around Rameses"
-      },
-      {
-        "n": 12,
-        "text": "Joseph provided and supplied his father and his brothers and all his father's household with food, according to the needs of their children."
-      },
-      {
-        "n": 13,
-        "text": "The famine got worse; there was no food anywhere in the land. The people of Egypt and Canaan became weak with hunger."
-      },
-      {
-        "n": 14,
-        "text": "Joseph started selling wheat to the people of Egypt and Canaan and Joseph got all the money that they had. Joseph took the money into Pharaoh's house."
-      },
-      {
-        "n": 15,
-        "text": "Later there was no money left in Egypt and Canaan. The people of Egypt came to Joseph and asked him: Please give us food. We have no more money. Sir, if you do not give us food, we will die here in front of you."
-      },
-      {
-        "n": 16,
-        "text": "Joseph said: If you do not have any money, give me your cattle, and I will give you food."
-      },
-      {
-        "n": 17,
-        "text": "So the people brought their cattle to Joseph and Joseph gave them food. Joseph gave them food for their horses, sheep, goats, cattle and donkeys. And that year, Joseph gave them food and took their animals."
-      },
-      {
-        "n": 18,
-        "text": "But the next year the people had no animals and nothing to buy food with. So they went to Joseph and said, You know that we have no money left, and all our animals belong to you. So we have nothing left, only what you see, our bodies and our land"
-      },
-      {
-        "n": 19,
-        "text": "We will die while you are watching. But if you give us food, we will give Pharaoh our land, and we will be his slaves. Give us seed so that we can plant. Then we will live and not die, and the land will grow food for us again"
-      },
-      {
-        "n": 20,
-        "text": "Joseph bought all the land in Egypt for Pharaoh. Everyone in Egypt had to sell their land because they had no food to eat. This is how all the land in Egypt became Pharaoh's land."
-      },
-      {
-        "n": 21,
-        "text": "And as for the people, Joseph relocated them to cities from one end of Egypt's border to the other."
-      },
-      {
-        "n": 22,
-        "text": "Joseph bought all the land in Egypt, but Joseph did not buy the land of the priests, because the priests lived off the food Pharaoh gave them. Therefore the priests did not sell their land."
-      },
-      {
-        "n": 23,
-        "text": "Joseph told the people: I have bought you and your land for Pharaoh. Here is seed for you. Sow it on the ground."
-      },
-      {
-        "n": 24,
-        "text": "But when you cut and harvest the wheat, you must give one 5th to Pharaoh and you can keep rest for yourselves. It is your seed that you must sow to get food to eat for you, your children and all the people in your families."
-      },
-      {
-        "n": 25,
-        "text": "They said to Joseph: You have saved our lives. You were good to us and we will be Pharaoh's slaves."
-      },
-      {
-        "n": 26,
-        "text": "So Joseph made it a law in Egypt, which continues to this day, that Pharaoh would receive one fifth of the crops. Only the priests' land did not become Pharaoh's."
-      },
-      {
-        "n": 27,
-        "text": "Israel, Jacob, and his family lived in the land of Goshen in Egypt. They got many things and had a lot of babies, and later they became a big and powerful nation."
-      },
-      {
-        "n": 28,
-        "text": "Jacob lived in Egypt for 17 years. Jacob lived to be 147 years old."
-      },
-      {
-        "n": 29,
-        "text": "Jacob felt that the time was coming for Jacob to die. Jacob called his son Joseph and said to Joseph: Please do this for me — put your hand under my thigh as a sign of your promise, and promise to treat me with kindness and faithfulness. Please do not bury me in Egypt."
-      },
-      {
-        "n": 30,
-        "text": "When I die, you must take my body out of Egypt and you must bury me with my forefathers in the grave of my family."
-      },
-      {
-        "n": 31,
-        "text": "Jacob said: Promise me this. So Joseph promised. Then Israel — that is, Jacob — bowed in worship at the head of the bed."
-      }
+      { "n": 1, "text": "Then Joseph came and told Pharaoh, and said: My father and my brethren (brothers), and their flocks, and their herds, and all that they have, have come out of the land of Canaan. And look, they are in the land of Goshen." },
+      { "n": 2, "text": "And he took some of his brethren (brothers), even 5 men, and presented them to Pharaoh." },
+      { "n": 3, "text": "And Pharaoh said to his brethren (brothers): What is your occupation (work)? And they said to Pharaoh: Your servants are shepherds, both we, and also our fathers." },
+      { "n": 4, "text": "They said also to Pharaoh: We have come to sojourn (stay for a while) in the land, for your servants have no pasture (grassland) for their flocks, for the famine (time of no food) is sore (very bad) in the land of Canaan. Now then, we pray you, let your servants dwell (live) in the land of Goshen." },
+      { "n": 5, "text": "And Pharaoh spoke to Joseph, saying: Your father and your brethren (brothers) have come to you." },
+      { "n": 6, "text": "The land of Egypt is before you. In the best of the land make your father and brethren (brothers) to dwell (live). In the land of Goshen let them dwell (live). And if you know any men of activity (able men) among them, then make them rulers over my cattle (farm animals)." },
+      { "n": 7, "text": "And Joseph brought in Jacob his father, and set him before Pharaoh. And Jacob blessed Pharaoh." },
+      { "n": 8, "text": "And Pharaoh said to Jacob: How old are you?" },
+      { "n": 9, "text": "And Jacob said to Pharaoh: The days of the years of my pilgrimage (journey through life) are 130 years. Few and evil have the days of the years of my life been, and have not attained (reached) to the days of the years of the life of my fathers in the days of their pilgrimage (journey through life)." },
+      { "n": 10, "text": "And Jacob blessed Pharaoh, and went out from before Pharaoh." },
+      { "n": 11, "text": "And Joseph placed his father and his brethren (brothers), and gave them a possession (land to own) in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded." },
+      { "n": 12, "text": "And Joseph nourished (fed) his father, and his brethren (brothers), and all his father's household, with bread, according to their families." },
+      { "n": 13, "text": "And there was no bread in all the land, for the famine (time of no food) was very sore (very bad), so that the land of Egypt and all the land of Canaan fainted (grew weak) because of the famine (time of no food)." },
+      { "n": 14, "text": "And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn (grain) which they bought. And Joseph brought the money into Pharaoh's house." },
+      { "n": 15, "text": "And when money failed (ran out) in the land of Egypt, and in the land of Canaan, all the Egyptians came to Joseph, and said: Give us bread. For why should we die in your presence? For the money fails (has run out)." },
+      { "n": 16, "text": "And Joseph said: Give your cattle (farm animals), and I will give you food for your cattle (farm animals), if money fails (has run out)." },
+      { "n": 17, "text": "And they brought their cattle (farm animals) to Joseph. And Joseph gave them bread in exchange for horses, and for the flocks, and for the cattle (farm animals) of the herds, and for the asses (donkeys). And he fed them with bread for all their cattle (farm animals) for that year." },
+      { "n": 18, "text": "When that year was ended, they came to him the 2nd year, and said to him: We will not hide it from my lord, how our money is spent. My lord also has our herds of cattle (farm animals). There is not anything left in the sight of my lord, but our bodies, and our lands." },
+      { "n": 19, "text": "Why shall we die before your eyes, both we and our land? Buy us and our land for bread, and we and our land will be servants to Pharaoh. And give us seed, so that we may live, and not die, so that the land is not desolate (empty and ruined)." },
+      { "n": 20, "text": "And Joseph bought all the land of Egypt for Pharaoh, for the Egyptians sold every man his field, because the famine (time of no food) prevailed (was too strong) over them. So the land became Pharaoh's." },
+      { "n": 21, "text": "And as for the people, he removed them to cities from one end of the borders of Egypt even to the other end of it." },
+      { "n": 22, "text": "Only the land of the priests he did not buy, for the priests had a portion (share) given to them by Pharaoh, and did eat their portion (share) which Pharaoh gave them. So they did not sell their lands." },
+      { "n": 23, "text": "Then Joseph said to the people: Look, I have bought you this day and your land for Pharaoh. Look, here is seed for you, and you shall sow (plant) the land." },
+      { "n": 24, "text": "And it shall come to pass in the increase (harvest), that you shall give the 5th part to Pharaoh, and 4 parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones." },
+      { "n": 25, "text": "And they said: You have saved our lives. Let us find grace (favor) in the sight of my lord, and we will be Pharaoh's servants." },
+      { "n": 26, "text": "And Joseph made it a law over the land of Egypt to this day, that Pharaoh should have the 5th part, except the land of the priests only, which did not become Pharaoh's." },
+      { "n": 27, "text": "And Israel dwelt (lived) in the land of Egypt, in the country of Goshen. And they had possessions (land they owned) there, and grew, and multiplied exceedingly (very much)." },
+      { "n": 28, "text": "And Jacob lived in the land of Egypt 17 years. So the whole age of Jacob was 147 years." },
+      { "n": 29, "text": "And the time drew near that Israel must die. And he called his son Joseph, and said to him: If now I have found grace (favor) in your sight, put, I pray you, your hand under my thigh, and deal kindly and truly with me. Do not bury me, I pray you, in Egypt." },
+      { "n": 30, "text": "But I will lie with my fathers, and you shall carry me out of Egypt, and bury me in their buryingplace (grave). And Joseph said: I will do as you have said." },
+      { "n": 31, "text": "And Israel said: Swear (make a promise before God) to me. And Joseph swore to him. And Israel bowed himself on the bed's head." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genesis-chapter-47/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. V9 keeps the KJV's pilgrimage (journey through life). V31 keeps the KJV's Israel bowed himself on the bed's head.",
     "videos": []
   },
   "48": {
