@@ -1791,147 +1791,45 @@
   },
   "46": {
     "verses": [
-      {
-        "n": 1,
-        "text": "Jacob left Canaan with all his people and began his trip to Egypt. First Jacob went to Beersheba. There Jacob worshiped God, the God of his father Isaac. Jacob offered sacrifices"
-      },
-      {
-        "n": 2,
-        "text": "That night Jacob dreamed that God called him and said: Jacob. And Jacob answered: Here I am."
-      },
-      {
-        "n": 3,
-        "text": "God said: I am God, the God of your father Isaac. Go to the land of Egypt and do not be afraid. I will give you many family members in Egypt. They will become a big nation."
-      },
-      {
-        "n": 4,
-        "text": "I will go with you to Egypt and I will bring you back here later. When you die, Joseph will close your eyes."
-      },
-      {
-        "n": 5,
-        "text": "Jacob went away from Beersheba. Jacob's sons put Jacob, their small children, and their wives in the wagons which the king of Egypt had sent."
-      },
-      {
-        "n": 6,
-        "text": "Jacob and his family took their animals and everything that they had in Canaan. Jacob and all his family went to Egypt."
-      },
-      {
-        "n": 7,
-        "text": "Jacob took his family to Egypt, his sons, his grandsons, his daughters and his granddaughters."
-      },
-      {
-        "n": 8,
-        "text": "Here are the names of the sons of Israel — that is, Jacob's sons — who went to Egypt. There was Reuben, who was Jacob's oldest son"
-      },
-      {
-        "n": 9,
-        "text": "Reuben's sons were Hanok, Pallu, Hezron, and Karmi"
-      },
-      {
-        "n": 10,
-        "text": "Simeon's sons were Jemuel, Jamin, Ohad, Jakin, Zohar and Shaul. Shaul's mother was a woman from Canaan."
-      },
-      {
-        "n": 11,
-        "text": "Levi's sons were Gershon, Kohath and Merari."
-      },
-      {
-        "n": 12,
-        "text": "Judah's sons were Er, Onan, Shelah, Perez and Zerah. Er and Onan died in Canaan. Perez's sons were Hezron and Hamul."
-      },
-      {
-        "n": 13,
-        "text": "Issachar's sons were Tola, Puah, Jashub and Shimron."
-      },
-      {
-        "n": 14,
-        "text": "Zebulun's sons were Sered, Elon and Jahleel."
-      },
-      {
-        "n": 15,
-        "text": "These were the sons that Leah had for Jacob in Paddan-Aram. She also had a daughter. Her name was Dinah. There were 33 people in all."
-      },
-      {
-        "n": 16,
-        "text": "Gad's sons were Zephon, Haggi, Shuni, Ezbon, Eri, Arodi and Areli."
-      },
-      {
-        "n": 17,
-        "text": "Asher's sons were Imnah, Ishvah, Ishvi and Beriah. Their sister's name was Serah. Beria's sons were Heber and Malkiel."
-      },
-      {
-        "n": 18,
-        "text": "These were the sons of Zilpah, the servant girl whom Laban gave to his daughter Leah. There were 16 people in all."
-      },
-      {
-        "n": 19,
-        "text": "Jacob's wife Rachel had 2 sons. They were Joseph and Benjamin."
-      },
-      {
-        "n": 20,
-        "text": "Joseph married Asenath. She was the daughter of Potiphera, a priest from the town of On. She had 2 sons for Joseph in Egypt. They were Manasseh and Ephraim."
-      },
-      {
-        "n": 21,
-        "text": "Benjamin's sons were Bela, Beker, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim and Ard."
-      },
-      {
-        "n": 22,
-        "text": "These were the children that Rachel had for Jacob. There were 14 people in all."
-      },
-      {
-        "n": 23,
-        "text": "Dan had one son. His name was Hushim."
-      },
-      {
-        "n": 24,
-        "text": "Naphtali's sons were Jahziel, Guni, Jezer and Shillem."
-      },
-      {
-        "n": 25,
-        "text": "These were the sons of Bilhah, the servant girl that Laban gave to his daughter Rachel. There were 7 people in all."
-      },
-      {
-        "n": 26,
-        "text": "Of the children and grandchildren of Jacob who went to Egypt, there were 66 in all. The wives of Jacob's sons also went with them, but they did not count how many women there were."
-      },
-      {
-        "n": 27,
-        "text": "Joseph had another 2 sons who were born in Egypt. There were 70 people in Jacob's family who went to Egypt."
-      },
-      {
-        "n": 28,
-        "text": "Jacob sent Judah ahead to Joseph, to find out the way to the land of Goshen. Then the family went to the land of Goshen."
-      },
-      {
-        "n": 29,
-        "text": "Joseph told his servants to bring his chariot, and Joseph went to meet his father Jacob in Goshen. When Joseph saw his father, Joseph put his arms around Jacob and Joseph stood and cried with Jacob for a long time."
-      },
-      {
-        "n": 30,
-        "text": "Jacob said to Joseph: Now I am happy, and now I can die. I have seen you again and I see that you are still alive."
-      },
-      {
-        "n": 31,
-        "text": "Joseph said to his brothers and to his family: I will now tell Pharaoh that my brothers and my family who were in Canaan have come to me"
-      },
-      {
-        "n": 32,
-        "text": "My family are a family of shepherds. My family have always kept sheep and cattle. My family have brought all their animals and everything they own with them."
-      },
-      {
-        "n": 33,
-        "text": "When Pharaoh calls you and asks you what kind of work you do,"
-      },
-      {
-        "n": 34,
-        "text": "You must tell Pharaoh: We have taken care of livestock since we were young, just as our fathers did before us. Tell him this so that you may live in the land of Goshen, because shepherds are disgusting to the Egyptians."
-      }
+      { "n": 1, "text": "And Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices to the God of his father Isaac." },
+      { "n": 2, "text": "And God spoke to Israel in the visions of the night, and said: Jacob, Jacob. And he said: Here am I." },
+      { "n": 3, "text": "And He said: I am God, the God of your father. Fear not to go down into Egypt, for I will there make of you a great nation." },
+      { "n": 4, "text": "I will go down with you into Egypt, and I will also surely bring you up again. And Joseph shall put his hand on your eyes." },
+      { "n": 5, "text": "And Jacob rose up from Beersheba. And the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him." },
+      { "n": 6, "text": "And they took their cattle (farm animals), and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed (children) with him:" },
+      { "n": 7, "text": "His sons, and his sons' sons with him, his daughters, and his sons' daughters, and all his seed (children) he brought with him into Egypt." },
+      { "n": 8, "text": "And these are the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob's firstborn." },
+      { "n": 9, "text": "And the sons of Reuben: Hanoch, and Phallu, and Hezron, and Carmi." },
+      { "n": 10, "text": "And the sons of Simeon: Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish (Canaanite) woman." },
+      { "n": 11, "text": "And the sons of Levi: Gershon, Kohath, and Merari." },
+      { "n": 12, "text": "And the sons of Judah: Er, and Onan, and Shelah, and Pharez, and Zarah. But Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul." },
+      { "n": 13, "text": "And the sons of Issachar: Tola, and Phuvah, and Job, and Shimron." },
+      { "n": 14, "text": "And the sons of Zebulun: Sered, and Elon, and Jahleel." },
+      { "n": 15, "text": "These are the sons of Leah, which she bore to Jacob in Padanaram, with his daughter Dinah. All the souls (people) of his sons and his daughters were 33." },
+      { "n": 16, "text": "And the sons of Gad: Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli." },
+      { "n": 17, "text": "And the sons of Asher: Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister. And the sons of Beriah: Heber, and Malchiel." },
+      { "n": 18, "text": "These are the sons of Zilpah, whom Laban gave to Leah his daughter. And these she bore to Jacob, even 16 souls (people)." },
+      { "n": 19, "text": "The sons of Rachel Jacob's wife: Joseph, and Benjamin." },
+      { "n": 20, "text": "And to Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah priest of On bore to him." },
+      { "n": 21, "text": "And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard." },
+      { "n": 22, "text": "These are the sons of Rachel, which were born to Jacob. All the souls (people) were 14." },
+      { "n": 23, "text": "And the sons of Dan: Hushim." },
+      { "n": 24, "text": "And the sons of Naphtali: Jahzeel, and Guni, and Jezer, and Shillem." },
+      { "n": 25, "text": "These are the sons of Bilhah, which Laban gave to Rachel his daughter, and she bore these to Jacob. All the souls (people) were 7." },
+      { "n": 26, "text": "All the souls (people) that came with Jacob into Egypt, which came out of his loins (body), besides Jacob's sons' wives, all the souls (people) were 66." },
+      { "n": 27, "text": "And the sons of Joseph, which were born to him in Egypt, were 2 souls (people). All the souls (people) of the house of Jacob, which came into Egypt, were 70." },
+      { "n": 28, "text": "And he sent Judah before him to Joseph, to direct his face to Goshen (to show the way to Goshen). And they came into the land of Goshen." },
+      { "n": 29, "text": "And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself to him. And he fell on his neck, and wept on his neck a good while." },
+      { "n": 30, "text": "And Israel said to Joseph: Now let me die, since I have seen your face, because you are yet alive." },
+      { "n": 31, "text": "And Joseph said to his brethren (brothers), and to his father's house: I will go up, and show Pharaoh, and say to him: My brethren (brothers), and my father's house, which were in the land of Canaan, have come to me." },
+      { "n": 32, "text": "And the men are shepherds, for their trade has been to feed cattle (farm animals). And they have brought their flocks, and their herds, and all that they have." },
+      { "n": 33, "text": "And it shall come to pass, when Pharaoh shall call you, and shall say: What is your occupation (work)?" },
+      { "n": 34, "text": "That you shall say: Your servants' trade has been about cattle (farm animals) from our youth even until now, both we, and also our fathers. Say this so that you may dwell (live) in the land of Goshen, for every shepherd is an abomination (a hateful thing) to the Egyptians." }
     ],
     "sourceUrl": "https://kjvdeaf.com/genesis-chapter-46/",
     "status": "published",
     "generated": true,
-    "source": "Drafted from the public-domain King James Version, checked verse-by-verse against the Hebrew text (Strong's Concordance / Blue Letter Bible) for word accuracy, with pronouns replaced by the nouns they refer to and vocabulary chosen to match natural ASL signs.",
+    "source": "Rewritten 2026-11-22 fresh from the public-domain King James Version (the earlier text followed modern Bibles in places), checked against the Hebrew, at a simple, Deaf-friendly reading level with hard KJV words explained in parentheses. Names are spelled as the KJV has them (Phallu, Carmi, Jachin, Pharez, Zarah, Phuvah, Job, Ziphion, Jimnah, Ishuah, Isui, Malchiel, Belah, Becher, Jahzeel). V34 keeps the KJV's abomination (a hateful thing).",
     "videos": []
   },
   "47": {
